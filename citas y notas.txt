@@ -2,3 +2,23 @@
 Indice de correlación de Pearson no debe ser mayor a 0.85
 
 - En las matrices de correlación, la variable a predecir debe ir de último lugar en los ejes X y Y
+
+
+* 27 de Agosto de 2025
+
+escalado
+en un solo dataset todo el train y en un solo dataset todo el test
+
+por cada sitio
+par hacer el escalado, calcularlo sobre el train y aplicárselo al train y al test
+Después de eso hacer el ventaneo
+
+Entrenar los modelos base, sin estimación de parámetros
+
+Machine Learning
+ventana deslizante --> cuantos días anteriores conocer para hacer los del siguiente (de cuantos días hacer el ventaneo)
+generar dos opciones de ventaneo para cuadrar la ventana. Entre más grande el ventaneo mejor
+
+Llenar la ventana de entrada, en base a eso salen lo de salida
+
+Después del ventaneo vienen los modelos base
