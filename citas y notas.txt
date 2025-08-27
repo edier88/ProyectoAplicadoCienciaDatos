@@ -1,0 +1,4 @@
+- Multicolinealidad
+Indice de correlación de Pearson no debe ser mayor a 0.85
+
+- En las matrices de correlación, la variable a predecir debe ir de último lugar en los ejes X y Y

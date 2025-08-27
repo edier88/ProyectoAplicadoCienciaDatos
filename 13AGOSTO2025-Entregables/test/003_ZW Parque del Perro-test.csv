@@ -1,0 +1,757 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,003_ZW Parque del Perro,19,MR76,31,558191,"63,9",True,Festivo,Lunes,343.592,-7.654.555
+2024-01-01,URBANA,003_ZW Parque del Perro,19,MR76,26,279273,"31,9",True,Festivo,Lunes,343.592,-7.654.555
+2024-01-02,URBANA,003_ZW Parque del Perro,19,MR76,50,3197761,"379,8",False,Laboral,Martes,343.592,-7.654.555
+2024-01-02,URBANA,003_ZW Parque del Perro,19,MR76,42,2093425,"248,7",False,Laboral,Martes,343.592,-7.654.555
+2024-01-03,URBANA,003_ZW Parque del Perro,19,MR76,53,4497857,"371,2",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-03,URBANA,003_ZW Parque del Perro,19,MR76,56,2164821,"178,6",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-04,URBANA,003_ZW Parque del Perro,19,MR76,56,2372590,"224,6",False,Laboral,Jueves,343.592,-7.654.555
+2024-01-04,URBANA,003_ZW Parque del Perro,19,MR76,59,1875530,"177,5",False,Laboral,Jueves,343.592,-7.654.555
+2024-01-05,URBANA,003_ZW Parque del Perro,19,MR76,61,5004855,"461,7",False,Laboral,Viernes,343.592,-7.654.555
+2024-01-05,URBANA,003_ZW Parque del Perro,19,MR76,82,8023479,"740,1",False,Laboral,Viernes,343.592,-7.654.555
+2024-01-06,URBANA,003_ZW Parque del Perro,19,MR76,86,1027866,134,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-06,URBANA,003_ZW Parque del Perro,19,MR76,78,316052,"41,2",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-07,URBANA,003_ZW Parque del Perro,19,MR76,69,14435,"1,4",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-07,URBANA,003_ZW Parque del Perro,19,MR76,74,30718,"3,1",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-08,URBANA,003_ZW Parque del Perro,19,MR76,67,3583359,"227,3",True,Festivo,Lunes,343.592,-7.654.555
+2024-01-08,URBANA,003_ZW Parque del Perro,19,MR76,65,2261991,"143,5",True,Festivo,Lunes,343.592,-7.654.555
+2024-01-09,URBANA,003_ZW Parque del Perro,19,MR76,48,858841,"66,3",False,Laboral,Martes,343.592,-7.654.555
+2024-01-09,URBANA,003_ZW Parque del Perro,19,MR76,50,2573913,"198,6",False,Laboral,Martes,343.592,-7.654.555
+2024-01-10,URBANA,003_ZW Parque del Perro,19,MR76,58,3032368,"251,4",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-10,URBANA,003_ZW Parque del Perro,19,MR76,48,1000566,"82,9",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-11,URBANA,003_ZW Parque del Perro,19,MR76,55,4167929,"387,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-01-11,URBANA,003_ZW Parque del Perro,19,MR76,58,3257014,"302,7",False,Laboral,Jueves,343.592,-7.654.555
+2024-01-12,URBANA,003_ZW Parque del Perro,19,MR76,78,4152509,"357,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-01-12,URBANA,003_ZW Parque del Perro,19,MR76,64,4297890,370,False,Laboral,Viernes,343.592,-7.654.555
+2024-01-13,URBANA,003_ZW Parque del Perro,19,MR76,89,4462836,"495,7",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-13,URBANA,003_ZW Parque del Perro,19,MR76,96,2038365,"226,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-14,URBANA,003_ZW Parque del Perro,19,MR76,90,5450526,"688,7",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-14,URBANA,003_ZW Parque del Perro,19,MR76,82,979367,"123,8",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-15,URBANA,003_ZW Parque del Perro,19,MR76,74,481464,"69,6",False,Laboral,Lunes,343.592,-7.654.555
+2024-01-15,URBANA,003_ZW Parque del Perro,19,MR76,57,6511,"0,9",False,Laboral,Lunes,343.592,-7.654.555
+2024-01-16,URBANA,003_ZW Parque del Perro,19,MR76,76,53846,"6,3",False,Laboral,Martes,343.592,-7.654.555
+2024-01-16,URBANA,003_ZW Parque del Perro,19,MR76,54,6185,"0,7",False,Laboral,Martes,343.592,-7.654.555
+2024-01-17,URBANA,003_ZW Parque del Perro,19,MR76,55,9876,1,False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-17,URBANA,003_ZW Parque del Perro,19,MR76,49,4169,"0,4",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-18,URBANA,003_ZW Parque del Perro,19,MR76,68,12214,1,False,Laboral,Jueves,343.592,-7.654.555
+2024-01-18,URBANA,003_ZW Parque del Perro,19,MR76,47,14531,"1,2",False,Laboral,Jueves,343.592,-7.654.555
+2024-01-19,URBANA,003_ZW Parque del Perro,19,MR76,77,9963,"0,6",False,Laboral,Viernes,343.592,-7.654.555
+2024-01-19,URBANA,003_ZW Parque del Perro,19,MR76,74,6686,"0,4",False,Laboral,Viernes,343.592,-7.654.555
+2024-01-20,URBANA,003_ZW Parque del Perro,19,MR76,81,11581,"0,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-20,URBANA,003_ZW Parque del Perro,19,MR76,78,17775,"1,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-21,URBANA,003_ZW Parque del Perro,19,MR76,81,11666,"0,9",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-21,URBANA,003_ZW Parque del Perro,19,MR76,73,8971,"0,7",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-22,URBANA,003_ZW Parque del Perro,19,MR76,60,3755,"0,4",False,Laboral,Lunes,343.592,-7.654.555
+2024-01-22,URBANA,003_ZW Parque del Perro,19,MR76,58,12783,"1,2",False,Laboral,Lunes,343.592,-7.654.555
+2024-01-23,URBANA,003_ZW Parque del Perro,19,MR76,54,9557,"0,9",False,Laboral,Martes,343.592,-7.654.555
+2024-01-23,URBANA,003_ZW Parque del Perro,19,MR76,35,3334,"0,3",False,Laboral,Martes,343.592,-7.654.555
+2024-01-24,URBANA,003_ZW Parque del Perro,19,MR76,42,60841,"4,9",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-24,URBANA,003_ZW Parque del Perro,19,MR76,64,346198,"27,7",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-25,URBANA,003_ZW Parque del Perro,19,MR76,59,5816,"0,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-01-25,URBANA,003_ZW Parque del Perro,19,MR76,59,4741,"0,3",False,Laboral,Jueves,343.592,-7.654.555
+2024-01-26,URBANA,003_ZW Parque del Perro,19,MR76,76,7268,"0,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-01-26,URBANA,003_ZW Parque del Perro,19,MR76,53,2746,"0,2",False,Laboral,Viernes,343.592,-7.654.555
+2024-01-27,URBANA,003_ZW Parque del Perro,19,MR76,106,12146,1,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-27,URBANA,003_ZW Parque del Perro,19,MR76,89,126160,"10,2",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-01-28,URBANA,003_ZW Parque del Perro,19,MR76,96,41443,4,False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-28,URBANA,003_ZW Parque del Perro,19,MR76,89,16572,"1,6",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-01-29,URBANA,003_ZW Parque del Perro,19,MR76,59,5763856,"495,2",False,Laboral,Lunes,343.592,-7.654.555
+2024-01-29,URBANA,003_ZW Parque del Perro,19,MR76,50,1135658,"97,6",False,Laboral,Lunes,343.592,-7.654.555
+2024-01-30,URBANA,003_ZW Parque del Perro,19,MR76,54,4722065,"521,7",False,Laboral,Martes,343.592,-7.654.555
+2024-01-30,URBANA,003_ZW Parque del Perro,19,MR76,54,421249,"46,5",False,Laboral,Martes,343.592,-7.654.555
+2024-01-31,URBANA,003_ZW Parque del Perro,19,MR76,48,5945847,"569,3",False,Laboral,Miércoles,343.592,-7.654.555
+2024-01-31,URBANA,003_ZW Parque del Perro,19,MR76,46,99135,"9,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-01,URBANA,003_ZW Parque del Perro,19,MR76,58,3207092,"230,6",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-01,URBANA,003_ZW Parque del Perro,19,MR76,57,888254,"63,9",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-02,URBANA,003_ZW Parque del Perro,19,MR76,59,2831632,"296,4",False,Laboral,Viernes,343.592,-7.654.555
+2024-02-02,URBANA,003_ZW Parque del Perro,19,MR76,57,4378097,"458,3",False,Laboral,Viernes,343.592,-7.654.555
+2024-02-03,URBANA,003_ZW Parque del Perro,19,MR76,58,2660509,"149,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-03,URBANA,003_ZW Parque del Perro,19,MR76,63,829025,"46,7",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-04,URBANA,003_ZW Parque del Perro,19,MR76,69,1251262,"78,2",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-04,URBANA,003_ZW Parque del Perro,19,MR76,71,1756162,"109,8",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-05,URBANA,003_ZW Parque del Perro,19,MR76,37,1126151,"74,8",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-05,URBANA,003_ZW Parque del Perro,19,MR76,40,1447097,"96,1",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-06,URBANA,003_ZW Parque del Perro,19,MR76,37,582117,39,False,Laboral,Martes,343.592,-7.654.555
+2024-02-06,URBANA,003_ZW Parque del Perro,19,MR76,33,493960,"33,1",False,Laboral,Martes,343.592,-7.654.555
+2024-02-07,URBANA,003_ZW Parque del Perro,19,MR76,50,12463545,755,False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-07,URBANA,003_ZW Parque del Perro,19,MR76,54,6513300,"394,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-08,URBANA,003_ZW Parque del Perro,19,MR76,40,748958,"55,1",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-08,URBANA,003_ZW Parque del Perro,19,MR76,56,197668,"14,5",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-09,URBANA,003_ZW Parque del Perro,19,MR76,59,1280718,"106,4",False,Laboral,Viernes,343.592,-7.654.555
+2024-02-09,URBANA,003_ZW Parque del Perro,19,MR76,63,456302,"37,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-02-10,URBANA,003_ZW Parque del Perro,19,MR76,72,1827200,"114,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-10,URBANA,003_ZW Parque del Perro,19,MR76,74,412076,"25,8",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-11,URBANA,003_ZW Parque del Perro,19,MR76,83,136038,"10,1",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-11,URBANA,003_ZW Parque del Perro,19,MR76,94,269990,"20,1",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-12,URBANA,003_ZW Parque del Perro,19,MR76,54,5988,"0,6",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-12,URBANA,003_ZW Parque del Perro,19,MR76,54,9225,"0,9",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-13,URBANA,003_ZW Parque del Perro,19,MR76,51,6296,"0,7",False,Laboral,Martes,343.592,-7.654.555
+2024-02-13,URBANA,003_ZW Parque del Perro,19,MR76,55,10080,"1,2",False,Laboral,Martes,343.592,-7.654.555
+2024-02-14,URBANA,003_ZW Parque del Perro,19,MR76,50,996227,"131,9",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-14,URBANA,003_ZW Parque del Perro,19,MR76,51,413144,"54,7",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-15,URBANA,003_ZW Parque del Perro,19,MR76,54,4702745,"402,7",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-15,URBANA,003_ZW Parque del Perro,19,MR76,49,2122337,"181,7",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-16,URBANA,003_ZW Parque del Perro,19,MR76,59,1722755,"163,4",False,Laboral,Viernes,343.592,-7.654.555
+2024-02-16,URBANA,003_ZW Parque del Perro,19,MR76,54,2095701,"198,8",False,Laboral,Viernes,343.592,-7.654.555
+2024-02-17,URBANA,003_ZW Parque del Perro,19,MR76,67,1084596,"102,6",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-17,URBANA,003_ZW Parque del Perro,19,MR76,86,1368531,"129,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-18,URBANA,003_ZW Parque del Perro,19,MR76,62,1157028,"89,4",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-18,URBANA,003_ZW Parque del Perro,19,MR76,85,4386702,"338,9",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-19,URBANA,003_ZW Parque del Perro,19,MR76,46,694691,"47,4",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-19,URBANA,003_ZW Parque del Perro,19,MR76,49,417962,"28,5",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-20,URBANA,003_ZW Parque del Perro,19,MR76,41,325934,"26,7",False,Laboral,Martes,343.592,-7.654.555
+2024-02-20,URBANA,003_ZW Parque del Perro,19,MR76,50,257144,"21,1",False,Laboral,Martes,343.592,-7.654.555
+2024-02-21,URBANA,003_ZW Parque del Perro,19,MR76,41,384910,"33,4",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-21,URBANA,003_ZW Parque del Perro,19,MR76,54,238728,"20,7",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-22,URBANA,003_ZW Parque del Perro,19,MR76,34,730329,"47,7",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-22,URBANA,003_ZW Parque del Perro,19,MR76,59,304703,"19,9",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-23,URBANA,003_ZW Parque del Perro,19,MR76,64,287578,"20,2",False,Laboral,Viernes,343.592,-7.654.555
+2024-02-23,URBANA,003_ZW Parque del Perro,19,MR76,75,540698,38,False,Laboral,Viernes,343.592,-7.654.555
+2024-02-24,URBANA,003_ZW Parque del Perro,19,MR76,75,550705,"43,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-24,URBANA,003_ZW Parque del Perro,19,MR76,107,212455,"16,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-02-25,URBANA,003_ZW Parque del Perro,19,MR76,77,10535,"0,6",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-25,URBANA,003_ZW Parque del Perro,19,MR76,95,7075,"0,4",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-02-26,URBANA,003_ZW Parque del Perro,19,MR76,61,81096,"7,3",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-26,URBANA,003_ZW Parque del Perro,19,MR76,58,5129,"0,5",False,Laboral,Lunes,343.592,-7.654.555
+2024-02-27,URBANA,003_ZW Parque del Perro,19,MR76,41,6360,"0,5",False,Laboral,Martes,343.592,-7.654.555
+2024-02-27,URBANA,003_ZW Parque del Perro,19,MR76,33,3631,"0,3",False,Laboral,Martes,343.592,-7.654.555
+2024-02-28,URBANA,003_ZW Parque del Perro,19,MR76,46,4139,"0,2",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-28,URBANA,003_ZW Parque del Perro,19,MR76,63,7848,"0,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-02-29,URBANA,003_ZW Parque del Perro,19,MR76,49,3170,"0,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-02-29,URBANA,003_ZW Parque del Perro,19,MR76,33,24331,"3,1",False,Laboral,Jueves,343.592,-7.654.555
+2024-03-01,URBANA,003_ZW Parque del Perro,19,MR76,55,11359,"0,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-01,URBANA,003_ZW Parque del Perro,19,MR76,49,4726,"0,4",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-02,URBANA,003_ZW Parque del Perro,19,MR76,76,7228,"0,7",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-02,URBANA,003_ZW Parque del Perro,19,MR76,73,5892,"0,6",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-03,URBANA,003_ZW Parque del Perro,19,MR76,72,14311,1,False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-03-03,URBANA,003_ZW Parque del Perro,19,MR76,67,68641,"4,9",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-03-04,URBANA,003_ZW Parque del Perro,19,MR76,48,3707,"0,3",False,Laboral,Lunes,343.592,-7.654.555
+2024-03-04,URBANA,003_ZW Parque del Perro,19,MR76,37,2258,"0,2",False,Laboral,Lunes,343.592,-7.654.555
+2024-03-05,URBANA,003_ZW Parque del Perro,19,MR76,54,7685,"0,6",False,Laboral,Martes,343.592,-7.654.555
+2024-03-05,URBANA,003_ZW Parque del Perro,19,MR76,43,2671,"0,2",False,Laboral,Martes,343.592,-7.654.555
+2024-03-06,URBANA,003_ZW Parque del Perro,19,MR76,44,2557,"0,2",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-06,URBANA,003_ZW Parque del Perro,19,MR76,36,445284,"36,8",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-07,URBANA,003_ZW Parque del Perro,19,MR76,44,4892,"0,5",False,Laboral,Jueves,343.592,-7.654.555
+2024-03-07,URBANA,003_ZW Parque del Perro,19,MR76,43,4033,"0,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-03-08,URBANA,003_ZW Parque del Perro,19,MR76,82,15919,"1,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-08,URBANA,003_ZW Parque del Perro,19,MR76,40,9129,"0,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-09,URBANA,003_ZW Parque del Perro,19,MR76,92,5135,"0,5",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-09,URBANA,003_ZW Parque del Perro,19,MR76,70,4877,"0,5",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-10,URBANA,003_ZW Parque del Perro,19,MR76,52,4149,"0,4",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-03-10,URBANA,003_ZW Parque del Perro,19,MR76,56,4608,"0,5",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-03-11,URBANA,003_ZW Parque del Perro,19,MR76,49,67608,"7,2",False,Laboral,Lunes,343.592,-7.654.555
+2024-03-11,URBANA,003_ZW Parque del Perro,19,MR76,29,98352,"10,5",False,Laboral,Lunes,343.592,-7.654.555
+2024-03-12,URBANA,003_ZW Parque del Perro,19,MR76,42,8396,1,False,Laboral,Martes,343.592,-7.654.555
+2024-03-12,URBANA,003_ZW Parque del Perro,19,MR76,38,3689,"0,4",False,Laboral,Martes,343.592,-7.654.555
+2024-03-13,URBANA,003_ZW Parque del Perro,19,MR76,52,20093,"2,7",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-13,URBANA,003_ZW Parque del Perro,19,MR76,39,127841,"17,3",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-14,URBANA,003_ZW Parque del Perro,19,MR76,53,3016,"0,3",False,Laboral,Jueves,343.592,-7.654.555
+2024-03-14,URBANA,003_ZW Parque del Perro,19,MR76,46,7060,"0,7",False,Laboral,Jueves,343.592,-7.654.555
+2024-03-15,URBANA,003_ZW Parque del Perro,19,MR76,69,511397,"39,3",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-15,URBANA,003_ZW Parque del Perro,19,MR76,49,9315,"0,7",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-16,URBANA,003_ZW Parque del Perro,19,MR76,91,11456,1,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-16,URBANA,003_ZW Parque del Perro,19,MR76,61,212785,"18,8",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-17,URBANA,003_ZW Parque del Perro,19,MR76,65,1018185,"78,6",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-03-17,URBANA,003_ZW Parque del Perro,19,MR76,52,1493094,"115,3",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-03-18,URBANA,003_ZW Parque del Perro,19,MR76,52,507310,"42,3",False,Laboral,Lunes,343.592,-7.654.555
+2024-03-18,URBANA,003_ZW Parque del Perro,19,MR76,33,619134,"51,6",False,Laboral,Lunes,343.592,-7.654.555
+2024-03-19,URBANA,003_ZW Parque del Perro,19,MR76,41,605577,"80,3",False,Laboral,Martes,343.592,-7.654.555
+2024-03-19,URBANA,003_ZW Parque del Perro,19,MR76,34,919173,122,False,Laboral,Martes,343.592,-7.654.555
+2024-03-20,URBANA,003_ZW Parque del Perro,19,MR76,39,866814,"132,2",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-20,URBANA,003_ZW Parque del Perro,19,MR76,42,845229,"128,9",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-21,URBANA,003_ZW Parque del Perro,19,MR76,40,3060100,"350,5",False,Laboral,Jueves,343.592,-7.654.555
+2024-03-21,URBANA,003_ZW Parque del Perro,19,MR76,46,1213162,"138,9",False,Laboral,Jueves,343.592,-7.654.555
+2024-03-22,URBANA,003_ZW Parque del Perro,19,MR76,64,1349208,"138,3",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-22,URBANA,003_ZW Parque del Perro,19,MR76,57,835618,"85,7",False,Laboral,Viernes,343.592,-7.654.555
+2024-03-23,URBANA,003_ZW Parque del Perro,19,MR76,66,28797,"3,7",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-23,URBANA,003_ZW Parque del Perro,19,MR76,53,1041359,"133,5",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-24,URBANA,003_ZW Parque del Perro,19,MR76,61,953950,"104,9",True,Festivo,Domingo,343.592,-7.654.555
+2024-03-24,URBANA,003_ZW Parque del Perro,19,MR76,69,2261131,"248,6",True,Festivo,Domingo,343.592,-7.654.555
+2024-03-25,URBANA,003_ZW Parque del Perro,19,MR76,47,6004,"0,9",True,Festivo,Lunes,343.592,-7.654.555
+2024-03-25,URBANA,003_ZW Parque del Perro,19,MR76,57,8992,"1,3",True,Festivo,Lunes,343.592,-7.654.555
+2024-03-26,URBANA,003_ZW Parque del Perro,19,MR76,49,6207,"0,8",False,Laboral,Martes,343.592,-7.654.555
+2024-03-26,URBANA,003_ZW Parque del Perro,19,MR76,60,12373,"1,6",False,Laboral,Martes,343.592,-7.654.555
+2024-03-27,URBANA,003_ZW Parque del Perro,19,MR76,52,8842,"1,1",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-27,URBANA,003_ZW Parque del Perro,19,MR76,56,3774,"0,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-03-28,URBANA,003_ZW Parque del Perro,19,MR76,58,5065,"0,8",True,Festivo,Jueves,343.592,-7.654.555
+2024-03-28,URBANA,003_ZW Parque del Perro,19,MR76,47,6503,1,True,Festivo,Jueves,343.592,-7.654.555
+2024-03-29,URBANA,003_ZW Parque del Perro,19,MR76,64,12939,"1,3",True,Festivo,Viernes,343.592,-7.654.555
+2024-03-29,URBANA,003_ZW Parque del Perro,19,MR76,43,3005,"0,3",True,Festivo,Viernes,343.592,-7.654.555
+2024-03-30,URBANA,003_ZW Parque del Perro,19,MR76,52,4200,"0,7",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-30,URBANA,003_ZW Parque del Perro,19,MR76,61,12804,"2,1",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-03-31,URBANA,003_ZW Parque del Perro,19,MR76,63,7404,1,True,Festivo,Domingo,343.592,-7.654.555
+2024-03-31,URBANA,003_ZW Parque del Perro,19,MR76,73,10873,"1,4",True,Festivo,Domingo,343.592,-7.654.555
+2024-04-01,URBANA,003_ZW Parque del Perro,19,MR76,48,3866,"0,4",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-01,URBANA,003_ZW Parque del Perro,19,MR76,51,6852,"0,7",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-02,URBANA,003_ZW Parque del Perro,19,MR76,31,4301,"0,6",False,Laboral,Martes,343.592,-7.654.555
+2024-04-02,URBANA,003_ZW Parque del Perro,19,MR76,38,1704,"0,2",False,Laboral,Martes,343.592,-7.654.555
+2024-04-03,URBANA,003_ZW Parque del Perro,19,MR76,39,1822,"0,2",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-03,URBANA,003_ZW Parque del Perro,19,MR76,43,3179,"0,4",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-04,URBANA,003_ZW Parque del Perro,19,MR76,58,4479,"0,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-04-04,URBANA,003_ZW Parque del Perro,19,MR76,60,10496,"0,9",False,Laboral,Jueves,343.592,-7.654.555
+2024-04-05,URBANA,003_ZW Parque del Perro,19,MR76,43,9629,"0,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-04-05,URBANA,003_ZW Parque del Perro,19,MR76,65,6485,"0,6",False,Laboral,Viernes,343.592,-7.654.555
+2024-04-06,URBANA,003_ZW Parque del Perro,19,MR76,83,6490,"0,5",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-06,URBANA,003_ZW Parque del Perro,19,MR76,76,6721,"0,6",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-07,URBANA,003_ZW Parque del Perro,19,MR76,73,5568,"0,5",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-07,URBANA,003_ZW Parque del Perro,19,MR76,85,9689,"0,8",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-08,URBANA,003_ZW Parque del Perro,19,MR76,40,8513,"1,2",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-08,URBANA,003_ZW Parque del Perro,19,MR76,52,3670,"0,5",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-09,URBANA,003_ZW Parque del Perro,19,MR76,49,4793,"0,6",False,Laboral,Martes,343.592,-7.654.555
+2024-04-09,URBANA,003_ZW Parque del Perro,19,MR76,36,4394,"0,6",False,Laboral,Martes,343.592,-7.654.555
+2024-04-10,URBANA,003_ZW Parque del Perro,19,MR76,41,3413,"0,8",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-10,URBANA,003_ZW Parque del Perro,19,MR76,40,2408,"0,6",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-11,URBANA,003_ZW Parque del Perro,19,MR76,42,4519,1,False,Laboral,Jueves,343.592,-7.654.555
+2024-04-11,URBANA,003_ZW Parque del Perro,19,MR76,51,4539,1,False,Laboral,Jueves,343.592,-7.654.555
+2024-04-12,URBANA,003_ZW Parque del Perro,19,MR76,65,7466,"1,1",False,Laboral,Viernes,343.592,-7.654.555
+2024-04-12,URBANA,003_ZW Parque del Perro,19,MR76,78,6751,1,False,Laboral,Viernes,343.592,-7.654.555
+2024-04-13,URBANA,003_ZW Parque del Perro,19,MR76,66,6600,"0,8",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-13,URBANA,003_ZW Parque del Perro,19,MR76,77,5192,"0,6",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-14,URBANA,003_ZW Parque del Perro,19,MR76,53,10848,"1,6",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-14,URBANA,003_ZW Parque del Perro,19,MR76,87,15955,"2,3",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-15,URBANA,003_ZW Parque del Perro,19,MR76,47,64722,"16,2",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-15,URBANA,003_ZW Parque del Perro,19,MR76,52,3742,"0,9",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-16,URBANA,003_ZW Parque del Perro,19,MR76,36,4073,1,False,Laboral,Martes,343.592,-7.654.555
+2024-04-16,URBANA,003_ZW Parque del Perro,19,MR76,30,2348,"0,6",False,Laboral,Martes,343.592,-7.654.555
+2024-04-17,URBANA,003_ZW Parque del Perro,19,MR76,43,5833,"1,6",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-17,URBANA,003_ZW Parque del Perro,19,MR76,36,4084,"1,1",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-18,URBANA,003_ZW Parque del Perro,19,MR76,49,4035,"1,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-04-18,URBANA,003_ZW Parque del Perro,19,MR76,46,4057,"1,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-04-19,URBANA,003_ZW Parque del Perro,19,MR76,47,5448,"1,3",False,Laboral,Viernes,343.592,-7.654.555
+2024-04-19,URBANA,003_ZW Parque del Perro,19,MR76,30,2174,"0,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-04-20,URBANA,003_ZW Parque del Perro,19,MR76,69,14088,"1,8",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-20,URBANA,003_ZW Parque del Perro,19,MR76,78,8220,"1,1",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-21,URBANA,003_ZW Parque del Perro,19,MR76,92,11743,"1,9",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-21,URBANA,003_ZW Parque del Perro,19,MR76,64,4524,"0,7",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-22,URBANA,003_ZW Parque del Perro,19,MR76,39,5866,"1,3",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-22,URBANA,003_ZW Parque del Perro,19,MR76,34,4311,"0,9",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-23,URBANA,003_ZW Parque del Perro,19,MR76,41,599263,"32,6",False,Laboral,Martes,343.592,-7.654.555
+2024-04-23,URBANA,003_ZW Parque del Perro,19,MR76,43,1330140,"72,5",False,Laboral,Martes,343.592,-7.654.555
+2024-04-24,URBANA,003_ZW Parque del Perro,19,MR76,34,176982,"9,6",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-24,URBANA,003_ZW Parque del Perro,19,MR76,30,748738,"40,8",False,Laboral,Miércoles,343.592,-7.654.555
+2024-04-25,URBANA,003_ZW Parque del Perro,19,MR76,49,1425839,"120,2",False,Laboral,Jueves,343.592,-7.654.555
+2024-04-25,URBANA,003_ZW Parque del Perro,19,MR76,36,1779989,150,False,Laboral,Jueves,343.592,-7.654.555
+2024-04-26,URBANA,003_ZW Parque del Perro,19,MR76,51,231780,"23,1",False,Laboral,Viernes,343.592,-7.654.555
+2024-04-26,URBANA,003_ZW Parque del Perro,19,MR76,41,2530235,"252,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-04-27,URBANA,003_ZW Parque del Perro,19,MR76,56,598572,"49,1",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-27,URBANA,003_ZW Parque del Perro,19,MR76,58,1138852,"93,3",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-04-28,URBANA,003_ZW Parque del Perro,19,MR76,53,1270019,"171,9",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-28,URBANA,003_ZW Parque del Perro,19,MR76,37,1095449,"148,3",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-04-29,URBANA,003_ZW Parque del Perro,19,MR76,44,572925,"71,6",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-29,URBANA,003_ZW Parque del Perro,19,MR76,32,307423,"38,4",False,Laboral,Lunes,343.592,-7.654.555
+2024-04-30,URBANA,003_ZW Parque del Perro,19,MR76,78,844664,"134,1",False,Laboral,Martes,343.592,-7.654.555
+2024-04-30,URBANA,003_ZW Parque del Perro,19,MR76,62,2025994,"321,6",False,Laboral,Martes,343.592,-7.654.555
+2024-05-01,URBANA,003_ZW Parque del Perro,19,MR76,93,4786,"0,9",True,Festivo,Miércoles,343.592,-7.654.555
+2024-05-01,URBANA,003_ZW Parque del Perro,19,MR76,94,457344,87,True,Festivo,Miércoles,343.592,-7.654.555
+2024-05-02,URBANA,003_ZW Parque del Perro,19,MR76,59,4889,1,False,Laboral,Jueves,343.592,-7.654.555
+2024-05-02,URBANA,003_ZW Parque del Perro,19,MR76,55,6288,"1,2",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-03,URBANA,003_ZW Parque del Perro,19,MR76,58,4696,1,False,Laboral,Viernes,343.592,-7.654.555
+2024-05-03,URBANA,003_ZW Parque del Perro,19,MR76,52,4544,1,False,Laboral,Viernes,343.592,-7.654.555
+2024-05-04,URBANA,003_ZW Parque del Perro,19,MR76,103,9705,"1,3",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-04,URBANA,003_ZW Parque del Perro,19,MR76,89,6796,"0,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-05,URBANA,003_ZW Parque del Perro,19,MR76,92,14568,"2,4",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-05,URBANA,003_ZW Parque del Perro,19,MR76,80,7415,"1,2",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-06,URBANA,003_ZW Parque del Perro,19,MR76,55,16158,"3,4",False,Laboral,Lunes,343.592,-7.654.555
+2024-05-06,URBANA,003_ZW Parque del Perro,19,MR76,52,11962,"2,5",False,Laboral,Lunes,343.592,-7.654.555
+2024-05-07,URBANA,003_ZW Parque del Perro,19,MR76,50,3514,"0,6",False,Laboral,Martes,343.592,-7.654.555
+2024-05-07,URBANA,003_ZW Parque del Perro,19,MR76,42,1785,"0,3",False,Laboral,Martes,343.592,-7.654.555
+2024-05-08,URBANA,003_ZW Parque del Perro,19,MR76,41,808244,102,False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-08,URBANA,003_ZW Parque del Perro,19,MR76,47,1475087,"186,2",False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-09,URBANA,003_ZW Parque del Perro,19,MR76,42,637757,"72,4",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-09,URBANA,003_ZW Parque del Perro,19,MR76,35,1042341,"118,3",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-10,URBANA,003_ZW Parque del Perro,19,MR76,36,117445,"14,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-05-10,URBANA,003_ZW Parque del Perro,19,MR76,50,1608686,"203,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-05-11,URBANA,003_ZW Parque del Perro,19,MR76,82,1083075,"145,3",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-11,URBANA,003_ZW Parque del Perro,19,MR76,76,1388990,"186,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-12,URBANA,003_ZW Parque del Perro,19,MR76,71,506032,"122,7",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-12,URBANA,003_ZW Parque del Perro,19,MR76,93,2654363,"643,5",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-13,URBANA,003_ZW Parque del Perro,19,MR76,62,4147934,"741,3",True,Festivo,Lunes,343.592,-7.654.555
+2024-05-13,URBANA,003_ZW Parque del Perro,19,MR76,74,3063869,"547,5",True,Festivo,Lunes,343.592,-7.654.555
+2024-05-14,URBANA,003_ZW Parque del Perro,19,MR76,28,780578,360,False,Laboral,Martes,343.592,-7.654.555
+2024-05-14,URBANA,003_ZW Parque del Perro,19,MR76,34,250371,"115,5",False,Laboral,Martes,343.592,-7.654.555
+2024-05-15,URBANA,003_ZW Parque del Perro,19,MR76,36,3152271,"510,1",False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-15,URBANA,003_ZW Parque del Perro,19,MR76,48,2058359,"333,1",False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-16,URBANA,003_ZW Parque del Perro,19,MR76,47,1056598,"129,5",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-16,URBANA,003_ZW Parque del Perro,19,MR76,52,2605260,"319,2",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-17,URBANA,003_ZW Parque del Perro,19,MR76,49,2173740,"209,1",False,Laboral,Viernes,343.592,-7.654.555
+2024-05-17,URBANA,003_ZW Parque del Perro,19,MR76,58,4018035,"386,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-05-18,URBANA,003_ZW Parque del Perro,19,MR76,62,1274120,"116,1",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-18,URBANA,003_ZW Parque del Perro,19,MR76,56,491931,"44,8",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-19,URBANA,003_ZW Parque del Perro,19,MR76,70,2305524,"197,2",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-19,URBANA,003_ZW Parque del Perro,19,MR76,75,2183414,"186,7",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-20,URBANA,003_ZW Parque del Perro,19,MR76,37,346164,"49,2",False,Laboral,Lunes,343.592,-7.654.555
+2024-05-20,URBANA,003_ZW Parque del Perro,19,MR76,27,118046,"16,8",False,Laboral,Lunes,343.592,-7.654.555
+2024-05-21,URBANA,003_ZW Parque del Perro,19,MR76,39,486288,"62,6",False,Laboral,Martes,343.592,-7.654.555
+2024-05-21,URBANA,003_ZW Parque del Perro,19,MR76,41,1040221,"133,9",False,Laboral,Martes,343.592,-7.654.555
+2024-05-22,URBANA,003_ZW Parque del Perro,19,MR76,35,377254,"146,4",False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-22,URBANA,003_ZW Parque del Perro,19,MR76,41,1160380,"450,4",False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-23,URBANA,003_ZW Parque del Perro,19,MR76,40,245714,"46,3",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-23,URBANA,003_ZW Parque del Perro,19,MR76,42,533610,"100,5",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-24,URBANA,003_ZW Parque del Perro,19,MR76,62,1585787,336,False,Laboral,Viernes,343.592,-7.654.555
+2024-05-24,URBANA,003_ZW Parque del Perro,19,MR76,58,1576166,"333,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-05-25,URBANA,003_ZW Parque del Perro,19,MR76,72,1032863,145,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-25,URBANA,003_ZW Parque del Perro,19,MR76,72,1557948,"218,7",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-05-26,URBANA,003_ZW Parque del Perro,19,MR76,65,522402,"75,6",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-26,URBANA,003_ZW Parque del Perro,19,MR76,58,807121,"116,8",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-05-27,URBANA,003_ZW Parque del Perro,19,MR76,57,1658182,195,False,Laboral,Lunes,343.592,-7.654.555
+2024-05-27,URBANA,003_ZW Parque del Perro,19,MR76,57,2962939,"348,5",False,Laboral,Lunes,343.592,-7.654.555
+2024-05-28,URBANA,003_ZW Parque del Perro,19,MR76,57,2005886,"269,3",False,Laboral,Martes,343.592,-7.654.555
+2024-05-28,URBANA,003_ZW Parque del Perro,19,MR76,56,1511473,203,False,Laboral,Martes,343.592,-7.654.555
+2024-05-29,URBANA,003_ZW Parque del Perro,19,MR76,30,2566908,"513,2",False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-29,URBANA,003_ZW Parque del Perro,19,MR76,24,182807,"36,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-05-30,URBANA,003_ZW Parque del Perro,19,MR76,53,3623392,"302,8",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-30,URBANA,003_ZW Parque del Perro,19,MR76,74,753104,"62,9",False,Laboral,Jueves,343.592,-7.654.555
+2024-05-31,URBANA,003_ZW Parque del Perro,19,MR76,55,2234726,"240,4",False,Laboral,Viernes,343.592,-7.654.555
+2024-05-31,URBANA,003_ZW Parque del Perro,19,MR76,55,379306,"40,8",False,Laboral,Viernes,343.592,-7.654.555
+2024-06-01,URBANA,003_ZW Parque del Perro,19,MR76,94,12622,"1,3",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-01,URBANA,003_ZW Parque del Perro,19,MR76,105,11978,"1,2",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-02,URBANA,003_ZW Parque del Perro,19,MR76,77,9287,"0,9",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-02,URBANA,003_ZW Parque del Perro,19,MR76,94,9405,1,False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-03,URBANA,003_ZW Parque del Perro,19,MR76,56,5591,"0,8",True,Festivo,Lunes,343.592,-7.654.555
+2024-06-03,URBANA,003_ZW Parque del Perro,19,MR76,69,6965,1,True,Festivo,Lunes,343.592,-7.654.555
+2024-06-04,URBANA,003_ZW Parque del Perro,19,MR76,49,22571,5,False,Laboral,Martes,343.592,-7.654.555
+2024-06-04,URBANA,003_ZW Parque del Perro,19,MR76,52,6499,"1,4",False,Laboral,Martes,343.592,-7.654.555
+2024-06-05,URBANA,003_ZW Parque del Perro,19,MR76,44,7732,"2,7",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-05,URBANA,003_ZW Parque del Perro,19,MR76,39,2334,"0,8",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-06,URBANA,003_ZW Parque del Perro,19,MR76,56,7462,"1,2",False,Laboral,Jueves,343.592,-7.654.555
+2024-06-06,URBANA,003_ZW Parque del Perro,19,MR76,57,5636,"0,9",False,Laboral,Jueves,343.592,-7.654.555
+2024-06-07,URBANA,003_ZW Parque del Perro,19,MR76,59,5652,"1,2",False,Laboral,Viernes,343.592,-7.654.555
+2024-06-07,URBANA,003_ZW Parque del Perro,19,MR76,73,6591,"1,4",False,Laboral,Viernes,343.592,-7.654.555
+2024-06-08,URBANA,003_ZW Parque del Perro,19,MR76,71,15296,"4,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-08,URBANA,003_ZW Parque del Perro,19,MR76,86,12743,4,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-09,URBANA,003_ZW Parque del Perro,19,MR76,80,13368,"4,6",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-09,URBANA,003_ZW Parque del Perro,19,MR76,89,7145,"2,5",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-10,URBANA,003_ZW Parque del Perro,19,MR76,64,21141,"3,9",True,Festivo,Lunes,343.592,-7.654.555
+2024-06-10,URBANA,003_ZW Parque del Perro,19,MR76,77,13843,"2,5",True,Festivo,Lunes,343.592,-7.654.555
+2024-06-11,URBANA,003_ZW Parque del Perro,19,MR76,65,7103,"1,1",False,Laboral,Martes,343.592,-7.654.555
+2024-06-11,URBANA,003_ZW Parque del Perro,19,MR76,75,6914,"1,1",False,Laboral,Martes,343.592,-7.654.555
+2024-06-12,URBANA,003_ZW Parque del Perro,19,MR76,52,6470,"0,9",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-12,URBANA,003_ZW Parque del Perro,19,MR76,64,11193,"1,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-13,URBANA,003_ZW Parque del Perro,19,MR76,57,7856,15294800,False,Laboral,Jueves,343.592,-7.654.555
+2024-06-13,URBANA,003_ZW Parque del Perro,19,MR76,85,13773,268145700,False,Laboral,Jueves,343.592,-7.654.555
+2024-06-14,URBANA,003_ZW Parque del Perro,19,MR76,58,9530,286433900,False,Laboral,Viernes,343.592,-7.654.555
+2024-06-14,URBANA,003_ZW Parque del Perro,19,MR76,70,7989,240117600,False,Laboral,Viernes,343.592,-7.654.555
+2024-06-15,URBANA,003_ZW Parque del Perro,19,MR76,59,14429,2588600,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-15,URBANA,003_ZW Parque del Perro,19,MR76,57,6804,122065500,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-16,URBANA,003_ZW Parque del Perro,19,MR76,85,34396,616785700,False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-16,URBANA,003_ZW Parque del Perro,19,MR76,82,14710,263778300,False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-17,URBANA,003_ZW Parque del Perro,19,MR76,53,12526,2,False,Laboral,Lunes,343.592,-7.654.555
+2024-06-17,URBANA,003_ZW Parque del Perro,19,MR76,49,83797,"13,4",False,Laboral,Lunes,343.592,-7.654.555
+2024-06-18,URBANA,003_ZW Parque del Perro,19,MR76,54,6728,"1,1",False,Laboral,Martes,343.592,-7.654.555
+2024-06-18,URBANA,003_ZW Parque del Perro,19,MR76,55,73173,"11,6",False,Laboral,Martes,343.592,-7.654.555
+2024-06-19,URBANA,003_ZW Parque del Perro,19,MR76,36,114930,"16,3",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-19,URBANA,003_ZW Parque del Perro,19,MR76,48,34602,"4,9",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-20,URBANA,003_ZW Parque del Perro,19,MR76,63,730972,"146,3",False,Laboral,Jueves,343.592,-7.654.555
+2024-06-20,URBANA,003_ZW Parque del Perro,19,MR76,72,1326785,"265,6",False,Laboral,Jueves,343.592,-7.654.555
+2024-06-21,URBANA,003_ZW Parque del Perro,19,MR76,64,598679,"102,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-06-21,URBANA,003_ZW Parque del Perro,19,MR76,75,382102,"65,6",False,Laboral,Viernes,343.592,-7.654.555
+2024-06-22,URBANA,003_ZW Parque del Perro,19,MR76,106,1032777,"195,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-22,URBANA,003_ZW Parque del Perro,19,MR76,98,945929,179,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-23,URBANA,003_ZW Parque del Perro,19,MR76,76,1226466,"481,4",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-23,URBANA,003_ZW Parque del Perro,19,MR76,84,816305,"320,4",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-24,URBANA,003_ZW Parque del Perro,19,MR76,64,266386,51,False,Laboral,Lunes,343.592,-7.654.555
+2024-06-24,URBANA,003_ZW Parque del Perro,19,MR76,51,4446663,"851,6",False,Laboral,Lunes,343.592,-7.654.555
+2024-06-25,URBANA,003_ZW Parque del Perro,19,MR76,72,120897,30,False,Laboral,Martes,343.592,-7.654.555
+2024-06-25,URBANA,003_ZW Parque del Perro,19,MR76,65,1661109,"411,5",False,Laboral,Martes,343.592,-7.654.555
+2024-06-26,URBANA,003_ZW Parque del Perro,19,MR76,42,479597,"123,9",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-26,URBANA,003_ZW Parque del Perro,19,MR76,59,270005,"69,7",False,Laboral,Miércoles,343.592,-7.654.555
+2024-06-27,URBANA,003_ZW Parque del Perro,19,MR76,42,178951,"53,3",False,Laboral,Jueves,343.592,-7.654.555
+2024-06-27,URBANA,003_ZW Parque del Perro,19,MR76,40,39499,"11,8",False,Laboral,Jueves,343.592,-7.654.555
+2024-06-28,URBANA,003_ZW Parque del Perro,19,MR76,72,318425,"54,8",False,Laboral,Viernes,343.592,-7.654.555
+2024-06-28,URBANA,003_ZW Parque del Perro,19,MR76,88,72808,"12,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-06-29,URBANA,003_ZW Parque del Perro,19,MR76,93,604064,"102,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-29,URBANA,003_ZW Parque del Perro,19,MR76,93,527342,"89,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-06-30,URBANA,003_ZW Parque del Perro,19,MR76,82,4001,"0,9",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-06-30,URBANA,003_ZW Parque del Perro,19,MR76,88,11707,"2,5",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-01,URBANA,003_ZW Parque del Perro,19,MR76,98,21744,"3,02",True,Festivo,Lunes,343.592,-7.654.555
+2024-07-01,URBANA,003_ZW Parque del Perro,19,MR76,88,18568,"2,58",True,Festivo,Lunes,343.592,-7.654.555
+2024-07-02,URBANA,003_ZW Parque del Perro,19,MR76,77,11522,"1,24",False,Laboral,Martes,343.592,-7.654.555
+2024-07-02,URBANA,003_ZW Parque del Perro,19,MR76,68,236711,"25,5",False,Laboral,Martes,343.592,-7.654.555
+2024-07-03,URBANA,003_ZW Parque del Perro,19,MR76,63,4523,"0,54",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-03,URBANA,003_ZW Parque del Perro,19,MR76,49,3877,"0,46",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-04,URBANA,003_ZW Parque del Perro,19,MR76,84,4698,"0,59",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-04,URBANA,003_ZW Parque del Perro,19,MR76,63,8289,"1,04",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-05,URBANA,003_ZW Parque del Perro,19,MR76,68,733215,"86,06",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-05,URBANA,003_ZW Parque del Perro,19,MR76,57,700762,"82,25",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-06,URBANA,003_ZW Parque del Perro,19,MR76,101,922751,"109,62",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-07-06,URBANA,003_ZW Parque del Perro,19,MR76,89,554387,"65,86",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-07-07,URBANA,003_ZW Parque del Perro,19,MR76,118,1714746,"194,36",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-07,URBANA,003_ZW Parque del Perro,19,MR76,97,751189,"85,15",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-08,URBANA,003_ZW Parque del Perro,19,MR76,80,1777854,"319,99",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-08,URBANA,003_ZW Parque del Perro,19,MR76,77,2641071,"475,36",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-09,URBANA,003_ZW Parque del Perro,19,MR76,57,723029,"124,51",False,Laboral,Martes,343.592,-7.654.555
+2024-07-09,URBANA,003_ZW Parque del Perro,19,MR76,65,326345,"56,2",False,Laboral,Martes,343.592,-7.654.555
+2024-07-10,URBANA,003_ZW Parque del Perro,19,MR76,81,597864,"86,58",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-10,URBANA,003_ZW Parque del Perro,19,MR76,71,161937,"23,45",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-11,URBANA,003_ZW Parque del Perro,19,MR76,86,101232,"13,72",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-11,URBANA,003_ZW Parque del Perro,19,MR76,68,14061,"1,91",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-12,URBANA,003_ZW Parque del Perro,19,MR76,89,5154,"0,81",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-12,URBANA,003_ZW Parque del Perro,19,MR76,66,8783,"1,38",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-13,URBANA,003_ZW Parque del Perro,19,MR76,108,528002,"74,95",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-07-13,URBANA,003_ZW Parque del Perro,19,MR76,84,142725,"20,26",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-07-14,URBANA,003_ZW Parque del Perro,19,MR76,82,1051640,"165,38",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-14,URBANA,003_ZW Parque del Perro,19,MR76,68,523939,"82,39",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-15,URBANA,003_ZW Parque del Perro,19,MR76,91,544557,"97,42",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-15,URBANA,003_ZW Parque del Perro,19,MR76,63,444112,"79,45",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-16,URBANA,003_ZW Parque del Perro,19,MR76,65,1029396,"163,87",False,Laboral,Martes,343.592,-7.654.555
+2024-07-16,URBANA,003_ZW Parque del Perro,19,MR76,59,494277,"78,68",False,Laboral,Martes,343.592,-7.654.555
+2024-07-17,URBANA,003_ZW Parque del Perro,19,MR76,65,586019,"129,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-17,URBANA,003_ZW Parque del Perro,19,MR76,52,244022,"53,92",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-18,URBANA,003_ZW Parque del Perro,19,MR76,62,149488,"25,09",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-18,URBANA,003_ZW Parque del Perro,19,MR76,59,995508,"167,08",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-19,URBANA,003_ZW Parque del Perro,19,MR76,96,1314981,"183,23",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-19,URBANA,003_ZW Parque del Perro,19,MR76,83,2894920,"403,38",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-20,URBANA,003_ZW Parque del Perro,19,MR76,125,2091029,"268,48",True,Festivo,Sábado,343.592,-7.654.555
+2024-07-20,URBANA,003_ZW Parque del Perro,19,MR76,126,1557688,200,True,Festivo,Sábado,343.592,-7.654.555
+2024-07-21,URBANA,003_ZW Parque del Perro,19,MR76,100,2484276,"379,51",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-21,URBANA,003_ZW Parque del Perro,19,MR76,115,3975295,"607,28",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-22,URBANA,003_ZW Parque del Perro,19,MR76,57,697862,"100,41",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-22,URBANA,003_ZW Parque del Perro,19,MR76,64,1464585,"210,73",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-23,URBANA,003_ZW Parque del Perro,19,MR76,55,184546,"26,64",False,Laboral,Martes,343.592,-7.654.555
+2024-07-23,URBANA,003_ZW Parque del Perro,19,MR76,69,121797,"17,58",False,Laboral,Martes,343.592,-7.654.555
+2024-07-24,URBANA,003_ZW Parque del Perro,19,MR76,93,1813543,"286,91",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-24,URBANA,003_ZW Parque del Perro,19,MR76,77,139791,"22,12",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-25,URBANA,003_ZW Parque del Perro,19,MR76,103,7628,"1,21",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-25,URBANA,003_ZW Parque del Perro,19,MR76,74,11345,"1,79",False,Laboral,Jueves,343.592,-7.654.555
+2024-07-26,URBANA,003_ZW Parque del Perro,19,MR76,95,10491,"1,38",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-26,URBANA,003_ZW Parque del Perro,19,MR76,76,7883,"1,04",False,Laboral,Viernes,343.592,-7.654.555
+2024-07-27,URBANA,003_ZW Parque del Perro,19,MR76,112,10827,"1,85",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-07-27,URBANA,003_ZW Parque del Perro,19,MR76,89,10882,"1,86",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-07-28,URBANA,003_ZW Parque del Perro,19,MR76,113,16574,"3,51",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-28,URBANA,003_ZW Parque del Perro,19,MR76,93,18500,"3,91",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-07-29,URBANA,003_ZW Parque del Perro,19,MR76,86,11545,"1,85",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-29,URBANA,003_ZW Parque del Perro,19,MR76,55,9937,"1,59",False,Laboral,Lunes,343.592,-7.654.555
+2024-07-30,URBANA,003_ZW Parque del Perro,19,MR76,71,5540,"0,81",False,Laboral,Martes,343.592,-7.654.555
+2024-07-30,URBANA,003_ZW Parque del Perro,19,MR76,58,7245,"1,06",False,Laboral,Martes,343.592,-7.654.555
+2024-07-31,URBANA,003_ZW Parque del Perro,19,MR76,61,5070,"0,84",False,Laboral,Miércoles,343.592,-7.654.555
+2024-07-31,URBANA,003_ZW Parque del Perro,19,MR76,67,8813,"1,46",False,Laboral,Miércoles,343.592,-7.654.555
+2024-08-01,URBANA,003_ZW Parque del Perro,19,MR76,71,78010,"11,64",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-01,URBANA,003_ZW Parque del Perro,19,MR76,66,428249,"63,91",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-02,URBANA,003_ZW Parque del Perro,19,MR76,77,118172,"19,66",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-02,URBANA,003_ZW Parque del Perro,19,MR76,73,588814,"97,95",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-03,URBANA,003_ZW Parque del Perro,19,MR76,127,390439,"79,55",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-03,URBANA,003_ZW Parque del Perro,19,MR76,108,2070089,"421,78",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-04,URBANA,003_ZW Parque del Perro,19,MR76,116,570055,"90,89",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-04,URBANA,003_ZW Parque del Perro,19,MR76,103,2803500,"446,98",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-05,URBANA,003_ZW Parque del Perro,19,MR76,55,3686,"0,53",False,Laboral,Lunes,343.592,-7.654.555
+2024-08-05,URBANA,003_ZW Parque del Perro,19,MR76,50,3428,"0,5",False,Laboral,Lunes,343.592,-7.654.555
+2024-08-06,URBANA,003_ZW Parque del Perro,19,MR76,61,2559,"0,25",False,Laboral,Martes,343.592,-7.654.555
+2024-08-06,URBANA,003_ZW Parque del Perro,19,MR76,56,7681,"0,74",False,Laboral,Martes,343.592,-7.654.555
+2024-08-07,URBANA,003_ZW Parque del Perro,19,MR76,83,11265,"1,34",True,Festivo,Miércoles,343.592,-7.654.555
+2024-08-07,URBANA,003_ZW Parque del Perro,19,MR76,81,14368,"1,71",True,Festivo,Miércoles,343.592,-7.654.555
+2024-08-08,URBANA,003_ZW Parque del Perro,19,MR76,61,5251,"0,66",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-08,URBANA,003_ZW Parque del Perro,19,MR76,65,4224,"0,53",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-09,URBANA,003_ZW Parque del Perro,19,MR76,73,1200589,"221,57",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-09,URBANA,003_ZW Parque del Perro,19,MR76,75,1404525,"259,21",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-10,URBANA,003_ZW Parque del Perro,19,MR76,98,896442,"169,68",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-10,URBANA,003_ZW Parque del Perro,19,MR76,94,2852371,"539,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-11,URBANA,003_ZW Parque del Perro,19,MR76,92,902675,"156,66",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-11,URBANA,003_ZW Parque del Perro,19,MR76,91,2712838,"470,8",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-12,URBANA,003_ZW Parque del Perro,19,MR76,69,1718540,"368,39",False,Laboral,Lunes,343.592,-7.654.555
+2024-08-12,URBANA,003_ZW Parque del Perro,19,MR76,55,2779278,"595,76",False,Laboral,Lunes,343.592,-7.654.555
+2024-08-13,URBANA,003_ZW Parque del Perro,19,MR76,59,2255279,"255,27",False,Laboral,Martes,343.592,-7.654.555
+2024-08-13,URBANA,003_ZW Parque del Perro,19,MR76,68,3256547,"368,6",False,Laboral,Martes,343.592,-7.654.555
+2024-08-14,URBANA,003_ZW Parque del Perro,19,MR76,86,1356297,"180,01",False,Laboral,Miércoles,343.592,-7.654.555
+2024-08-14,URBANA,003_ZW Parque del Perro,19,MR76,78,3162282,"419,7",False,Laboral,Miércoles,343.592,-7.654.555
+2024-08-15,URBANA,003_ZW Parque del Perro,19,MR76,69,956542,"143,61",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-15,URBANA,003_ZW Parque del Perro,19,MR76,73,2288606,"343,59",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-16,URBANA,003_ZW Parque del Perro,19,MR76,88,433109,"59,01",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-16,URBANA,003_ZW Parque del Perro,19,MR76,90,455877,"62,11",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-17,URBANA,003_ZW Parque del Perro,19,MR76,126,10937,"1,59",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-17,URBANA,003_ZW Parque del Perro,19,MR76,118,8763,"1,27",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-18,URBANA,003_ZW Parque del Perro,19,MR76,103,892436,"135,05",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-18,URBANA,003_ZW Parque del Perro,19,MR76,90,759653,"114,95",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-19,URBANA,003_ZW Parque del Perro,19,MR76,72,687734,"94,41",True,Festivo,Lunes,343.592,-7.654.555
+2024-08-19,URBANA,003_ZW Parque del Perro,19,MR76,75,1110875,"152,49",True,Festivo,Lunes,343.592,-7.654.555
+2024-08-20,URBANA,003_ZW Parque del Perro,19,MR76,72,925212,"229,07",False,Laboral,Martes,343.592,-7.654.555
+2024-08-20,URBANA,003_ZW Parque del Perro,19,MR76,64,1549430,"383,62",False,Laboral,Martes,343.592,-7.654.555
+2024-08-21,URBANA,003_ZW Parque del Perro,19,MR76,75,962394,"280,29",False,Laboral,Miércoles,343.592,-7.654.555
+2024-08-21,URBANA,003_ZW Parque del Perro,19,MR76,50,662538,"192,96",False,Laboral,Miércoles,343.592,-7.654.555
+2024-08-22,URBANA,003_ZW Parque del Perro,19,MR76,86,2944621,"783,56",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-22,URBANA,003_ZW Parque del Perro,19,MR76,53,2490002,"662,59",False,Laboral,Jueves,343.592,-7.654.555
+2024-08-23,URBANA,003_ZW Parque del Perro,19,MR76,80,1069486,"435,75",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-23,URBANA,003_ZW Parque del Perro,19,MR76,66,1240546,"505,45",False,Laboral,Viernes,343.592,-7.654.555
+2024-08-24,URBANA,003_ZW Parque del Perro,19,MR76,101,2750532,"1864,12",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-24,URBANA,003_ZW Parque del Perro,19,MR76,93,603179,"408,79",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-08-25,URBANA,003_ZW Parque del Perro,19,MR76,100,15005,"14,36",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-25,URBANA,003_ZW Parque del Perro,19,MR76,87,10742,"10,28",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-08-26,URBANA,003_ZW Parque del Perro,19,MR76,80,7071,"9,45",False,Laboral,Lunes,343.592,-7.654.555
+2024-08-26,URBANA,003_ZW Parque del Perro,19,MR76,71,11021,"14,73",False,Laboral,Lunes,343.592,-7.654.555
+2024-08-27,URBANA,003_ZW Parque del Perro,19,MR76,41,3371,"3,62",False,Laboral,Martes,343.592,-7.654.555
+2024-08-27,URBANA,003_ZW Parque del Perro,19,MR76,41,4538,"4,87",False,Laboral,Martes,343.592,-7.654.555
+2024-10-25,URBANA,003_ZW Parque del Perro,19,MR76,41,427104,"95,41",False,Laboral,Viernes,343.592,-7.654.555
+2024-10-25,URBANA,003_ZW Parque del Perro,19,MR76,31,546315,"122,04",False,Laboral,Viernes,343.592,-7.654.555
+2024-10-26,URBANA,003_ZW Parque del Perro,19,MR76,96,6322209,"818,71",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-10-26,URBANA,003_ZW Parque del Perro,19,MR76,65,2464124,"319,1",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-10-27,URBANA,003_ZW Parque del Perro,19,MR76,68,1452071,"145,87",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-10-27,URBANA,003_ZW Parque del Perro,19,MR76,63,1275198,"128,1",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-10-28,URBANA,003_ZW Parque del Perro,19,MR76,41,1759872,"292,25",False,Laboral,Lunes,343.592,-7.654.555
+2024-10-28,URBANA,003_ZW Parque del Perro,19,MR76,36,786307,"130,58",False,Laboral,Lunes,343.592,-7.654.555
+2024-10-29,URBANA,003_ZW Parque del Perro,19,MR76,56,783394,"123,57",False,Laboral,Martes,343.592,-7.654.555
+2024-10-29,URBANA,003_ZW Parque del Perro,19,MR76,60,7613926,1201,False,Laboral,Martes,343.592,-7.654.555
+2024-10-30,URBANA,003_ZW Parque del Perro,19,MR76,39,1035643,"211,39",False,Laboral,Miércoles,343.592,-7.654.555
+2024-10-30,URBANA,003_ZW Parque del Perro,19,MR76,41,1089215,"222,33",False,Laboral,Miércoles,343.592,-7.654.555
+2024-10-31,URBANA,003_ZW Parque del Perro,19,MR76,62,1386544,"295,55",False,Laboral,Jueves,343.592,-7.654.555
+2024-10-31,URBANA,003_ZW Parque del Perro,19,MR76,52,937966,"199,93",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-01,URBANA,003_ZW Parque del Perro,19,MR76,54,1452552,"262,67",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-01,URBANA,003_ZW Parque del Perro,19,MR76,50,863924,"156,23",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-02,URBANA,003_ZW Parque del Perro,19,MR76,70,450706,"72,53",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-02,URBANA,003_ZW Parque del Perro,19,MR76,55,1468569,"236,34",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-03,URBANA,003_ZW Parque del Perro,19,MR76,73,2082975,"354,09",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-03,URBANA,003_ZW Parque del Perro,19,MR76,69,2317472,"393,96",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-04,URBANA,003_ZW Parque del Perro,19,MR76,55,367737,"55,43",True,Festivo,Lunes,343.592,-7.654.555
+2024-11-04,URBANA,003_ZW Parque del Perro,19,MR76,47,533626,"80,44",True,Festivo,Lunes,343.592,-7.654.555
+2024-11-05,URBANA,003_ZW Parque del Perro,19,MR76,56,662171,"90,68",False,Laboral,Martes,343.592,-7.654.555
+2024-11-05,URBANA,003_ZW Parque del Perro,19,MR76,43,1331933,"182,4",False,Laboral,Martes,343.592,-7.654.555
+2024-11-06,URBANA,003_ZW Parque del Perro,19,MR76,26,104644,"16,71",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-06,URBANA,003_ZW Parque del Perro,19,MR76,20,107390,"17,15",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-07,URBANA,003_ZW Parque del Perro,19,MR76,65,403444,"45,36",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-07,URBANA,003_ZW Parque del Perro,19,MR76,46,462844,"52,04",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-08,URBANA,003_ZW Parque del Perro,19,MR76,53,217290,"17,57",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-08,URBANA,003_ZW Parque del Perro,19,MR76,54,799473,"64,65",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-09,URBANA,003_ZW Parque del Perro,19,MR76,98,2410206,"144,75",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-09,URBANA,003_ZW Parque del Perro,19,MR76,98,1831607,110,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-10,URBANA,003_ZW Parque del Perro,19,MR76,75,1916178,"98,92",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-10,URBANA,003_ZW Parque del Perro,19,MR76,54,716335,"36,98",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-11,URBANA,003_ZW Parque del Perro,19,MR76,77,3898369,"221,97",True,Festivo,Lunes,343.592,-7.654.555
+2024-11-11,URBANA,003_ZW Parque del Perro,19,MR76,85,665569,"37,9",True,Festivo,Lunes,343.592,-7.654.555
+2024-11-12,URBANA,003_ZW Parque del Perro,19,MR76,64,1269869,"66,43",False,Laboral,Martes,343.592,-7.654.555
+2024-11-12,URBANA,003_ZW Parque del Perro,19,MR76,52,1576369,"82,47",False,Laboral,Martes,343.592,-7.654.555
+2024-11-13,URBANA,003_ZW Parque del Perro,19,MR76,64,726802,"44,86",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-13,URBANA,003_ZW Parque del Perro,19,MR76,53,174220,"10,75",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-14,URBANA,003_ZW Parque del Perro,19,MR76,75,744725,"38,79",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-14,URBANA,003_ZW Parque del Perro,19,MR76,63,1390456,"72,43",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-15,URBANA,003_ZW Parque del Perro,19,MR76,91,872643,"47,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-15,URBANA,003_ZW Parque del Perro,19,MR76,68,3377886,"185,43",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-16,URBANA,003_ZW Parque del Perro,19,MR76,97,433966,"23,57",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-16,URBANA,003_ZW Parque del Perro,19,MR76,93,1069386,"58,08",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-17,URBANA,003_ZW Parque del Perro,19,MR76,76,605548,"35,25",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-17,URBANA,003_ZW Parque del Perro,19,MR76,75,3131544,"182,28",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-18,URBANA,003_ZW Parque del Perro,19,MR76,62,3334369,"207,44",False,Laboral,Lunes,343.592,-7.654.555
+2024-11-18,URBANA,003_ZW Parque del Perro,19,MR76,68,1656175,"103,03",False,Laboral,Lunes,343.592,-7.654.555
+2024-11-19,URBANA,003_ZW Parque del Perro,19,MR76,61,3041874,"190,4",False,Laboral,Martes,343.592,-7.654.555
+2024-11-19,URBANA,003_ZW Parque del Perro,19,MR76,57,854449,"53,48",False,Laboral,Martes,343.592,-7.654.555
+2024-11-20,URBANA,003_ZW Parque del Perro,19,MR76,51,1827981,"95,79",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-20,URBANA,003_ZW Parque del Perro,19,MR76,49,770248,"40,36",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-21,URBANA,003_ZW Parque del Perro,19,MR76,74,1267892,"70,22",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-21,URBANA,003_ZW Parque del Perro,19,MR76,51,1948661,"107,92",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-22,URBANA,003_ZW Parque del Perro,19,MR76,82,1643503,"81,41",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-22,URBANA,003_ZW Parque del Perro,19,MR76,74,3586788,"177,67",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-23,URBANA,003_ZW Parque del Perro,19,MR76,98,1727879,"90,16",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-23,URBANA,003_ZW Parque del Perro,19,MR76,82,1159154,"60,49",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-24,URBANA,003_ZW Parque del Perro,19,MR76,87,154522,"20,87",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-24,URBANA,003_ZW Parque del Perro,19,MR76,52,123167,"16,64",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-11-25,URBANA,003_ZW Parque del Perro,19,MR76,21,351386,"85,44",False,Laboral,Lunes,343.592,-7.654.555
+2024-11-25,URBANA,003_ZW Parque del Perro,19,MR76,5,31877,"7,75",False,Laboral,Lunes,343.592,-7.654.555
+2024-11-26,URBANA,003_ZW Parque del Perro,19,MR76,26,43384,"5,51",False,Laboral,Martes,343.592,-7.654.555
+2024-11-26,URBANA,003_ZW Parque del Perro,19,MR76,16,492165,"62,5",False,Laboral,Martes,343.592,-7.654.555
+2024-11-27,URBANA,003_ZW Parque del Perro,19,MR76,58,268005,"13,8",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-27,URBANA,003_ZW Parque del Perro,19,MR76,57,638457,"32,88",False,Laboral,Miércoles,343.592,-7.654.555
+2024-11-28,URBANA,003_ZW Parque del Perro,19,MR76,64,1519907,"72,19",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-28,URBANA,003_ZW Parque del Perro,19,MR76,62,731116,"34,72",False,Laboral,Jueves,343.592,-7.654.555
+2024-11-29,URBANA,003_ZW Parque del Perro,19,MR76,77,1845453,"83,04",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-29,URBANA,003_ZW Parque del Perro,19,MR76,76,2433300,"109,49",False,Laboral,Viernes,343.592,-7.654.555
+2024-11-30,URBANA,003_ZW Parque del Perro,19,MR76,88,1604033,"70,37",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-11-30,URBANA,003_ZW Parque del Perro,19,MR76,84,2487285,"109,12",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-01,URBANA,003_ZW Parque del Perro,19,MR76,110,3241317,"134,12",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-01,URBANA,003_ZW Parque del Perro,19,MR76,87,2281050,"94,39",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-02,URBANA,003_ZW Parque del Perro,19,MR76,65,1636347,"78,42",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-02,URBANA,003_ZW Parque del Perro,19,MR76,69,1005095,"48,17",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-03,URBANA,003_ZW Parque del Perro,19,MR76,80,445023,"23,84",False,Laboral,Martes,343.592,-7.654.555
+2024-12-03,URBANA,003_ZW Parque del Perro,19,MR76,62,1237147,"66,26",False,Laboral,Martes,343.592,-7.654.555
+2024-12-04,URBANA,003_ZW Parque del Perro,19,MR76,84,1052032,"45,55",False,Laboral,Miércoles,343.592,-7.654.555
+2024-12-04,URBANA,003_ZW Parque del Perro,19,MR76,71,1123562,"48,65",False,Laboral,Miércoles,343.592,-7.654.555
+2024-12-05,URBANA,003_ZW Parque del Perro,19,MR76,89,884433,"38,55",False,Laboral,Jueves,343.592,-7.654.555
+2024-12-05,URBANA,003_ZW Parque del Perro,19,MR76,81,1551068,"67,61",False,Laboral,Jueves,343.592,-7.654.555
+2024-12-06,URBANA,003_ZW Parque del Perro,19,MR76,89,1430921,"63,64",False,Laboral,Viernes,343.592,-7.654.555
+2024-12-06,URBANA,003_ZW Parque del Perro,19,MR76,77,1570299,"69,84",False,Laboral,Viernes,343.592,-7.654.555
+2024-12-07,URBANA,003_ZW Parque del Perro,19,MR76,76,2096723,"102,2",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-07,URBANA,003_ZW Parque del Perro,19,MR76,70,1649603,"80,41",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-08,URBANA,003_ZW Parque del Perro,19,MR76,87,2482001,"93,46",True,Festivo,Domingo,343.592,-7.654.555
+2024-12-08,URBANA,003_ZW Parque del Perro,19,MR76,84,3515630,"132,39",True,Festivo,Domingo,343.592,-7.654.555
+2024-12-09,URBANA,003_ZW Parque del Perro,19,MR76,82,2868343,"106,35",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-09,URBANA,003_ZW Parque del Perro,19,MR76,75,2733203,"101,34",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-10,URBANA,003_ZW Parque del Perro,19,MR76,82,3726116,"123,04",False,Laboral,Martes,343.592,-7.654.555
+2024-12-10,URBANA,003_ZW Parque del Perro,19,MR76,76,836082,"27,61",False,Laboral,Martes,343.592,-7.654.555
+2024-12-11,URBANA,003_ZW Parque del Perro,19,MR76,91,2369441,"78,58",False,Laboral,Miércoles,343.592,-7.654.555
+2024-12-11,URBANA,003_ZW Parque del Perro,19,MR76,74,2045311,"67,83",False,Laboral,Miércoles,343.592,-7.654.555
+2024-12-12,URBANA,003_ZW Parque del Perro,19,MR76,84,1862055,"54,26",False,Laboral,Jueves,343.592,-7.654.555
+2024-12-12,URBANA,003_ZW Parque del Perro,19,MR76,75,2312212,"67,38",False,Laboral,Jueves,343.592,-7.654.555
+2024-12-13,URBANA,003_ZW Parque del Perro,19,MR76,81,1585781,"46,74",False,Laboral,Viernes,343.592,-7.654.555
+2024-12-13,URBANA,003_ZW Parque del Perro,19,MR76,72,2283050,"67,29",False,Laboral,Viernes,343.592,-7.654.555
+2024-12-14,URBANA,003_ZW Parque del Perro,19,MR76,106,738661,"24,32",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-14,URBANA,003_ZW Parque del Perro,19,MR76,88,2151317,"70,82",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-15,URBANA,003_ZW Parque del Perro,19,MR76,94,1372999,"46,34",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-15,URBANA,003_ZW Parque del Perro,19,MR76,82,1458533,"49,23",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-16,URBANA,003_ZW Parque del Perro,19,MR76,70,1939543,"58,32",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-16,URBANA,003_ZW Parque del Perro,19,MR76,62,411799,"12,38",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-17,URBANA,003_ZW Parque del Perro,19,MR76,86,2938659,"95,7",False,Laboral,Martes,343.592,-7.654.555
+2024-12-17,URBANA,003_ZW Parque del Perro,19,MR76,80,2347260,"76,4",False,Laboral,Martes,343.592,-7.654.555
+2024-12-18,URBANA,003_ZW Parque del Perro,19,MR76,62,1024896,"32,5",False,Laboral,Miércoles,343.592,-7.654.555
+2024-12-18,URBANA,003_ZW Parque del Perro,19,MR76,65,649411,"20,6",False,Laboral,Miércoles,343.592,-7.654.555
+2024-12-19,URBANA,003_ZW Parque del Perro,19,MR76,63,1353402,"47,6",False,Laboral,Jueves,343.592,-7.654.555
+2024-12-19,URBANA,003_ZW Parque del Perro,19,MR76,92,4627412,163,False,Laboral,Jueves,343.592,-7.654.555
+2024-12-20,URBANA,003_ZW Parque del Perro,19,MR76,83,1795153,"59,2",False,Laboral,Viernes,343.592,-7.654.555
+2024-12-20,URBANA,003_ZW Parque del Perro,19,MR76,103,1756258,"57,9",False,Laboral,Viernes,343.592,-7.654.555
+2024-12-21,URBANA,003_ZW Parque del Perro,19,MR76,89,2006248,"76,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-21,URBANA,003_ZW Parque del Perro,19,MR76,73,389204,"14,9",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-22,URBANA,003_ZW Parque del Perro,19,MR76,87,7127645,223,False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-22,URBANA,003_ZW Parque del Perro,19,MR76,65,820756,"25,6",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-23,URBANA,003_ZW Parque del Perro,19,MR76,75,8954932,357,False,Laboral,Lunes,343.592,-7.654.555
+2024-12-23,URBANA,003_ZW Parque del Perro,19,MR76,60,634097,"25,3",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-24,URBANA,003_ZW Parque del Perro,19,MR76,42,8467639,354,False,Laboral,Martes,343.592,-7.654.555
+2024-12-24,URBANA,003_ZW Parque del Perro,19,MR76,36,147306,"6,16",False,Laboral,Martes,343.592,-7.654.555
+2024-12-25,URBANA,003_ZW Parque del Perro,19,MR76,61,12588301,446,True,Festivo,Miércoles,343.592,-7.654.555
+2024-12-25,URBANA,003_ZW Parque del Perro,19,MR76,54,1710472,"60,6",True,Festivo,Miércoles,343.592,-7.654.555
+2024-12-26,URBANA,003_ZW Parque del Perro,19,MR76,69,4461948,163,False,Laboral,Jueves,343.592,-7.654.555
+2024-12-26,URBANA,003_ZW Parque del Perro,19,MR76,55,837526,"30,6",False,Laboral,Jueves,343.592,-7.654.555
+2024-12-27,URBANA,003_ZW Parque del Perro,19,MR76,61,2070887,"63,5",False,Laboral,Viernes,343.592,-7.654.555
+2024-12-27,URBANA,003_ZW Parque del Perro,19,MR76,59,3330975,102,False,Laboral,Viernes,343.592,-7.654.555
+2024-12-28,URBANA,003_ZW Parque del Perro,19,MR76,47,1930924,82,False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-28,URBANA,003_ZW Parque del Perro,19,MR76,48,339896,"14,4",False,Fin de Semana,Sábado,343.592,-7.654.555
+2024-12-29,URBANA,003_ZW Parque del Perro,19,MR76,64,2309017,"71,5",False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-29,URBANA,003_ZW Parque del Perro,19,MR76,61,3346633,104,False,Fin de Semana,Domingo,343.592,-7.654.555
+2024-12-30,URBANA,003_ZW Parque del Perro,19,MR76,57,2144288,"87,7",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-30,URBANA,003_ZW Parque del Perro,19,MR76,54,457144,"18,7",False,Laboral,Lunes,343.592,-7.654.555
+2024-12-31,RURAL,003_ZW Parque del Perro,19,MR76,37,915542,"49,3",False,Laboral,Martes,343.592,-7.654.555
+2024-12-31,RURAL,003_ZW Parque del Perro,19,MR76,38,2165741,117,False,Laboral,Martes,343.592,-7.654.555
+2025-01-01,URBANA,003_ZW Parque del Perro,19,MR76,48,5400359,368,True,Festivo,Miércoles,343.592,-7.654.555
+2025-01-01,URBANA,003_ZW Parque del Perro,19,MR76,35,578917,39,True,Festivo,Miércoles,343.592,-7.654.555
+2025-01-02,URBANA,003_ZW Parque del Perro,19,MR76,5,279869,10,False,Laboral,Jueves,343.592,-7.654.555
+2025-01-02,URBANA,003_ZW Parque del Perro,19,MR76,3,111,0,False,Laboral,Jueves,343.592,-7.654.555
+2025-01-23,URBANA,003_ZW Parque del Perro,19,MR76,39,1718363,43,False,Laboral,Jueves,343.592,-7.654.555
+2025-01-23,URBANA,003_ZW Parque del Perro,19,MR76,41,1834081,46,False,Laboral,Jueves,343.592,-7.654.555
+2025-01-24,URBANA,003_ZW Parque del Perro,19,MR76,57,3985481,120,False,Laboral,Viernes,343.592,-7.654.555
+2025-01-24,URBANA,003_ZW Parque del Perro,19,MR76,57,972325,29,False,Laboral,Viernes,343.592,-7.654.555
+2025-01-25,URBANA,003_ZW Parque del Perro,19,MR76,73,4008692,108,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-01-25,URBANA,003_ZW Parque del Perro,19,MR76,74,2139454,58,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-01-26,URBANA,003_ZW Parque del Perro,19,MR76,56,2309763,59,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-01-26,URBANA,003_ZW Parque del Perro,19,MR76,54,2038817,52,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-01-27,URBANA,003_ZW Parque del Perro,19,MR76,48,1547695,41,False,Laboral,Lunes,343.592,-7.654.555
+2025-01-27,URBANA,003_ZW Parque del Perro,19,MR76,46,1915132,51,False,Laboral,Lunes,343.592,-7.654.555
+2025-01-28,URBANA,003_ZW Parque del Perro,19,MR76,36,1122396,34,False,Laboral,Martes,343.592,-7.654.555
+2025-01-28,URBANA,003_ZW Parque del Perro,19,MR76,39,515709,16,False,Laboral,Martes,343.592,-7.654.555
+2025-01-29,URBANA,003_ZW Parque del Perro,19,MR76,44,613428,17,False,Laboral,Miércoles,343.592,-7.654.555
+2025-01-29,URBANA,003_ZW Parque del Perro,19,MR76,37,1170766,32,False,Laboral,Miércoles,343.592,-7.654.555
+2025-01-30,URBANA,003_ZW Parque del Perro,19,MR76,66,7455771,275,False,Laboral,Jueves,343.592,-7.654.555
+2025-01-30,URBANA,003_ZW Parque del Perro,19,MR76,59,1213513,45,False,Laboral,Jueves,343.592,-7.654.555
+2025-01-31,URBANA,003_ZW Parque del Perro,19,MR76,64,2664308,145,False,Laboral,Viernes,343.592,-7.654.555
+2025-01-31,URBANA,003_ZW Parque del Perro,19,MR76,44,562902,31,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-01,URBANA,003_ZW Parque del Perro,19,MR76,75,2912254,103,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-01,URBANA,003_ZW Parque del Perro,19,MR76,69,2557414,90,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-02,URBANA,003_ZW Parque del Perro,19,MR76,77,2730878,81,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-02,URBANA,003_ZW Parque del Perro,19,MR76,67,1688223,50,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-03,URBANA,003_ZW Parque del Perro,19,MR76,34,1727489,67,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-03,URBANA,003_ZW Parque del Perro,19,MR76,37,1648886,64,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-04,URBANA,003_ZW Parque del Perro,19,MR76,42,716840,25,False,Laboral,Martes,343.592,-7.654.555
+2025-02-04,URBANA,003_ZW Parque del Perro,19,MR76,35,249251,9,False,Laboral,Martes,343.592,-7.654.555
+2025-02-05,URBANA,003_ZW Parque del Perro,19,MR76,39,146378,6,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-05,URBANA,003_ZW Parque del Perro,19,MR76,30,550974,23,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-06,URBANA,003_ZW Parque del Perro,19,MR76,65,1167650,43,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-06,URBANA,003_ZW Parque del Perro,19,MR76,46,1104984,41,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-07,URBANA,003_ZW Parque del Perro,19,MR76,53,1276208,44,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-07,URBANA,003_ZW Parque del Perro,19,MR76,41,2169165,74,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-08,URBANA,003_ZW Parque del Perro,19,MR76,60,511983,19,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-08,URBANA,003_ZW Parque del Perro,19,MR76,54,1800970,67,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-09,URBANA,003_ZW Parque del Perro,19,MR76,58,1151873,36,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-09,URBANA,003_ZW Parque del Perro,19,MR76,51,949964,30,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-10,URBANA,003_ZW Parque del Perro,19,MR76,46,528705,20,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-10,URBANA,003_ZW Parque del Perro,19,MR76,35,1001437,38,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-11,URBANA,003_ZW Parque del Perro,19,MR76,42,460283,16,False,Laboral,Martes,343.592,-7.654.555
+2025-02-11,URBANA,003_ZW Parque del Perro,19,MR76,49,2282855,77,False,Laboral,Martes,343.592,-7.654.555
+2025-02-12,URBANA,003_ZW Parque del Perro,19,MR76,48,1122031,34,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-12,URBANA,003_ZW Parque del Perro,19,MR76,49,1954068,59,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-13,URBANA,003_ZW Parque del Perro,19,MR76,44,2283692,107,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-13,URBANA,003_ZW Parque del Perro,19,MR76,37,292891,14,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-14,URBANA,003_ZW Parque del Perro,19,MR76,76,7720999,231,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-14,URBANA,003_ZW Parque del Perro,19,MR76,57,776018,23,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-15,URBANA,003_ZW Parque del Perro,19,MR76,88,2325843,84,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-15,URBANA,003_ZW Parque del Perro,19,MR76,56,1876846,68,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-16,URBANA,003_ZW Parque del Perro,19,MR76,71,2498100,82,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-16,URBANA,003_ZW Parque del Perro,19,MR76,65,2799624,92,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-17,URBANA,003_ZW Parque del Perro,19,MR76,37,787017,28,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-17,URBANA,003_ZW Parque del Perro,19,MR76,41,695202,25,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-18,URBANA,003_ZW Parque del Perro,19,MR76,40,2933400,104,False,Laboral,Martes,343.592,-7.654.555
+2025-02-18,URBANA,003_ZW Parque del Perro,19,MR76,38,1215653,43,False,Laboral,Martes,343.592,-7.654.555
+2025-02-19,URBANA,003_ZW Parque del Perro,19,MR76,55,1465288,47,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-19,URBANA,003_ZW Parque del Perro,19,MR76,50,2213633,70,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-20,URBANA,003_ZW Parque del Perro,19,MR76,55,1148827,33,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-20,URBANA,003_ZW Parque del Perro,19,MR76,60,1815009,51,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-21,URBANA,003_ZW Parque del Perro,19,MR76,61,954246,33,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-21,URBANA,003_ZW Parque del Perro,19,MR76,63,2858924,98,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-22,URBANA,003_ZW Parque del Perro,19,MR76,73,1387109,49,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-22,URBANA,003_ZW Parque del Perro,19,MR76,75,948721,33,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-02-23,URBANA,003_ZW Parque del Perro,19,MR76,63,3033931,88,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-23,URBANA,003_ZW Parque del Perro,19,MR76,51,870883,25,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-02-24,URBANA,003_ZW Parque del Perro,19,MR76,53,1293207,53,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-24,URBANA,003_ZW Parque del Perro,19,MR76,48,1441222,59,False,Laboral,Lunes,343.592,-7.654.555
+2025-02-25,URBANA,003_ZW Parque del Perro,19,MR76,47,663214,21,False,Laboral,Martes,343.592,-7.654.555
+2025-02-25,URBANA,003_ZW Parque del Perro,19,MR76,42,912454,29,False,Laboral,Martes,343.592,-7.654.555
+2025-02-26,URBANA,003_ZW Parque del Perro,19,MR76,43,2285912,83,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-26,URBANA,003_ZW Parque del Perro,19,MR76,34,797244,29,False,Laboral,Miércoles,343.592,-7.654.555
+2025-02-27,URBANA,003_ZW Parque del Perro,19,MR76,43,2474764,86,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-27,URBANA,003_ZW Parque del Perro,19,MR76,35,857234,30,False,Laboral,Jueves,343.592,-7.654.555
+2025-02-28,URBANA,003_ZW Parque del Perro,19,MR76,58,1163703,41,False,Laboral,Viernes,343.592,-7.654.555
+2025-02-28,URBANA,003_ZW Parque del Perro,19,MR76,42,1759280,62,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-01,URBANA,003_ZW Parque del Perro,19,MR76,59,580973,22,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-01,URBANA,003_ZW Parque del Perro,19,MR76,56,872439,33,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-02,URBANA,003_ZW Parque del Perro,19,MR76,71,2004506,59,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-02,URBANA,003_ZW Parque del Perro,19,MR76,71,1113177,33,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-03,URBANA,003_ZW Parque del Perro,19,MR76,58,7687463,288,False,Laboral,Lunes,343.592,-7.654.555
+2025-03-03,URBANA,003_ZW Parque del Perro,19,MR76,51,2219694,83,False,Laboral,Lunes,343.592,-7.654.555
+2025-03-04,URBANA,003_ZW Parque del Perro,19,MR76,30,1439182,65,False,Laboral,Martes,343.592,-7.654.555
+2025-03-04,URBANA,003_ZW Parque del Perro,19,MR76,30,466585,21,False,Laboral,Martes,343.592,-7.654.555
+2025-03-05,URBANA,003_ZW Parque del Perro,19,MR76,47,1063618,38,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-05,URBANA,003_ZW Parque del Perro,19,MR76,43,2911391,103,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-06,URBANA,003_ZW Parque del Perro,19,MR76,34,1360232,44,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-06,URBANA,003_ZW Parque del Perro,19,MR76,42,1677890,54,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-07,URBANA,003_ZW Parque del Perro,19,MR76,56,696623,25,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-07,URBANA,003_ZW Parque del Perro,19,MR76,46,736734,26,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-08,URBANA,003_ZW Parque del Perro,19,MR76,82,1614106,47,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-08,URBANA,003_ZW Parque del Perro,19,MR76,91,2031398,59,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-09,URBANA,003_ZW Parque del Perro,19,MR76,65,1683101,53,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-09,URBANA,003_ZW Parque del Perro,19,MR76,59,2399286,75,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-10,URBANA,003_ZW Parque del Perro,19,MR76,49,2858852,83,False,Laboral,Lunes,343.592,-7.654.555
+2025-03-10,URBANA,003_ZW Parque del Perro,19,MR76,49,4566803,132,False,Laboral,Lunes,343.592,-7.654.555
+2025-03-11,URBANA,003_ZW Parque del Perro,19,MR76,36,6615747,297,False,Laboral,Martes,343.592,-7.654.555
+2025-03-11,URBANA,003_ZW Parque del Perro,19,MR76,35,1960562,88,False,Laboral,Martes,343.592,-7.654.555
+2025-03-12,URBANA,003_ZW Parque del Perro,19,MR76,38,2315296,78,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-12,URBANA,003_ZW Parque del Perro,19,MR76,51,1572034,53,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-13,URBANA,003_ZW Parque del Perro,19,MR76,34,1015156,42,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-13,URBANA,003_ZW Parque del Perro,19,MR76,36,1961838,81,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-14,URBANA,003_ZW Parque del Perro,19,MR76,62,1148236,39,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-14,URBANA,003_ZW Parque del Perro,19,MR76,67,4820558,163,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-15,URBANA,003_ZW Parque del Perro,19,MR76,71,8405209,270,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-15,URBANA,003_ZW Parque del Perro,19,MR76,89,4200092,135,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-16,URBANA,003_ZW Parque del Perro,19,MR76,61,1829621,59,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-16,URBANA,003_ZW Parque del Perro,19,MR76,73,2159582,70,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-17,URBANA,003_ZW Parque del Perro,19,MR76,41,1566587,54,False,Laboral,Lunes,343.592,-7.654.555
+2025-03-17,URBANA,003_ZW Parque del Perro,19,MR76,56,2045762,70,False,Laboral,Lunes,343.592,-7.654.555
+2025-03-18,URBANA,003_ZW Parque del Perro,19,MR76,47,2321294,70,False,Laboral,Martes,343.592,-7.654.555
+2025-03-18,URBANA,003_ZW Parque del Perro,19,MR76,55,1482771,45,False,Laboral,Martes,343.592,-7.654.555
+2025-03-19,URBANA,003_ZW Parque del Perro,19,MR76,62,1189672,43,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-19,URBANA,003_ZW Parque del Perro,19,MR76,61,5282061,190,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-20,URBANA,003_ZW Parque del Perro,19,MR76,57,1074988,35,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-20,URBANA,003_ZW Parque del Perro,19,MR76,68,2719647,88,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-21,URBANA,003_ZW Parque del Perro,19,MR76,59,666469,18,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-21,URBANA,003_ZW Parque del Perro,19,MR76,54,6328716,172,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-22,URBANA,003_ZW Parque del Perro,19,MR76,58,1428030,47,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-22,URBANA,003_ZW Parque del Perro,19,MR76,84,4009319,132,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-23,URBANA,003_ZW Parque del Perro,19,MR76,66,2138692,66,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-23,URBANA,003_ZW Parque del Perro,19,MR76,69,1908945,59,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-24,URBANA,003_ZW Parque del Perro,19,MR76,68,1764122,44,True,Festivo,Lunes,343.592,-7.654.555
+2025-03-24,URBANA,003_ZW Parque del Perro,19,MR76,73,2455461,61,True,Festivo,Lunes,343.592,-7.654.555
+2025-03-25,URBANA,003_ZW Parque del Perro,19,MR76,34,2633459,77,False,Laboral,Martes,343.592,-7.654.555
+2025-03-25,URBANA,003_ZW Parque del Perro,19,MR76,42,1068730,31,False,Laboral,Martes,343.592,-7.654.555
+2025-03-26,URBANA,003_ZW Parque del Perro,19,MR76,47,756420,24,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-26,URBANA,003_ZW Parque del Perro,19,MR76,48,2042412,66,False,Laboral,Miércoles,343.592,-7.654.555
+2025-03-27,URBANA,003_ZW Parque del Perro,19,MR76,53,1160077,32,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-27,URBANA,003_ZW Parque del Perro,19,MR76,48,2030130,56,False,Laboral,Jueves,343.592,-7.654.555
+2025-03-28,URBANA,003_ZW Parque del Perro,19,MR76,35,456828,19,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-28,URBANA,003_ZW Parque del Perro,19,MR76,48,817841,34,False,Laboral,Viernes,343.592,-7.654.555
+2025-03-29,URBANA,003_ZW Parque del Perro,19,MR76,62,1333543,42,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-29,URBANA,003_ZW Parque del Perro,19,MR76,61,1787692,56,False,Fin de Semana,Sábado,343.592,-7.654.555
+2025-03-30,URBANA,003_ZW Parque del Perro,19,MR76,60,2068686,59,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-30,URBANA,003_ZW Parque del Perro,19,MR76,62,2701275,77,False,Fin de Semana,Domingo,343.592,-7.654.555
+2025-03-31,URBANA,003_ZW Parque del Perro,19,MR76,44,1574034,52,False,Laboral,Lunes,343.592,-7.654.555
+2025-03-31,URBANA,003_ZW Parque del Perro,19,MR76,50,2292453,76,False,Laboral,Lunes,343.592,-7.654.555

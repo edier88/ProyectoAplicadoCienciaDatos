@@ -1,0 +1,589 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-17,URBANA,004_ZW Parque San Nicolas,3,MR76,14,2153404,"215,3",False,Laboral,Miércoles,345.369,-7.652.574
+2024-01-17,URBANA,004_ZW Parque San Nicolas,3,MR76,9,409434,"40,9",False,Laboral,Miércoles,345.369,-7.652.574
+2024-01-18,URBANA,004_ZW Parque San Nicolas,3,MR76,36,3304368,"275,5",False,Laboral,Jueves,345.369,-7.652.574
+2024-01-18,URBANA,004_ZW Parque San Nicolas,3,MR76,51,1799977,"150,1",False,Laboral,Jueves,345.369,-7.652.574
+2024-01-19,URBANA,004_ZW Parque San Nicolas,3,MR76,48,2926665,"190,7",False,Laboral,Viernes,345.369,-7.652.574
+2024-01-19,URBANA,004_ZW Parque San Nicolas,3,MR76,58,2118153,138,False,Laboral,Viernes,345.369,-7.652.574
+2024-01-20,URBANA,004_ZW Parque San Nicolas,3,MR76,37,2738707,"211,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-01-20,URBANA,004_ZW Parque San Nicolas,3,MR76,29,1539238,"118,9",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-01-21,URBANA,004_ZW Parque San Nicolas,3,MR76,15,3341915,"258,1",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-01-21,URBANA,004_ZW Parque San Nicolas,3,MR76,13,1432944,"110,7",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-01-22,URBANA,004_ZW Parque San Nicolas,3,MR76,42,4241885,"404,5",False,Laboral,Lunes,345.369,-7.652.574
+2024-01-22,URBANA,004_ZW Parque San Nicolas,3,MR76,39,2498077,"238,2",False,Laboral,Lunes,345.369,-7.652.574
+2024-01-23,URBANA,004_ZW Parque San Nicolas,3,MR76,51,3085152,"285,7",False,Laboral,Martes,345.369,-7.652.574
+2024-01-23,URBANA,004_ZW Parque San Nicolas,3,MR76,44,1099645,"101,8",False,Laboral,Martes,345.369,-7.652.574
+2024-01-24,URBANA,004_ZW Parque San Nicolas,3,MR76,51,4743154,"379,2",False,Laboral,Miércoles,345.369,-7.652.574
+2024-01-24,URBANA,004_ZW Parque San Nicolas,3,MR76,51,3995395,"319,5",False,Laboral,Miércoles,345.369,-7.652.574
+2024-01-25,URBANA,004_ZW Parque San Nicolas,3,MR76,56,5062678,"338,7",False,Laboral,Jueves,345.369,-7.652.574
+2024-01-25,URBANA,004_ZW Parque San Nicolas,3,MR76,47,4468944,299,False,Laboral,Jueves,345.369,-7.652.574
+2024-01-26,URBANA,004_ZW Parque San Nicolas,3,MR76,48,2458639,"178,5",False,Laboral,Viernes,345.369,-7.652.574
+2024-01-26,URBANA,004_ZW Parque San Nicolas,3,MR76,42,2276859,"165,3",False,Laboral,Viernes,345.369,-7.652.574
+2024-01-27,URBANA,004_ZW Parque San Nicolas,3,MR76,49,3794419,"305,7",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-01-27,URBANA,004_ZW Parque San Nicolas,3,MR76,57,2503847,"201,7",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-01-28,URBANA,004_ZW Parque San Nicolas,3,MR76,26,2765121,269,False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-01-28,URBANA,004_ZW Parque San Nicolas,3,MR76,28,2193832,"213,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-01-29,URBANA,004_ZW Parque San Nicolas,3,MR76,59,3340175,287,False,Laboral,Lunes,345.369,-7.652.574
+2024-01-29,URBANA,004_ZW Parque San Nicolas,3,MR76,65,4302324,"369,6",False,Laboral,Lunes,345.369,-7.652.574
+2024-01-30,URBANA,004_ZW Parque San Nicolas,3,MR76,42,2120695,"234,3",False,Laboral,Martes,345.369,-7.652.574
+2024-01-30,URBANA,004_ZW Parque San Nicolas,3,MR76,46,1362428,"150,5",False,Laboral,Martes,345.369,-7.652.574
+2024-03-04,URBANA,004_ZW Parque San Nicolas,3,MR76,24,64518,"4,5",False,Laboral,Lunes,345.369,-7.652.574
+2024-03-04,URBANA,004_ZW Parque San Nicolas,3,MR76,17,178664,"12,6",False,Laboral,Lunes,345.369,-7.652.574
+2024-03-05,URBANA,004_ZW Parque San Nicolas,3,MR76,60,2287612,166,False,Laboral,Martes,345.369,-7.652.574
+2024-03-05,URBANA,004_ZW Parque San Nicolas,3,MR76,70,363978,"26,4",False,Laboral,Martes,345.369,-7.652.574
+2024-03-06,URBANA,004_ZW Parque San Nicolas,3,MR76,63,1527113,"126,2",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-06,URBANA,004_ZW Parque San Nicolas,3,MR76,66,873748,"72,2",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-07,URBANA,004_ZW Parque San Nicolas,3,MR76,62,5186705,"485,5",False,Laboral,Jueves,345.369,-7.652.574
+2024-03-07,URBANA,004_ZW Parque San Nicolas,3,MR76,63,1411235,"132,1",False,Laboral,Jueves,345.369,-7.652.574
+2024-03-08,URBANA,004_ZW Parque San Nicolas,3,MR76,66,1447587,"135,3",False,Laboral,Viernes,345.369,-7.652.574
+2024-03-08,URBANA,004_ZW Parque San Nicolas,3,MR76,67,1075554,"100,6",False,Laboral,Viernes,345.369,-7.652.574
+2024-03-09,URBANA,004_ZW Parque San Nicolas,3,MR76,51,2410109,"243,8",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-09,URBANA,004_ZW Parque San Nicolas,3,MR76,69,2694371,"272,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-10,URBANA,004_ZW Parque San Nicolas,3,MR76,25,767122,"80,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-03-10,URBANA,004_ZW Parque San Nicolas,3,MR76,37,826304,"86,6",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-03-11,URBANA,004_ZW Parque San Nicolas,3,MR76,51,1400276,149,False,Laboral,Lunes,345.369,-7.652.574
+2024-03-11,URBANA,004_ZW Parque San Nicolas,3,MR76,59,744420,"79,2",False,Laboral,Lunes,345.369,-7.652.574
+2024-03-12,URBANA,004_ZW Parque San Nicolas,3,MR76,89,138711,"15,7",False,Laboral,Martes,345.369,-7.652.574
+2024-03-12,URBANA,004_ZW Parque San Nicolas,3,MR76,78,48952,"5,6",False,Laboral,Martes,345.369,-7.652.574
+2024-03-13,URBANA,004_ZW Parque San Nicolas,3,MR76,76,4802,"0,6",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-13,URBANA,004_ZW Parque San Nicolas,3,MR76,68,142641,"19,3",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-14,URBANA,004_ZW Parque San Nicolas,3,MR76,71,3990,"0,4",False,Laboral,Jueves,345.369,-7.652.574
+2024-03-14,URBANA,004_ZW Parque San Nicolas,3,MR76,83,4764,"0,5",False,Laboral,Jueves,345.369,-7.652.574
+2024-03-15,URBANA,004_ZW Parque San Nicolas,3,MR76,70,14664,"1,1",False,Laboral,Viernes,345.369,-7.652.574
+2024-03-15,URBANA,004_ZW Parque San Nicolas,3,MR76,68,8226,"0,6",False,Laboral,Viernes,345.369,-7.652.574
+2024-03-16,URBANA,004_ZW Parque San Nicolas,3,MR76,62,25765,"2,3",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-16,URBANA,004_ZW Parque San Nicolas,3,MR76,82,12063,"1,1",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-17,URBANA,004_ZW Parque San Nicolas,3,MR76,22,4608,"0,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-03-17,URBANA,004_ZW Parque San Nicolas,3,MR76,29,5208,"0,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-03-18,URBANA,004_ZW Parque San Nicolas,3,MR76,69,5339,"0,4",False,Laboral,Lunes,345.369,-7.652.574
+2024-03-18,URBANA,004_ZW Parque San Nicolas,3,MR76,78,10416,"0,9",False,Laboral,Lunes,345.369,-7.652.574
+2024-03-19,URBANA,004_ZW Parque San Nicolas,3,MR76,58,5748,"0,8",False,Laboral,Martes,345.369,-7.652.574
+2024-03-19,URBANA,004_ZW Parque San Nicolas,3,MR76,68,12702,"1,7",False,Laboral,Martes,345.369,-7.652.574
+2024-03-20,URBANA,004_ZW Parque San Nicolas,3,MR76,66,23713,"3,6",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-20,URBANA,004_ZW Parque San Nicolas,3,MR76,70,66325,"10,1",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-21,URBANA,004_ZW Parque San Nicolas,3,MR76,60,5193,"0,6",False,Laboral,Jueves,345.369,-7.652.574
+2024-03-21,URBANA,004_ZW Parque San Nicolas,3,MR76,64,4614,"0,5",False,Laboral,Jueves,345.369,-7.652.574
+2024-03-22,URBANA,004_ZW Parque San Nicolas,3,MR76,54,14985,"1,5",False,Laboral,Viernes,345.369,-7.652.574
+2024-03-22,URBANA,004_ZW Parque San Nicolas,3,MR76,67,81138,"8,3",False,Laboral,Viernes,345.369,-7.652.574
+2024-03-23,URBANA,004_ZW Parque San Nicolas,3,MR76,61,12183,"1,6",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-23,URBANA,004_ZW Parque San Nicolas,3,MR76,68,7625,1,False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-24,URBANA,004_ZW Parque San Nicolas,3,MR76,31,5812,"0,6",True,Festivo,Domingo,345.369,-7.652.574
+2024-03-24,URBANA,004_ZW Parque San Nicolas,3,MR76,30,3450,"0,4",True,Festivo,Domingo,345.369,-7.652.574
+2024-03-25,URBANA,004_ZW Parque San Nicolas,3,MR76,19,1536,"0,2",True,Festivo,Lunes,345.369,-7.652.574
+2024-03-25,URBANA,004_ZW Parque San Nicolas,3,MR76,19,5384,"0,8",True,Festivo,Lunes,345.369,-7.652.574
+2024-03-26,URBANA,004_ZW Parque San Nicolas,3,MR76,1,1,0,False,Laboral,Martes,345.369,-7.652.574
+2024-03-27,URBANA,004_ZW Parque San Nicolas,3,MR76,48,1990741,"246,5",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-27,URBANA,004_ZW Parque San Nicolas,3,MR76,55,1831774,"226,8",False,Laboral,Miércoles,345.369,-7.652.574
+2024-03-28,URBANA,004_ZW Parque San Nicolas,3,MR76,28,1128162,"176,8",True,Festivo,Jueves,345.369,-7.652.574
+2024-03-28,URBANA,004_ZW Parque San Nicolas,3,MR76,26,623960,"97,8",True,Festivo,Jueves,345.369,-7.652.574
+2024-03-29,URBANA,004_ZW Parque San Nicolas,3,MR76,23,2648166,"267,1",True,Festivo,Viernes,345.369,-7.652.574
+2024-03-29,URBANA,004_ZW Parque San Nicolas,3,MR76,29,2384145,"240,5",True,Festivo,Viernes,345.369,-7.652.574
+2024-03-30,URBANA,004_ZW Parque San Nicolas,3,MR76,39,2096754,"336,2",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-30,URBANA,004_ZW Parque San Nicolas,3,MR76,37,1758564,282,False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-03-31,URBANA,004_ZW Parque San Nicolas,3,MR76,28,1495129,"196,3",True,Festivo,Domingo,345.369,-7.652.574
+2024-03-31,URBANA,004_ZW Parque San Nicolas,3,MR76,22,1308278,"171,8",True,Festivo,Domingo,345.369,-7.652.574
+2024-04-01,URBANA,004_ZW Parque San Nicolas,3,MR76,81,4909577,468,False,Laboral,Lunes,345.369,-7.652.574
+2024-04-01,URBANA,004_ZW Parque San Nicolas,3,MR76,63,2895279,276,False,Laboral,Lunes,345.369,-7.652.574
+2024-04-02,URBANA,004_ZW Parque San Nicolas,3,MR76,75,3792606,539,False,Laboral,Martes,345.369,-7.652.574
+2024-04-02,URBANA,004_ZW Parque San Nicolas,3,MR76,67,3183191,"452,4",False,Laboral,Martes,345.369,-7.652.574
+2024-04-03,URBANA,004_ZW Parque San Nicolas,3,MR76,82,7125,"0,8",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-03,URBANA,004_ZW Parque San Nicolas,3,MR76,77,7619,"0,8",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-04,URBANA,004_ZW Parque San Nicolas,3,MR76,78,13419,"1,2",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-04,URBANA,004_ZW Parque San Nicolas,3,MR76,64,8239,"0,7",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-05,URBANA,004_ZW Parque San Nicolas,3,MR76,66,10820,1,False,Laboral,Viernes,345.369,-7.652.574
+2024-04-05,URBANA,004_ZW Parque San Nicolas,3,MR76,74,36926,"3,3",False,Laboral,Viernes,345.369,-7.652.574
+2024-04-06,URBANA,004_ZW Parque San Nicolas,3,MR76,68,17250,"1,4",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-06,URBANA,004_ZW Parque San Nicolas,3,MR76,72,8158,"0,7",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-07,URBANA,004_ZW Parque San Nicolas,3,MR76,39,6104261,"510,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-07,URBANA,004_ZW Parque San Nicolas,3,MR76,41,394039,"32,9",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-08,URBANA,004_ZW Parque San Nicolas,3,MR76,86,3951791,"558,3",False,Laboral,Lunes,345.369,-7.652.574
+2024-04-08,URBANA,004_ZW Parque San Nicolas,3,MR76,71,1904520,"269,1",False,Laboral,Lunes,345.369,-7.652.574
+2024-04-09,URBANA,004_ZW Parque San Nicolas,3,MR76,78,6723586,"878,8",False,Laboral,Martes,345.369,-7.652.574
+2024-04-09,URBANA,004_ZW Parque San Nicolas,3,MR76,94,1724858,"225,4",False,Laboral,Martes,345.369,-7.652.574
+2024-04-10,URBANA,004_ZW Parque San Nicolas,3,MR76,85,449738,"105,8",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-10,URBANA,004_ZW Parque San Nicolas,3,MR76,84,1048571,"246,7",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-11,URBANA,004_ZW Parque San Nicolas,3,MR76,86,11518,"2,6",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-11,URBANA,004_ZW Parque San Nicolas,3,MR76,88,7164,"1,6",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-12,URBANA,004_ZW Parque San Nicolas,3,MR76,67,6968,1,False,Laboral,Viernes,345.369,-7.652.574
+2024-04-12,URBANA,004_ZW Parque San Nicolas,3,MR76,80,9877,"1,5",False,Laboral,Viernes,345.369,-7.652.574
+2024-04-13,URBANA,004_ZW Parque San Nicolas,3,MR76,62,24477,"2,9",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-13,URBANA,004_ZW Parque San Nicolas,3,MR76,70,10319,"1,2",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-14,URBANA,004_ZW Parque San Nicolas,3,MR76,38,7127,1,False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-14,URBANA,004_ZW Parque San Nicolas,3,MR76,37,1445,"0,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-15,URBANA,004_ZW Parque San Nicolas,3,MR76,94,12166,3,False,Laboral,Lunes,345.369,-7.652.574
+2024-04-15,URBANA,004_ZW Parque San Nicolas,3,MR76,82,17779,"4,4",False,Laboral,Lunes,345.369,-7.652.574
+2024-04-16,URBANA,004_ZW Parque San Nicolas,3,MR76,83,8791,"2,1",False,Laboral,Martes,345.369,-7.652.574
+2024-04-16,URBANA,004_ZW Parque San Nicolas,3,MR76,71,11475,"2,7",False,Laboral,Martes,345.369,-7.652.574
+2024-04-17,URBANA,004_ZW Parque San Nicolas,3,MR76,86,9644,"2,6",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-17,URBANA,004_ZW Parque San Nicolas,3,MR76,84,91578,"24,6",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-18,URBANA,004_ZW Parque San Nicolas,3,MR76,62,4553,"1,6",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-18,URBANA,004_ZW Parque San Nicolas,3,MR76,72,3922,"1,3",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-19,URBANA,004_ZW Parque San Nicolas,3,MR76,56,8074,2,False,Laboral,Viernes,345.369,-7.652.574
+2024-04-19,URBANA,004_ZW Parque San Nicolas,3,MR76,70,5396,"1,3",False,Laboral,Viernes,345.369,-7.652.574
+2024-04-20,URBANA,004_ZW Parque San Nicolas,3,MR76,69,6054,"0,8",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-20,URBANA,004_ZW Parque San Nicolas,3,MR76,70,5001,"0,6",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-21,URBANA,004_ZW Parque San Nicolas,3,MR76,26,4281,"0,7",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-21,URBANA,004_ZW Parque San Nicolas,3,MR76,19,1078,"0,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-22,URBANA,004_ZW Parque San Nicolas,3,MR76,61,16436,"3,5",False,Laboral,Lunes,345.369,-7.652.574
+2024-04-22,URBANA,004_ZW Parque San Nicolas,3,MR76,65,3969,"0,9",False,Laboral,Lunes,345.369,-7.652.574
+2024-04-23,URBANA,004_ZW Parque San Nicolas,3,MR76,53,2577886,"140,4",False,Laboral,Martes,345.369,-7.652.574
+2024-04-23,URBANA,004_ZW Parque San Nicolas,3,MR76,52,2668962,"145,4",False,Laboral,Martes,345.369,-7.652.574
+2024-04-24,URBANA,004_ZW Parque San Nicolas,3,MR76,55,3997512,"217,6",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-24,URBANA,004_ZW Parque San Nicolas,3,MR76,59,2019454,"109,9",False,Laboral,Miércoles,345.369,-7.652.574
+2024-04-25,URBANA,004_ZW Parque San Nicolas,3,MR76,58,2467212,"207,9",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-25,URBANA,004_ZW Parque San Nicolas,3,MR76,65,2417003,"203,7",False,Laboral,Jueves,345.369,-7.652.574
+2024-04-26,URBANA,004_ZW Parque San Nicolas,3,MR76,62,2354054,"234,9",False,Laboral,Viernes,345.369,-7.652.574
+2024-04-26,URBANA,004_ZW Parque San Nicolas,3,MR76,70,1653821,165,False,Laboral,Viernes,345.369,-7.652.574
+2024-04-27,URBANA,004_ZW Parque San Nicolas,3,MR76,56,324601,"26,6",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-27,URBANA,004_ZW Parque San Nicolas,3,MR76,51,4418073,"362,1",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-04-28,URBANA,004_ZW Parque San Nicolas,3,MR76,26,39588,"5,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-28,URBANA,004_ZW Parque San Nicolas,3,MR76,20,2380425,"322,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-04-29,URBANA,004_ZW Parque San Nicolas,3,MR76,53,6099,"0,8",False,Laboral,Lunes,345.369,-7.652.574
+2024-04-29,URBANA,004_ZW Parque San Nicolas,3,MR76,63,6480,"0,8",False,Laboral,Lunes,345.369,-7.652.574
+2024-04-30,URBANA,004_ZW Parque San Nicolas,3,MR76,60,3167,"0,5",False,Laboral,Martes,345.369,-7.652.574
+2024-04-30,URBANA,004_ZW Parque San Nicolas,3,MR76,70,8198,"1,3",False,Laboral,Martes,345.369,-7.652.574
+2024-05-01,URBANA,004_ZW Parque San Nicolas,3,MR76,27,1427,"0,3",True,Festivo,Miércoles,345.369,-7.652.574
+2024-05-01,URBANA,004_ZW Parque San Nicolas,3,MR76,28,1604,"0,3",True,Festivo,Miércoles,345.369,-7.652.574
+2024-05-02,URBANA,004_ZW Parque San Nicolas,3,MR76,76,9347,"1,8",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-02,URBANA,004_ZW Parque San Nicolas,3,MR76,74,12444,"2,4",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-03,URBANA,004_ZW Parque San Nicolas,3,MR76,59,7040,"1,5",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-03,URBANA,004_ZW Parque San Nicolas,3,MR76,69,9239,2,False,Laboral,Viernes,345.369,-7.652.574
+2024-05-04,URBANA,004_ZW Parque San Nicolas,3,MR76,57,3283,"0,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-04,URBANA,004_ZW Parque San Nicolas,3,MR76,52,2269,"0,3",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-05,URBANA,004_ZW Parque San Nicolas,3,MR76,23,12919,"2,1",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-05,URBANA,004_ZW Parque San Nicolas,3,MR76,27,8061,"1,3",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-06,URBANA,004_ZW Parque San Nicolas,3,MR76,69,4793959,"1003,2",False,Laboral,Lunes,345.369,-7.652.574
+2024-05-06,URBANA,004_ZW Parque San Nicolas,3,MR76,52,3107235,"650,2",False,Laboral,Lunes,345.369,-7.652.574
+2024-05-07,URBANA,004_ZW Parque San Nicolas,3,MR76,55,1520512,"250,8",False,Laboral,Martes,345.369,-7.652.574
+2024-05-07,URBANA,004_ZW Parque San Nicolas,3,MR76,54,2945537,"485,8",False,Laboral,Martes,345.369,-7.652.574
+2024-05-08,URBANA,004_ZW Parque San Nicolas,3,MR76,48,1548509,"195,5",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-08,URBANA,004_ZW Parque San Nicolas,3,MR76,47,2082923,"262,9",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-09,URBANA,004_ZW Parque San Nicolas,3,MR76,49,1493689,"169,5",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-09,URBANA,004_ZW Parque San Nicolas,3,MR76,62,3653282,"414,6",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-10,URBANA,004_ZW Parque San Nicolas,3,MR76,64,1764404,"223,6",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-10,URBANA,004_ZW Parque San Nicolas,3,MR76,76,1208930,"153,2",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-11,URBANA,004_ZW Parque San Nicolas,3,MR76,61,21519,"2,9",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-11,URBANA,004_ZW Parque San Nicolas,3,MR76,71,14883,2,False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-12,URBANA,004_ZW Parque San Nicolas,3,MR76,22,1197,"0,3",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-12,URBANA,004_ZW Parque San Nicolas,3,MR76,26,1467,"0,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-13,URBANA,004_ZW Parque San Nicolas,3,MR76,19,6241,"1,1",True,Festivo,Lunes,345.369,-7.652.574
+2024-05-13,URBANA,004_ZW Parque San Nicolas,3,MR76,22,1444,"0,3",True,Festivo,Lunes,345.369,-7.652.574
+2024-05-14,URBANA,004_ZW Parque San Nicolas,3,MR76,53,3384,"1,6",False,Laboral,Martes,345.369,-7.652.574
+2024-05-14,URBANA,004_ZW Parque San Nicolas,3,MR76,70,18428,"8,5",False,Laboral,Martes,345.369,-7.652.574
+2024-05-15,URBANA,004_ZW Parque San Nicolas,3,MR76,59,4395,"0,7",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-15,URBANA,004_ZW Parque San Nicolas,3,MR76,61,28867,"4,7",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-16,URBANA,004_ZW Parque San Nicolas,3,MR76,52,2777,"0,3",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-16,URBANA,004_ZW Parque San Nicolas,3,MR76,55,22074,"2,7",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-17,URBANA,004_ZW Parque San Nicolas,3,MR76,58,5957,"0,6",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-17,URBANA,004_ZW Parque San Nicolas,3,MR76,68,12132,"1,2",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-18,URBANA,004_ZW Parque San Nicolas,3,MR76,64,5399,"0,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-18,URBANA,004_ZW Parque San Nicolas,3,MR76,66,9742,"0,9",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-19,URBANA,004_ZW Parque San Nicolas,3,MR76,22,2729,"0,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-19,URBANA,004_ZW Parque San Nicolas,3,MR76,21,3154,"0,3",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-20,URBANA,004_ZW Parque San Nicolas,3,MR76,57,12542,"1,8",False,Laboral,Lunes,345.369,-7.652.574
+2024-05-20,URBANA,004_ZW Parque San Nicolas,3,MR76,63,16694,"2,4",False,Laboral,Lunes,345.369,-7.652.574
+2024-05-21,URBANA,004_ZW Parque San Nicolas,3,MR76,60,4441,"0,6",False,Laboral,Martes,345.369,-7.652.574
+2024-05-21,URBANA,004_ZW Parque San Nicolas,3,MR76,68,17607,"2,3",False,Laboral,Martes,345.369,-7.652.574
+2024-05-22,URBANA,004_ZW Parque San Nicolas,3,MR76,53,4735,"1,8",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-22,URBANA,004_ZW Parque San Nicolas,3,MR76,54,2936,"1,1",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-23,URBANA,004_ZW Parque San Nicolas,3,MR76,57,12140,"2,3",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-23,URBANA,004_ZW Parque San Nicolas,3,MR76,62,7466,"1,4",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-24,URBANA,004_ZW Parque San Nicolas,3,MR76,73,8165,"1,7",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-24,URBANA,004_ZW Parque San Nicolas,3,MR76,70,5215,"1,1",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-25,URBANA,004_ZW Parque San Nicolas,3,MR76,54,3763,"0,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-25,URBANA,004_ZW Parque San Nicolas,3,MR76,68,5653,"0,8",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-05-26,URBANA,004_ZW Parque San Nicolas,3,MR76,24,1154,"0,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-26,URBANA,004_ZW Parque San Nicolas,3,MR76,14,1971,"0,3",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-05-27,URBANA,004_ZW Parque San Nicolas,3,MR76,54,3978,"0,5",False,Laboral,Lunes,345.369,-7.652.574
+2024-05-27,URBANA,004_ZW Parque San Nicolas,3,MR76,72,5547,"0,7",False,Laboral,Lunes,345.369,-7.652.574
+2024-05-28,URBANA,004_ZW Parque San Nicolas,3,MR76,46,3463,"0,5",False,Laboral,Martes,345.369,-7.652.574
+2024-05-28,URBANA,004_ZW Parque San Nicolas,3,MR76,61,20326,"2,7",False,Laboral,Martes,345.369,-7.652.574
+2024-05-29,URBANA,004_ZW Parque San Nicolas,3,MR76,43,3149,"0,6",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-29,URBANA,004_ZW Parque San Nicolas,3,MR76,48,3695,"0,7",False,Laboral,Miércoles,345.369,-7.652.574
+2024-05-30,URBANA,004_ZW Parque San Nicolas,3,MR76,46,5212,"0,4",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-30,URBANA,004_ZW Parque San Nicolas,3,MR76,55,3421,"0,3",False,Laboral,Jueves,345.369,-7.652.574
+2024-05-31,URBANA,004_ZW Parque San Nicolas,3,MR76,59,6152,"0,7",False,Laboral,Viernes,345.369,-7.652.574
+2024-05-31,URBANA,004_ZW Parque San Nicolas,3,MR76,65,5793,"0,6",False,Laboral,Viernes,345.369,-7.652.574
+2024-06-01,URBANA,004_ZW Parque San Nicolas,3,MR76,47,6606,"0,7",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-01,URBANA,004_ZW Parque San Nicolas,3,MR76,48,1890,"0,2",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-02,URBANA,004_ZW Parque San Nicolas,3,MR76,26,831,"0,1",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-02,URBANA,004_ZW Parque San Nicolas,3,MR76,35,2824,"0,3",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-03,URBANA,004_ZW Parque San Nicolas,3,MR76,14,518,"0,1",True,Festivo,Lunes,345.369,-7.652.574
+2024-06-03,URBANA,004_ZW Parque San Nicolas,3,MR76,13,837,"0,1",True,Festivo,Lunes,345.369,-7.652.574
+2024-06-04,URBANA,004_ZW Parque San Nicolas,3,MR76,50,3304,"0,7",False,Laboral,Martes,345.369,-7.652.574
+2024-06-04,URBANA,004_ZW Parque San Nicolas,3,MR76,58,4632,1,False,Laboral,Martes,345.369,-7.652.574
+2024-06-05,URBANA,004_ZW Parque San Nicolas,3,MR76,49,1188,"0,4",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-05,URBANA,004_ZW Parque San Nicolas,3,MR76,59,1959,"0,7",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-06,URBANA,004_ZW Parque San Nicolas,3,MR76,49,6416,"1,1",False,Laboral,Jueves,345.369,-7.652.574
+2024-06-06,URBANA,004_ZW Parque San Nicolas,3,MR76,54,3564,"0,6",False,Laboral,Jueves,345.369,-7.652.574
+2024-06-07,URBANA,004_ZW Parque San Nicolas,3,MR76,53,2681,"0,6",False,Laboral,Viernes,345.369,-7.652.574
+2024-06-07,URBANA,004_ZW Parque San Nicolas,3,MR76,59,8898,"1,9",False,Laboral,Viernes,345.369,-7.652.574
+2024-06-08,URBANA,004_ZW Parque San Nicolas,3,MR76,57,5885,"1,9",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-08,URBANA,004_ZW Parque San Nicolas,3,MR76,56,8124,"2,6",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-09,URBANA,004_ZW Parque San Nicolas,3,MR76,21,1024,"0,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-09,URBANA,004_ZW Parque San Nicolas,3,MR76,18,1531,"0,5",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-10,URBANA,004_ZW Parque San Nicolas,3,MR76,11,356,"0,1",True,Festivo,Lunes,345.369,-7.652.574
+2024-06-10,URBANA,004_ZW Parque San Nicolas,3,MR76,20,1141,"0,2",True,Festivo,Lunes,345.369,-7.652.574
+2024-06-11,URBANA,004_ZW Parque San Nicolas,3,MR76,61,15682,"2,5",False,Laboral,Martes,345.369,-7.652.574
+2024-06-11,URBANA,004_ZW Parque San Nicolas,3,MR76,60,3236,"0,5",False,Laboral,Martes,345.369,-7.652.574
+2024-06-12,URBANA,004_ZW Parque San Nicolas,3,MR76,51,3399,"0,5",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-12,URBANA,004_ZW Parque San Nicolas,3,MR76,58,4960,"0,7",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-13,URBANA,004_ZW Parque San Nicolas,3,MR76,61,8934,173935500,False,Laboral,Jueves,345.369,-7.652.574
+2024-06-13,URBANA,004_ZW Parque San Nicolas,3,MR76,66,2728,53111300,False,Laboral,Jueves,345.369,-7.652.574
+2024-06-14,URBANA,004_ZW Parque San Nicolas,3,MR76,61,7712,23179200,False,Laboral,Viernes,345.369,-7.652.574
+2024-06-14,URBANA,004_ZW Parque San Nicolas,3,MR76,55,2887,86771700,False,Laboral,Viernes,345.369,-7.652.574
+2024-06-15,URBANA,004_ZW Parque San Nicolas,3,MR76,43,2270,40724400,False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-15,URBANA,004_ZW Parque San Nicolas,3,MR76,49,2882,51703800,False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-16,URBANA,004_ZW Parque San Nicolas,3,MR76,15,305,5469200,False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-16,URBANA,004_ZW Parque San Nicolas,3,MR76,25,9423,168972300,False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-17,URBANA,004_ZW Parque San Nicolas,3,MR76,49,7876,"1,3",False,Laboral,Lunes,345.369,-7.652.574
+2024-06-17,URBANA,004_ZW Parque San Nicolas,3,MR76,60,5805,"0,9",False,Laboral,Lunes,345.369,-7.652.574
+2024-06-18,URBANA,004_ZW Parque San Nicolas,3,MR76,50,7858,"1,2",False,Laboral,Martes,345.369,-7.652.574
+2024-06-18,URBANA,004_ZW Parque San Nicolas,3,MR76,57,6303,1,False,Laboral,Martes,345.369,-7.652.574
+2024-06-19,URBANA,004_ZW Parque San Nicolas,3,MR76,36,9441,"1,3",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-19,URBANA,004_ZW Parque San Nicolas,3,MR76,47,4116,"0,6",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-20,URBANA,004_ZW Parque San Nicolas,3,MR76,58,7410,"1,5",False,Laboral,Jueves,345.369,-7.652.574
+2024-06-20,URBANA,004_ZW Parque San Nicolas,3,MR76,85,22514,"4,5",False,Laboral,Jueves,345.369,-7.652.574
+2024-06-21,URBANA,004_ZW Parque San Nicolas,3,MR76,91,6539,"1,1",False,Laboral,Viernes,345.369,-7.652.574
+2024-06-21,URBANA,004_ZW Parque San Nicolas,3,MR76,97,6739,"1,2",False,Laboral,Viernes,345.369,-7.652.574
+2024-06-22,URBANA,004_ZW Parque San Nicolas,3,MR76,96,9193,"1,7",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-22,URBANA,004_ZW Parque San Nicolas,3,MR76,100,7505,"1,4",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-23,URBANA,004_ZW Parque San Nicolas,3,MR76,17,246,"0,1",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-23,URBANA,004_ZW Parque San Nicolas,3,MR76,27,471,"0,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-24,URBANA,004_ZW Parque San Nicolas,3,MR76,92,3362,"0,6",False,Laboral,Lunes,345.369,-7.652.574
+2024-06-24,URBANA,004_ZW Parque San Nicolas,3,MR76,82,3390,"0,6",False,Laboral,Lunes,345.369,-7.652.574
+2024-06-25,URBANA,004_ZW Parque San Nicolas,3,MR76,90,7232,"1,8",False,Laboral,Martes,345.369,-7.652.574
+2024-06-25,URBANA,004_ZW Parque San Nicolas,3,MR76,86,5563,"1,4",False,Laboral,Martes,345.369,-7.652.574
+2024-06-26,URBANA,004_ZW Parque San Nicolas,3,MR76,66,6717,"1,7",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-26,URBANA,004_ZW Parque San Nicolas,3,MR76,75,2072,"0,5",False,Laboral,Miércoles,345.369,-7.652.574
+2024-06-27,URBANA,004_ZW Parque San Nicolas,3,MR76,73,3128,"0,9",False,Laboral,Jueves,345.369,-7.652.574
+2024-06-27,URBANA,004_ZW Parque San Nicolas,3,MR76,77,4461,"1,3",False,Laboral,Jueves,345.369,-7.652.574
+2024-06-28,URBANA,004_ZW Parque San Nicolas,3,MR76,78,5074,"0,9",False,Laboral,Viernes,345.369,-7.652.574
+2024-06-28,URBANA,004_ZW Parque San Nicolas,3,MR76,88,5350,"0,9",False,Laboral,Viernes,345.369,-7.652.574
+2024-06-29,URBANA,004_ZW Parque San Nicolas,3,MR76,56,2766,"0,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-29,URBANA,004_ZW Parque San Nicolas,3,MR76,65,2368,"0,4",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-06-30,URBANA,004_ZW Parque San Nicolas,3,MR76,33,1861,"0,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-06-30,URBANA,004_ZW Parque San Nicolas,3,MR76,34,924,"0,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-01,URBANA,004_ZW Parque San Nicolas,3,MR76,24,165594,23,True,Festivo,Lunes,345.369,-7.652.574
+2024-07-01,URBANA,004_ZW Parque San Nicolas,3,MR76,32,8801,"1,22",True,Festivo,Lunes,345.369,-7.652.574
+2024-07-02,URBANA,004_ZW Parque San Nicolas,3,MR76,78,16145,"1,74",False,Laboral,Martes,345.369,-7.652.574
+2024-07-02,URBANA,004_ZW Parque San Nicolas,3,MR76,86,5622,"0,61",False,Laboral,Martes,345.369,-7.652.574
+2024-07-03,URBANA,004_ZW Parque San Nicolas,3,MR76,80,8895,"1,06",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-03,URBANA,004_ZW Parque San Nicolas,3,MR76,74,3594,"0,43",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-04,URBANA,004_ZW Parque San Nicolas,3,MR76,80,10261,"1,29",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-04,URBANA,004_ZW Parque San Nicolas,3,MR76,85,7294,"0,92",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-05,URBANA,004_ZW Parque San Nicolas,3,MR76,59,2710,"0,32",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-05,URBANA,004_ZW Parque San Nicolas,3,MR76,73,2082,"0,24",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-06,URBANA,004_ZW Parque San Nicolas,3,MR76,72,10690,"1,27",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-07-06,URBANA,004_ZW Parque San Nicolas,3,MR76,84,6063,"0,72",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-07-07,URBANA,004_ZW Parque San Nicolas,3,MR76,33,4832,"0,55",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-07,URBANA,004_ZW Parque San Nicolas,3,MR76,27,20483,"2,32",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-08,URBANA,004_ZW Parque San Nicolas,3,MR76,71,3086,"0,56",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-08,URBANA,004_ZW Parque San Nicolas,3,MR76,90,5325,"0,96",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-09,URBANA,004_ZW Parque San Nicolas,3,MR76,69,2247,"0,39",False,Laboral,Martes,345.369,-7.652.574
+2024-07-09,URBANA,004_ZW Parque San Nicolas,3,MR76,97,4616,"0,79",False,Laboral,Martes,345.369,-7.652.574
+2024-07-10,URBANA,004_ZW Parque San Nicolas,3,MR76,71,2850,"0,41",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-10,URBANA,004_ZW Parque San Nicolas,3,MR76,75,3753,"0,54",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-11,URBANA,004_ZW Parque San Nicolas,3,MR76,70,4312,"0,58",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-11,URBANA,004_ZW Parque San Nicolas,3,MR76,88,4310,"0,58",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-12,URBANA,004_ZW Parque San Nicolas,3,MR76,84,3641,"0,57",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-12,URBANA,004_ZW Parque San Nicolas,3,MR76,80,3629,"0,57",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-13,URBANA,004_ZW Parque San Nicolas,3,MR76,88,9923,"1,41",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-07-13,URBANA,004_ZW Parque San Nicolas,3,MR76,101,4983,"0,71",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-07-14,URBANA,004_ZW Parque San Nicolas,3,MR76,31,956,"0,15",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-14,URBANA,004_ZW Parque San Nicolas,3,MR76,40,3241,"0,51",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-15,URBANA,004_ZW Parque San Nicolas,3,MR76,62,3639,"0,65",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-15,URBANA,004_ZW Parque San Nicolas,3,MR76,97,3612,"0,65",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-16,URBANA,004_ZW Parque San Nicolas,3,MR76,71,2483,"0,4",False,Laboral,Martes,345.369,-7.652.574
+2024-07-16,URBANA,004_ZW Parque San Nicolas,3,MR76,100,3853,"0,61",False,Laboral,Martes,345.369,-7.652.574
+2024-07-17,URBANA,004_ZW Parque San Nicolas,3,MR76,77,2983,"0,66",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-17,URBANA,004_ZW Parque San Nicolas,3,MR76,93,2888,"0,64",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-18,URBANA,004_ZW Parque San Nicolas,3,MR76,100,7350,"1,23",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-18,URBANA,004_ZW Parque San Nicolas,3,MR76,82,4456,"0,75",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-19,URBANA,004_ZW Parque San Nicolas,3,MR76,82,4337,"0,6",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-19,URBANA,004_ZW Parque San Nicolas,3,MR76,97,11678,"1,63",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-20,URBANA,004_ZW Parque San Nicolas,3,MR76,61,12867,"1,65",True,Festivo,Sábado,345.369,-7.652.574
+2024-07-20,URBANA,004_ZW Parque San Nicolas,3,MR76,62,8782,"1,13",True,Festivo,Sábado,345.369,-7.652.574
+2024-07-21,URBANA,004_ZW Parque San Nicolas,3,MR76,24,1281,"0,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-21,URBANA,004_ZW Parque San Nicolas,3,MR76,27,1478,"0,23",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-22,URBANA,004_ZW Parque San Nicolas,3,MR76,80,1375583,"197,92",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-22,URBANA,004_ZW Parque San Nicolas,3,MR76,99,451914,"65,02",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-23,URBANA,004_ZW Parque San Nicolas,3,MR76,63,3358538,"484,85",False,Laboral,Martes,345.369,-7.652.574
+2024-07-23,URBANA,004_ZW Parque San Nicolas,3,MR76,97,913453,"131,87",False,Laboral,Martes,345.369,-7.652.574
+2024-07-24,URBANA,004_ZW Parque San Nicolas,3,MR76,84,2769942,"438,22",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-24,URBANA,004_ZW Parque San Nicolas,3,MR76,80,2022746,"320,01",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-25,URBANA,004_ZW Parque San Nicolas,3,MR76,94,2603378,"411,78",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-25,URBANA,004_ZW Parque San Nicolas,3,MR76,108,1708770,"270,28",False,Laboral,Jueves,345.369,-7.652.574
+2024-07-26,URBANA,004_ZW Parque San Nicolas,3,MR76,87,2589376,"341,04",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-26,URBANA,004_ZW Parque San Nicolas,3,MR76,101,3335325,"439,29",False,Laboral,Viernes,345.369,-7.652.574
+2024-07-27,URBANA,004_ZW Parque San Nicolas,3,MR76,85,1871351,"320,05",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-07-27,URBANA,004_ZW Parque San Nicolas,3,MR76,84,2077460,"355,3",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-07-28,URBANA,004_ZW Parque San Nicolas,3,MR76,40,671986,"142,2",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-28,URBANA,004_ZW Parque San Nicolas,3,MR76,42,485498,"102,74",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-07-29,URBANA,004_ZW Parque San Nicolas,3,MR76,82,1488928,"238,75",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-29,URBANA,004_ZW Parque San Nicolas,3,MR76,97,1594926,"255,75",False,Laboral,Lunes,345.369,-7.652.574
+2024-07-30,URBANA,004_ZW Parque San Nicolas,3,MR76,94,3565344,"521,03",False,Laboral,Martes,345.369,-7.652.574
+2024-07-30,URBANA,004_ZW Parque San Nicolas,3,MR76,116,4518659,"660,35",False,Laboral,Martes,345.369,-7.652.574
+2024-07-31,URBANA,004_ZW Parque San Nicolas,3,MR76,103,1916945,"318,41",False,Laboral,Miércoles,345.369,-7.652.574
+2024-07-31,URBANA,004_ZW Parque San Nicolas,3,MR76,113,1305260,"216,81",False,Laboral,Miércoles,345.369,-7.652.574
+2024-08-01,URBANA,004_ZW Parque San Nicolas,3,MR76,86,11970,"1,79",False,Laboral,Jueves,345.369,-7.652.574
+2024-08-01,URBANA,004_ZW Parque San Nicolas,3,MR76,104,7041,"1,05",False,Laboral,Jueves,345.369,-7.652.574
+2024-08-02,URBANA,004_ZW Parque San Nicolas,3,MR76,74,127691,"21,24",False,Laboral,Viernes,345.369,-7.652.574
+2024-08-02,URBANA,004_ZW Parque San Nicolas,3,MR76,106,10573,"1,76",False,Laboral,Viernes,345.369,-7.652.574
+2024-08-03,URBANA,004_ZW Parque San Nicolas,3,MR76,65,4635,"0,94",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-08-03,URBANA,004_ZW Parque San Nicolas,3,MR76,80,7130,"1,45",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-08-04,URBANA,004_ZW Parque San Nicolas,3,MR76,32,5300,"0,85",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-08-04,URBANA,004_ZW Parque San Nicolas,3,MR76,42,2709,"0,43",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-08-05,URBANA,004_ZW Parque San Nicolas,3,MR76,85,5000,"0,72",False,Laboral,Lunes,345.369,-7.652.574
+2024-08-05,URBANA,004_ZW Parque San Nicolas,3,MR76,98,10570,"1,53",False,Laboral,Lunes,345.369,-7.652.574
+2024-08-06,URBANA,004_ZW Parque San Nicolas,3,MR76,80,7552,"0,73",False,Laboral,Martes,345.369,-7.652.574
+2024-08-06,URBANA,004_ZW Parque San Nicolas,3,MR76,98,12964,"1,25",False,Laboral,Martes,345.369,-7.652.574
+2024-08-07,URBANA,004_ZW Parque San Nicolas,3,MR76,50,5157,"0,61",True,Festivo,Miércoles,345.369,-7.652.574
+2024-08-07,URBANA,004_ZW Parque San Nicolas,3,MR76,56,29814,"3,55",True,Festivo,Miércoles,345.369,-7.652.574
+2024-08-08,URBANA,004_ZW Parque San Nicolas,3,MR76,85,6405,"0,8",False,Laboral,Jueves,345.369,-7.652.574
+2024-08-08,URBANA,004_ZW Parque San Nicolas,3,MR76,75,6888,"0,86",False,Laboral,Jueves,345.369,-7.652.574
+2024-08-09,URBANA,004_ZW Parque San Nicolas,3,MR76,90,601781,"111,06",False,Laboral,Viernes,345.369,-7.652.574
+2024-08-09,URBANA,004_ZW Parque San Nicolas,3,MR76,76,186495,"34,42",False,Laboral,Viernes,345.369,-7.652.574
+2024-08-10,URBANA,004_ZW Parque San Nicolas,3,MR76,75,969375,"183,48",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-08-10,URBANA,004_ZW Parque San Nicolas,3,MR76,85,571021,"108,08",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-08-11,URBANA,004_ZW Parque San Nicolas,3,MR76,27,405730,"70,41",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-08-11,URBANA,004_ZW Parque San Nicolas,3,MR76,25,287217,"49,85",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-08-12,URBANA,004_ZW Parque San Nicolas,3,MR76,85,948563,"203,33",False,Laboral,Lunes,345.369,-7.652.574
+2024-08-12,URBANA,004_ZW Parque San Nicolas,3,MR76,43,272159,"58,34",False,Laboral,Lunes,345.369,-7.652.574
+2024-08-13,URBANA,004_ZW Parque San Nicolas,3,MR76,120,1916242,"216,9",False,Laboral,Martes,345.369,-7.652.574
+2024-08-13,URBANA,004_ZW Parque San Nicolas,3,MR76,87,2860151,"323,74",False,Laboral,Martes,345.369,-7.652.574
+2024-08-14,URBANA,004_ZW Parque San Nicolas,3,MR76,110,196962,"26,14",False,Laboral,Miércoles,345.369,-7.652.574
+2024-08-14,URBANA,004_ZW Parque San Nicolas,3,MR76,5,6156,"0,82",False,Laboral,Miércoles,345.369,-7.652.574
+2024-08-15,URBANA,004_ZW Parque San Nicolas,3,MR76,96,13405,"2,01",False,Laboral,Jueves,345.369,-7.652.574
+2024-08-16,URBANA,004_ZW Parque San Nicolas,3,MR76,104,22123,"3,01",False,Laboral,Viernes,345.369,-7.652.574
+2024-08-17,URBANA,004_ZW Parque San Nicolas,3,MR76,92,15068,"2,19",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-08-18,URBANA,004_ZW Parque San Nicolas,3,MR76,33,5569,"0,84",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-08-19,URBANA,004_ZW Parque San Nicolas,3,MR76,35,5034,"0,69",True,Festivo,Lunes,345.369,-7.652.574
+2024-08-20,URBANA,004_ZW Parque San Nicolas,3,MR76,101,10165,"2,52",False,Laboral,Martes,345.369,-7.652.574
+2024-08-21,URBANA,004_ZW Parque San Nicolas,3,MR76,107,8781,"2,56",False,Laboral,Miércoles,345.369,-7.652.574
+2024-08-22,URBANA,004_ZW Parque San Nicolas,3,MR76,14,247,"0,07",False,Laboral,Jueves,345.369,-7.652.574
+2024-10-25,URBANA,004_ZW Parque San Nicolas,3,MR76,33,632554,"141,3",False,Laboral,Viernes,345.369,-7.652.574
+2024-10-25,URBANA,004_ZW Parque San Nicolas,3,MR76,25,836994,"186,97",False,Laboral,Viernes,345.369,-7.652.574
+2024-10-26,URBANA,004_ZW Parque San Nicolas,3,MR76,47,3235514,"418,99",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-10-26,URBANA,004_ZW Parque San Nicolas,3,MR76,48,3486688,"451,52",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-10-27,URBANA,004_ZW Parque San Nicolas,3,MR76,14,197098,"19,8",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-10-27,URBANA,004_ZW Parque San Nicolas,3,MR76,20,55970,"5,62",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-10-28,URBANA,004_ZW Parque San Nicolas,3,MR76,36,269020,"44,67",False,Laboral,Lunes,345.369,-7.652.574
+2024-10-28,URBANA,004_ZW Parque San Nicolas,3,MR76,41,708360,"117,63",False,Laboral,Lunes,345.369,-7.652.574
+2024-12-11,URBANA,004_ZW Parque San Nicolas,3,MR76,40,55293,"1,83",False,Laboral,Miércoles,345.369,-7.652.574
+2024-12-12,URBANA,004_ZW Parque San Nicolas,3,MR76,78,1643107,"47,88",False,Laboral,Jueves,345.369,-7.652.574
+2024-12-13,URBANA,004_ZW Parque San Nicolas,3,MR76,84,1900668,"56,02",False,Laboral,Viernes,345.369,-7.652.574
+2024-12-14,URBANA,004_ZW Parque San Nicolas,3,MR76,104,1560365,"51,37",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-12-15,URBANA,004_ZW Parque San Nicolas,3,MR76,63,2386826,"80,57",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-12-16,URBANA,004_ZW Parque San Nicolas,3,MR76,95,2110860,"63,47",False,Laboral,Lunes,345.369,-7.652.574
+2024-12-16,URBANA,004_ZW Parque San Nicolas,3,MR76,48,1344555,"40,43",False,Laboral,Lunes,345.369,-7.652.574
+2024-12-17,URBANA,004_ZW Parque San Nicolas,3,MR76,84,1185501,"38,6",False,Laboral,Martes,345.369,-7.652.574
+2024-12-17,URBANA,004_ZW Parque San Nicolas,3,MR76,100,1778607,"57,9",False,Laboral,Martes,345.369,-7.652.574
+2024-12-18,URBANA,004_ZW Parque San Nicolas,3,MR76,93,665961,"21,1",False,Laboral,Miércoles,345.369,-7.652.574
+2024-12-18,URBANA,004_ZW Parque San Nicolas,3,MR76,100,1084941,"34,4",False,Laboral,Miércoles,345.369,-7.652.574
+2024-12-19,URBANA,004_ZW Parque San Nicolas,3,MR76,99,683765,24,False,Laboral,Jueves,345.369,-7.652.574
+2024-12-19,URBANA,004_ZW Parque San Nicolas,3,MR76,91,572186,"20,1",False,Laboral,Jueves,345.369,-7.652.574
+2024-12-20,URBANA,004_ZW Parque San Nicolas,3,MR76,87,993836,"32,8",False,Laboral,Viernes,345.369,-7.652.574
+2024-12-20,URBANA,004_ZW Parque San Nicolas,3,MR76,86,1579381,"52,1",False,Laboral,Viernes,345.369,-7.652.574
+2024-12-21,URBANA,004_ZW Parque San Nicolas,3,MR76,89,690276,"26,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-12-21,URBANA,004_ZW Parque San Nicolas,3,MR76,97,1570181,"60,2",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-12-22,URBANA,004_ZW Parque San Nicolas,3,MR76,71,781183,"24,4",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-12-22,URBANA,004_ZW Parque San Nicolas,3,MR76,77,381489,"11,9",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-12-23,URBANA,004_ZW Parque San Nicolas,3,MR76,74,305842,"12,2",False,Laboral,Lunes,345.369,-7.652.574
+2024-12-23,URBANA,004_ZW Parque San Nicolas,3,MR76,109,363192,"14,5",False,Laboral,Lunes,345.369,-7.652.574
+2024-12-24,URBANA,004_ZW Parque San Nicolas,3,MR76,51,526448,22,False,Laboral,Martes,345.369,-7.652.574
+2024-12-24,URBANA,004_ZW Parque San Nicolas,3,MR76,48,1298917,"54,3",False,Laboral,Martes,345.369,-7.652.574
+2024-12-25,URBANA,004_ZW Parque San Nicolas,3,MR76,29,1872773,"66,3",True,Festivo,Miércoles,345.369,-7.652.574
+2024-12-25,URBANA,004_ZW Parque San Nicolas,3,MR76,35,3143438,111,True,Festivo,Miércoles,345.369,-7.652.574
+2024-12-26,URBANA,004_ZW Parque San Nicolas,3,MR76,43,1146945,"41,9",False,Laboral,Jueves,345.369,-7.652.574
+2024-12-26,URBANA,004_ZW Parque San Nicolas,3,MR76,49,942222,"34,4",False,Laboral,Jueves,345.369,-7.652.574
+2024-12-27,URBANA,004_ZW Parque San Nicolas,3,MR76,52,732323,"22,5",False,Laboral,Viernes,345.369,-7.652.574
+2024-12-27,URBANA,004_ZW Parque San Nicolas,3,MR76,61,624251,"19,1",False,Laboral,Viernes,345.369,-7.652.574
+2024-12-28,URBANA,004_ZW Parque San Nicolas,3,MR76,41,471850,20,False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-12-28,URBANA,004_ZW Parque San Nicolas,3,MR76,49,552107,"23,5",False,Fin de Semana,Sábado,345.369,-7.652.574
+2024-12-29,URBANA,004_ZW Parque San Nicolas,3,MR76,30,3247046,100,False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-12-29,URBANA,004_ZW Parque San Nicolas,3,MR76,26,2505294,"77,5",False,Fin de Semana,Domingo,345.369,-7.652.574
+2024-12-30,URBANA,004_ZW Parque San Nicolas,3,MR76,36,968404,"39,6",False,Laboral,Lunes,345.369,-7.652.574
+2024-12-30,URBANA,004_ZW Parque San Nicolas,3,MR76,47,1320640,54,False,Laboral,Lunes,345.369,-7.652.574
+2024-12-31,RURAL,004_ZW Parque San Nicolas,3,MR76,43,847617,"45,6",False,Laboral,Martes,345.369,-7.652.574
+2024-12-31,RURAL,004_ZW Parque San Nicolas,3,MR76,52,1549072,"83,4",False,Laboral,Martes,345.369,-7.652.574
+2025-01-01,URBANA,004_ZW Parque San Nicolas,3,MR76,19,2817735,192,True,Festivo,Miércoles,345.369,-7.652.574
+2025-01-01,URBANA,004_ZW Parque San Nicolas,3,MR76,19,764869,52,True,Festivo,Miércoles,345.369,-7.652.574
+2025-01-02,URBANA,004_ZW Parque San Nicolas,3,MR76,34,2773604,100,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-02,URBANA,004_ZW Parque San Nicolas,3,MR76,54,3149072,113,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-03,URBANA,004_ZW Parque San Nicolas,3,MR76,32,3202432,120,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-03,URBANA,004_ZW Parque San Nicolas,3,MR76,53,5039610,188,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-04,URBANA,004_ZW Parque San Nicolas,3,MR76,39,5938585,220,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-04,URBANA,004_ZW Parque San Nicolas,3,MR76,47,2528955,94,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-05,URBANA,004_ZW Parque San Nicolas,3,MR76,21,1621602,50,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-05,URBANA,004_ZW Parque San Nicolas,3,MR76,30,3608665,110,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-06,URBANA,004_ZW Parque San Nicolas,3,MR76,19,929069,25,True,Festivo,Lunes,345.369,-7.652.574
+2025-01-06,URBANA,004_ZW Parque San Nicolas,3,MR76,28,1282820,34,True,Festivo,Lunes,345.369,-7.652.574
+2025-01-07,URBANA,004_ZW Parque San Nicolas,3,MR76,49,2317064,70,False,Laboral,Martes,345.369,-7.652.574
+2025-01-07,URBANA,004_ZW Parque San Nicolas,3,MR76,58,2254348,68,False,Laboral,Martes,345.369,-7.652.574
+2025-01-08,URBANA,004_ZW Parque San Nicolas,3,MR76,60,1857340,54,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-08,URBANA,004_ZW Parque San Nicolas,3,MR76,57,3045190,88,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-09,URBANA,004_ZW Parque San Nicolas,3,MR76,54,3036508,87,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-09,URBANA,004_ZW Parque San Nicolas,3,MR76,57,3407560,98,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-10,URBANA,004_ZW Parque San Nicolas,3,MR76,49,977258,27,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-10,URBANA,004_ZW Parque San Nicolas,3,MR76,57,540504,15,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-11,URBANA,004_ZW Parque San Nicolas,3,MR76,53,1727280,51,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-11,URBANA,004_ZW Parque San Nicolas,3,MR76,56,4476743,131,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-12,URBANA,004_ZW Parque San Nicolas,3,MR76,27,1158166,31,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-12,URBANA,004_ZW Parque San Nicolas,3,MR76,39,839978,22,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-13,URBANA,004_ZW Parque San Nicolas,3,MR76,54,1792986,60,False,Laboral,Lunes,345.369,-7.652.574
+2025-01-13,URBANA,004_ZW Parque San Nicolas,3,MR76,52,1807170,60,False,Laboral,Lunes,345.369,-7.652.574
+2025-01-14,URBANA,004_ZW Parque San Nicolas,3,MR76,50,1451644,48,False,Laboral,Martes,345.369,-7.652.574
+2025-01-14,URBANA,004_ZW Parque San Nicolas,3,MR76,51,1218509,40,False,Laboral,Martes,345.369,-7.652.574
+2025-01-15,URBANA,004_ZW Parque San Nicolas,3,MR76,56,2267176,78,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-15,URBANA,004_ZW Parque San Nicolas,3,MR76,59,2128982,74,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-16,URBANA,004_ZW Parque San Nicolas,3,MR76,47,3609863,115,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-16,URBANA,004_ZW Parque San Nicolas,3,MR76,53,1036090,33,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-17,URBANA,004_ZW Parque San Nicolas,3,MR76,53,3780866,124,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-17,URBANA,004_ZW Parque San Nicolas,3,MR76,61,1551948,51,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-18,URBANA,004_ZW Parque San Nicolas,3,MR76,55,2018373,67,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-18,URBANA,004_ZW Parque San Nicolas,3,MR76,62,4649865,153,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-19,URBANA,004_ZW Parque San Nicolas,3,MR76,25,656310,20,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-19,URBANA,004_ZW Parque San Nicolas,3,MR76,29,1381992,43,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-20,URBANA,004_ZW Parque San Nicolas,3,MR76,57,3197939,99,False,Laboral,Lunes,345.369,-7.652.574
+2025-01-20,URBANA,004_ZW Parque San Nicolas,3,MR76,57,1221188,38,False,Laboral,Lunes,345.369,-7.652.574
+2025-01-21,URBANA,004_ZW Parque San Nicolas,3,MR76,67,3783793,105,False,Laboral,Martes,345.369,-7.652.574
+2025-01-21,URBANA,004_ZW Parque San Nicolas,3,MR76,69,1695826,47,False,Laboral,Martes,345.369,-7.652.574
+2025-01-22,URBANA,004_ZW Parque San Nicolas,3,MR76,53,781231,23,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-22,URBANA,004_ZW Parque San Nicolas,3,MR76,72,1284803,38,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-23,URBANA,004_ZW Parque San Nicolas,3,MR76,53,2259811,56,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-23,URBANA,004_ZW Parque San Nicolas,3,MR76,60,3371495,84,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-24,URBANA,004_ZW Parque San Nicolas,3,MR76,70,2861444,86,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-24,URBANA,004_ZW Parque San Nicolas,3,MR76,69,5936757,178,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-25,URBANA,004_ZW Parque San Nicolas,3,MR76,49,3594149,97,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-25,URBANA,004_ZW Parque San Nicolas,3,MR76,57,1274470,34,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-01-26,URBANA,004_ZW Parque San Nicolas,3,MR76,33,2734204,70,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-26,URBANA,004_ZW Parque San Nicolas,3,MR76,32,1205021,31,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-01-27,URBANA,004_ZW Parque San Nicolas,3,MR76,53,2319283,61,False,Laboral,Lunes,345.369,-7.652.574
+2025-01-27,URBANA,004_ZW Parque San Nicolas,3,MR76,57,1899019,50,False,Laboral,Lunes,345.369,-7.652.574
+2025-01-28,URBANA,004_ZW Parque San Nicolas,3,MR76,74,5780506,175,False,Laboral,Martes,345.369,-7.652.574
+2025-01-28,URBANA,004_ZW Parque San Nicolas,3,MR76,75,2761234,84,False,Laboral,Martes,345.369,-7.652.574
+2025-01-29,URBANA,004_ZW Parque San Nicolas,3,MR76,62,2816798,78,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-29,URBANA,004_ZW Parque San Nicolas,3,MR76,66,2741475,76,False,Laboral,Miércoles,345.369,-7.652.574
+2025-01-30,URBANA,004_ZW Parque San Nicolas,3,MR76,81,5298720,195,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-30,URBANA,004_ZW Parque San Nicolas,3,MR76,76,3187044,117,False,Laboral,Jueves,345.369,-7.652.574
+2025-01-31,URBANA,004_ZW Parque San Nicolas,3,MR76,78,1588033,86,False,Laboral,Viernes,345.369,-7.652.574
+2025-01-31,URBANA,004_ZW Parque San Nicolas,3,MR76,72,850932,46,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-01,URBANA,004_ZW Parque San Nicolas,3,MR76,67,6083264,215,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-01,URBANA,004_ZW Parque San Nicolas,3,MR76,55,787310,28,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-02,URBANA,004_ZW Parque San Nicolas,3,MR76,30,2437083,72,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-02,URBANA,004_ZW Parque San Nicolas,3,MR76,34,2581165,76,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-03,URBANA,004_ZW Parque San Nicolas,3,MR76,71,3878503,150,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-03,URBANA,004_ZW Parque San Nicolas,3,MR76,78,3898199,151,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-04,URBANA,004_ZW Parque San Nicolas,3,MR76,66,6777229,240,False,Laboral,Martes,345.369,-7.652.574
+2025-02-04,URBANA,004_ZW Parque San Nicolas,3,MR76,84,3412329,121,False,Laboral,Martes,345.369,-7.652.574
+2025-02-05,URBANA,004_ZW Parque San Nicolas,3,MR76,81,1953729,81,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-05,URBANA,004_ZW Parque San Nicolas,3,MR76,86,1657825,68,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-06,URBANA,004_ZW Parque San Nicolas,3,MR76,88,5245550,194,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-06,URBANA,004_ZW Parque San Nicolas,3,MR76,92,2518052,93,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-07,URBANA,004_ZW Parque San Nicolas,3,MR76,70,2111622,72,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-07,URBANA,004_ZW Parque San Nicolas,3,MR76,68,2588598,88,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-08,URBANA,004_ZW Parque San Nicolas,3,MR76,56,1008495,38,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-08,URBANA,004_ZW Parque San Nicolas,3,MR76,65,2727512,102,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-09,URBANA,004_ZW Parque San Nicolas,3,MR76,35,2893339,91,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-09,URBANA,004_ZW Parque San Nicolas,3,MR76,36,3018477,95,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-10,URBANA,004_ZW Parque San Nicolas,3,MR76,73,5227987,199,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-10,URBANA,004_ZW Parque San Nicolas,3,MR76,87,3098371,118,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-11,URBANA,004_ZW Parque San Nicolas,3,MR76,78,2901692,98,False,Laboral,Martes,345.369,-7.652.574
+2025-02-11,URBANA,004_ZW Parque San Nicolas,3,MR76,70,3221621,109,False,Laboral,Martes,345.369,-7.652.574
+2025-02-12,URBANA,004_ZW Parque San Nicolas,3,MR76,66,4140990,126,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-12,URBANA,004_ZW Parque San Nicolas,3,MR76,75,3831485,116,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-13,URBANA,004_ZW Parque San Nicolas,3,MR76,55,1539132,72,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-13,URBANA,004_ZW Parque San Nicolas,3,MR76,61,2504724,118,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-14,URBANA,004_ZW Parque San Nicolas,3,MR76,74,4213770,126,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-14,URBANA,004_ZW Parque San Nicolas,3,MR76,61,3870298,116,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-15,URBANA,004_ZW Parque San Nicolas,3,MR76,70,5226949,189,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-15,URBANA,004_ZW Parque San Nicolas,3,MR76,64,1540380,56,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-16,URBANA,004_ZW Parque San Nicolas,3,MR76,36,2817210,93,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-16,URBANA,004_ZW Parque San Nicolas,3,MR76,34,1248698,41,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-17,URBANA,004_ZW Parque San Nicolas,3,MR76,82,3967461,141,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-17,URBANA,004_ZW Parque San Nicolas,3,MR76,81,3408858,121,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-18,URBANA,004_ZW Parque San Nicolas,3,MR76,92,2837469,101,False,Laboral,Martes,345.369,-7.652.574
+2025-02-18,URBANA,004_ZW Parque San Nicolas,3,MR76,82,3027752,108,False,Laboral,Martes,345.369,-7.652.574
+2025-02-19,URBANA,004_ZW Parque San Nicolas,3,MR76,75,5271819,168,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-19,URBANA,004_ZW Parque San Nicolas,3,MR76,73,2131083,68,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-20,URBANA,004_ZW Parque San Nicolas,3,MR76,63,6402240,182,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-20,URBANA,004_ZW Parque San Nicolas,3,MR76,65,2592300,74,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-21,URBANA,004_ZW Parque San Nicolas,3,MR76,73,4360105,150,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-21,URBANA,004_ZW Parque San Nicolas,3,MR76,81,1166291,40,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-22,URBANA,004_ZW Parque San Nicolas,3,MR76,61,3338919,117,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-22,URBANA,004_ZW Parque San Nicolas,3,MR76,57,1973324,69,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-02-23,URBANA,004_ZW Parque San Nicolas,3,MR76,35,2606767,76,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-23,URBANA,004_ZW Parque San Nicolas,3,MR76,34,1196377,35,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-02-24,URBANA,004_ZW Parque San Nicolas,3,MR76,68,4205445,173,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-24,URBANA,004_ZW Parque San Nicolas,3,MR76,68,1515700,62,False,Laboral,Lunes,345.369,-7.652.574
+2025-02-25,URBANA,004_ZW Parque San Nicolas,3,MR76,60,3483557,112,False,Laboral,Martes,345.369,-7.652.574
+2025-02-25,URBANA,004_ZW Parque San Nicolas,3,MR76,68,1211327,39,False,Laboral,Martes,345.369,-7.652.574
+2025-02-26,URBANA,004_ZW Parque San Nicolas,3,MR76,62,2152432,78,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-26,URBANA,004_ZW Parque San Nicolas,3,MR76,80,1668246,60,False,Laboral,Miércoles,345.369,-7.652.574
+2025-02-27,URBANA,004_ZW Parque San Nicolas,3,MR76,68,2920663,102,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-27,URBANA,004_ZW Parque San Nicolas,3,MR76,81,2355611,82,False,Laboral,Jueves,345.369,-7.652.574
+2025-02-28,URBANA,004_ZW Parque San Nicolas,3,MR76,81,6051142,215,False,Laboral,Viernes,345.369,-7.652.574
+2025-02-28,URBANA,004_ZW Parque San Nicolas,3,MR76,83,4032300,143,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-01,URBANA,004_ZW Parque San Nicolas,3,MR76,54,2118306,80,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-01,URBANA,004_ZW Parque San Nicolas,3,MR76,54,2429209,91,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-02,URBANA,004_ZW Parque San Nicolas,3,MR76,25,1005360,30,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-02,URBANA,004_ZW Parque San Nicolas,3,MR76,21,222229,7,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-03,URBANA,004_ZW Parque San Nicolas,3,MR76,76,5928089,222,False,Laboral,Lunes,345.369,-7.652.574
+2025-03-03,URBANA,004_ZW Parque San Nicolas,3,MR76,72,4769184,179,False,Laboral,Lunes,345.369,-7.652.574
+2025-03-04,URBANA,004_ZW Parque San Nicolas,3,MR76,64,1236746,56,False,Laboral,Martes,345.369,-7.652.574
+2025-03-04,URBANA,004_ZW Parque San Nicolas,3,MR76,74,2636978,119,False,Laboral,Martes,345.369,-7.652.574
+2025-03-05,URBANA,004_ZW Parque San Nicolas,3,MR76,74,5466035,193,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-05,URBANA,004_ZW Parque San Nicolas,3,MR76,71,2808868,99,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-06,URBANA,004_ZW Parque San Nicolas,3,MR76,59,3370972,108,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-06,URBANA,004_ZW Parque San Nicolas,3,MR76,67,2352311,76,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-07,URBANA,004_ZW Parque San Nicolas,3,MR76,53,3807742,137,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-07,URBANA,004_ZW Parque San Nicolas,3,MR76,70,3514646,126,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-08,URBANA,004_ZW Parque San Nicolas,3,MR76,59,4219358,122,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-08,URBANA,004_ZW Parque San Nicolas,3,MR76,67,1810494,52,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-09,URBANA,004_ZW Parque San Nicolas,3,MR76,24,1109954,35,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-09,URBANA,004_ZW Parque San Nicolas,3,MR76,24,630181,20,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-10,URBANA,004_ZW Parque San Nicolas,3,MR76,65,3481560,101,False,Laboral,Lunes,345.369,-7.652.574
+2025-03-10,URBANA,004_ZW Parque San Nicolas,3,MR76,89,5215410,151,False,Laboral,Lunes,345.369,-7.652.574
+2025-03-11,URBANA,004_ZW Parque San Nicolas,3,MR76,72,2364127,106,False,Laboral,Martes,345.369,-7.652.574
+2025-03-11,URBANA,004_ZW Parque San Nicolas,3,MR76,73,1484694,67,False,Laboral,Martes,345.369,-7.652.574
+2025-03-12,URBANA,004_ZW Parque San Nicolas,3,MR76,70,1828101,62,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-12,URBANA,004_ZW Parque San Nicolas,3,MR76,62,1911233,65,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-13,URBANA,004_ZW Parque San Nicolas,3,MR76,75,3022196,125,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-13,URBANA,004_ZW Parque San Nicolas,3,MR76,80,1750353,72,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-14,URBANA,004_ZW Parque San Nicolas,3,MR76,74,2872666,97,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-14,URBANA,004_ZW Parque San Nicolas,3,MR76,77,3621215,122,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-15,URBANA,004_ZW Parque San Nicolas,3,MR76,65,8080699,260,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-15,URBANA,004_ZW Parque San Nicolas,3,MR76,64,4567589,147,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-16,URBANA,004_ZW Parque San Nicolas,3,MR76,30,3227276,104,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-16,URBANA,004_ZW Parque San Nicolas,3,MR76,31,3304270,107,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-17,URBANA,004_ZW Parque San Nicolas,3,MR76,58,3214868,110,False,Laboral,Lunes,345.369,-7.652.574
+2025-03-17,URBANA,004_ZW Parque San Nicolas,3,MR76,67,1802315,62,False,Laboral,Lunes,345.369,-7.652.574
+2025-03-18,URBANA,004_ZW Parque San Nicolas,3,MR76,59,4401007,133,False,Laboral,Martes,345.369,-7.652.574
+2025-03-18,URBANA,004_ZW Parque San Nicolas,3,MR76,63,2628957,80,False,Laboral,Martes,345.369,-7.652.574
+2025-03-19,URBANA,004_ZW Parque San Nicolas,3,MR76,62,4833561,174,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-19,URBANA,004_ZW Parque San Nicolas,3,MR76,69,2464078,89,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-20,URBANA,004_ZW Parque San Nicolas,3,MR76,64,5008947,161,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-20,URBANA,004_ZW Parque San Nicolas,3,MR76,69,2188888,70,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-21,URBANA,004_ZW Parque San Nicolas,3,MR76,70,12188957,331,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-21,URBANA,004_ZW Parque San Nicolas,3,MR76,77,5431596,147,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-22,URBANA,004_ZW Parque San Nicolas,3,MR76,59,2373665,78,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-22,URBANA,004_ZW Parque San Nicolas,3,MR76,69,1419729,47,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-23,URBANA,004_ZW Parque San Nicolas,3,MR76,35,6570760,204,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-23,URBANA,004_ZW Parque San Nicolas,3,MR76,34,4736553,147,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-24,URBANA,004_ZW Parque San Nicolas,3,MR76,26,6285816,155,True,Festivo,Lunes,345.369,-7.652.574
+2025-03-24,URBANA,004_ZW Parque San Nicolas,3,MR76,31,4088478,101,True,Festivo,Lunes,345.369,-7.652.574
+2025-03-25,URBANA,004_ZW Parque San Nicolas,3,MR76,78,6598756,192,False,Laboral,Martes,345.369,-7.652.574
+2025-03-25,URBANA,004_ZW Parque San Nicolas,3,MR76,103,5231355,152,False,Laboral,Martes,345.369,-7.652.574
+2025-03-26,URBANA,004_ZW Parque San Nicolas,3,MR76,84,5719181,184,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-26,URBANA,004_ZW Parque San Nicolas,3,MR76,94,2875675,93,False,Laboral,Miércoles,345.369,-7.652.574
+2025-03-27,URBANA,004_ZW Parque San Nicolas,3,MR76,81,5431094,150,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-27,URBANA,004_ZW Parque San Nicolas,3,MR76,83,7194894,199,False,Laboral,Jueves,345.369,-7.652.574
+2025-03-28,URBANA,004_ZW Parque San Nicolas,3,MR76,71,4983033,206,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-28,URBANA,004_ZW Parque San Nicolas,3,MR76,77,3368271,140,False,Laboral,Viernes,345.369,-7.652.574
+2025-03-29,URBANA,004_ZW Parque San Nicolas,3,MR76,69,5606138,175,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-29,URBANA,004_ZW Parque San Nicolas,3,MR76,68,5148905,161,False,Fin de Semana,Sábado,345.369,-7.652.574
+2025-03-30,URBANA,004_ZW Parque San Nicolas,3,MR76,38,7944684,227,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-30,URBANA,004_ZW Parque San Nicolas,3,MR76,39,5752524,165,False,Fin de Semana,Domingo,345.369,-7.652.574
+2025-03-31,URBANA,004_ZW Parque San Nicolas,3,MR76,82,9727166,323,False,Laboral,Lunes,345.369,-7.652.574
+2025-03-31,URBANA,004_ZW Parque San Nicolas,3,MR76,86,4051038,135,False,Laboral,Lunes,345.369,-7.652.574

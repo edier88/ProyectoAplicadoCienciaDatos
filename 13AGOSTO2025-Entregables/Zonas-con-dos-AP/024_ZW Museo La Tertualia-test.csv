@@ -1,0 +1,813 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,024_ZW Museo La Tertualia,2,MR76,17,5642341,"645,5",True,Festivo,Lunes,345.044,-7.654.515
+2024-01-01,URBANA,024_ZW Museo La Tertualia,2,MR76,43,12520,"1,4",True,Festivo,Lunes,345.044,-7.654.515
+2024-01-02,URBANA,024_ZW Museo La Tertualia,2,MR76,24,922926,"109,6",False,Laboral,Martes,345.044,-7.654.515
+2024-01-02,URBANA,024_ZW Museo La Tertualia,2,MR76,60,2324,"0,3",False,Laboral,Martes,345.044,-7.654.515
+2024-01-03,URBANA,024_ZW Museo La Tertualia,2,MR76,27,519882,"42,9",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-03,URBANA,024_ZW Museo La Tertualia,2,MR76,66,256304,"21,2",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-04,URBANA,024_ZW Museo La Tertualia,2,MR76,25,702790,"66,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-04,URBANA,024_ZW Museo La Tertualia,2,MR76,68,2880061,"272,6",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-05,URBANA,024_ZW Museo La Tertualia,2,MR76,32,752182,"69,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-01-05,URBANA,024_ZW Museo La Tertualia,2,MR76,71,3877947,"357,7",False,Laboral,Viernes,345.044,-7.654.515
+2024-01-06,URBANA,024_ZW Museo La Tertualia,2,MR76,36,745096,"97,2",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-06,URBANA,024_ZW Museo La Tertualia,2,MR76,58,2908501,"379,2",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-07,URBANA,024_ZW Museo La Tertualia,2,MR76,39,2481735,"247,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-07,URBANA,024_ZW Museo La Tertualia,2,MR76,67,1074891,"107,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-08,URBANA,024_ZW Museo La Tertualia,2,MR76,34,1075361,"68,2",True,Festivo,Lunes,345.044,-7.654.515
+2024-01-08,URBANA,024_ZW Museo La Tertualia,2,MR76,55,519602,33,True,Festivo,Lunes,345.044,-7.654.515
+2024-01-09,URBANA,024_ZW Museo La Tertualia,2,MR76,26,881802,68,False,Laboral,Martes,345.044,-7.654.515
+2024-01-09,URBANA,024_ZW Museo La Tertualia,2,MR76,58,3254311,"251,1",False,Laboral,Martes,345.044,-7.654.515
+2024-01-10,URBANA,024_ZW Museo La Tertualia,2,MR76,28,431266,"35,7",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-10,URBANA,024_ZW Museo La Tertualia,2,MR76,62,4378961,363,False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-11,URBANA,024_ZW Museo La Tertualia,2,MR76,27,315706,"29,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-11,URBANA,024_ZW Museo La Tertualia,2,MR76,65,1265984,"117,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-12,URBANA,024_ZW Museo La Tertualia,2,MR76,42,5731,"0,5",False,Laboral,Viernes,345.044,-7.654.515
+2024-01-12,URBANA,024_ZW Museo La Tertualia,2,MR76,72,23417,2,False,Laboral,Viernes,345.044,-7.654.515
+2024-01-13,URBANA,024_ZW Museo La Tertualia,2,MR76,35,3230,"0,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-13,URBANA,024_ZW Museo La Tertualia,2,MR76,75,9978,"1,1",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-14,URBANA,024_ZW Museo La Tertualia,2,MR76,41,214419,"27,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-14,URBANA,024_ZW Museo La Tertualia,2,MR76,55,9057,"1,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-15,URBANA,024_ZW Museo La Tertualia,2,MR76,24,7026,1,False,Laboral,Lunes,345.044,-7.654.515
+2024-01-15,URBANA,024_ZW Museo La Tertualia,2,MR76,49,10782,"1,6",False,Laboral,Lunes,345.044,-7.654.515
+2024-01-16,URBANA,024_ZW Museo La Tertualia,2,MR76,26,287397,"33,6",False,Laboral,Martes,345.044,-7.654.515
+2024-01-16,URBANA,024_ZW Museo La Tertualia,2,MR76,33,854931,100,False,Laboral,Martes,345.044,-7.654.515
+2024-01-17,URBANA,024_ZW Museo La Tertualia,2,MR76,25,666751,"66,7",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-17,URBANA,024_ZW Museo La Tertualia,2,MR76,43,1838060,"183,8",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-18,URBANA,024_ZW Museo La Tertualia,2,MR76,26,569975,"47,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-18,URBANA,024_ZW Museo La Tertualia,2,MR76,25,2152031,"179,4",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-19,URBANA,024_ZW Museo La Tertualia,2,MR76,32,647348,"42,2",False,Laboral,Viernes,345.044,-7.654.515
+2024-01-19,URBANA,024_ZW Museo La Tertualia,2,MR76,49,1574273,"102,6",False,Laboral,Viernes,345.044,-7.654.515
+2024-01-20,URBANA,024_ZW Museo La Tertualia,2,MR76,40,620567,"47,9",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-20,URBANA,024_ZW Museo La Tertualia,2,MR76,50,2222411,"171,6",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-21,URBANA,024_ZW Museo La Tertualia,2,MR76,38,1238830,"95,7",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-21,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1023167,79,False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-22,URBANA,024_ZW Museo La Tertualia,2,MR76,30,1221324,"116,5",False,Laboral,Lunes,345.044,-7.654.515
+2024-01-22,URBANA,024_ZW Museo La Tertualia,2,MR76,38,622599,"59,4",False,Laboral,Lunes,345.044,-7.654.515
+2024-01-23,URBANA,024_ZW Museo La Tertualia,2,MR76,33,2418521,"223,9",False,Laboral,Martes,345.044,-7.654.515
+2024-01-23,URBANA,024_ZW Museo La Tertualia,2,MR76,46,1839723,"170,4",False,Laboral,Martes,345.044,-7.654.515
+2024-01-24,URBANA,024_ZW Museo La Tertualia,2,MR76,27,1283784,"102,6",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-24,URBANA,024_ZW Museo La Tertualia,2,MR76,44,548938,"43,9",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-25,URBANA,024_ZW Museo La Tertualia,2,MR76,34,800239,"53,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-25,URBANA,024_ZW Museo La Tertualia,2,MR76,48,616818,"41,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-01-26,URBANA,024_ZW Museo La Tertualia,2,MR76,19,178706,13,False,Laboral,Viernes,345.044,-7.654.515
+2024-01-26,URBANA,024_ZW Museo La Tertualia,2,MR76,44,328263,"23,8",False,Laboral,Viernes,345.044,-7.654.515
+2024-01-27,URBANA,024_ZW Museo La Tertualia,2,MR76,53,3978068,"320,5",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-27,URBANA,024_ZW Museo La Tertualia,2,MR76,70,1423847,"114,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-01-28,URBANA,024_ZW Museo La Tertualia,2,MR76,37,1302436,"126,7",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-28,URBANA,024_ZW Museo La Tertualia,2,MR76,58,2994712,"291,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-01-29,URBANA,024_ZW Museo La Tertualia,2,MR76,29,2769419,"237,9",False,Laboral,Lunes,345.044,-7.654.515
+2024-01-29,URBANA,024_ZW Museo La Tertualia,2,MR76,43,2822820,"242,5",False,Laboral,Lunes,345.044,-7.654.515
+2024-01-30,URBANA,024_ZW Museo La Tertualia,2,MR76,30,317553,"35,1",False,Laboral,Martes,345.044,-7.654.515
+2024-01-30,URBANA,024_ZW Museo La Tertualia,2,MR76,47,1790104,"197,8",False,Laboral,Martes,345.044,-7.654.515
+2024-01-31,URBANA,024_ZW Museo La Tertualia,2,MR76,39,1026455,"98,3",False,Laboral,Miércoles,345.044,-7.654.515
+2024-01-31,URBANA,024_ZW Museo La Tertualia,2,MR76,56,1464733,"140,2",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-01,URBANA,024_ZW Museo La Tertualia,2,MR76,39,257509,"18,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-02-01,URBANA,024_ZW Museo La Tertualia,2,MR76,59,1947621,140,False,Laboral,Jueves,345.044,-7.654.515
+2024-02-02,URBANA,024_ZW Museo La Tertualia,2,MR76,23,612896,"64,2",False,Laboral,Viernes,345.044,-7.654.515
+2024-02-02,URBANA,024_ZW Museo La Tertualia,2,MR76,32,2250549,"235,6",False,Laboral,Viernes,345.044,-7.654.515
+2024-02-03,URBANA,024_ZW Museo La Tertualia,2,MR76,60,2228092,"125,6",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-03,URBANA,024_ZW Museo La Tertualia,2,MR76,74,3615926,"203,8",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-04,URBANA,024_ZW Museo La Tertualia,2,MR76,39,576227,36,False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-04,URBANA,024_ZW Museo La Tertualia,2,MR76,46,525241,"32,8",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-05,URBANA,024_ZW Museo La Tertualia,2,MR76,16,89222,"5,9",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-05,URBANA,024_ZW Museo La Tertualia,2,MR76,33,819711,"54,5",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-06,URBANA,024_ZW Museo La Tertualia,2,MR76,35,598866,"40,1",False,Laboral,Martes,345.044,-7.654.515
+2024-02-06,URBANA,024_ZW Museo La Tertualia,2,MR76,46,2586433,"173,1",False,Laboral,Martes,345.044,-7.654.515
+2024-02-07,URBANA,024_ZW Museo La Tertualia,2,MR76,42,2488809,"150,8",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-07,URBANA,024_ZW Museo La Tertualia,2,MR76,41,509880,"30,9",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-08,URBANA,024_ZW Museo La Tertualia,2,MR76,42,4179,"0,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-02-08,URBANA,024_ZW Museo La Tertualia,2,MR76,61,145003,"10,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-02-09,URBANA,024_ZW Museo La Tertualia,2,MR76,48,469083,39,False,Laboral,Viernes,345.044,-7.654.515
+2024-02-09,URBANA,024_ZW Museo La Tertualia,2,MR76,61,13313,"1,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-02-10,URBANA,024_ZW Museo La Tertualia,2,MR76,50,5723,"0,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-10,URBANA,024_ZW Museo La Tertualia,2,MR76,75,6085,"0,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-11,URBANA,024_ZW Museo La Tertualia,2,MR76,37,6849,"0,5",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-11,URBANA,024_ZW Museo La Tertualia,2,MR76,40,16004,"1,2",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-12,URBANA,024_ZW Museo La Tertualia,2,MR76,29,208768,"20,2",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-12,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1897,"0,2",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-13,URBANA,024_ZW Museo La Tertualia,2,MR76,23,3017,"0,3",False,Laboral,Martes,345.044,-7.654.515
+2024-02-13,URBANA,024_ZW Museo La Tertualia,2,MR76,48,2109,"0,2",False,Laboral,Martes,345.044,-7.654.515
+2024-02-14,URBANA,024_ZW Museo La Tertualia,2,MR76,37,2794465,370,False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-14,URBANA,024_ZW Museo La Tertualia,2,MR76,48,517685,"68,5",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-15,URBANA,024_ZW Museo La Tertualia,2,MR76,46,2239317,"191,8",False,Laboral,Jueves,345.044,-7.654.515
+2024-02-15,URBANA,024_ZW Museo La Tertualia,2,MR76,50,909207,"77,9",False,Laboral,Jueves,345.044,-7.654.515
+2024-02-16,URBANA,024_ZW Museo La Tertualia,2,MR76,41,3025129,"286,9",False,Laboral,Viernes,345.044,-7.654.515
+2024-02-16,URBANA,024_ZW Museo La Tertualia,2,MR76,43,761760,"72,2",False,Laboral,Viernes,345.044,-7.654.515
+2024-02-17,URBANA,024_ZW Museo La Tertualia,2,MR76,47,1808791,"171,1",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-17,URBANA,024_ZW Museo La Tertualia,2,MR76,74,1282614,"121,3",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-18,URBANA,024_ZW Museo La Tertualia,2,MR76,40,4880578,"377,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-18,URBANA,024_ZW Museo La Tertualia,2,MR76,53,3628144,"280,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-19,URBANA,024_ZW Museo La Tertualia,2,MR76,35,3491074,"238,2",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-19,URBANA,024_ZW Museo La Tertualia,2,MR76,36,2026220,"138,3",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-20,URBANA,024_ZW Museo La Tertualia,2,MR76,32,976666,80,False,Laboral,Martes,345.044,-7.654.515
+2024-02-20,URBANA,024_ZW Museo La Tertualia,2,MR76,49,1804223,"147,8",False,Laboral,Martes,345.044,-7.654.515
+2024-02-21,URBANA,024_ZW Museo La Tertualia,2,MR76,25,147606,"12,8",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-21,URBANA,024_ZW Museo La Tertualia,2,MR76,37,2368682,"205,3",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-22,URBANA,024_ZW Museo La Tertualia,2,MR76,36,2278619,"148,9",False,Laboral,Jueves,345.044,-7.654.515
+2024-02-22,URBANA,024_ZW Museo La Tertualia,2,MR76,44,2265081,148,False,Laboral,Jueves,345.044,-7.654.515
+2024-02-23,URBANA,024_ZW Museo La Tertualia,2,MR76,40,681485,"47,9",False,Laboral,Viernes,345.044,-7.654.515
+2024-02-23,URBANA,024_ZW Museo La Tertualia,2,MR76,74,356984,"25,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-02-24,URBANA,024_ZW Museo La Tertualia,2,MR76,56,4829,"0,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-24,URBANA,024_ZW Museo La Tertualia,2,MR76,80,10321,"0,8",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-02-25,URBANA,024_ZW Museo La Tertualia,2,MR76,40,5606,"0,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-25,URBANA,024_ZW Museo La Tertualia,2,MR76,65,7457,"0,4",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-02-26,URBANA,024_ZW Museo La Tertualia,2,MR76,25,3144,"0,3",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-26,URBANA,024_ZW Museo La Tertualia,2,MR76,38,1833,"0,2",False,Laboral,Lunes,345.044,-7.654.515
+2024-02-27,URBANA,024_ZW Museo La Tertualia,2,MR76,39,5753,"0,5",False,Laboral,Martes,345.044,-7.654.515
+2024-02-27,URBANA,024_ZW Museo La Tertualia,2,MR76,56,4630,"0,4",False,Laboral,Martes,345.044,-7.654.515
+2024-02-28,URBANA,024_ZW Museo La Tertualia,2,MR76,33,4458,"0,3",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-28,URBANA,024_ZW Museo La Tertualia,2,MR76,60,2200,"0,1",False,Laboral,Miércoles,345.044,-7.654.515
+2024-02-29,URBANA,024_ZW Museo La Tertualia,2,MR76,35,5672,"0,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-02-29,URBANA,024_ZW Museo La Tertualia,2,MR76,47,4062,"0,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-03-01,URBANA,024_ZW Museo La Tertualia,2,MR76,52,30601,"2,6",False,Laboral,Viernes,345.044,-7.654.515
+2024-03-01,URBANA,024_ZW Museo La Tertualia,2,MR76,55,4423,"0,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-03-02,URBANA,024_ZW Museo La Tertualia,2,MR76,51,2522,"0,2",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-02,URBANA,024_ZW Museo La Tertualia,2,MR76,80,6882,"0,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-03,URBANA,024_ZW Museo La Tertualia,2,MR76,38,3801,"0,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-03-03,URBANA,024_ZW Museo La Tertualia,2,MR76,63,4836,"0,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-03-04,URBANA,024_ZW Museo La Tertualia,2,MR76,34,48080,"3,4",False,Laboral,Lunes,345.044,-7.654.515
+2024-03-04,URBANA,024_ZW Museo La Tertualia,2,MR76,47,2222,"0,2",False,Laboral,Lunes,345.044,-7.654.515
+2024-03-05,URBANA,024_ZW Museo La Tertualia,2,MR76,34,7935,"0,6",False,Laboral,Martes,345.044,-7.654.515
+2024-03-05,URBANA,024_ZW Museo La Tertualia,2,MR76,46,3413,"0,2",False,Laboral,Martes,345.044,-7.654.515
+2024-03-06,URBANA,024_ZW Museo La Tertualia,2,MR76,51,8407,"0,7",False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-06,URBANA,024_ZW Museo La Tertualia,2,MR76,58,7081,"0,6",False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-07,URBANA,024_ZW Museo La Tertualia,2,MR76,39,765,"0,1",False,Laboral,Jueves,345.044,-7.654.515
+2024-03-07,URBANA,024_ZW Museo La Tertualia,2,MR76,57,12625,"1,2",False,Laboral,Jueves,345.044,-7.654.515
+2024-03-08,URBANA,024_ZW Museo La Tertualia,2,MR76,51,656564,"61,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-03-08,URBANA,024_ZW Museo La Tertualia,2,MR76,76,107133,10,False,Laboral,Viernes,345.044,-7.654.515
+2024-03-09,URBANA,024_ZW Museo La Tertualia,2,MR76,43,403592,"40,8",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-09,URBANA,024_ZW Museo La Tertualia,2,MR76,99,752469,"76,1",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-10,URBANA,024_ZW Museo La Tertualia,2,MR76,26,532597,"55,8",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-03-10,URBANA,024_ZW Museo La Tertualia,2,MR76,48,1479895,"155,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-03-11,URBANA,024_ZW Museo La Tertualia,2,MR76,22,254354,"27,1",False,Laboral,Lunes,345.044,-7.654.515
+2024-03-11,URBANA,024_ZW Museo La Tertualia,2,MR76,32,1998019,"212,6",False,Laboral,Lunes,345.044,-7.654.515
+2024-03-12,URBANA,024_ZW Museo La Tertualia,2,MR76,22,536412,"60,8",False,Laboral,Martes,345.044,-7.654.515
+2024-03-12,URBANA,024_ZW Museo La Tertualia,2,MR76,38,421555,"47,8",False,Laboral,Martes,345.044,-7.654.515
+2024-03-13,URBANA,024_ZW Museo La Tertualia,2,MR76,27,113856,"15,4",False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-13,URBANA,024_ZW Museo La Tertualia,2,MR76,40,399523,54,False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-14,URBANA,024_ZW Museo La Tertualia,2,MR76,36,2648985,273,False,Laboral,Jueves,345.044,-7.654.515
+2024-03-14,URBANA,024_ZW Museo La Tertualia,2,MR76,39,296654,"30,6",False,Laboral,Jueves,345.044,-7.654.515
+2024-03-15,URBANA,024_ZW Museo La Tertualia,2,MR76,41,1488305,"114,2",False,Laboral,Viernes,345.044,-7.654.515
+2024-03-15,URBANA,024_ZW Museo La Tertualia,2,MR76,54,967756,"74,3",False,Laboral,Viernes,345.044,-7.654.515
+2024-03-16,URBANA,024_ZW Museo La Tertualia,2,MR76,49,438116,"38,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-16,URBANA,024_ZW Museo La Tertualia,2,MR76,72,1998654,"176,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-17,URBANA,024_ZW Museo La Tertualia,2,MR76,51,820459,"63,4",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-03-17,URBANA,024_ZW Museo La Tertualia,2,MR76,72,2358517,"182,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-03-18,URBANA,024_ZW Museo La Tertualia,2,MR76,19,328921,"27,4",False,Laboral,Lunes,345.044,-7.654.515
+2024-03-18,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1306994,"108,9",False,Laboral,Lunes,345.044,-7.654.515
+2024-03-19,URBANA,024_ZW Museo La Tertualia,2,MR76,29,1847639,"245,1",False,Laboral,Martes,345.044,-7.654.515
+2024-03-19,URBANA,024_ZW Museo La Tertualia,2,MR76,44,772927,"102,5",False,Laboral,Martes,345.044,-7.654.515
+2024-03-20,URBANA,024_ZW Museo La Tertualia,2,MR76,25,2133428,"325,5",False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-20,URBANA,024_ZW Museo La Tertualia,2,MR76,48,32944,5,False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-21,URBANA,024_ZW Museo La Tertualia,2,MR76,34,572112,"65,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-03-21,URBANA,024_ZW Museo La Tertualia,2,MR76,78,187817,"21,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-03-22,URBANA,024_ZW Museo La Tertualia,2,MR76,44,920436,"94,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-03-22,URBANA,024_ZW Museo La Tertualia,2,MR76,61,283607,"29,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-03-23,URBANA,024_ZW Museo La Tertualia,2,MR76,69,6232,"0,8",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-23,URBANA,024_ZW Museo La Tertualia,2,MR76,99,8181,1,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-24,URBANA,024_ZW Museo La Tertualia,2,MR76,37,3464,"0,4",True,Festivo,Domingo,345.044,-7.654.515
+2024-03-24,URBANA,024_ZW Museo La Tertualia,2,MR76,80,9538,1,True,Festivo,Domingo,345.044,-7.654.515
+2024-03-25,URBANA,024_ZW Museo La Tertualia,2,MR76,30,5356,"0,8",True,Festivo,Lunes,345.044,-7.654.515
+2024-03-25,URBANA,024_ZW Museo La Tertualia,2,MR76,56,6169,"0,9",True,Festivo,Lunes,345.044,-7.654.515
+2024-03-26,URBANA,024_ZW Museo La Tertualia,2,MR76,34,1111,"0,1",False,Laboral,Martes,345.044,-7.654.515
+2024-03-26,URBANA,024_ZW Museo La Tertualia,2,MR76,66,2634,"0,3",False,Laboral,Martes,345.044,-7.654.515
+2024-03-27,URBANA,024_ZW Museo La Tertualia,2,MR76,43,501519,"62,1",False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-27,URBANA,024_ZW Museo La Tertualia,2,MR76,57,554475,"68,6",False,Laboral,Miércoles,345.044,-7.654.515
+2024-03-28,URBANA,024_ZW Museo La Tertualia,2,MR76,40,1881417,"294,8",True,Festivo,Jueves,345.044,-7.654.515
+2024-03-28,URBANA,024_ZW Museo La Tertualia,2,MR76,64,2037265,"319,3",True,Festivo,Jueves,345.044,-7.654.515
+2024-03-29,URBANA,024_ZW Museo La Tertualia,2,MR76,49,547725,"55,2",True,Festivo,Viernes,345.044,-7.654.515
+2024-03-29,URBANA,024_ZW Museo La Tertualia,2,MR76,64,1317133,"132,8",True,Festivo,Viernes,345.044,-7.654.515
+2024-03-30,URBANA,024_ZW Museo La Tertualia,2,MR76,63,1433743,"229,9",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-30,URBANA,024_ZW Museo La Tertualia,2,MR76,64,1256007,"201,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-03-31,URBANA,024_ZW Museo La Tertualia,2,MR76,40,690603,"90,7",True,Festivo,Domingo,345.044,-7.654.515
+2024-03-31,URBANA,024_ZW Museo La Tertualia,2,MR76,51,2154249,"282,8",True,Festivo,Domingo,345.044,-7.654.515
+2024-04-01,URBANA,024_ZW Museo La Tertualia,2,MR76,34,1188796,"113,3",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-01,URBANA,024_ZW Museo La Tertualia,2,MR76,36,606314,"57,8",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-02,URBANA,024_ZW Museo La Tertualia,2,MR76,28,957732,"136,1",False,Laboral,Martes,345.044,-7.654.515
+2024-04-02,URBANA,024_ZW Museo La Tertualia,2,MR76,34,554699,"78,8",False,Laboral,Martes,345.044,-7.654.515
+2024-04-03,URBANA,024_ZW Museo La Tertualia,2,MR76,44,1306261,145,False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-03,URBANA,024_ZW Museo La Tertualia,2,MR76,56,1897811,"210,6",False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-04,URBANA,024_ZW Museo La Tertualia,2,MR76,28,1091131,"94,9",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-04,URBANA,024_ZW Museo La Tertualia,2,MR76,68,2439880,"212,2",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-05,URBANA,024_ZW Museo La Tertualia,2,MR76,30,5745,"0,5",False,Laboral,Viernes,345.044,-7.654.515
+2024-04-05,URBANA,024_ZW Museo La Tertualia,2,MR76,70,33666,3,False,Laboral,Viernes,345.044,-7.654.515
+2024-04-06,URBANA,024_ZW Museo La Tertualia,2,MR76,59,2607,"0,2",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-06,URBANA,024_ZW Museo La Tertualia,2,MR76,95,4069,"0,3",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-07,URBANA,024_ZW Museo La Tertualia,2,MR76,52,5171,"0,4",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-07,URBANA,024_ZW Museo La Tertualia,2,MR76,81,10205,"0,9",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-08,URBANA,024_ZW Museo La Tertualia,2,MR76,25,8682,"1,2",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-08,URBANA,024_ZW Museo La Tertualia,2,MR76,50,13794,"1,9",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-09,URBANA,024_ZW Museo La Tertualia,2,MR76,39,11946,"1,6",False,Laboral,Martes,345.044,-7.654.515
+2024-04-09,URBANA,024_ZW Museo La Tertualia,2,MR76,65,9887,"1,3",False,Laboral,Martes,345.044,-7.654.515
+2024-04-10,URBANA,024_ZW Museo La Tertualia,2,MR76,36,14145,"3,3",False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-10,URBANA,024_ZW Museo La Tertualia,2,MR76,74,13714,"3,2",False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-11,URBANA,024_ZW Museo La Tertualia,2,MR76,54,2717,"0,6",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-11,URBANA,024_ZW Museo La Tertualia,2,MR76,84,5811,"1,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-12,URBANA,024_ZW Museo La Tertualia,2,MR76,42,2455,"0,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-04-12,URBANA,024_ZW Museo La Tertualia,2,MR76,91,6870,1,False,Laboral,Viernes,345.044,-7.654.515
+2024-04-13,URBANA,024_ZW Museo La Tertualia,2,MR76,57,6280,"0,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-13,URBANA,024_ZW Museo La Tertualia,2,MR76,120,6382,"0,8",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-14,URBANA,024_ZW Museo La Tertualia,2,MR76,44,2065,"0,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-14,URBANA,024_ZW Museo La Tertualia,2,MR76,59,3736,"0,5",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-15,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1631,"0,4",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-15,URBANA,024_ZW Museo La Tertualia,2,MR76,53,2296,"0,6",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-16,URBANA,024_ZW Museo La Tertualia,2,MR76,33,1307,"0,3",False,Laboral,Martes,345.044,-7.654.515
+2024-04-16,URBANA,024_ZW Museo La Tertualia,2,MR76,74,2124,"0,5",False,Laboral,Martes,345.044,-7.654.515
+2024-04-17,URBANA,024_ZW Museo La Tertualia,2,MR76,19,374,"0,1",False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-17,URBANA,024_ZW Museo La Tertualia,2,MR76,58,2795,"0,7",False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-18,URBANA,024_ZW Museo La Tertualia,2,MR76,29,1463,"0,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-18,URBANA,024_ZW Museo La Tertualia,2,MR76,66,4315,"1,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-19,URBANA,024_ZW Museo La Tertualia,2,MR76,18,1103,"0,3",False,Laboral,Viernes,345.044,-7.654.515
+2024-04-19,URBANA,024_ZW Museo La Tertualia,2,MR76,54,19943,"4,9",False,Laboral,Viernes,345.044,-7.654.515
+2024-04-20,URBANA,024_ZW Museo La Tertualia,2,MR76,52,3278,"0,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-20,URBANA,024_ZW Museo La Tertualia,2,MR76,124,31972,"4,1",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-21,URBANA,024_ZW Museo La Tertualia,2,MR76,36,5878,"0,9",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-21,URBANA,024_ZW Museo La Tertualia,2,MR76,48,25218,"4,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-22,URBANA,024_ZW Museo La Tertualia,2,MR76,21,419,"0,1",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-22,URBANA,024_ZW Museo La Tertualia,2,MR76,35,7679,"1,7",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-23,URBANA,024_ZW Museo La Tertualia,2,MR76,28,270303,"14,7",False,Laboral,Martes,345.044,-7.654.515
+2024-04-23,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1811357,"98,7",False,Laboral,Martes,345.044,-7.654.515
+2024-04-24,URBANA,024_ZW Museo La Tertualia,2,MR76,28,393902,"21,4",False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-24,URBANA,024_ZW Museo La Tertualia,2,MR76,42,3000497,"163,4",False,Laboral,Miércoles,345.044,-7.654.515
+2024-04-25,URBANA,024_ZW Museo La Tertualia,2,MR76,24,187944,"15,8",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-25,URBANA,024_ZW Museo La Tertualia,2,MR76,50,1041168,"87,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-04-26,URBANA,024_ZW Museo La Tertualia,2,MR76,34,703283,"70,2",False,Laboral,Viernes,345.044,-7.654.515
+2024-04-26,URBANA,024_ZW Museo La Tertualia,2,MR76,53,858255,"85,7",False,Laboral,Viernes,345.044,-7.654.515
+2024-04-27,URBANA,024_ZW Museo La Tertualia,2,MR76,36,2381668,"195,2",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-27,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1543853,"126,5",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-04-28,URBANA,024_ZW Museo La Tertualia,2,MR76,29,593495,"80,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-28,URBANA,024_ZW Museo La Tertualia,2,MR76,52,2480677,"335,8",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-04-29,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1396166,"174,4",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-29,URBANA,024_ZW Museo La Tertualia,2,MR76,55,2037947,"254,5",False,Laboral,Lunes,345.044,-7.654.515
+2024-04-30,URBANA,024_ZW Museo La Tertualia,2,MR76,38,392078,"62,2",False,Laboral,Martes,345.044,-7.654.515
+2024-04-30,URBANA,024_ZW Museo La Tertualia,2,MR76,51,822078,"130,5",False,Laboral,Martes,345.044,-7.654.515
+2024-05-01,URBANA,024_ZW Museo La Tertualia,2,MR76,38,95742,"18,2",True,Festivo,Miércoles,345.044,-7.654.515
+2024-05-01,URBANA,024_ZW Museo La Tertualia,2,MR76,41,467273,"88,9",True,Festivo,Miércoles,345.044,-7.654.515
+2024-05-02,URBANA,024_ZW Museo La Tertualia,2,MR76,39,1378213,"269,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-02,URBANA,024_ZW Museo La Tertualia,2,MR76,53,24979,"4,9",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-03,URBANA,024_ZW Museo La Tertualia,2,MR76,32,489426,"106,8",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-03,URBANA,024_ZW Museo La Tertualia,2,MR76,46,1457749,"318,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-04,URBANA,024_ZW Museo La Tertualia,2,MR76,47,1743572,"241,5",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-04,URBANA,024_ZW Museo La Tertualia,2,MR76,65,2982629,"413,1",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-05,URBANA,024_ZW Museo La Tertualia,2,MR76,38,226640,"36,8",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-05,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1216893,"197,4",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-06,URBANA,024_ZW Museo La Tertualia,2,MR76,24,2243,"0,5",False,Laboral,Lunes,345.044,-7.654.515
+2024-05-06,URBANA,024_ZW Museo La Tertualia,2,MR76,53,4720,1,False,Laboral,Lunes,345.044,-7.654.515
+2024-05-07,URBANA,024_ZW Museo La Tertualia,2,MR76,34,9778,"1,6",False,Laboral,Martes,345.044,-7.654.515
+2024-05-07,URBANA,024_ZW Museo La Tertualia,2,MR76,66,10724,"1,8",False,Laboral,Martes,345.044,-7.654.515
+2024-05-08,URBANA,024_ZW Museo La Tertualia,2,MR76,32,2600,"0,3",False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-08,URBANA,024_ZW Museo La Tertualia,2,MR76,43,7156,"0,9",False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-09,URBANA,024_ZW Museo La Tertualia,2,MR76,26,4356,"0,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-09,URBANA,024_ZW Museo La Tertualia,2,MR76,44,27073,"3,1",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-10,URBANA,024_ZW Museo La Tertualia,2,MR76,34,5168,"0,7",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-10,URBANA,024_ZW Museo La Tertualia,2,MR76,60,12553,"1,6",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-11,URBANA,024_ZW Museo La Tertualia,2,MR76,49,4591,"0,6",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-11,URBANA,024_ZW Museo La Tertualia,2,MR76,107,18112,"2,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-12,URBANA,024_ZW Museo La Tertualia,2,MR76,33,5864,"1,4",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-12,URBANA,024_ZW Museo La Tertualia,2,MR76,57,8677,"2,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-13,URBANA,024_ZW Museo La Tertualia,2,MR76,24,6135,"1,1",True,Festivo,Lunes,345.044,-7.654.515
+2024-05-13,URBANA,024_ZW Museo La Tertualia,2,MR76,40,10619,"1,9",True,Festivo,Lunes,345.044,-7.654.515
+2024-05-14,URBANA,024_ZW Museo La Tertualia,2,MR76,25,1327,"0,6",False,Laboral,Martes,345.044,-7.654.515
+2024-05-14,URBANA,024_ZW Museo La Tertualia,2,MR76,51,4027,"1,9",False,Laboral,Martes,345.044,-7.654.515
+2024-05-15,URBANA,024_ZW Museo La Tertualia,2,MR76,34,7971,"1,3",False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-15,URBANA,024_ZW Museo La Tertualia,2,MR76,55,12593,2,False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-16,URBANA,024_ZW Museo La Tertualia,2,MR76,40,20133,"2,5",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-16,URBANA,024_ZW Museo La Tertualia,2,MR76,50,3404,"0,4",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-17,URBANA,024_ZW Museo La Tertualia,2,MR76,39,11468,"1,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-17,URBANA,024_ZW Museo La Tertualia,2,MR76,58,6328,"0,6",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-18,URBANA,024_ZW Museo La Tertualia,2,MR76,61,10242,"0,9",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-18,URBANA,024_ZW Museo La Tertualia,2,MR76,98,11313,1,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-19,URBANA,024_ZW Museo La Tertualia,2,MR76,39,6333,"0,5",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-19,URBANA,024_ZW Museo La Tertualia,2,MR76,58,14345,"1,2",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-20,URBANA,024_ZW Museo La Tertualia,2,MR76,29,3867,"0,5",False,Laboral,Lunes,345.044,-7.654.515
+2024-05-20,URBANA,024_ZW Museo La Tertualia,2,MR76,46,4414,"0,6",False,Laboral,Lunes,345.044,-7.654.515
+2024-05-21,URBANA,024_ZW Museo La Tertualia,2,MR76,21,1453,"0,2",False,Laboral,Martes,345.044,-7.654.515
+2024-05-21,URBANA,024_ZW Museo La Tertualia,2,MR76,46,2448,"0,3",False,Laboral,Martes,345.044,-7.654.515
+2024-05-22,URBANA,024_ZW Museo La Tertualia,2,MR76,22,5761,"2,2",False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-22,URBANA,024_ZW Museo La Tertualia,2,MR76,51,6829,"2,7",False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-23,URBANA,024_ZW Museo La Tertualia,2,MR76,32,3698,"0,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-23,URBANA,024_ZW Museo La Tertualia,2,MR76,53,3595,"0,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-24,URBANA,024_ZW Museo La Tertualia,2,MR76,34,4993,"1,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-24,URBANA,024_ZW Museo La Tertualia,2,MR76,54,5028,"1,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-05-25,URBANA,024_ZW Museo La Tertualia,2,MR76,36,12094,"1,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-25,URBANA,024_ZW Museo La Tertualia,2,MR76,63,10704,"1,5",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-05-26,URBANA,024_ZW Museo La Tertualia,2,MR76,42,14081,2,False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-26,URBANA,024_ZW Museo La Tertualia,2,MR76,40,8822,"1,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-05-27,URBANA,024_ZW Museo La Tertualia,2,MR76,27,9179,"1,1",False,Laboral,Lunes,345.044,-7.654.515
+2024-05-27,URBANA,024_ZW Museo La Tertualia,2,MR76,41,7025,"0,8",False,Laboral,Lunes,345.044,-7.654.515
+2024-05-28,URBANA,024_ZW Museo La Tertualia,2,MR76,23,12112,"1,6",False,Laboral,Martes,345.044,-7.654.515
+2024-05-28,URBANA,024_ZW Museo La Tertualia,2,MR76,47,4585,"0,6",False,Laboral,Martes,345.044,-7.654.515
+2024-05-29,URBANA,024_ZW Museo La Tertualia,2,MR76,30,5575,"1,1",False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-29,URBANA,024_ZW Museo La Tertualia,2,MR76,51,2616,"0,5",False,Laboral,Miércoles,345.044,-7.654.515
+2024-05-30,URBANA,024_ZW Museo La Tertualia,2,MR76,41,15592,"1,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-30,URBANA,024_ZW Museo La Tertualia,2,MR76,64,3802,"0,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-05-31,URBANA,024_ZW Museo La Tertualia,2,MR76,32,9217,1,False,Laboral,Viernes,345.044,-7.654.515
+2024-05-31,URBANA,024_ZW Museo La Tertualia,2,MR76,65,5800,"0,6",False,Laboral,Viernes,345.044,-7.654.515
+2024-06-01,URBANA,024_ZW Museo La Tertualia,2,MR76,54,14408,"1,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-01,URBANA,024_ZW Museo La Tertualia,2,MR76,71,9641,1,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-02,URBANA,024_ZW Museo La Tertualia,2,MR76,26,10683,"1,1",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-02,URBANA,024_ZW Museo La Tertualia,2,MR76,61,14642,"1,5",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-03,URBANA,024_ZW Museo La Tertualia,2,MR76,43,2874,"0,4",True,Festivo,Lunes,345.044,-7.654.515
+2024-06-03,URBANA,024_ZW Museo La Tertualia,2,MR76,58,8749,"1,3",True,Festivo,Lunes,345.044,-7.654.515
+2024-06-04,URBANA,024_ZW Museo La Tertualia,2,MR76,20,2216,"0,5",False,Laboral,Martes,345.044,-7.654.515
+2024-06-04,URBANA,024_ZW Museo La Tertualia,2,MR76,39,7838,"1,7",False,Laboral,Martes,345.044,-7.654.515
+2024-06-05,URBANA,024_ZW Museo La Tertualia,2,MR76,28,3348,"1,2",False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-05,URBANA,024_ZW Museo La Tertualia,2,MR76,44,8954,"3,1",False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-06,URBANA,024_ZW Museo La Tertualia,2,MR76,29,9555,"1,6",False,Laboral,Jueves,345.044,-7.654.515
+2024-06-06,URBANA,024_ZW Museo La Tertualia,2,MR76,52,3673,"0,6",False,Laboral,Jueves,345.044,-7.654.515
+2024-06-07,URBANA,024_ZW Museo La Tertualia,2,MR76,36,15788,"3,3",False,Laboral,Viernes,345.044,-7.654.515
+2024-06-07,URBANA,024_ZW Museo La Tertualia,2,MR76,54,13623,"2,8",False,Laboral,Viernes,345.044,-7.654.515
+2024-06-08,URBANA,024_ZW Museo La Tertualia,2,MR76,43,8531,"2,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-08,URBANA,024_ZW Museo La Tertualia,2,MR76,83,7996,"2,5",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-09,URBANA,024_ZW Museo La Tertualia,2,MR76,38,5715,2,False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-09,URBANA,024_ZW Museo La Tertualia,2,MR76,73,9550,"3,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-10,URBANA,024_ZW Museo La Tertualia,2,MR76,42,3945,"0,7",True,Festivo,Lunes,345.044,-7.654.515
+2024-06-10,URBANA,024_ZW Museo La Tertualia,2,MR76,52,5612,1,True,Festivo,Lunes,345.044,-7.654.515
+2024-06-11,URBANA,024_ZW Museo La Tertualia,2,MR76,32,3331,"0,5",False,Laboral,Martes,345.044,-7.654.515
+2024-06-11,URBANA,024_ZW Museo La Tertualia,2,MR76,71,5351,"0,9",False,Laboral,Martes,345.044,-7.654.515
+2024-06-12,URBANA,024_ZW Museo La Tertualia,2,MR76,35,7180,1,False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-12,URBANA,024_ZW Museo La Tertualia,2,MR76,66,17633,"2,4",False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-13,URBANA,024_ZW Museo La Tertualia,2,MR76,26,5270,102601300,False,Laboral,Jueves,345.044,-7.654.515
+2024-06-13,URBANA,024_ZW Museo La Tertualia,2,MR76,55,4153,80854500,False,Laboral,Jueves,345.044,-7.654.515
+2024-06-14,URBANA,024_ZW Museo La Tertualia,2,MR76,30,2532,76101800,False,Laboral,Viernes,345.044,-7.654.515
+2024-06-14,URBANA,024_ZW Museo La Tertualia,2,MR76,54,3569,107269900,False,Laboral,Viernes,345.044,-7.654.515
+2024-06-15,URBANA,024_ZW Museo La Tertualia,2,MR76,30,1924,34517100,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-15,URBANA,024_ZW Museo La Tertualia,2,MR76,59,5949,106726600,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-16,URBANA,024_ZW Museo La Tertualia,2,MR76,29,2531,45385600,False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-16,URBANA,024_ZW Museo La Tertualia,2,MR76,67,6787,121703800,False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-17,URBANA,024_ZW Museo La Tertualia,2,MR76,18,2312,"0,4",False,Laboral,Lunes,345.044,-7.654.515
+2024-06-17,URBANA,024_ZW Museo La Tertualia,2,MR76,39,2011,"0,3",False,Laboral,Lunes,345.044,-7.654.515
+2024-06-18,URBANA,024_ZW Museo La Tertualia,2,MR76,36,15507,"2,4",False,Laboral,Martes,345.044,-7.654.515
+2024-06-18,URBANA,024_ZW Museo La Tertualia,2,MR76,51,4628,"0,7",False,Laboral,Martes,345.044,-7.654.515
+2024-06-19,URBANA,024_ZW Museo La Tertualia,2,MR76,22,929,"0,1",False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-19,URBANA,024_ZW Museo La Tertualia,2,MR76,37,1591,"0,2",False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-20,URBANA,024_ZW Museo La Tertualia,2,MR76,37,1679,"0,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-06-20,URBANA,024_ZW Museo La Tertualia,2,MR76,77,2207,"0,4",False,Laboral,Jueves,345.044,-7.654.515
+2024-06-21,URBANA,024_ZW Museo La Tertualia,2,MR76,57,4427,"0,8",False,Laboral,Viernes,345.044,-7.654.515
+2024-06-21,URBANA,024_ZW Museo La Tertualia,2,MR76,131,6872,"1,2",False,Laboral,Viernes,345.044,-7.654.515
+2024-06-22,URBANA,024_ZW Museo La Tertualia,2,MR76,61,9385,"1,8",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-22,URBANA,024_ZW Museo La Tertualia,2,MR76,143,10503,2,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-23,URBANA,024_ZW Museo La Tertualia,2,MR76,28,963,"0,4",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-23,URBANA,024_ZW Museo La Tertualia,2,MR76,66,7082,"2,8",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-24,URBANA,024_ZW Museo La Tertualia,2,MR76,38,1437,"0,3",False,Laboral,Lunes,345.044,-7.654.515
+2024-06-24,URBANA,024_ZW Museo La Tertualia,2,MR76,69,4546,"0,9",False,Laboral,Lunes,345.044,-7.654.515
+2024-06-25,URBANA,024_ZW Museo La Tertualia,2,MR76,72,6024,"1,5",False,Laboral,Martes,345.044,-7.654.515
+2024-06-25,URBANA,024_ZW Museo La Tertualia,2,MR76,86,7667,"1,9",False,Laboral,Martes,345.044,-7.654.515
+2024-06-26,URBANA,024_ZW Museo La Tertualia,2,MR76,34,1303,"0,3",False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-26,URBANA,024_ZW Museo La Tertualia,2,MR76,78,13438,"3,5",False,Laboral,Miércoles,345.044,-7.654.515
+2024-06-27,URBANA,024_ZW Museo La Tertualia,2,MR76,36,7682,"2,3",False,Laboral,Jueves,345.044,-7.654.515
+2024-06-27,URBANA,024_ZW Museo La Tertualia,2,MR76,109,5217,"1,6",False,Laboral,Jueves,345.044,-7.654.515
+2024-06-28,URBANA,024_ZW Museo La Tertualia,2,MR76,50,5726,1,False,Laboral,Viernes,345.044,-7.654.515
+2024-06-28,URBANA,024_ZW Museo La Tertualia,2,MR76,129,5671,1,False,Laboral,Viernes,345.044,-7.654.515
+2024-06-29,URBANA,024_ZW Museo La Tertualia,2,MR76,60,4382,"0,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-29,URBANA,024_ZW Museo La Tertualia,2,MR76,138,8275,"1,4",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-06-30,URBANA,024_ZW Museo La Tertualia,2,MR76,36,2514,"0,5",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-06-30,URBANA,024_ZW Museo La Tertualia,2,MR76,96,17955,"3,9",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-01,URBANA,024_ZW Museo La Tertualia,2,MR76,31,901,"0,13",True,Festivo,Lunes,345.044,-7.654.515
+2024-07-01,URBANA,024_ZW Museo La Tertualia,2,MR76,84,3923,"0,54",True,Festivo,Lunes,345.044,-7.654.515
+2024-07-02,URBANA,024_ZW Museo La Tertualia,2,MR76,46,1176,"0,13",False,Laboral,Martes,345.044,-7.654.515
+2024-07-02,URBANA,024_ZW Museo La Tertualia,2,MR76,104,6812,"0,73",False,Laboral,Martes,345.044,-7.654.515
+2024-07-03,URBANA,024_ZW Museo La Tertualia,2,MR76,37,3315,"0,39",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-03,URBANA,024_ZW Museo La Tertualia,2,MR76,99,5414,"0,64",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-04,URBANA,024_ZW Museo La Tertualia,2,MR76,65,1805,"0,23",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-04,URBANA,024_ZW Museo La Tertualia,2,MR76,81,5672,"0,71",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-05,URBANA,024_ZW Museo La Tertualia,2,MR76,68,1126,"0,13",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-05,URBANA,024_ZW Museo La Tertualia,2,MR76,116,4278,"0,5",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-06,URBANA,024_ZW Museo La Tertualia,2,MR76,55,4053,"0,48",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-07-06,URBANA,024_ZW Museo La Tertualia,2,MR76,107,9176,"1,09",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-07-07,URBANA,024_ZW Museo La Tertualia,2,MR76,60,3873,"0,44",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-07,URBANA,024_ZW Museo La Tertualia,2,MR76,101,8712,"0,99",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-08,URBANA,024_ZW Museo La Tertualia,2,MR76,50,1848,"0,33",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-08,URBANA,024_ZW Museo La Tertualia,2,MR76,72,5766,"1,04",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-09,URBANA,024_ZW Museo La Tertualia,2,MR76,57,1992,"0,34",False,Laboral,Martes,345.044,-7.654.515
+2024-07-09,URBANA,024_ZW Museo La Tertualia,2,MR76,86,4659,"0,8",False,Laboral,Martes,345.044,-7.654.515
+2024-07-10,URBANA,024_ZW Museo La Tertualia,2,MR76,55,1501,"0,22",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-10,URBANA,024_ZW Museo La Tertualia,2,MR76,96,4246,"0,61",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-11,URBANA,024_ZW Museo La Tertualia,2,MR76,56,2445,"0,33",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-11,URBANA,024_ZW Museo La Tertualia,2,MR76,100,8350,"1,13",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-12,URBANA,024_ZW Museo La Tertualia,2,MR76,50,1924,"0,3",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-12,URBANA,024_ZW Museo La Tertualia,2,MR76,106,6068,"0,96",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-13,URBANA,024_ZW Museo La Tertualia,2,MR76,57,7408,"1,05",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-07-13,URBANA,024_ZW Museo La Tertualia,2,MR76,120,8588,"1,22",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-07-14,URBANA,024_ZW Museo La Tertualia,2,MR76,26,797,"0,13",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-14,URBANA,024_ZW Museo La Tertualia,2,MR76,64,1731,"0,27",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-15,URBANA,024_ZW Museo La Tertualia,2,MR76,41,3614,"0,65",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-15,URBANA,024_ZW Museo La Tertualia,2,MR76,83,4138,"0,74",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-16,URBANA,024_ZW Museo La Tertualia,2,MR76,50,8475,"1,35",False,Laboral,Martes,345.044,-7.654.515
+2024-07-16,URBANA,024_ZW Museo La Tertualia,2,MR76,96,3580,"0,57",False,Laboral,Martes,345.044,-7.654.515
+2024-07-17,URBANA,024_ZW Museo La Tertualia,2,MR76,46,7073,"1,56",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-17,URBANA,024_ZW Museo La Tertualia,2,MR76,103,6583,"1,45",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-18,URBANA,024_ZW Museo La Tertualia,2,MR76,42,1900,"0,32",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-18,URBANA,024_ZW Museo La Tertualia,2,MR76,98,4712,"0,79",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-19,URBANA,024_ZW Museo La Tertualia,2,MR76,56,12938,"1,8",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-19,URBANA,024_ZW Museo La Tertualia,2,MR76,136,42430,"5,91",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-20,URBANA,024_ZW Museo La Tertualia,2,MR76,69,5683,"0,73",True,Festivo,Sábado,345.044,-7.654.515
+2024-07-20,URBANA,024_ZW Museo La Tertualia,2,MR76,123,5548,"0,71",True,Festivo,Sábado,345.044,-7.654.515
+2024-07-21,URBANA,024_ZW Museo La Tertualia,2,MR76,58,4901,"0,75",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-21,URBANA,024_ZW Museo La Tertualia,2,MR76,80,3046,"0,47",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-22,URBANA,024_ZW Museo La Tertualia,2,MR76,42,3221,"0,46",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-22,URBANA,024_ZW Museo La Tertualia,2,MR76,89,5450,"0,78",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-23,URBANA,024_ZW Museo La Tertualia,2,MR76,41,1508,"0,22",False,Laboral,Martes,345.044,-7.654.515
+2024-07-23,URBANA,024_ZW Museo La Tertualia,2,MR76,100,4403,"0,64",False,Laboral,Martes,345.044,-7.654.515
+2024-07-24,URBANA,024_ZW Museo La Tertualia,2,MR76,48,3900,"0,62",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-24,URBANA,024_ZW Museo La Tertualia,2,MR76,117,4489,"0,71",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-25,URBANA,024_ZW Museo La Tertualia,2,MR76,70,7426,"1,17",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-25,URBANA,024_ZW Museo La Tertualia,2,MR76,131,10827,"1,71",False,Laboral,Jueves,345.044,-7.654.515
+2024-07-26,URBANA,024_ZW Museo La Tertualia,2,MR76,44,17829,"2,35",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-26,URBANA,024_ZW Museo La Tertualia,2,MR76,131,8121,"1,07",False,Laboral,Viernes,345.044,-7.654.515
+2024-07-27,URBANA,024_ZW Museo La Tertualia,2,MR76,56,7244,"1,24",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-07-27,URBANA,024_ZW Museo La Tertualia,2,MR76,156,11959,"2,05",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-07-28,URBANA,024_ZW Museo La Tertualia,2,MR76,44,6263,"1,33",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-28,URBANA,024_ZW Museo La Tertualia,2,MR76,111,7915,"1,67",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-07-29,URBANA,024_ZW Museo La Tertualia,2,MR76,41,2027,"0,33",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-29,URBANA,024_ZW Museo La Tertualia,2,MR76,85,5383,"0,86",False,Laboral,Lunes,345.044,-7.654.515
+2024-07-30,URBANA,024_ZW Museo La Tertualia,2,MR76,58,5941,"0,87",False,Laboral,Martes,345.044,-7.654.515
+2024-07-30,URBANA,024_ZW Museo La Tertualia,2,MR76,161,17636,"2,58",False,Laboral,Martes,345.044,-7.654.515
+2024-07-31,URBANA,024_ZW Museo La Tertualia,2,MR76,48,3171,"0,53",False,Laboral,Miércoles,345.044,-7.654.515
+2024-07-31,URBANA,024_ZW Museo La Tertualia,2,MR76,120,3369,"0,56",False,Laboral,Miércoles,345.044,-7.654.515
+2024-08-01,URBANA,024_ZW Museo La Tertualia,2,MR76,50,11659,"1,74",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-01,URBANA,024_ZW Museo La Tertualia,2,MR76,112,7582,"1,13",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-02,URBANA,024_ZW Museo La Tertualia,2,MR76,61,6737,"1,12",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-02,URBANA,024_ZW Museo La Tertualia,2,MR76,136,6028,1,False,Laboral,Viernes,345.044,-7.654.515
+2024-08-03,URBANA,024_ZW Museo La Tertualia,2,MR76,57,3518,"0,72",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-03,URBANA,024_ZW Museo La Tertualia,2,MR76,144,9809,2,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-04,URBANA,024_ZW Museo La Tertualia,2,MR76,58,4563,"0,73",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-04,URBANA,024_ZW Museo La Tertualia,2,MR76,97,5736,"0,91",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-05,URBANA,024_ZW Museo La Tertualia,2,MR76,27,843,"0,12",False,Laboral,Lunes,345.044,-7.654.515
+2024-08-05,URBANA,024_ZW Museo La Tertualia,2,MR76,100,2950,"0,43",False,Laboral,Lunes,345.044,-7.654.515
+2024-08-06,URBANA,024_ZW Museo La Tertualia,2,MR76,27,896,"0,09",False,Laboral,Martes,345.044,-7.654.515
+2024-08-06,URBANA,024_ZW Museo La Tertualia,2,MR76,136,2802,"0,27",False,Laboral,Martes,345.044,-7.654.515
+2024-08-07,URBANA,024_ZW Museo La Tertualia,2,MR76,71,2949,"0,35",True,Festivo,Miércoles,345.044,-7.654.515
+2024-08-07,URBANA,024_ZW Museo La Tertualia,2,MR76,96,5357,"0,64",True,Festivo,Miércoles,345.044,-7.654.515
+2024-08-08,URBANA,024_ZW Museo La Tertualia,2,MR76,67,3524,"0,44",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-08,URBANA,024_ZW Museo La Tertualia,2,MR76,125,6630,"0,83",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-09,URBANA,024_ZW Museo La Tertualia,2,MR76,84,4190,"0,77",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-09,URBANA,024_ZW Museo La Tertualia,2,MR76,164,9492,"1,75",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-10,URBANA,024_ZW Museo La Tertualia,2,MR76,107,14510,"2,75",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-10,URBANA,024_ZW Museo La Tertualia,2,MR76,179,14285,"2,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-11,URBANA,024_ZW Museo La Tertualia,2,MR76,64,4025,"0,7",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-11,URBANA,024_ZW Museo La Tertualia,2,MR76,98,13250,"2,3",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-12,URBANA,024_ZW Museo La Tertualia,2,MR76,43,1417,"0,3",False,Laboral,Lunes,345.044,-7.654.515
+2024-08-12,URBANA,024_ZW Museo La Tertualia,2,MR76,122,4375,"0,94",False,Laboral,Lunes,345.044,-7.654.515
+2024-08-13,URBANA,024_ZW Museo La Tertualia,2,MR76,50,4487,"0,51",False,Laboral,Martes,345.044,-7.654.515
+2024-08-13,URBANA,024_ZW Museo La Tertualia,2,MR76,132,10893,"1,23",False,Laboral,Martes,345.044,-7.654.515
+2024-08-14,URBANA,024_ZW Museo La Tertualia,2,MR76,63,1250,"0,17",False,Laboral,Miércoles,345.044,-7.654.515
+2024-08-14,URBANA,024_ZW Museo La Tertualia,2,MR76,97,4157,"0,55",False,Laboral,Miércoles,345.044,-7.654.515
+2024-08-15,URBANA,024_ZW Museo La Tertualia,2,MR76,73,1324,"0,2",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-15,URBANA,024_ZW Museo La Tertualia,2,MR76,105,4824,"0,72",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-16,URBANA,024_ZW Museo La Tertualia,2,MR76,69,3099,"0,42",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-16,URBANA,024_ZW Museo La Tertualia,2,MR76,153,8039,"1,1",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-17,URBANA,024_ZW Museo La Tertualia,2,MR76,70,5003,"0,73",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-17,URBANA,024_ZW Museo La Tertualia,2,MR76,141,13806,2,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-18,URBANA,024_ZW Museo La Tertualia,2,MR76,60,7305,"1,11",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-18,URBANA,024_ZW Museo La Tertualia,2,MR76,129,7606,"1,15",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-19,URBANA,024_ZW Museo La Tertualia,2,MR76,46,8677,"1,19",True,Festivo,Lunes,345.044,-7.654.515
+2024-08-19,URBANA,024_ZW Museo La Tertualia,2,MR76,96,3943,"0,54",True,Festivo,Lunes,345.044,-7.654.515
+2024-08-20,URBANA,024_ZW Museo La Tertualia,2,MR76,51,1595,"0,39",False,Laboral,Martes,345.044,-7.654.515
+2024-08-20,URBANA,024_ZW Museo La Tertualia,2,MR76,130,4971,"1,23",False,Laboral,Martes,345.044,-7.654.515
+2024-08-21,URBANA,024_ZW Museo La Tertualia,2,MR76,71,7044,"2,05",False,Laboral,Miércoles,345.044,-7.654.515
+2024-08-21,URBANA,024_ZW Museo La Tertualia,2,MR76,131,13584,"3,96",False,Laboral,Miércoles,345.044,-7.654.515
+2024-08-22,URBANA,024_ZW Museo La Tertualia,2,MR76,65,2583,"0,69",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-22,URBANA,024_ZW Museo La Tertualia,2,MR76,92,11648,"3,1",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-23,URBANA,024_ZW Museo La Tertualia,2,MR76,76,5649,"2,3",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-23,URBANA,024_ZW Museo La Tertualia,2,MR76,130,7146,"2,91",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-24,URBANA,024_ZW Museo La Tertualia,2,MR76,71,4201,"2,85",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-24,URBANA,024_ZW Museo La Tertualia,2,MR76,135,22111,"14,99",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-25,URBANA,024_ZW Museo La Tertualia,2,MR76,61,4547,"4,35",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-25,URBANA,024_ZW Museo La Tertualia,2,MR76,113,12092,"11,57",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-08-26,URBANA,024_ZW Museo La Tertualia,2,MR76,46,1841,"2,46",False,Laboral,Lunes,345.044,-7.654.515
+2024-08-26,URBANA,024_ZW Museo La Tertualia,2,MR76,113,2441,"3,26",False,Laboral,Lunes,345.044,-7.654.515
+2024-08-27,URBANA,024_ZW Museo La Tertualia,2,MR76,73,2118,"2,27",False,Laboral,Martes,345.044,-7.654.515
+2024-08-27,URBANA,024_ZW Museo La Tertualia,2,MR76,131,4743,"5,09",False,Laboral,Martes,345.044,-7.654.515
+2024-08-28,URBANA,024_ZW Museo La Tertualia,2,MR76,55,5104,"9,06",False,Laboral,Miércoles,345.044,-7.654.515
+2024-08-28,URBANA,024_ZW Museo La Tertualia,2,MR76,150,9992,"17,73",False,Laboral,Miércoles,345.044,-7.654.515
+2024-08-29,URBANA,024_ZW Museo La Tertualia,2,MR76,66,3513,"10,04",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-29,URBANA,024_ZW Museo La Tertualia,2,MR76,134,8240,"23,54",False,Laboral,Jueves,345.044,-7.654.515
+2024-08-30,URBANA,024_ZW Museo La Tertualia,2,MR76,72,3072,"7,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-30,URBANA,024_ZW Museo La Tertualia,2,MR76,146,8666,"20,87",False,Laboral,Viernes,345.044,-7.654.515
+2024-08-31,URBANA,024_ZW Museo La Tertualia,2,MR76,80,9960,"14,22",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-08-31,URBANA,024_ZW Museo La Tertualia,2,MR76,140,6798,"9,7",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-09-01,URBANA,024_ZW Museo La Tertualia,2,MR76,55,2564,"5,93",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-09-01,URBANA,024_ZW Museo La Tertualia,2,MR76,74,4686,"10,85",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-09-02,URBANA,024_ZW Museo La Tertualia,2,MR76,55,2531,"4,99",False,Laboral,Lunes,345.044,-7.654.515
+2024-09-02,URBANA,024_ZW Museo La Tertualia,2,MR76,100,4494,"8,86",False,Laboral,Lunes,345.044,-7.654.515
+2024-09-03,URBANA,024_ZW Museo La Tertualia,2,MR76,74,4070,"22,3",False,Laboral,Martes,345.044,-7.654.515
+2024-09-03,URBANA,024_ZW Museo La Tertualia,2,MR76,128,5333,"29,22",False,Laboral,Martes,345.044,-7.654.515
+2024-09-04,URBANA,024_ZW Museo La Tertualia,2,MR76,30,233,"31,96",False,Laboral,Miércoles,345.044,-7.654.515
+2024-09-04,URBANA,024_ZW Museo La Tertualia,2,MR76,40,2055,"281,84",False,Laboral,Miércoles,345.044,-7.654.515
+2024-10-25,URBANA,024_ZW Museo La Tertualia,2,MR76,56,645643,"144,23",False,Laboral,Viernes,345.044,-7.654.515
+2024-10-25,URBANA,024_ZW Museo La Tertualia,2,MR76,73,857155,"191,48",False,Laboral,Viernes,345.044,-7.654.515
+2024-10-26,URBANA,024_ZW Museo La Tertualia,2,MR76,51,232895,"30,16",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-10-26,URBANA,024_ZW Museo La Tertualia,2,MR76,113,2903540,376,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-10-27,URBANA,024_ZW Museo La Tertualia,2,MR76,47,669067,"67,21",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-10-27,URBANA,024_ZW Museo La Tertualia,2,MR76,72,1442169,"144,87",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-10-28,URBANA,024_ZW Museo La Tertualia,2,MR76,37,268974,"44,67",False,Laboral,Lunes,345.044,-7.654.515
+2024-10-28,URBANA,024_ZW Museo La Tertualia,2,MR76,54,1347836,"223,82",False,Laboral,Lunes,345.044,-7.654.515
+2024-10-29,URBANA,024_ZW Museo La Tertualia,2,MR76,41,231376,"36,5",False,Laboral,Martes,345.044,-7.654.515
+2024-10-29,URBANA,024_ZW Museo La Tertualia,2,MR76,64,2059634,"324,88",False,Laboral,Martes,345.044,-7.654.515
+2024-10-30,URBANA,024_ZW Museo La Tertualia,2,MR76,23,1078649,"220,17",False,Laboral,Miércoles,345.044,-7.654.515
+2024-10-30,URBANA,024_ZW Museo La Tertualia,2,MR76,49,905138,"184,75",False,Laboral,Miércoles,345.044,-7.654.515
+2024-10-31,URBANA,024_ZW Museo La Tertualia,2,MR76,48,848520,"180,86",False,Laboral,Jueves,345.044,-7.654.515
+2024-10-31,URBANA,024_ZW Museo La Tertualia,2,MR76,81,1073032,"228,72",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-01,URBANA,024_ZW Museo La Tertualia,2,MR76,31,89691,"16,22",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-01,URBANA,024_ZW Museo La Tertualia,2,MR76,38,1001387,"181,09",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-02,URBANA,024_ZW Museo La Tertualia,2,MR76,40,508902,"81,9",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-02,URBANA,024_ZW Museo La Tertualia,2,MR76,63,364705,"58,69",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-03,URBANA,024_ZW Museo La Tertualia,2,MR76,36,375699,"63,87",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-03,URBANA,024_ZW Museo La Tertualia,2,MR76,46,134296,"22,83",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-04,URBANA,024_ZW Museo La Tertualia,2,MR76,25,381678,"57,53",True,Festivo,Lunes,345.044,-7.654.515
+2024-11-04,URBANA,024_ZW Museo La Tertualia,2,MR76,29,1013344,"152,75",True,Festivo,Lunes,345.044,-7.654.515
+2024-11-05,URBANA,024_ZW Museo La Tertualia,2,MR76,54,900785,"123,36",False,Laboral,Martes,345.044,-7.654.515
+2024-11-05,URBANA,024_ZW Museo La Tertualia,2,MR76,63,1046014,"143,25",False,Laboral,Martes,345.044,-7.654.515
+2024-11-06,URBANA,024_ZW Museo La Tertualia,2,MR76,34,21124,"3,37",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-06,URBANA,024_ZW Museo La Tertualia,2,MR76,65,43002,"6,87",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-07,URBANA,024_ZW Museo La Tertualia,2,MR76,54,424717,"47,76",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-07,URBANA,024_ZW Museo La Tertualia,2,MR76,84,180276,"20,27",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-08,URBANA,024_ZW Museo La Tertualia,2,MR76,59,142703,"11,54",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-08,URBANA,024_ZW Museo La Tertualia,2,MR76,98,1448795,"117,15",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-09,URBANA,024_ZW Museo La Tertualia,2,MR76,63,1780857,"106,95",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-09,URBANA,024_ZW Museo La Tertualia,2,MR76,117,542060,"32,55",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-10,URBANA,024_ZW Museo La Tertualia,2,MR76,68,805699,"41,59",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-10,URBANA,024_ZW Museo La Tertualia,2,MR76,96,778462,"40,19",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-11,URBANA,024_ZW Museo La Tertualia,2,MR76,50,1181854,"67,29",True,Festivo,Lunes,345.044,-7.654.515
+2024-11-11,URBANA,024_ZW Museo La Tertualia,2,MR76,68,1852638,"105,49",True,Festivo,Lunes,345.044,-7.654.515
+2024-11-12,URBANA,024_ZW Museo La Tertualia,2,MR76,61,781505,"40,88",False,Laboral,Martes,345.044,-7.654.515
+2024-11-12,URBANA,024_ZW Museo La Tertualia,2,MR76,99,1591379,"83,25",False,Laboral,Martes,345.044,-7.654.515
+2024-11-13,URBANA,024_ZW Museo La Tertualia,2,MR76,53,1697431,"104,77",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-13,URBANA,024_ZW Museo La Tertualia,2,MR76,98,772637,"47,69",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-14,URBANA,024_ZW Museo La Tertualia,2,MR76,50,2401776,"125,11",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-14,URBANA,024_ZW Museo La Tertualia,2,MR76,109,1048694,"54,63",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-15,URBANA,024_ZW Museo La Tertualia,2,MR76,80,2136534,"117,29",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-15,URBANA,024_ZW Museo La Tertualia,2,MR76,113,822897,"45,17",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-16,URBANA,024_ZW Museo La Tertualia,2,MR76,108,1180437,"64,11",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-16,URBANA,024_ZW Museo La Tertualia,2,MR76,103,1317831,"71,57",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-17,URBANA,024_ZW Museo La Tertualia,2,MR76,86,1277818,"74,38",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-17,URBANA,024_ZW Museo La Tertualia,2,MR76,115,1672667,"97,36",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-18,URBANA,024_ZW Museo La Tertualia,2,MR76,64,354192,"22,03",False,Laboral,Lunes,345.044,-7.654.515
+2024-11-18,URBANA,024_ZW Museo La Tertualia,2,MR76,90,338223,"21,04",False,Laboral,Lunes,345.044,-7.654.515
+2024-11-19,URBANA,024_ZW Museo La Tertualia,2,MR76,44,298276,"18,67",False,Laboral,Martes,345.044,-7.654.515
+2024-11-19,URBANA,024_ZW Museo La Tertualia,2,MR76,77,1768510,"110,7",False,Laboral,Martes,345.044,-7.654.515
+2024-11-20,URBANA,024_ZW Museo La Tertualia,2,MR76,66,497570,"26,07",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-20,URBANA,024_ZW Museo La Tertualia,2,MR76,100,1364902,"71,53",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-21,URBANA,024_ZW Museo La Tertualia,2,MR76,73,482172,"26,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-21,URBANA,024_ZW Museo La Tertualia,2,MR76,109,2125939,"117,74",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-22,URBANA,024_ZW Museo La Tertualia,2,MR76,81,1591592,"78,84",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-22,URBANA,024_ZW Museo La Tertualia,2,MR76,126,2287041,"113,29",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-23,URBANA,024_ZW Museo La Tertualia,2,MR76,82,2078128,"108,44",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-23,URBANA,024_ZW Museo La Tertualia,2,MR76,135,1538057,"80,26",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-24,URBANA,024_ZW Museo La Tertualia,2,MR76,89,581602,"78,55",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-24,URBANA,024_ZW Museo La Tertualia,2,MR76,67,726594,"98,14",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-11-25,URBANA,024_ZW Museo La Tertualia,2,MR76,21,3011,"0,73",False,Laboral,Lunes,345.044,-7.654.515
+2024-11-25,URBANA,024_ZW Museo La Tertualia,2,MR76,11,133,"0,03",False,Laboral,Lunes,345.044,-7.654.515
+2024-11-26,URBANA,024_ZW Museo La Tertualia,2,MR76,1,1,0,False,Laboral,Martes,345.044,-7.654.515
+2024-11-26,URBANA,024_ZW Museo La Tertualia,2,MR76,32,1403396,"178,2",False,Laboral,Martes,345.044,-7.654.515
+2024-11-27,URBANA,024_ZW Museo La Tertualia,2,MR76,49,327804,"16,88",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-27,URBANA,024_ZW Museo La Tertualia,2,MR76,95,163123,"8,4",False,Laboral,Miércoles,345.044,-7.654.515
+2024-11-28,URBANA,024_ZW Museo La Tertualia,2,MR76,74,3212844,"152,59",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-28,URBANA,024_ZW Museo La Tertualia,2,MR76,110,1729662,"82,15",False,Laboral,Jueves,345.044,-7.654.515
+2024-11-29,URBANA,024_ZW Museo La Tertualia,2,MR76,84,2402348,"108,09",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-29,URBANA,024_ZW Museo La Tertualia,2,MR76,126,1624380,"73,09",False,Laboral,Viernes,345.044,-7.654.515
+2024-11-30,URBANA,024_ZW Museo La Tertualia,2,MR76,75,586843,"25,75",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-11-30,URBANA,024_ZW Museo La Tertualia,2,MR76,113,1305738,"57,29",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-01,URBANA,024_ZW Museo La Tertualia,2,MR76,51,475271,"19,67",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-01,URBANA,024_ZW Museo La Tertualia,2,MR76,78,1755397,"72,64",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-02,URBANA,024_ZW Museo La Tertualia,2,MR76,57,979067,"46,92",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-02,URBANA,024_ZW Museo La Tertualia,2,MR76,85,974189,"46,69",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-03,URBANA,024_ZW Museo La Tertualia,2,MR76,65,1235060,"66,15",False,Laboral,Martes,345.044,-7.654.515
+2024-12-03,URBANA,024_ZW Museo La Tertualia,2,MR76,88,806023,"43,17",False,Laboral,Martes,345.044,-7.654.515
+2024-12-04,URBANA,024_ZW Museo La Tertualia,2,MR76,58,1905390,"82,5",False,Laboral,Miércoles,345.044,-7.654.515
+2024-12-04,URBANA,024_ZW Museo La Tertualia,2,MR76,80,1691922,"73,25",False,Laboral,Miércoles,345.044,-7.654.515
+2024-12-05,URBANA,024_ZW Museo La Tertualia,2,MR76,80,712821,"31,07",False,Laboral,Jueves,345.044,-7.654.515
+2024-12-05,URBANA,024_ZW Museo La Tertualia,2,MR76,126,472457,"20,59",False,Laboral,Jueves,345.044,-7.654.515
+2024-12-06,URBANA,024_ZW Museo La Tertualia,2,MR76,73,1293477,"57,53",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-06,URBANA,024_ZW Museo La Tertualia,2,MR76,107,1669158,"74,24",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-07,URBANA,024_ZW Museo La Tertualia,2,MR76,65,1079398,"52,61",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-07,URBANA,024_ZW Museo La Tertualia,2,MR76,103,580360,"28,29",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-08,URBANA,024_ZW Museo La Tertualia,2,MR76,66,1241618,"46,75",True,Festivo,Domingo,345.044,-7.654.515
+2024-12-08,URBANA,024_ZW Museo La Tertualia,2,MR76,87,162083,"6,1",True,Festivo,Domingo,345.044,-7.654.515
+2024-12-09,URBANA,024_ZW Museo La Tertualia,2,MR76,63,551842,"20,46",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-09,URBANA,024_ZW Museo La Tertualia,2,MR76,91,151791,"5,63",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-10,URBANA,024_ZW Museo La Tertualia,2,MR76,89,2715811,"89,68",False,Laboral,Martes,345.044,-7.654.515
+2024-12-10,URBANA,024_ZW Museo La Tertualia,2,MR76,119,1889879,"62,4",False,Laboral,Martes,345.044,-7.654.515
+2024-12-11,URBANA,024_ZW Museo La Tertualia,2,MR76,85,2556916,"84,8",False,Laboral,Miércoles,345.044,-7.654.515
+2024-12-11,URBANA,024_ZW Museo La Tertualia,2,MR76,111,1745440,"57,89",False,Laboral,Miércoles,345.044,-7.654.515
+2024-12-12,URBANA,024_ZW Museo La Tertualia,2,MR76,92,4140376,"120,66",False,Laboral,Jueves,345.044,-7.654.515
+2024-12-12,URBANA,024_ZW Museo La Tertualia,2,MR76,123,1898877,"55,34",False,Laboral,Jueves,345.044,-7.654.515
+2024-12-13,URBANA,024_ZW Museo La Tertualia,2,MR76,93,2946861,"86,86",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-13,URBANA,024_ZW Museo La Tertualia,2,MR76,119,2178662,"64,22",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-14,URBANA,024_ZW Museo La Tertualia,2,MR76,87,900222,"29,64",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-14,URBANA,024_ZW Museo La Tertualia,2,MR76,118,2144304,"70,59",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-15,URBANA,024_ZW Museo La Tertualia,2,MR76,81,1445413,"48,79",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-15,URBANA,024_ZW Museo La Tertualia,2,MR76,97,1444655,"48,76",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-16,URBANA,024_ZW Museo La Tertualia,2,MR76,67,2881501,"86,65",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-16,URBANA,024_ZW Museo La Tertualia,2,MR76,83,1309976,"39,39",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-17,URBANA,024_ZW Museo La Tertualia,2,MR76,87,1743866,"56,8",False,Laboral,Martes,345.044,-7.654.515
+2024-12-17,URBANA,024_ZW Museo La Tertualia,2,MR76,105,1254638,"40,8",False,Laboral,Martes,345.044,-7.654.515
+2024-12-18,URBANA,024_ZW Museo La Tertualia,2,MR76,68,2082902,66,False,Laboral,Miércoles,345.044,-7.654.515
+2024-12-18,URBANA,024_ZW Museo La Tertualia,2,MR76,87,369484,"11,7",False,Laboral,Miércoles,345.044,-7.654.515
+2024-12-19,URBANA,024_ZW Museo La Tertualia,2,MR76,78,2195205,"77,2",False,Laboral,Jueves,345.044,-7.654.515
+2024-12-19,URBANA,024_ZW Museo La Tertualia,2,MR76,103,959437,"33,7",False,Laboral,Jueves,345.044,-7.654.515
+2024-12-20,URBANA,024_ZW Museo La Tertualia,2,MR76,101,1556373,"51,3",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-20,URBANA,024_ZW Museo La Tertualia,2,MR76,126,890792,"29,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-21,URBANA,024_ZW Museo La Tertualia,2,MR76,99,1881091,"72,1",False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-21,URBANA,024_ZW Museo La Tertualia,2,MR76,108,3493527,134,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-22,URBANA,024_ZW Museo La Tertualia,2,MR76,75,1566308,"48,9",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-22,URBANA,024_ZW Museo La Tertualia,2,MR76,88,1534688,"47,9",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-23,URBANA,024_ZW Museo La Tertualia,2,MR76,60,1276499,"50,9",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-23,URBANA,024_ZW Museo La Tertualia,2,MR76,99,1175282,"46,9",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-24,URBANA,024_ZW Museo La Tertualia,2,MR76,20,164670,"6,89",False,Laboral,Martes,345.044,-7.654.515
+2024-12-24,URBANA,024_ZW Museo La Tertualia,2,MR76,49,1409415,59,False,Laboral,Martes,345.044,-7.654.515
+2024-12-25,URBANA,024_ZW Museo La Tertualia,2,MR76,38,1700602,"60,2",True,Festivo,Miércoles,345.044,-7.654.515
+2024-12-25,URBANA,024_ZW Museo La Tertualia,2,MR76,48,809616,"28,7",True,Festivo,Miércoles,345.044,-7.654.515
+2024-12-26,URBANA,024_ZW Museo La Tertualia,2,MR76,47,3109114,114,False,Laboral,Jueves,345.044,-7.654.515
+2024-12-26,URBANA,024_ZW Museo La Tertualia,2,MR76,61,2332051,"85,2",False,Laboral,Jueves,345.044,-7.654.515
+2024-12-27,URBANA,024_ZW Museo La Tertualia,2,MR76,49,1315939,"40,4",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-27,URBANA,024_ZW Museo La Tertualia,2,MR76,65,1345845,"41,3",False,Laboral,Viernes,345.044,-7.654.515
+2024-12-28,URBANA,024_ZW Museo La Tertualia,2,MR76,40,399128,17,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-28,URBANA,024_ZW Museo La Tertualia,2,MR76,64,1954082,83,False,Fin de Semana,Sábado,345.044,-7.654.515
+2024-12-29,URBANA,024_ZW Museo La Tertualia,2,MR76,41,2802587,"86,7",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-29,URBANA,024_ZW Museo La Tertualia,2,MR76,73,1266950,"39,2",False,Fin de Semana,Domingo,345.044,-7.654.515
+2024-12-30,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1976780,"80,8",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-30,URBANA,024_ZW Museo La Tertualia,2,MR76,50,137025,"5,6",False,Laboral,Lunes,345.044,-7.654.515
+2024-12-31,RURAL,024_ZW Museo La Tertualia,2,MR76,22,671708,"36,2",False,Laboral,Martes,345.044,-7.654.515
+2024-12-31,RURAL,024_ZW Museo La Tertualia,2,MR76,39,98960,"5,33",False,Laboral,Martes,345.044,-7.654.515
+2025-01-01,URBANA,024_ZW Museo La Tertualia,2,MR76,20,394288,27,True,Festivo,Miércoles,345.044,-7.654.515
+2025-01-01,URBANA,024_ZW Museo La Tertualia,2,MR76,30,110804,8,True,Festivo,Miércoles,345.044,-7.654.515
+2025-01-02,URBANA,024_ZW Museo La Tertualia,2,MR76,46,152731,5,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-02,URBANA,024_ZW Museo La Tertualia,2,MR76,59,375999,14,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-03,URBANA,024_ZW Museo La Tertualia,2,MR76,32,670472,25,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-03,URBANA,024_ZW Museo La Tertualia,2,MR76,48,872053,33,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-04,URBANA,024_ZW Museo La Tertualia,2,MR76,43,1956178,73,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-04,URBANA,024_ZW Museo La Tertualia,2,MR76,54,296316,11,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-05,URBANA,024_ZW Museo La Tertualia,2,MR76,41,724248,22,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-05,URBANA,024_ZW Museo La Tertualia,2,MR76,46,338268,10,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-06,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1306189,35,True,Festivo,Lunes,345.044,-7.654.515
+2025-01-06,URBANA,024_ZW Museo La Tertualia,2,MR76,42,1200561,32,True,Festivo,Lunes,345.044,-7.654.515
+2025-01-07,URBANA,024_ZW Museo La Tertualia,2,MR76,41,600427,18,False,Laboral,Martes,345.044,-7.654.515
+2025-01-07,URBANA,024_ZW Museo La Tertualia,2,MR76,46,1339935,40,False,Laboral,Martes,345.044,-7.654.515
+2025-01-08,URBANA,024_ZW Museo La Tertualia,2,MR76,33,1434624,42,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-08,URBANA,024_ZW Museo La Tertualia,2,MR76,41,1117970,32,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-09,URBANA,024_ZW Museo La Tertualia,2,MR76,40,1150526,33,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-09,URBANA,024_ZW Museo La Tertualia,2,MR76,43,1135600,33,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-10,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1438580,40,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-10,URBANA,024_ZW Museo La Tertualia,2,MR76,43,1070784,30,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-11,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1484738,43,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-11,URBANA,024_ZW Museo La Tertualia,2,MR76,68,3466799,102,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-12,URBANA,024_ZW Museo La Tertualia,2,MR76,60,7071594,189,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-12,URBANA,024_ZW Museo La Tertualia,2,MR76,64,3694734,99,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-13,URBANA,024_ZW Museo La Tertualia,2,MR76,43,736873,25,False,Laboral,Lunes,345.044,-7.654.515
+2025-01-13,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1111287,37,False,Laboral,Lunes,345.044,-7.654.515
+2025-01-14,URBANA,024_ZW Museo La Tertualia,2,MR76,42,771922,25,False,Laboral,Martes,345.044,-7.654.515
+2025-01-14,URBANA,024_ZW Museo La Tertualia,2,MR76,51,1180126,39,False,Laboral,Martes,345.044,-7.654.515
+2025-01-15,URBANA,024_ZW Museo La Tertualia,2,MR76,33,285203,10,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-15,URBANA,024_ZW Museo La Tertualia,2,MR76,41,619679,21,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-16,URBANA,024_ZW Museo La Tertualia,2,MR76,38,1425976,45,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-16,URBANA,024_ZW Museo La Tertualia,2,MR76,50,2543498,81,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-17,URBANA,024_ZW Museo La Tertualia,2,MR76,43,1011664,33,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-17,URBANA,024_ZW Museo La Tertualia,2,MR76,53,1719877,56,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-18,URBANA,024_ZW Museo La Tertualia,2,MR76,41,474753,16,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-18,URBANA,024_ZW Museo La Tertualia,2,MR76,47,1425223,47,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-19,URBANA,024_ZW Museo La Tertualia,2,MR76,37,689612,21,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-19,URBANA,024_ZW Museo La Tertualia,2,MR76,53,1276543,39,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-20,URBANA,024_ZW Museo La Tertualia,2,MR76,28,981152,30,False,Laboral,Lunes,345.044,-7.654.515
+2025-01-20,URBANA,024_ZW Museo La Tertualia,2,MR76,51,2174459,67,False,Laboral,Lunes,345.044,-7.654.515
+2025-01-21,URBANA,024_ZW Museo La Tertualia,2,MR76,40,1185600,33,False,Laboral,Martes,345.044,-7.654.515
+2025-01-21,URBANA,024_ZW Museo La Tertualia,2,MR76,51,795320,22,False,Laboral,Martes,345.044,-7.654.515
+2025-01-22,URBANA,024_ZW Museo La Tertualia,2,MR76,35,276348,8,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-22,URBANA,024_ZW Museo La Tertualia,2,MR76,49,810990,24,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-23,URBANA,024_ZW Museo La Tertualia,2,MR76,44,1096021,27,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-23,URBANA,024_ZW Museo La Tertualia,2,MR76,57,1146689,29,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-24,URBANA,024_ZW Museo La Tertualia,2,MR76,47,1921636,58,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-24,URBANA,024_ZW Museo La Tertualia,2,MR76,56,1075069,32,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-25,URBANA,024_ZW Museo La Tertualia,2,MR76,83,3170063,85,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-25,URBANA,024_ZW Museo La Tertualia,2,MR76,77,2151568,58,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-01-26,URBANA,024_ZW Museo La Tertualia,2,MR76,48,1756233,45,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-26,URBANA,024_ZW Museo La Tertualia,2,MR76,63,1982552,50,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-01-27,URBANA,024_ZW Museo La Tertualia,2,MR76,39,1362964,36,False,Laboral,Lunes,345.044,-7.654.515
+2025-01-27,URBANA,024_ZW Museo La Tertualia,2,MR76,36,1220859,32,False,Laboral,Lunes,345.044,-7.654.515
+2025-01-28,URBANA,024_ZW Museo La Tertualia,2,MR76,49,2375968,72,False,Laboral,Martes,345.044,-7.654.515
+2025-01-28,URBANA,024_ZW Museo La Tertualia,2,MR76,48,1544957,47,False,Laboral,Martes,345.044,-7.654.515
+2025-01-29,URBANA,024_ZW Museo La Tertualia,2,MR76,43,3032644,84,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-29,URBANA,024_ZW Museo La Tertualia,2,MR76,40,455998,13,False,Laboral,Miércoles,345.044,-7.654.515
+2025-01-30,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1075216,40,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-30,URBANA,024_ZW Museo La Tertualia,2,MR76,53,702828,26,False,Laboral,Jueves,345.044,-7.654.515
+2025-01-31,URBANA,024_ZW Museo La Tertualia,2,MR76,59,1434670,78,False,Laboral,Viernes,345.044,-7.654.515
+2025-01-31,URBANA,024_ZW Museo La Tertualia,2,MR76,60,340534,18,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-01,URBANA,024_ZW Museo La Tertualia,2,MR76,71,2063470,73,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-01,URBANA,024_ZW Museo La Tertualia,2,MR76,63,1896755,67,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-02,URBANA,024_ZW Museo La Tertualia,2,MR76,53,1838393,54,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-02,URBANA,024_ZW Museo La Tertualia,2,MR76,55,2138326,63,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-03,URBANA,024_ZW Museo La Tertualia,2,MR76,32,2321880,90,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-03,URBANA,024_ZW Museo La Tertualia,2,MR76,35,1042044,40,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-04,URBANA,024_ZW Museo La Tertualia,2,MR76,44,1785681,63,False,Laboral,Martes,345.044,-7.654.515
+2025-02-04,URBANA,024_ZW Museo La Tertualia,2,MR76,47,1043427,37,False,Laboral,Martes,345.044,-7.654.515
+2025-02-05,URBANA,024_ZW Museo La Tertualia,2,MR76,32,1549506,64,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-05,URBANA,024_ZW Museo La Tertualia,2,MR76,46,2032814,84,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-06,URBANA,024_ZW Museo La Tertualia,2,MR76,44,1643573,61,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-06,URBANA,024_ZW Museo La Tertualia,2,MR76,56,1397238,52,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-07,URBANA,024_ZW Museo La Tertualia,2,MR76,39,2349631,80,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-07,URBANA,024_ZW Museo La Tertualia,2,MR76,49,1272150,43,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-08,URBANA,024_ZW Museo La Tertualia,2,MR76,27,416067,16,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-08,URBANA,024_ZW Museo La Tertualia,2,MR76,43,2357699,88,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-09,URBANA,024_ZW Museo La Tertualia,2,MR76,41,3570932,112,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-09,URBANA,024_ZW Museo La Tertualia,2,MR76,56,750698,24,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-10,URBANA,024_ZW Museo La Tertualia,2,MR76,30,517149,20,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-10,URBANA,024_ZW Museo La Tertualia,2,MR76,41,2133589,81,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-11,URBANA,024_ZW Museo La Tertualia,2,MR76,34,1063177,36,False,Laboral,Martes,345.044,-7.654.515
+2025-02-11,URBANA,024_ZW Museo La Tertualia,2,MR76,54,1590192,54,False,Laboral,Martes,345.044,-7.654.515
+2025-02-12,URBANA,024_ZW Museo La Tertualia,2,MR76,43,2507962,76,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-12,URBANA,024_ZW Museo La Tertualia,2,MR76,64,2102298,64,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-13,URBANA,024_ZW Museo La Tertualia,2,MR76,39,870010,41,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-13,URBANA,024_ZW Museo La Tertualia,2,MR76,44,913157,43,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-14,URBANA,024_ZW Museo La Tertualia,2,MR76,54,2320200,69,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-14,URBANA,024_ZW Museo La Tertualia,2,MR76,69,1934179,58,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-15,URBANA,024_ZW Museo La Tertualia,2,MR76,52,3879605,140,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-15,URBANA,024_ZW Museo La Tertualia,2,MR76,58,3464798,125,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-16,URBANA,024_ZW Museo La Tertualia,2,MR76,50,1723744,57,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-16,URBANA,024_ZW Museo La Tertualia,2,MR76,57,2283726,75,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-17,URBANA,024_ZW Museo La Tertualia,2,MR76,26,2082448,74,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-17,URBANA,024_ZW Museo La Tertualia,2,MR76,38,786190,28,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-18,URBANA,024_ZW Museo La Tertualia,2,MR76,31,379649,14,False,Laboral,Martes,345.044,-7.654.515
+2025-02-18,URBANA,024_ZW Museo La Tertualia,2,MR76,49,2308012,82,False,Laboral,Martes,345.044,-7.654.515
+2025-02-19,URBANA,024_ZW Museo La Tertualia,2,MR76,29,398902,13,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-19,URBANA,024_ZW Museo La Tertualia,2,MR76,36,1051758,33,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-20,URBANA,024_ZW Museo La Tertualia,2,MR76,50,1008646,29,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-20,URBANA,024_ZW Museo La Tertualia,2,MR76,46,1206206,34,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-21,URBANA,024_ZW Museo La Tertualia,2,MR76,44,2157287,74,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-21,URBANA,024_ZW Museo La Tertualia,2,MR76,64,1235915,42,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-22,URBANA,024_ZW Museo La Tertualia,2,MR76,43,583665,21,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-22,URBANA,024_ZW Museo La Tertualia,2,MR76,61,1787519,63,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-02-23,URBANA,024_ZW Museo La Tertualia,2,MR76,60,3824462,111,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-23,URBANA,024_ZW Museo La Tertualia,2,MR76,57,2046844,60,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-02-24,URBANA,024_ZW Museo La Tertualia,2,MR76,37,756496,31,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-24,URBANA,024_ZW Museo La Tertualia,2,MR76,36,1505328,62,False,Laboral,Lunes,345.044,-7.654.515
+2025-02-25,URBANA,024_ZW Museo La Tertualia,2,MR76,31,722542,23,False,Laboral,Martes,345.044,-7.654.515
+2025-02-25,URBANA,024_ZW Museo La Tertualia,2,MR76,42,575596,18,False,Laboral,Martes,345.044,-7.654.515
+2025-02-26,URBANA,024_ZW Museo La Tertualia,2,MR76,49,1746250,63,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-26,URBANA,024_ZW Museo La Tertualia,2,MR76,41,524505,19,False,Laboral,Miércoles,345.044,-7.654.515
+2025-02-27,URBANA,024_ZW Museo La Tertualia,2,MR76,24,584866,20,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-27,URBANA,024_ZW Museo La Tertualia,2,MR76,40,1273628,44,False,Laboral,Jueves,345.044,-7.654.515
+2025-02-28,URBANA,024_ZW Museo La Tertualia,2,MR76,49,960758,34,False,Laboral,Viernes,345.044,-7.654.515
+2025-02-28,URBANA,024_ZW Museo La Tertualia,2,MR76,49,1713309,61,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-01,URBANA,024_ZW Museo La Tertualia,2,MR76,37,2615000,98,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-01,URBANA,024_ZW Museo La Tertualia,2,MR76,43,676935,25,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-02,URBANA,024_ZW Museo La Tertualia,2,MR76,55,1867647,55,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-02,URBANA,024_ZW Museo La Tertualia,2,MR76,51,2294672,68,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-03,URBANA,024_ZW Museo La Tertualia,2,MR76,37,1107317,41,False,Laboral,Lunes,345.044,-7.654.515
+2025-03-03,URBANA,024_ZW Museo La Tertualia,2,MR76,48,2616549,98,False,Laboral,Lunes,345.044,-7.654.515
+2025-03-04,URBANA,024_ZW Museo La Tertualia,2,MR76,41,1135634,51,False,Laboral,Martes,345.044,-7.654.515
+2025-03-04,URBANA,024_ZW Museo La Tertualia,2,MR76,37,587717,27,False,Laboral,Martes,345.044,-7.654.515
+2025-03-05,URBANA,024_ZW Museo La Tertualia,2,MR76,34,428484,15,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-05,URBANA,024_ZW Museo La Tertualia,2,MR76,40,164269,6,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-06,URBANA,024_ZW Museo La Tertualia,2,MR76,49,5223325,168,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-06,URBANA,024_ZW Museo La Tertualia,2,MR76,57,2025271,65,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-07,URBANA,024_ZW Museo La Tertualia,2,MR76,43,2162831,78,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-07,URBANA,024_ZW Museo La Tertualia,2,MR76,56,1804816,65,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-08,URBANA,024_ZW Museo La Tertualia,2,MR76,55,2216985,64,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-08,URBANA,024_ZW Museo La Tertualia,2,MR76,65,2585363,75,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-09,URBANA,024_ZW Museo La Tertualia,2,MR76,56,1716932,54,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-09,URBANA,024_ZW Museo La Tertualia,2,MR76,62,2419347,75,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-10,URBANA,024_ZW Museo La Tertualia,2,MR76,36,367080,11,False,Laboral,Lunes,345.044,-7.654.515
+2025-03-10,URBANA,024_ZW Museo La Tertualia,2,MR76,55,2744975,79,False,Laboral,Lunes,345.044,-7.654.515
+2025-03-11,URBANA,024_ZW Museo La Tertualia,2,MR76,40,1062742,48,False,Laboral,Martes,345.044,-7.654.515
+2025-03-11,URBANA,024_ZW Museo La Tertualia,2,MR76,54,1350610,61,False,Laboral,Martes,345.044,-7.654.515
+2025-03-12,URBANA,024_ZW Museo La Tertualia,2,MR76,34,702572,24,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-12,URBANA,024_ZW Museo La Tertualia,2,MR76,44,534932,18,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-13,URBANA,024_ZW Museo La Tertualia,2,MR76,50,1789646,74,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-13,URBANA,024_ZW Museo La Tertualia,2,MR76,56,2129843,88,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-14,URBANA,024_ZW Museo La Tertualia,2,MR76,37,1336750,45,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-14,URBANA,024_ZW Museo La Tertualia,2,MR76,44,368922,12,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-15,URBANA,024_ZW Museo La Tertualia,2,MR76,61,2104963,68,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-15,URBANA,024_ZW Museo La Tertualia,2,MR76,75,2050720,66,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-16,URBANA,024_ZW Museo La Tertualia,2,MR76,60,860054,28,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-16,URBANA,024_ZW Museo La Tertualia,2,MR76,61,2581751,83,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-17,URBANA,024_ZW Museo La Tertualia,2,MR76,37,11941450,410,False,Laboral,Lunes,345.044,-7.654.515
+2025-03-17,URBANA,024_ZW Museo La Tertualia,2,MR76,35,234969,8,False,Laboral,Lunes,345.044,-7.654.515
+2025-03-18,URBANA,024_ZW Museo La Tertualia,2,MR76,40,4645525,141,False,Laboral,Martes,345.044,-7.654.515
+2025-03-18,URBANA,024_ZW Museo La Tertualia,2,MR76,57,2440922,74,False,Laboral,Martes,345.044,-7.654.515
+2025-03-19,URBANA,024_ZW Museo La Tertualia,2,MR76,39,646883,23,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-19,URBANA,024_ZW Museo La Tertualia,2,MR76,68,2432718,87,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-20,URBANA,024_ZW Museo La Tertualia,2,MR76,44,1399121,45,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-20,URBANA,024_ZW Museo La Tertualia,2,MR76,64,1843833,59,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-21,URBANA,024_ZW Museo La Tertualia,2,MR76,56,1765646,48,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-21,URBANA,024_ZW Museo La Tertualia,2,MR76,71,1278137,35,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-22,URBANA,024_ZW Museo La Tertualia,2,MR76,65,1479717,49,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-22,URBANA,024_ZW Museo La Tertualia,2,MR76,61,2531928,83,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-23,URBANA,024_ZW Museo La Tertualia,2,MR76,77,1737847,54,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-23,URBANA,024_ZW Museo La Tertualia,2,MR76,67,3023190,94,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-24,URBANA,024_ZW Museo La Tertualia,2,MR76,61,2072190,51,True,Festivo,Lunes,345.044,-7.654.515
+2025-03-24,URBANA,024_ZW Museo La Tertualia,2,MR76,65,1141973,28,True,Festivo,Lunes,345.044,-7.654.515
+2025-03-25,URBANA,024_ZW Museo La Tertualia,2,MR76,43,2315587,67,False,Laboral,Martes,345.044,-7.654.515
+2025-03-25,URBANA,024_ZW Museo La Tertualia,2,MR76,52,1461588,42,False,Laboral,Martes,345.044,-7.654.515
+2025-03-26,URBANA,024_ZW Museo La Tertualia,2,MR76,43,862274,28,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-26,URBANA,024_ZW Museo La Tertualia,2,MR76,41,834344,27,False,Laboral,Miércoles,345.044,-7.654.515
+2025-03-27,URBANA,024_ZW Museo La Tertualia,2,MR76,39,367174,10,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-27,URBANA,024_ZW Museo La Tertualia,2,MR76,61,1981850,55,False,Laboral,Jueves,345.044,-7.654.515
+2025-03-28,URBANA,024_ZW Museo La Tertualia,2,MR76,46,721070,30,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-28,URBANA,024_ZW Museo La Tertualia,2,MR76,62,1040467,43,False,Laboral,Viernes,345.044,-7.654.515
+2025-03-29,URBANA,024_ZW Museo La Tertualia,2,MR76,68,1603316,50,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-29,URBANA,024_ZW Museo La Tertualia,2,MR76,86,3116538,97,False,Fin de Semana,Sábado,345.044,-7.654.515
+2025-03-30,URBANA,024_ZW Museo La Tertualia,2,MR76,74,1869927,54,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-30,URBANA,024_ZW Museo La Tertualia,2,MR76,69,3926854,112,False,Fin de Semana,Domingo,345.044,-7.654.515
+2025-03-31,URBANA,024_ZW Museo La Tertualia,2,MR76,33,3960491,132,False,Laboral,Lunes,345.044,-7.654.515
+2025-03-31,URBANA,024_ZW Museo La Tertualia,2,MR76,44,864355,29,False,Laboral,Lunes,345.044,-7.654.515

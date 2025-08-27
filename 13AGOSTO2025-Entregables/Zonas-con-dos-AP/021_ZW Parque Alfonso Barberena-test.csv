@@ -1,0 +1,799 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,74,16740,"1,9",True,Festivo,Lunes,3.434,-7.650.962
+2024-01-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,7683,"0,9",True,Festivo,Lunes,3.434,-7.650.962
+2024-01-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,18455,"2,2",False,Laboral,Martes,3.434,-7.650.962
+2024-01-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,55,162953,"19,4",False,Laboral,Martes,3.434,-7.650.962
+2024-01-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,9419,"0,8",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,10991,"0,9",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,17872,"1,7",False,Laboral,Jueves,3.434,-7.650.962
+2024-01-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,51342,"4,9",False,Laboral,Jueves,3.434,-7.650.962
+2024-01-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,18111,"1,7",False,Laboral,Viernes,3.434,-7.650.962
+2024-01-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,16958,"1,6",False,Laboral,Viernes,3.434,-7.650.962
+2024-01-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,14163,"1,8",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-01-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,140163,"18,3",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-01-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,8113,"0,8",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-01-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,17844,"1,8",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-01-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,60353,"3,8",True,Festivo,Lunes,3.434,-7.650.962
+2024-01-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,63038,4,True,Festivo,Lunes,3.434,-7.650.962
+2024-01-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,17739,"1,4",False,Laboral,Martes,3.434,-7.650.962
+2024-01-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,25094,"1,9",False,Laboral,Martes,3.434,-7.650.962
+2024-01-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,7090,"0,6",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,6203,"0,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,8824,"0,8",False,Laboral,Jueves,3.434,-7.650.962
+2024-01-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,31622,"2,9",False,Laboral,Jueves,3.434,-7.650.962
+2024-01-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,806285,"69,4",False,Laboral,Viernes,3.434,-7.650.962
+2024-01-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,27606,"2,4",False,Laboral,Viernes,3.434,-7.650.962
+2024-01-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,112,93583,"10,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-01-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,1039338,"115,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-01-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,1597821,"201,9",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-01-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,3086607,390,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-01-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,1985401,287,False,Laboral,Lunes,3.434,-7.650.962
+2024-01-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,2080447,"300,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-01-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,3420729,"399,9",False,Laboral,Martes,3.434,-7.650.962
+2024-01-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,875065,"102,3",False,Laboral,Martes,3.434,-7.650.962
+2024-01-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,4780596,478,False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,65,2279050,"227,9",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,5081706,"423,6",False,Laboral,Jueves,3.434,-7.650.962
+2024-01-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,2632800,"219,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-01-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,810348,"52,8",False,Laboral,Viernes,3.434,-7.650.962
+2024-01-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,283310,"18,5",False,Laboral,Viernes,3.434,-7.650.962
+2024-01-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,29648,"2,3",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-01-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,23650,"1,8",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-01-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,17821,"1,4",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-01-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,22446,"1,7",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-01-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,4846,"0,5",False,Laboral,Lunes,3.434,-7.650.962
+2024-01-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,4426,"0,4",False,Laboral,Lunes,3.434,-7.650.962
+2024-01-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,55,5425,"0,5",False,Laboral,Martes,3.434,-7.650.962
+2024-01-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,4992,"0,5",False,Laboral,Martes,3.434,-7.650.962
+2024-01-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,6818,"0,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,9746,"0,8",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,4,333,0,False,Laboral,Jueves,3.434,-7.650.962
+2024-01-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,4,67,0,False,Laboral,Jueves,3.434,-7.650.962
+2024-01-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,2373447,"227,2",False,Laboral,Miércoles,3.434,-7.650.962
+2024-01-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,46,3220699,"308,4",False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,5396571,388,False,Laboral,Jueves,3.434,-7.650.962
+2024-02-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,4276926,"307,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-02-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,2425189,"253,9",False,Laboral,Viernes,3.434,-7.650.962
+2024-02-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,2384780,"249,6",False,Laboral,Viernes,3.434,-7.650.962
+2024-02-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,4137767,"233,2",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,101,2857044,161,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,3111784,"194,6",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,101,3994896,"249,8",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,2109588,"140,1",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,2226503,"147,9",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,920756,"61,6",False,Laboral,Martes,3.434,-7.650.962
+2024-02-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,833909,"55,8",False,Laboral,Martes,3.434,-7.650.962
+2024-02-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,973716,59,False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,177882,"10,8",False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,7047,"0,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-02-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,14853,"1,1",False,Laboral,Jueves,3.434,-7.650.962
+2024-02-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,201693,"16,8",False,Laboral,Viernes,3.434,-7.650.962
+2024-02-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,42645,"3,5",False,Laboral,Viernes,3.434,-7.650.962
+2024-02-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,16887,"1,1",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,37079,"2,3",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,12334,"0,9",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,66416,"4,9",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,7873,"0,8",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,146153,"14,1",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,13451,"1,6",False,Laboral,Martes,3.434,-7.650.962
+2024-02-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,16354,"1,9",False,Laboral,Martes,3.434,-7.650.962
+2024-02-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,91003,12,False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,65,706086,"93,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,12234,1,False,Laboral,Jueves,3.434,-7.650.962
+2024-02-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,9862,"0,8",False,Laboral,Jueves,3.434,-7.650.962
+2024-02-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,13140,"1,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-02-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,260650,"24,7",False,Laboral,Viernes,3.434,-7.650.962
+2024-02-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,17142,"1,6",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,29540,"2,8",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,27621,"2,1",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,78064,6,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,5131,"0,4",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,246926,"16,8",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,3236,"0,3",False,Laboral,Martes,3.434,-7.650.962
+2024-02-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,24664,2,False,Laboral,Martes,3.434,-7.650.962
+2024-02-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,5756,"0,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,19827,"1,7",False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,258738,"16,9",False,Laboral,Jueves,3.434,-7.650.962
+2024-02-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,21394,"1,4",False,Laboral,Jueves,3.434,-7.650.962
+2024-02-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,14421,1,False,Laboral,Viernes,3.434,-7.650.962
+2024-02-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,673489,"47,3",False,Laboral,Viernes,3.434,-7.650.962
+2024-02-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,494402,"39,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,1587806,"126,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-02-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,6159452,"350,7",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,639920,"36,4",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-02-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,280956,"25,2",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,97720,"8,8",False,Laboral,Lunes,3.434,-7.650.962
+2024-02-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,7826,"0,7",False,Laboral,Martes,3.434,-7.650.962
+2024-02-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,42,10796,"0,9",False,Laboral,Martes,3.434,-7.650.962
+2024-02-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,233049,"13,6",False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,283614,"16,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-02-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,695101,"87,8",False,Laboral,Jueves,3.434,-7.650.962
+2024-02-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,201676,"25,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-03-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,385677,"32,1",False,Laboral,Viernes,3.434,-7.650.962
+2024-03-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,1243163,"103,6",False,Laboral,Viernes,3.434,-7.650.962
+2024-03-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,52,2244020,"218,1",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,1039174,101,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,3829562,"274,7",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-03-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,1174511,"84,3",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-03-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,261551,"18,4",False,Laboral,Lunes,3.434,-7.650.962
+2024-03-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,18009,"1,3",False,Laboral,Lunes,3.434,-7.650.962
+2024-03-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,393022,"28,5",False,Laboral,Martes,3.434,-7.650.962
+2024-03-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,22245,"1,6",False,Laboral,Martes,3.434,-7.650.962
+2024-03-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,6102,"0,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,88778,"7,3",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,26719,"2,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-03-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,19951,"1,9",False,Laboral,Jueves,3.434,-7.650.962
+2024-03-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,24451,"2,3",False,Laboral,Viernes,3.434,-7.650.962
+2024-03-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,85638,8,False,Laboral,Viernes,3.434,-7.650.962
+2024-03-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,12809,"1,3",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,152460,"15,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,34442,"3,6",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-03-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,105,174447,"18,3",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-03-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,2643,"0,3",False,Laboral,Lunes,3.434,-7.650.962
+2024-03-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,10762,"1,1",False,Laboral,Lunes,3.434,-7.650.962
+2024-03-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,5781,"0,7",False,Laboral,Martes,3.434,-7.650.962
+2024-03-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,6810,"0,8",False,Laboral,Martes,3.434,-7.650.962
+2024-03-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,16514,"2,2",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,9326,"1,3",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,9971,1,False,Laboral,Jueves,3.434,-7.650.962
+2024-03-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,54057,"5,6",False,Laboral,Jueves,3.434,-7.650.962
+2024-03-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,9752,"0,7",False,Laboral,Viernes,3.434,-7.650.962
+2024-03-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,26376,2,False,Laboral,Viernes,3.434,-7.650.962
+2024-03-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,109,329993,"29,2",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,2378578,"210,3",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,8794308,"679,1",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-03-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,2690560,"207,8",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-03-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,5170833,"430,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-03-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,6676438,"556,1",False,Laboral,Lunes,3.434,-7.650.962
+2024-03-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,712366,"94,5",False,Laboral,Martes,3.434,-7.650.962
+2024-03-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,1136415,"150,8",False,Laboral,Martes,3.434,-7.650.962
+2024-03-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,5039,"0,8",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,7369,"1,1",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,13017,"1,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-03-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,62,10659,"1,2",False,Laboral,Jueves,3.434,-7.650.962
+2024-03-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,85,5540,"0,6",False,Laboral,Viernes,3.434,-7.650.962
+2024-03-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,74,18417,"1,9",False,Laboral,Viernes,3.434,-7.650.962
+2024-03-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,21,3167,"0,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,17,521,"0,1",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,3880511,553,True,Festivo,Lunes,3.434,-7.650.962
+2024-03-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,1995028,"284,3",True,Festivo,Lunes,3.434,-7.650.962
+2024-03-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,6038777,"775,5",False,Laboral,Martes,3.434,-7.650.962
+2024-03-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,2041204,"262,1",False,Laboral,Martes,3.434,-7.650.962
+2024-03-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,74,3115025,"385,7",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,2093803,"259,2",False,Laboral,Miércoles,3.434,-7.650.962
+2024-03-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,5292324,"829,4",True,Festivo,Jueves,3.434,-7.650.962
+2024-03-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,65,3318425,520,True,Festivo,Jueves,3.434,-7.650.962
+2024-03-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,1850858,"186,7",True,Festivo,Viernes,3.434,-7.650.962
+2024-03-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,4352720,439,True,Festivo,Viernes,3.434,-7.650.962
+2024-03-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,10507,"1,7",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,39763,"6,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-03-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,65,8153,"1,1",True,Festivo,Domingo,3.434,-7.650.962
+2024-03-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,15893,"2,1",True,Festivo,Domingo,3.434,-7.650.962
+2024-04-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,4242,"0,4",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,55,5194,"0,5",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,41,3922,"0,6",False,Laboral,Martes,3.434,-7.650.962
+2024-04-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,36,12590,"1,8",False,Laboral,Martes,3.434,-7.650.962
+2024-04-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,2907,"0,3",False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,5617,"0,6",False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,4713,"0,4",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,111462,"9,7",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,11472,1,False,Laboral,Viernes,3.434,-7.650.962
+2024-04-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,149563,"13,3",False,Laboral,Viernes,3.434,-7.650.962
+2024-04-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,112,30528,"2,5",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,25862,"2,1",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,15371,"1,3",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,15834,"1,3",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,3837,"0,5",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,6428,"0,9",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,2641,"0,3",False,Laboral,Martes,3.434,-7.650.962
+2024-04-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,11869,"1,6",False,Laboral,Martes,3.434,-7.650.962
+2024-04-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,178062,"41,9",False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,13116,"3,1",False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,7251,"1,6",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,10438,"2,4",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,29986,"4,4",False,Laboral,Viernes,3.434,-7.650.962
+2024-04-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,19393,"2,9",False,Laboral,Viernes,3.434,-7.650.962
+2024-04-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,19066,"2,2",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,27924,"3,3",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,24186,"3,5",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,22277,"3,2",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,9116,"2,3",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,10611,"2,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,5407,"1,3",False,Laboral,Martes,3.434,-7.650.962
+2024-04-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,10973,"2,6",False,Laboral,Martes,3.434,-7.650.962
+2024-04-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,4955,"1,3",False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,9102,"2,4",False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,5588,"1,9",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,12133,"4,2",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,98498,"24,3",False,Laboral,Viernes,3.434,-7.650.962
+2024-04-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,49,29383,"7,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-04-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,122,14792,"1,9",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,15465,2,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,101,31125,5,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,108030,"17,5",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,3403,"0,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,46,6407,"1,4",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,549915,30,False,Laboral,Martes,3.434,-7.650.962
+2024-04-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,788271,"42,9",False,Laboral,Martes,3.434,-7.650.962
+2024-04-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,1144988,"62,3",False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,51,220276,12,False,Laboral,Miércoles,3.434,-7.650.962
+2024-04-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,398281,"33,6",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,55,873808,"73,6",False,Laboral,Jueves,3.434,-7.650.962
+2024-04-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,122286,"12,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-04-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,42,68338,"6,8",False,Laboral,Viernes,3.434,-7.650.962
+2024-04-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,8366,"0,7",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,447421,"36,7",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-04-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,43,8953,"1,2",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,40,19921,"2,7",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-04-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,6118,"0,8",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,12622,"1,6",False,Laboral,Lunes,3.434,-7.650.962
+2024-04-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,6120,1,False,Laboral,Martes,3.434,-7.650.962
+2024-04-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,6707,"1,1",False,Laboral,Martes,3.434,-7.650.962
+2024-05-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,22795,"4,3",True,Festivo,Miércoles,3.434,-7.650.962
+2024-05-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,12441,"2,4",True,Festivo,Miércoles,3.434,-7.650.962
+2024-05-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,3791,"0,7",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,53,84130,"16,4",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,5726,"1,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,51,5273,"1,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,19211,"2,7",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,201571,"27,9",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,161608,"26,2",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,410415,"66,6",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,8016,"1,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-05-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,36727,"7,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-05-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,8231,"1,4",False,Laboral,Martes,3.434,-7.650.962
+2024-05-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,14942,"2,5",False,Laboral,Martes,3.434,-7.650.962
+2024-05-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,2870,"0,4",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,6944,"0,9",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,3087,"0,4",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,5323,"0,6",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,6778,"0,9",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,12123,"1,5",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,17957,"2,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,74,25499,"3,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,17205,"4,2",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,30968,"7,5",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,556709,"99,5",True,Festivo,Lunes,3.434,-7.650.962
+2024-05-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,12325,"2,2",True,Festivo,Lunes,3.434,-7.650.962
+2024-05-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,320953,148,False,Laboral,Martes,3.434,-7.650.962
+2024-05-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,47,49095,"22,6",False,Laboral,Martes,3.434,-7.650.962
+2024-05-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,62,939928,"152,1",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,52,1919139,"310,6",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,1340800,"164,3",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,852758,"104,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,2597459,"249,8",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,465181,"44,7",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,23496,"2,1",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,17755,"1,6",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,29709,"2,5",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,284777,"24,4",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,9792,"1,4",False,Laboral,Lunes,3.434,-7.650.962
+2024-05-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,49,4857,"0,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-05-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,7634,1,False,Laboral,Martes,3.434,-7.650.962
+2024-05-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,6674,"0,9",False,Laboral,Martes,3.434,-7.650.962
+2024-05-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,65,17038,"6,6",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,16335,"6,3",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,9847,"1,9",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,53,19936,"3,8",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,15425,"3,3",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,52,11253,"2,4",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,12612,"1,8",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,157536,"22,1",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-05-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,31,1412,"0,2",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,35,38870,"5,6",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-05-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,1800541,"211,8",False,Laboral,Lunes,3.434,-7.650.962
+2024-05-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,308878,"36,3",False,Laboral,Lunes,3.434,-7.650.962
+2024-05-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,803248,"107,9",False,Laboral,Martes,3.434,-7.650.962
+2024-05-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,276428,"37,1",False,Laboral,Martes,3.434,-7.650.962
+2024-05-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,46,434927,"86,9",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,32,386388,"77,2",False,Laboral,Miércoles,3.434,-7.650.962
+2024-05-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,99669,"8,3",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,62,1313352,"109,8",False,Laboral,Jueves,3.434,-7.650.962
+2024-05-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,4,4818,"0,5",False,Laboral,Viernes,3.434,-7.650.962
+2024-05-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,7,62726,"6,7",False,Laboral,Viernes,3.434,-7.650.962
+2024-06-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,2285309,"233,2",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,1783930,182,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,1469102,"212,1",True,Festivo,Lunes,3.434,-7.650.962
+2024-06-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,3275208,"472,8",True,Festivo,Lunes,3.434,-7.650.962
+2024-06-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,520584,"114,5",False,Laboral,Martes,3.434,-7.650.962
+2024-06-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,1061480,"233,5",False,Laboral,Martes,3.434,-7.650.962
+2024-06-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,3635,"1,3",False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,53,4806,"1,7",False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,6435,"1,1",False,Laboral,Jueves,3.434,-7.650.962
+2024-06-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,7448,"1,2",False,Laboral,Jueves,3.434,-7.650.962
+2024-06-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,10564,"2,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-06-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,15629,"3,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-06-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,32780,"10,4",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,49022,"15,6",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,20489,7,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,37059,"12,7",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,10048,"1,8",True,Festivo,Lunes,3.434,-7.650.962
+2024-06-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,14554,"2,7",True,Festivo,Lunes,3.434,-7.650.962
+2024-06-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,6133,1,False,Laboral,Martes,3.434,-7.650.962
+2024-06-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,7152,"1,1",False,Laboral,Martes,3.434,-7.650.962
+2024-06-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,65,42217,"5,7",False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,22483,3,False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,6971,13571800,False,Laboral,Jueves,3.434,-7.650.962
+2024-06-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,17001,330991400,False,Laboral,Jueves,3.434,-7.650.962
+2024-06-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,62,5485,164857300,False,Laboral,Viernes,3.434,-7.650.962
+2024-06-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,9981,299989200,False,Laboral,Viernes,3.434,-7.650.962
+2024-06-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,11532,206887100,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,14974,268637400,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,14607,261931300,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,6801,121954900,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,4643,"0,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-06-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,41109,"6,6",False,Laboral,Lunes,3.434,-7.650.962
+2024-06-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,50,2366,"0,4",False,Laboral,Martes,3.434,-7.650.962
+2024-06-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,15972,"2,5",False,Laboral,Martes,3.434,-7.650.962
+2024-06-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,3616,"0,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,42,10831,"1,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,6989,"1,4",False,Laboral,Jueves,3.434,-7.650.962
+2024-06-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,9828,2,False,Laboral,Jueves,3.434,-7.650.962
+2024-06-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,125,8130,"1,4",False,Laboral,Viernes,3.434,-7.650.962
+2024-06-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,114,22264,"3,8",False,Laboral,Viernes,3.434,-7.650.962
+2024-06-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,126,8164,"1,5",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,109,11201,"2,1",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,19365,"7,6",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,14648,"5,7",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,3290,"0,6",False,Laboral,Lunes,3.434,-7.650.962
+2024-06-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,8900,"1,7",False,Laboral,Lunes,3.434,-7.650.962
+2024-06-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,118,5156,"1,3",False,Laboral,Martes,3.434,-7.650.962
+2024-06-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,16419,"4,1",False,Laboral,Martes,3.434,-7.650.962
+2024-06-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,3984,1,False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,4631,"1,2",False,Laboral,Miércoles,3.434,-7.650.962
+2024-06-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,3398,1,False,Laboral,Jueves,3.434,-7.650.962
+2024-06-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,3458,1,False,Laboral,Jueves,3.434,-7.650.962
+2024-06-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,115,314210,"54,1",False,Laboral,Viernes,3.434,-7.650.962
+2024-06-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,32873,"5,7",False,Laboral,Viernes,3.434,-7.650.962
+2024-06-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,11538,2,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,109,13011,"2,2",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-06-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,21471,"4,6",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-06-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,41387,"8,9",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,22039,"3,06",True,Festivo,Lunes,3.434,-7.650.962
+2024-07-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,29220,"4,06",True,Festivo,Lunes,3.434,-7.650.962
+2024-07-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,15444,"1,66",False,Laboral,Martes,3.434,-7.650.962
+2024-07-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,4928,"0,53",False,Laboral,Martes,3.434,-7.650.962
+2024-07-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,6349,"0,76",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,4310,"0,51",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,5781,"0,73",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,4334,"0,55",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,1938,"0,23",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,3510,"0,41",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,124,31410,"3,73",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-07-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,14605,"1,74",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-07-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,115,47577,"5,39",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,22597,"2,56",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,3591,"0,65",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,6299,"1,13",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,3917,"0,67",False,Laboral,Martes,3.434,-7.650.962
+2024-07-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,6883,"1,19",False,Laboral,Martes,3.434,-7.650.962
+2024-07-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,109,11953,"1,73",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,6266,"0,91",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,6509,"0,88",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,14192,"1,92",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,131,15247,"2,4",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,14908,"2,35",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,149,39528,"5,61",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-07-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,150,20208,"2,87",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-07-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,12066,"1,9",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,15225,"2,39",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,87528,"15,66",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,266368,"47,65",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,1961893,"312,31",False,Laboral,Martes,3.434,-7.650.962
+2024-07-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,967279,"153,98",False,Laboral,Martes,3.434,-7.650.962
+2024-07-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,1945426,"429,91",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,1466643,"324,1",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,120,2938987,"493,25",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,1433759,"240,63",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,130,3375577,"470,35",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,629705,"87,74",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,142,28886,"3,71",True,Festivo,Sábado,3.434,-7.650.962
+2024-07-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,113,13361,"1,72",True,Festivo,Sábado,3.434,-7.650.962
+2024-07-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,141,43762,"6,69",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,128,13464,"2,06",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,10850,"1,56",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,9758,"1,4",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,14660,"2,12",False,Laboral,Martes,3.434,-7.650.962
+2024-07-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,7449,"1,08",False,Laboral,Martes,3.434,-7.650.962
+2024-07-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,8052,"1,27",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,6312,1,False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,126,8976,"1,42",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,9697,"1,53",False,Laboral,Jueves,3.434,-7.650.962
+2024-07-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,2677794,"352,69",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,865644,"114,01",False,Laboral,Viernes,3.434,-7.650.962
+2024-07-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,134,2125589,"363,53",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-07-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,130,1296980,"221,82",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-07-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,437240,"92,52",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,3006036,"636,11",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-07-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,131,182179,"29,21",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,1556577,"249,6",False,Laboral,Lunes,3.434,-7.650.962
+2024-07-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,125,7338,"1,07",False,Laboral,Martes,3.434,-7.650.962
+2024-07-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,9330,"1,36",False,Laboral,Martes,3.434,-7.650.962
+2024-07-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,126,10448,"1,74",False,Laboral,Miércoles,3.434,-7.650.962
+2024-07-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,122,16357,"2,72",False,Laboral,Miércoles,3.434,-7.650.962
+2024-08-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,118,8124,"1,21",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,16126,"2,41",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,134,15261,"2,54",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,119,10886,"1,81",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,168,31441,"6,41",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,141,14766,"3,01",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,132,55257,"8,81",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,10260,"1,64",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,126,8820,"1,27",False,Laboral,Lunes,3.434,-7.650.962
+2024-08-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,28480,"4,12",False,Laboral,Lunes,3.434,-7.650.962
+2024-08-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,4752,"0,46",False,Laboral,Martes,3.434,-7.650.962
+2024-08-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,3500,"0,34",False,Laboral,Martes,3.434,-7.650.962
+2024-08-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,47979,"5,71",True,Festivo,Miércoles,3.434,-7.650.962
+2024-08-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,68136,"8,1",True,Festivo,Miércoles,3.434,-7.650.962
+2024-08-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,5775,"0,72",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,6777,"0,85",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,143,10205,"1,88",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,18239,"3,37",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,156,23779,"4,5",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,212830,"40,28",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,114,21210,"3,68",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,115,18791,"3,26",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,119,18691,"4,01",False,Laboral,Lunes,3.434,-7.650.962
+2024-08-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,85,8563,"1,84",False,Laboral,Lunes,3.434,-7.650.962
+2024-08-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,112,7438,"0,84",False,Laboral,Martes,3.434,-7.650.962
+2024-08-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,101,9219,"1,04",False,Laboral,Martes,3.434,-7.650.962
+2024-08-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,128,6854,"0,91",False,Laboral,Miércoles,3.434,-7.650.962
+2024-08-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,11754,"1,56",False,Laboral,Miércoles,3.434,-7.650.962
+2024-08-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,9698,"1,46",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,27191,"4,08",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,141,992269,"135,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,1094866,"149,18",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,132,1099189,"159,42",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,848775,"123,11",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,111,18684,"2,83",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,152556,"23,09",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,17657,"2,42",True,Festivo,Lunes,3.434,-7.650.962
+2024-08-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,20858,"2,86",True,Festivo,Lunes,3.434,-7.650.962
+2024-08-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,9073,"2,25",False,Laboral,Martes,3.434,-7.650.962
+2024-08-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,14217,"3,52",False,Laboral,Martes,3.434,-7.650.962
+2024-08-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,118,9476,"2,76",False,Laboral,Miércoles,3.434,-7.650.962
+2024-08-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,17219,"5,01",False,Laboral,Miércoles,3.434,-7.650.962
+2024-08-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,15415,"4,1",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,10220,"2,72",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,11052,"4,5",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,113,16128,"6,57",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,129,328463,"222,61",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,133668,"90,59",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,17137,"16,4",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,59131,"56,58",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-08-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,8647,"11,55",False,Laboral,Lunes,3.434,-7.650.962
+2024-08-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,7946,"10,62",False,Laboral,Lunes,3.434,-7.650.962
+2024-08-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,7091,"7,61",False,Laboral,Martes,3.434,-7.650.962
+2024-08-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,15401,"16,53",False,Laboral,Martes,3.434,-7.650.962
+2024-08-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,7154,"12,69",False,Laboral,Miércoles,3.434,-7.650.962
+2024-08-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,13600,"24,13",False,Laboral,Miércoles,3.434,-7.650.962
+2024-08-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,8649,"24,71",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,9455,"27,01",False,Laboral,Jueves,3.434,-7.650.962
+2024-08-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,130,10195,"24,56",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,14058,"33,86",False,Laboral,Viernes,3.434,-7.650.962
+2024-08-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,125,20196,"28,83",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-08-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,109,11547,"16,48",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-09-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,114,9183,"21,25",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-09-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,18993,"43,96",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-09-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,120,22817,"44,98",False,Laboral,Lunes,3.434,-7.650.962
+2024-09-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,5194,"10,24",False,Laboral,Lunes,3.434,-7.650.962
+2024-09-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,3102,17,False,Laboral,Martes,3.434,-7.650.962
+2024-09-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,14876,"81,51",False,Laboral,Martes,3.434,-7.650.962
+2024-09-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,50,2906,"398,55",False,Laboral,Miércoles,3.434,-7.650.962
+2024-09-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,39,6514,"893,38",False,Laboral,Miércoles,3.434,-7.650.962
+2024-10-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,1242045,"277,45",False,Laboral,Viernes,3.434,-7.650.962
+2024-10-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,1598044,"356,98",False,Laboral,Viernes,3.434,-7.650.962
+2024-10-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,2807020,"363,5",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-10-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,1647858,"213,39",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-10-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,3070902,"308,49",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-10-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,2114486,"212,41",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-10-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,49,790013,"131,19",False,Laboral,Lunes,3.434,-7.650.962
+2024-10-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,46,932115,"154,79",False,Laboral,Lunes,3.434,-7.650.962
+2024-10-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,62,958414,"151,18",False,Laboral,Martes,3.434,-7.650.962
+2024-10-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,1786753,"281,84",False,Laboral,Martes,3.434,-7.650.962
+2024-10-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,1271754,"259,59",False,Laboral,Miércoles,3.434,-7.650.962
+2024-10-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,62,2613925,"533,54",False,Laboral,Miércoles,3.434,-7.650.962
+2024-10-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,105,577977,"123,2",False,Laboral,Jueves,3.434,-7.650.962
+2024-10-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,130,1209720,"257,85",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,459571,"83,11",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,57,1705567,"308,43",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,29551,"4,76",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,91520,"14,73",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,14051,"2,39",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,163670,"27,82",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,20264,"3,05",True,Festivo,Lunes,3.434,-7.650.962
+2024-11-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,264534,"39,88",True,Festivo,Lunes,3.434,-7.650.962
+2024-11-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,259051,"35,48",False,Laboral,Martes,3.434,-7.650.962
+2024-11-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,877669,"120,19",False,Laboral,Martes,3.434,-7.650.962
+2024-11-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,61,38184,"6,1",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,30,340953,"54,45",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,198619,"22,33",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,1045222,"117,53",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,124,3958830,"320,13",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,5891536,"476,41",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,123,2266792,"136,13",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,1551157,"93,16",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,2314227,"119,46",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,4111658,"212,25",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,3252984,"185,23",True,Festivo,Lunes,3.434,-7.650.962
+2024-11-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,988280,"56,27",True,Festivo,Lunes,3.434,-7.650.962
+2024-11-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,2801728,"146,57",False,Laboral,Martes,3.434,-7.650.962
+2024-11-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,105,1903846,"99,6",False,Laboral,Martes,3.434,-7.650.962
+2024-11-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,1125990,"69,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,1547277,"95,5",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,1449747,"75,52",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,1357116,"70,69",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,1985166,"108,98",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,1679542,"92,2",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,139,1963211,"106,62",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,2531705,"137,5",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,127,6119015,"356,18",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,128,2014860,"117,28",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,112,1710533,"106,41",False,Laboral,Lunes,3.434,-7.650.962
+2024-11-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,1053103,"65,52",False,Laboral,Lunes,3.434,-7.650.962
+2024-11-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,1538002,"96,27",False,Laboral,Martes,3.434,-7.650.962
+2024-11-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,748541,"46,85",False,Laboral,Martes,3.434,-7.650.962
+2024-11-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,4142205,"217,07",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,3213561,"168,4",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,138,4807420,"266,25",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,2642986,"146,38",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,139,1935457,"95,87",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,2615284,"129,55",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,136,3095268,"161,51",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,2730621,"142,49",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,118,1460222,"197,23",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,793002,"107,11",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-11-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,40360,"9,81",False,Laboral,Lunes,3.434,-7.650.962
+2024-11-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,109,312924,"76,09",False,Laboral,Lunes,3.434,-7.650.962
+2024-11-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,161526,"20,51",False,Laboral,Martes,3.434,-7.650.962
+2024-11-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,1073746,"136,34",False,Laboral,Martes,3.434,-7.650.962
+2024-11-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,118,2649651,"136,43",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,3190658,"164,29",False,Laboral,Miércoles,3.434,-7.650.962
+2024-11-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,144,3239245,"153,84",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,1736552,"82,48",False,Laboral,Jueves,3.434,-7.650.962
+2024-11-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,126,2685520,"120,84",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,105,4896746,"220,33",False,Laboral,Viernes,3.434,-7.650.962
+2024-11-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,134,8661545,"380,01",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-11-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,133,3647200,"160,01",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,124,5547796,"229,57",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,3142654,"130,04",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,124,1627554,78,False,Laboral,Lunes,3.434,-7.650.962
+2024-12-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,3642803,"174,58",False,Laboral,Lunes,3.434,-7.650.962
+2024-12-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,113,1795180,"96,15",False,Laboral,Martes,3.434,-7.650.962
+2024-12-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,3391309,"181,64",False,Laboral,Martes,3.434,-7.650.962
+2024-12-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,130,4059267,"175,75",False,Laboral,Miércoles,3.434,-7.650.962
+2024-12-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,1620172,"70,15",False,Laboral,Miércoles,3.434,-7.650.962
+2024-12-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,131,3605261,"157,15",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,1527629,"66,59",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,406343,"18,07",False,Laboral,Viernes,3.434,-7.650.962
+2024-12-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,2959540,"131,63",False,Laboral,Viernes,3.434,-7.650.962
+2024-12-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,124,3180891,"155,05",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,2101496,"102,44",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,2629991,"99,04",True,Festivo,Domingo,3.434,-7.650.962
+2024-12-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,2962871,"111,57",True,Festivo,Domingo,3.434,-7.650.962
+2024-12-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,115,2290201,"84,91",False,Laboral,Lunes,3.434,-7.650.962
+2024-12-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,3772332,"139,87",False,Laboral,Lunes,3.434,-7.650.962
+2024-12-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,2513285,"82,99",False,Laboral,Martes,3.434,-7.650.962
+2024-12-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,2080844,"68,71",False,Laboral,Martes,3.434,-7.650.962
+2024-12-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,114,2505429,"83,09",False,Laboral,Miércoles,3.434,-7.650.962
+2024-12-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,636022,"21,09",False,Laboral,Miércoles,3.434,-7.650.962
+2024-12-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,132,2784934,"81,16",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,85,701559,"20,44",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,134,2079946,"61,31",False,Laboral,Viernes,3.434,-7.650.962
+2024-12-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,831272,"24,5",False,Laboral,Viernes,3.434,-7.650.962
+2024-12-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,147,5151941,"169,6",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,1518263,"49,98",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,4943834,"166,87",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,3078976,"103,93",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,130,7390696,"222,24",False,Laboral,Lunes,3.434,-7.650.962
+2024-12-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,6530392,"196,37",False,Laboral,Lunes,3.434,-7.650.962
+2024-12-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,122,3864790,126,False,Laboral,Martes,3.434,-7.650.962
+2024-12-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,1229428,40,False,Laboral,Martes,3.434,-7.650.962
+2024-12-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,1400850,"44,4",False,Laboral,Miércoles,3.434,-7.650.962
+2024-12-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,111,3715641,118,False,Laboral,Miércoles,3.434,-7.650.962
+2024-12-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,139,1586481,"55,8",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,2450798,"86,2",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,125,6359092,210,False,Laboral,Viernes,3.434,-7.650.962
+2024-12-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,104,1685303,"55,5",False,Laboral,Viernes,3.434,-7.650.962
+2024-12-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,114,3123919,120,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,106,2822547,108,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,122,4903649,153,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,108,3112322,"97,2",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,122,2541949,101,False,Laboral,Lunes,3.434,-7.650.962
+2024-12-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,2026180,"80,8",False,Laboral,Lunes,3.434,-7.650.962
+2024-12-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,1884083,"78,8",False,Laboral,Martes,3.434,-7.650.962
+2024-12-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,649451,"27,2",False,Laboral,Martes,3.434,-7.650.962
+2024-12-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,2510466,"88,9",True,Festivo,Miércoles,3.434,-7.650.962
+2024-12-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,2132539,"75,5",True,Festivo,Miércoles,3.434,-7.650.962
+2024-12-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,60,1380504,"50,5",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,49,1523768,"55,7",False,Laboral,Jueves,3.434,-7.650.962
+2024-12-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,3448943,106,False,Laboral,Viernes,3.434,-7.650.962
+2024-12-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,3261922,100,False,Laboral,Viernes,3.434,-7.650.962
+2024-12-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,65,3593254,153,False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,1928035,"81,9",False,Fin de Semana,Sábado,3.434,-7.650.962
+2024-12-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,2092171,"64,7",False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,3370678,104,False,Fin de Semana,Domingo,3.434,-7.650.962
+2024-12-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,2568274,105,False,Laboral,Lunes,3.434,-7.650.962
+2024-12-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,55,1907072,78,False,Laboral,Lunes,3.434,-7.650.962
+2024-12-31,RURAL,021_ZW Parque Alfonso Barberena,12,MR76,56,3500631,189,False,Laboral,Martes,3.434,-7.650.962
+2024-12-31,RURAL,021_ZW Parque Alfonso Barberena,12,MR76,61,1886760,102,False,Laboral,Martes,3.434,-7.650.962
+2025-01-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,1385301,94,True,Festivo,Miércoles,3.434,-7.650.962
+2025-01-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,52,1230759,84,True,Festivo,Miércoles,3.434,-7.650.962
+2025-01-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,1572689,57,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,2265912,81,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,59,2478536,93,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,51,2133761,80,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,7837533,291,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,2113022,78,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,85,4575604,140,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,71,3859992,118,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,5239604,140,True,Festivo,Lunes,3.434,-7.650.962
+2025-01-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,4453585,119,True,Festivo,Lunes,3.434,-7.650.962
+2025-01-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,3766310,114,False,Laboral,Martes,3.434,-7.650.962
+2025-01-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,56,2143471,65,False,Laboral,Martes,3.434,-7.650.962
+2025-01-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,6749301,195,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,3143561,91,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,4945078,142,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,2929102,84,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,3548562,98,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,4462540,123,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,5959177,175,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,5283683,155,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,4850659,130,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,3032239,81,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,4137995,138,False,Laboral,Lunes,3.434,-7.650.962
+2025-01-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,2274083,76,False,Laboral,Lunes,3.434,-7.650.962
+2025-01-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,2639960,87,False,Laboral,Martes,3.434,-7.650.962
+2025-01-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,1007258,33,False,Laboral,Martes,3.434,-7.650.962
+2025-01-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,5192393,180,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,2257143,78,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,2588925,82,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,2076036,66,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,2715947,89,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,3247170,107,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,101,6296021,208,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,105,3138779,104,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,6298268,194,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,3838741,118,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,2348056,73,False,Laboral,Lunes,3.434,-7.650.962
+2025-01-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,1662727,51,False,Laboral,Lunes,3.434,-7.650.962
+2025-01-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,8434967,234,False,Laboral,Martes,3.434,-7.650.962
+2025-01-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,688277,19,False,Laboral,Martes,3.434,-7.650.962
+2025-01-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,4012201,120,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,5809145,173,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,4076222,102,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,63,2781293,69,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,4251066,128,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,2960982,89,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,9381153,253,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,1996206,54,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-01-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,95,11713832,298,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,3511573,89,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-01-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,1796154,47,False,Laboral,Lunes,3.434,-7.650.962
+2025-01-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,78,3813648,101,False,Laboral,Lunes,3.434,-7.650.962
+2025-01-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,3391658,103,False,Laboral,Martes,3.434,-7.650.962
+2025-01-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,2243174,68,False,Laboral,Martes,3.434,-7.650.962
+2025-01-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,1691797,47,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,91,2145728,59,False,Laboral,Miércoles,3.434,-7.650.962
+2025-01-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,3216106,118,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,2424002,89,False,Laboral,Jueves,3.434,-7.650.962
+2025-01-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,3521557,191,False,Laboral,Viernes,3.434,-7.650.962
+2025-01-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,1906900,103,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,112,5649388,199,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,3276519,116,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,5870875,174,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,1911999,57,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,3871205,150,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,2324849,90,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,2172453,77,False,Laboral,Martes,3.434,-7.650.962
+2025-02-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,82,2390231,85,False,Laboral,Martes,3.434,-7.650.962
+2025-02-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,6588500,272,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,3459986,143,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,2194877,81,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,2402032,89,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,4879015,166,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,88,2629171,90,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,2570927,96,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,1381090,52,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,5225240,165,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,1949038,61,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,85,1048792,40,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,1643928,62,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,3566161,120,False,Laboral,Martes,3.434,-7.650.962
+2025-02-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,75,1396761,47,False,Laboral,Martes,3.434,-7.650.962
+2025-02-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,1603676,49,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,2880084,87,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,1646377,77,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,3658933,172,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,2331553,70,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,5481188,164,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,4860357,176,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,4695637,170,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,74,8828440,291,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,2690917,89,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,3028932,108,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,4560185,162,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,5067695,180,False,Laboral,Martes,3.434,-7.650.962
+2025-02-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,73,1383045,49,False,Laboral,Martes,3.434,-7.650.962
+2025-02-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,1849931,59,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,4725360,150,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,2297328,65,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,4121489,117,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,109,4716318,162,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,105,3759878,129,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,128,6881935,242,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,114,6621580,233,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-02-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,123,7287970,212,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,111,3334834,97,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-02-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,72,1642512,68,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,2056150,85,False,Laboral,Lunes,3.434,-7.650.962
+2025-02-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,69,3017420,97,False,Laboral,Martes,3.434,-7.650.962
+2025-02-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,54,1826480,59,False,Laboral,Martes,3.434,-7.650.962
+2025-02-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,2653721,96,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,74,2891625,104,False,Laboral,Miércoles,3.434,-7.650.962
+2025-02-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,74,3089876,108,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,70,2461586,86,False,Laboral,Jueves,3.434,-7.650.962
+2025-02-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,2220176,79,False,Laboral,Viernes,3.434,-7.650.962
+2025-02-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,3097084,110,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,6658289,251,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-01,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,4262516,160,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,101,8510630,251,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-02,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,3556337,105,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,4865878,182,False,Laboral,Lunes,3.434,-7.650.962
+2025-03-03,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,2800214,105,False,Laboral,Lunes,3.434,-7.650.962
+2025-03-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,67,4987807,226,False,Laboral,Martes,3.434,-7.650.962
+2025-03-04,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,51,1730585,78,False,Laboral,Martes,3.434,-7.650.962
+2025-03-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,2556148,90,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-05,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,89,2417356,85,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,3708062,119,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-06,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,86,2357377,76,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,2242459,81,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-07,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,76,5073304,182,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,129,6185796,179,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-08,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,117,5038905,146,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,3168711,99,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-09,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,1547703,48,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,116,3322307,96,False,Laboral,Lunes,3.434,-7.650.962
+2025-03-10,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,2456928,71,False,Laboral,Lunes,3.434,-7.650.962
+2025-03-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,66,1645609,74,False,Laboral,Martes,3.434,-7.650.962
+2025-03-11,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,49,3522916,158,False,Laboral,Martes,3.434,-7.650.962
+2025-03-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,87,2513990,85,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-12,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,96,3758457,127,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,2976828,123,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-13,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,77,2547880,105,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,124,2801050,95,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-14,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,6070201,205,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,136,4891480,157,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-15,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,3626692,117,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,103,4436680,143,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-16,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,90,1933064,62,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,92,4950947,170,False,Laboral,Lunes,3.434,-7.650.962
+2025-03-17,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,4229122,145,False,Laboral,Lunes,3.434,-7.650.962
+2025-03-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,64,456761,14,False,Laboral,Martes,3.434,-7.650.962
+2025-03-18,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,58,971301,29,False,Laboral,Martes,3.434,-7.650.962
+2025-03-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,97,2915144,105,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-19,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,4162715,150,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,120,3128045,101,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-20,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,105,3285677,106,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,122,3907086,106,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-21,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,4101788,111,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,111,4585362,151,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-22,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,114,3452044,114,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,118,8654150,268,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-23,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,115,2008924,62,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,99,13031875,322,True,Festivo,Lunes,3.434,-7.650.962
+2025-03-24,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,4547569,112,True,Festivo,Lunes,3.434,-7.650.962
+2025-03-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,110,5233292,152,False,Laboral,Martes,3.434,-7.650.962
+2025-03-25,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,80,1391038,40,False,Laboral,Martes,3.434,-7.650.962
+2025-03-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,93,3219951,104,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-26,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,98,4907979,158,False,Laboral,Miércoles,3.434,-7.650.962
+2025-03-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,84,4285457,119,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-27,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,83,3005411,83,False,Laboral,Jueves,3.434,-7.650.962
+2025-03-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,81,1076260,45,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-28,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,68,1760550,73,False,Laboral,Viernes,3.434,-7.650.962
+2025-03-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,157,9445440,295,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-29,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,138,8040303,251,False,Fin de Semana,Sábado,3.434,-7.650.962
+2025-03-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,107,7595386,217,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-30,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,94,6164601,176,False,Fin de Semana,Domingo,3.434,-7.650.962
+2025-03-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,111,3955629,131,False,Laboral,Lunes,3.434,-7.650.962
+2025-03-31,URBANA,021_ZW Parque Alfonso Barberena,12,MR76,100,2329290,77,False,Laboral,Lunes,3.434,-7.650.962
