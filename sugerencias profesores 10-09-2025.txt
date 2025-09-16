@@ -1,0 +1,11 @@
+transformar los datos categóricos a números
+parten
+y después se escala
+borrar las columnas
+fecha se debe transformar
+
+quitar las columnas que no van
+hacer partición después de convertir datos categóricos  a numéricos (onehotencoding)
+hacer los escalados
+poner el atributo de ultimo
+y hacer el ventaneo

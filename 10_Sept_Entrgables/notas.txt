@@ -1,0 +1,9 @@
+Se dividió cada dataset un 70% para train y un 30% para test
+Se hizo el escalamiento usando Robust Scaler porque nuestros datasets tienen muchos atípicos (outliers), picos de uso en eventos o caídas en la red.
+incluida en SKLearn, usa la mediana y el rango intercuartilico, esto lo hace robusto a los atípicos porque la mediana y los acuartiles no se ven tan afectados por los atípicos.
+Standard Scaler y Min Max Scaler hubieran distorsionado las escalas por los atípicos. Ya que esos métodos son muy sensibles a los atípicos
+
+Lo que se hizo:
+Ajusta el escalador solo con el train, después aplica la transformación tanto a train como a test y guarda los resultados escalados en train_scaled y test_scaled
+
+Falta el ventaneo.
