@@ -1,0 +1,382 @@
+﻿fechaconexion,area,nombrezona,comuna,model,es_festivo,tipo_dia,dia_semana,latitud,longitud,numeroconexiones,usagekb,porcentajeuso
+2024-01-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,40.0,140880,16.1
+2024-01-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,26.0,3946232,468.7000000000001
+2024-01-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,27.0,2221286,183.3
+2024-01-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,21.0,1794687,169.79999999999998
+2024-01-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,43.0,747300,69.0
+2024-01-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,18.0,13384,1.8
+2024-01-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,52.0,536511,53.400000000000006
+2024-01-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,43.0,8130,0.5
+2024-01-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,38.0,14530,1.1
+2024-01-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,46.0,6635,0.6
+2024-01-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,41.0,7522,0.7
+2024-01-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,32.0,9184,0.7999999999999999
+2024-01-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,32.0,3867,0.4
+2024-01-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,31.0,3833,0.5
+2024-01-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,38.0,2654,0.4
+2024-01-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,24.0,3785,0.4
+2024-01-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,45.0,29322,3.0
+2024-01-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,43.0,3127,0.3
+2024-01-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,36.0,4490,0.3
+2024-01-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,34.0,2605,0.2
+2024-01-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,38.0,7013,0.6
+2024-01-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,49.0,9720,1.0
+2024-01-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,15.0,1769,0.2
+2024-01-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,34.0,1350889,108.8
+2024-01-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,36.0,722718,70.3
+2024-01-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,45.0,6906990,593.4
+2024-01-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,36.0,5410392,597.8000000000001
+2024-01-31,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,37.0,629657,60.3
+2024-02-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,33.0,771442,55.5
+2024-02-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,15.0,1479,0.2
+2024-02-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,38.0,1016321,57.3
+2024-02-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,42.0,2382038,148.9
+2024-02-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,46.0,1709882,113.6
+2024-02-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,33.0,43727,2.9
+2024-02-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,35.0,336706,20.4
+2024-02-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,42.0,1421975,104.6
+2024-02-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,42.0,1418777,117.9
+2024-02-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,52.0,2156605,135.0
+2024-02-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,47.0,917665,68.2
+2024-02-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,31.0,1175361,113.5
+2024-02-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,56.0,2837978,327.7
+2024-02-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,51.0,2768501,366.6
+2024-02-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,51.0,4124782,353.2
+2024-02-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,66.0,1608944,152.5
+2024-02-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,37.0,288664,27.3
+2024-02-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,52.0,600823,46.4
+2024-02-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,50.0,75335,5.199999999999999
+2024-02-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,39.0,10773,0.9
+2024-02-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,39.0,3257,0.3
+2024-02-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,47.0,195970,12.8
+2024-02-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,48.0,128736,9.0
+2024-02-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,68.0,9360,0.7
+2024-02-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,52.0,4099,0.3
+2024-02-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,46.0,9570,0.7999999999999999
+2024-02-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,52.0,905449,77.9
+2024-02-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,34.0,200256,11.6
+2024-02-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,55.0,5322787,672.2
+2024-03-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,12.0,38968,3.3000000000000003
+2024-03-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,1.0,8,0.0
+2024-03-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,40.0,2044584,156.9
+2024-03-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,114.0,6154448,544.2
+2024-03-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,58.0,2252832,174.0
+2024-03-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,56.0,583716,48.7
+2024-03-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,66.0,3971835,527.0
+2024-03-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,50.0,33071,5.0
+2024-03-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,52.0,1185687,135.8
+2024-03-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,70.0,588064,60.3
+2024-03-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,43.0,97382,12.5
+2024-03-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Domingo,341.385,-7.649.547,64.0,1604680,176.4
+2024-03-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,38.0,907663,129.4
+2024-03-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,33.0,432523,55.5
+2024-03-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,40.0,1644088,203.5
+2024-03-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Jueves,341.385,-7.649.547,36.0,1184431,185.6
+2024-03-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Viernes,341.385,-7.649.547,25.0,278611,28.1
+2024-03-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,41.0,1091793,175.1
+2024-03-31,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Domingo,341.385,-7.649.547,57.0,2626090,344.8
+2024-04-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,52.0,1971057,187.9
+2024-04-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,37.0,230115,32.7
+2024-04-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,51.0,1007456,111.8
+2024-04-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,53.0,974114,84.69999999999999
+2024-04-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,68.0,726799,64.6
+2024-04-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,64.0,1031292,85.7
+2024-04-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,65.0,2251506,188.2
+2024-04-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,63.0,1417385,200.2
+2024-04-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,69.0,1150275,150.4
+2024-04-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,73.0,679689,159.89999999999998
+2024-04-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,64.0,603902,136.7
+2024-04-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,85.0,1434257,211.2
+2024-04-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,83.0,2415809,284.0
+2024-04-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,74.0,228830,33.2
+2024-04-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,66.0,1041043,260.1
+2024-04-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,72.0,1290970,303.90000000000003
+2024-04-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,70.0,1334779,357.90000000000003
+2024-04-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,47.0,56917,19.6
+2024-04-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,56.0,648452,159.8
+2024-04-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,65.0,1045441,133.8
+2024-04-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,68.0,832822,134.6
+2024-04-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,45.0,36244,7.8
+2024-04-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,61.0,1946801,106.1
+2024-04-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,88.0,1619935,88.19999999999999
+2024-04-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,52.0,866555,73.0
+2024-04-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,35.0,477237,47.6
+2024-04-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,59.0,332299,27.3
+2024-04-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,42.0,440958,59.7
+2024-04-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,48.0,892966,111.5
+2024-04-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,70.0,651534,103.4
+2024-05-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Miércoles,341.385,-7.649.547,61.0,92760,17.6
+2024-05-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,59.0,1010748,197.5
+2024-05-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,48.0,795224,173.6
+2024-05-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,66.0,684628,94.8
+2024-05-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,66.0,23090,3.8
+2024-05-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,58.0,20862,4.4
+2024-05-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,43.0,7275,1.2
+2024-05-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,71.0,48102,6.1
+2024-05-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,45.0,21575,2.5
+2024-05-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,63.0,18806,2.4000000000000004
+2024-05-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,81.0,33366,4.5
+2024-05-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,55.0,17743,4.300000000000001
+2024-05-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,63.0,28495,5.1
+2024-05-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,51.0,37049,17.1
+2024-05-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,68.0,14175,2.3
+2024-05-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,57.0,14060,1.7
+2024-05-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,56.0,28417,2.7
+2024-05-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,57.0,34210,3.1
+2024-05-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,63.0,27250,2.4000000000000004
+2024-05-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,64.0,38729,5.5
+2024-05-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,69.0,12692,1.6
+2024-05-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,48.0,27422,10.7
+2024-05-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,55.0,154154,29.1
+2024-05-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,66.0,13017,2.7
+2024-05-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,82.0,19157,2.7
+2024-05-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,40.0,55923,8.1
+2024-05-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,54.0,22494,2.7
+2024-05-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,59.0,78768,10.6
+2024-05-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,33.0,23473,4.7
+2024-05-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,73.0,23029,1.9
+2024-05-31,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,73.0,49605,5.4
+2024-06-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,79.0,26612,2.7
+2024-06-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,70.0,37373,3.9
+2024-06-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,56.0,16031,2.4
+2024-06-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,51.0,48621,10.7
+2024-06-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,48.0,18122,6.4
+2024-06-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,56.0,16968,2.8
+2024-06-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,65.0,17239,3.5
+2024-06-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,53.0,33330,10.6
+2024-06-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,52.0,54453,18.7
+2024-06-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,60.0,12147,2.2
+2024-06-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,108.0,30517,4.8
+2024-06-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,76.0,28686,3.9
+2024-06-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,63.0,15093,293844700.0
+2024-06-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,63.0,39086,1174769700.0
+2024-06-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,48.0,26453,474573700.0
+2024-06-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,67.0,75656,1356656000.0
+2024-06-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,65.0,7307,1.2
+2024-06-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,38.0,118256,18.7
+2024-06-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,37.0,9354,1.4
+2024-06-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,64.0,410873,82.30000000000001
+2024-06-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,76.0,539494,92.6
+2024-06-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,63.0,212144,40.1
+2024-06-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,49.0,526191,206.5
+2024-06-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,68.0,273849,52.4
+2024-06-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,57.0,288393,71.5
+2024-06-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,46.0,1717271,443.5
+2024-06-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,65.0,1642899,488.8
+2024-06-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,100.0,1543261,265.5
+2024-06-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,54.0,24540,4.199999999999999
+2024-06-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,51.0,236028,50.7
+2024-07-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,60.0,1379742,191.67
+2024-07-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,53.0,307210,33.09
+2024-07-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,43.0,252306,30.01
+2024-07-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,38.0,618016,77.88
+2024-07-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,62.0,375672,44.1
+2024-07-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,47.0,48021,5.709999999999999
+2024-07-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,73.0,686767,77.84
+2024-07-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,65.0,218817,39.38
+2024-07-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,63.0,214814,36.99
+2024-07-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,54.0,1198410,173.54
+2024-07-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,71.0,3510242,475.72
+2024-07-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,70.0,1533055,241.75
+2024-07-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,63.0,1150608,163.32
+2024-07-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,8.0,559,0.09
+2024-07-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,46.0,2270428,406.17
+2024-07-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,77.0,1472864,234.46
+2024-07-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,63.0,5878520,1299.0600000000002
+2024-07-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,48.0,2149968,360.83
+2024-07-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,68.0,1591836,221.81
+2024-07-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Sábado,341.385,-7.649.547,79.0,2579380,331.19
+2024-07-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,73.0,720176,110.01
+2024-07-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,75.0,10026,1.45
+2024-07-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,69.0,197579,28.53
+2024-07-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,70.0,70556,11.16
+2024-07-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,57.0,8153,1.29
+2024-07-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,77.0,7099,0.93
+2024-07-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,58.0,16824,2.88
+2024-07-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,81.0,10478,2.22
+2024-07-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,47.0,5502,0.89
+2024-07-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,61.0,8627,1.26
+2024-07-31,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,93.0,28111,4.67
+2024-08-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,68.0,6312,0.94
+2024-08-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,63.0,4797,0.8
+2024-08-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,51.0,495554,100.97
+2024-08-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,67.0,4775939,761.46
+2024-08-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,65.0,1045055,151.01
+2024-08-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,60.0,661285,63.67
+2024-08-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Miércoles,341.385,-7.649.547,66.0,1101321,131.01
+2024-08-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,67.0,743803,93.32
+2024-08-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,70.0,270024,49.84
+2024-08-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,66.0,858520,162.5
+2024-08-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,79.0,1391851,241.54
+2024-08-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,45.0,2372985,508.67
+2024-08-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,83.0,746372,84.48
+2024-08-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,68.0,1638680,217.49
+2024-08-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,73.0,1741674,261.48
+2024-08-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,90.0,1351750,184.18
+2024-08-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,81.0,1193399,173.09
+2024-08-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,68.0,2074827,313.97
+2024-08-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,52.0,2107133,289.25
+2024-08-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,74.0,5528134,1368.6999999999998
+2024-08-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,66.0,6676853,1944.56
+2024-08-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,107.0,2190371,582.86
+2024-08-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,83.0,1925283,784.4399999999999
+2024-08-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,60.0,1197858,811.83
+2024-08-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,16.0,846,0.8099999999999999
+2024-10-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,37.0,956424,213.65
+2024-10-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,42.0,1968394,254.9
+2024-10-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,51.0,6226302,625.46
+2024-10-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,26.0,2215443,367.9
+2024-10-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,45.0,1269218,200.21
+2024-10-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,64.0,619121,126.38
+2024-10-31,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,40.0,832897,177.54
+2024-11-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,53.0,28602,5.18
+2024-11-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,47.0,6322,1.01
+2024-11-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,42.0,3979,0.67
+2024-11-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,25.0,7235,1.09
+2024-11-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,46.0,1035058,141.74
+2024-11-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,30.0,23585,3.77
+2024-11-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,63.0,1115599,125.44
+2024-11-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,44.0,156689,12.67
+2024-11-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,49.0,1223359,73.47
+2024-11-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,49.0,1886168,97.37
+2024-11-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,42.0,644795,36.72
+2024-11-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,74.0,1404354,73.47
+2024-11-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,60.0,1118399,69.03
+2024-11-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,75.0,1424863,74.23
+2024-11-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,73.0,2456612,134.85
+2024-11-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,66.0,2034413,110.49
+2024-11-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,62.0,2709918,157.74
+2024-11-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,43.0,974405,60.620000000000005
+2024-11-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,64.0,2083893,130.43
+2024-11-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,67.0,1660315,87.0
+2024-11-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,57.0,2884092,159.73
+2024-11-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,63.0,1579006,78.22
+2024-11-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,70.0,3478030,181.49
+2024-11-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,64.0,3021412,408.09
+2024-11-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,86.0,657623,159.9
+2024-11-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,76.0,546995,69.46000000000001
+2024-11-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,73.0,919914,47.37
+2024-11-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,81.0,2713342,128.86
+2024-11-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,86.0,782398,35.2
+2024-11-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,73.0,1504690,66.01
+2024-12-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,70.0,1775527,73.47999999999999
+2024-12-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,64.0,590918,28.32
+2024-12-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,68.0,2008897,107.59
+2024-12-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,59.0,406408,17.6
+2024-12-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,51.0,2487355,108.42
+2024-12-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,49.0,1078383,47.96
+2024-12-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,60.0,379412,18.49
+2024-12-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Domingo,341.385,-7.649.547,64.0,2075470,78.16
+2024-12-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,56.0,1364895,50.6
+2024-12-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,62.0,1112424,36.73
+2024-12-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,54.0,1474754,48.91
+2024-12-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,52.0,1349768,39.33
+2024-12-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,51.0,970293,28.6
+2024-12-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,59.0,3472323,114.31
+2024-12-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,80.0,4449048,150.18
+2024-12-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,51.0,1917386,57.65
+2024-12-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,58.0,1879532,61.2
+2024-12-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,60.0,887376,28.15
+2024-12-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,47.0,1821858,64.0
+2024-12-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,51.0,1422081,46.870000000000005
+2024-12-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,35.0,2724433,104.5
+2024-12-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,53.0,830856,25.91
+2024-12-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,42.0,462270,18.49
+2024-12-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,33.0,2376033,99.4
+2024-12-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Miércoles,341.385,-7.649.547,43.0,5038550,178.64
+2024-12-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,32.0,557346,20.38
+2024-12-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,50.0,4061677,124.5
+2024-12-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,20.0,1822705,77.4
+2024-12-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,37.0,2558186,79.1
+2024-12-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,23.0,120042,4.91
+2024-12-31,RURAL,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,29.0,722375,38.91
+2025-01-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Miércoles,341.385,-7.649.547,41.0,114518,8.0
+2025-01-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,31.0,1489407,53.0
+2025-01-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,25.0,235186,9.0
+2025-01-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,40.0,710053,27.0
+2025-01-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,10.0,35747,1.0
+2025-01-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,33.0,1033956,27.0
+2025-01-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,43.0,4476130,135.0
+2025-01-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,44.0,709806,20.0
+2025-01-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,68.0,5292262,152.0
+2025-01-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,67.0,6824184,189.0
+2025-01-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,43.0,5683634,166.0
+2025-01-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,85.0,6787036,181.0
+2025-01-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,64.0,2920232,97.0
+2025-01-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,75.0,9041607,298.0
+2025-01-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,67.0,3204214,111.0
+2025-01-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,69.0,2692469,86.0
+2025-01-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,45.0,3168340,104.0
+2025-01-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,66.0,1866756,62.0
+2025-01-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,95.0,4087364,126.0
+2025-01-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,59.0,2087125,64.0
+2025-01-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,73.0,3619829,101.0
+2025-01-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,57.0,4029432,120.0
+2025-01-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,77.0,5882295,147.0
+2025-01-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,59.0,3442832,103.0
+2025-01-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,50.0,1299681,35.0
+2025-01-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,59.0,3002848,76.0
+2025-01-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,90.0,4255760,113.0
+2025-01-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,75.0,1399907,42.0
+2025-01-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,54.0,6292407,174.0
+2025-01-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,53.0,1241517,45.0
+2025-01-31,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,87.0,1416855,77.0
+2025-02-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,65.0,3373820,119.0
+2025-02-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,81.0,2639804,78.0
+2025-02-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,43.0,380556,15.0
+2025-02-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,64.0,3355509,119.0
+2025-02-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,67.0,1617683,66.0
+2025-02-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,85.0,1855537,69.0
+2025-02-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,51.0,1672026,57.0
+2025-02-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,52.0,1281582,47.0
+2025-02-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,66.0,3625805,114.0
+2025-02-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,74.0,4024851,153.0
+2025-02-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,59.0,6129993,206.0
+2025-02-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,86.0,4764212,145.0
+2025-02-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,62.0,1451136,68.0
+2025-02-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,88.0,2552521,76.0
+2025-02-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,63.0,709694,25.0
+2025-02-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,87.0,3495212,116.0
+2025-02-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,72.0,2335288,83.0
+2025-02-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,72.0,557397,20.0
+2025-02-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,105.0,3310705,105.0
+2025-02-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,67.0,1649648,47.0
+2025-02-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,82.0,2159497,74.0
+2025-02-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,78.0,5184932,182.0
+2025-02-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,79.0,4697358,137.0
+2025-02-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,63.0,1551389,64.0
+2025-02-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,94.0,4819936,154.0
+2025-02-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,89.0,3712591,134.0
+2025-02-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,70.0,2997448,105.0
+2025-02-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,51.0,4055390,144.0
+2025-03-01,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,66.0,5452799,205.0
+2025-03-02,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,69.0,1563287,46.0
+2025-03-03,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,83.0,3507772,132.0
+2025-03-04,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,40.0,3158863,143.0
+2025-03-05,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,67.0,3963120,140.0
+2025-03-06,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,108.0,10190281,327.0
+2025-03-07,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,69.0,2252317,81.0
+2025-03-08,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,90.0,2168679,63.0
+2025-03-09,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,56.0,644948,20.0
+2025-03-10,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,77.0,2540148,73.0
+2025-03-11,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,50.0,3292054,148.0
+2025-03-12,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,107.0,3138992,107.0
+2025-03-13,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,90.0,8669057,357.0
+2025-03-14,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,91.0,11765029,398.0
+2025-03-15,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,109.0,8223513,265.0
+2025-03-16,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,82.0,8477242,274.0
+2025-03-17,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,75.0,6615969,226.0
+2025-03-18,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,98.0,3480672,105.0
+2025-03-19,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,87.0,3981928,143.0
+2025-03-20,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,82.0,4598330,148.0
+2025-03-21,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,95.0,2603030,71.0
+2025-03-22,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,100.0,4809351,158.0
+2025-03-23,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,78.0,5420164,168.0
+2025-03-24,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,True,Festivo,Lunes,341.385,-7.649.547,61.0,2949476,73.0
+2025-03-25,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Martes,341.385,-7.649.547,91.0,6748688,196.0
+2025-03-26,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Miércoles,341.385,-7.649.547,110.0,4897006,158.0
+2025-03-27,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Jueves,341.385,-7.649.547,90.0,6056210,168.0
+2025-03-28,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Viernes,341.385,-7.649.547,83.0,5416260,225.0
+2025-03-29,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Sábado,341.385,-7.649.547,112.0,5289169,165.0
+2025-03-30,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Fin de Semana,Domingo,341.385,-7.649.547,109.0,9326391,267.0
+2025-03-31,URBANA,053_ZW Polideportivo Laureano Gomez,15,MR76,False,Laboral,Lunes,341.385,-7.649.547,96.0,7258984,241.0

@@ -1,0 +1,244 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,13,822508,"94,1",True,Festivo,Lunes,3.4743,-7.649.963
+2024-01-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,13,35052,4,True,Festivo,Lunes,3.4743,-7.649.963
+2024-01-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,10,566063,"67,2",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,9,170630,"20,3",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,14,666272,55,False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,10,245631,"20,3",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,7,1061939,"100,5",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,7,315090,"29,8",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,14,2554739,"235,7",False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,12,271311,25,False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,15,1961076,"255,7",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,650558,"84,8",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,2611058,"260,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,17,227358,"22,7",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,833109,"52,8",True,Festivo,Lunes,3.4743,-7.649.963
+2024-01-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,13,500343,"31,7",True,Festivo,Lunes,3.4743,-7.649.963
+2024-01-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,19,532226,"41,1",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,16,326086,"25,2",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,1162424,"96,4",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,228739,19,False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,1127781,"104,8",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,14,79220,"7,4",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,15,1145801,"98,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,9,113998,"9,8",False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,19,703608,"78,2",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,17,472296,"52,5",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,2910166,"367,7",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,15,165230,"20,9",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,19,595039,86,False,Laboral,Lunes,3.4743,-7.649.963
+2024-01-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,15,274425,"39,7",False,Laboral,Lunes,3.4743,-7.649.963
+2024-01-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,699674,"81,8",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,61011,"7,1",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,29,956239,"95,6",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,579755,58,False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,1238100,"103,2",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,14,608866,"50,8",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,3325045,"216,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,3413830,"222,4",False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,973997,"75,2",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,3414630,"263,7",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,818367,"63,2",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,5194134,"401,2",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,2411430,230,False,Laboral,Lunes,3.4743,-7.649.963
+2024-01-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,20,7305429,"696,7",False,Laboral,Lunes,3.4743,-7.649.963
+2024-01-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,1430426,"132,5",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,15,4413702,"408,7",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,1067722,"85,4",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,6588094,"526,8",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,29,1278073,"85,5",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,20,4282762,"286,5",False,Laboral,Jueves,3.4743,-7.649.963
+2024-01-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,29,499673,"36,3",False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,5034477,"365,5",False,Laboral,Viernes,3.4743,-7.649.963
+2024-01-27,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,32,1483470,"119,5",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-27,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,16,3482435,"280,6",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-01-28,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,2828450,"275,2",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-28,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,15,2131221,"207,3",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-01-29,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,4737315,407,False,Laboral,Lunes,3.4743,-7.649.963
+2024-01-29,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,6147658,"528,2",False,Laboral,Lunes,3.4743,-7.649.963
+2024-01-30,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,2960739,"327,1",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-30,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,7247034,"800,7",False,Laboral,Martes,3.4743,-7.649.963
+2024-01-31,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,6053416,"579,6",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-01-31,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,6764005,"647,6",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,7735685,"556,1",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,20,1088069,"78,2",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,14,3377504,"353,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,17,818067,"85,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,4968543,280,False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,1825533,"102,9",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,19,7446489,"465,6",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,1173653,"73,4",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,3126333,"207,7",False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,4865478,"323,2",False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,5588789,374,False,Laboral,Martes,3.4743,-7.649.963
+2024-02-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,2263297,"151,5",False,Laboral,Martes,3.4743,-7.649.963
+2024-02-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,4303340,"260,7",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,4125708,"249,9",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,6084468,"447,8",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,3839970,"282,6",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,9018048,"749,4",False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,2274218,189,False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,5722273,"358,3",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,3695901,"231,4",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,34,3991709,"297,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,6184249,"460,2",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,5787647,559,False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,19,3056920,"295,2",False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,5079613,"586,4",False,Laboral,Martes,3.4743,-7.649.963
+2024-02-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,3961638,"457,3",False,Laboral,Martes,3.4743,-7.649.963
+2024-02-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,1830320,"242,3",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,7520312,"995,7",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,4582898,"392,5",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,5810534,"497,6",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,40,2727767,"258,7",False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,32,8371745,794,False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,34,5503747,"520,5",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,6700703,"633,7",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,5191990,"401,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,2596086,"200,6",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,2863816,"195,4",False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,8932058,"609,5",False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,5155069,"422,2",False,Laboral,Martes,3.4743,-7.649.963
+2024-02-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,4414876,"361,6",False,Laboral,Martes,3.4743,-7.649.963
+2024-02-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,6091674,528,False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,4345208,"376,6",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,36,9143520,"597,4",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,2346338,"153,3",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,34,6864083,"482,5",False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,32,3416304,"240,1",False,Laboral,Viernes,3.4743,-7.649.963
+2024-02-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,2470143,"196,7",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,5356905,"426,5",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-02-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,7677324,"437,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,762822,"43,4",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-02-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,4305341,"386,7",False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,17,3741027,"336,1",False,Laboral,Lunes,3.4743,-7.649.963
+2024-02-27,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,2420036,"208,3",False,Laboral,Martes,3.4743,-7.649.963
+2024-02-27,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,8647000,"744,2",False,Laboral,Martes,3.4743,-7.649.963
+2024-02-28,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,4074507,"237,6",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-28,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,3814104,"222,4",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-02-29,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,7274618,"918,8",False,Laboral,Jueves,3.4743,-7.649.963
+2024-02-29,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,1428977,"180,5",False,Laboral,Jueves,3.4743,-7.649.963
+2024-03-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,35,7100830,"591,8",False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,32,3049437,"254,2",False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,4388776,"426,5",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,3578700,"347,7",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,5243020,"376,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-03-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,3853815,"276,5",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-03-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,2678103,"188,4",False,Laboral,Lunes,3.4743,-7.649.963
+2024-03-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,20,6296504,"442,8",False,Laboral,Lunes,3.4743,-7.649.963
+2024-03-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,2674205,194,False,Laboral,Martes,3.4743,-7.649.963
+2024-03-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,5927701,"430,1",False,Laboral,Martes,3.4743,-7.649.963
+2024-03-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,2104904,"173,9",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,4418930,"365,1",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,36,2852952,267,False,Laboral,Jueves,3.4743,-7.649.963
+2024-03-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,38,6666299,"623,9",False,Laboral,Jueves,3.4743,-7.649.963
+2024-03-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,38,6777437,"633,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,40,6873286,"642,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,34,1763336,"178,4",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,5539617,"560,4",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,48,3857155,"404,2",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-03-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,4935038,"517,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-03-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,34,5097880,"542,4",False,Laboral,Lunes,3.4743,-7.649.963
+2024-03-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,3322841,"353,5",False,Laboral,Lunes,3.4743,-7.649.963
+2024-03-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,34,3943581,"447,3",False,Laboral,Martes,3.4743,-7.649.963
+2024-03-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,4866404,"551,9",False,Laboral,Martes,3.4743,-7.649.963
+2024-03-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,46,1654933,"223,6",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,36,7945702,"1073,3",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,1209362,"124,6",False,Laboral,Jueves,3.4743,-7.649.963
+2024-03-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,29,4919670,"507,1",False,Laboral,Jueves,3.4743,-7.649.963
+2024-03-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,38,820578,63,False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,4301032,"330,1",False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,1531507,"135,4",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,4343127,384,False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,38,2032047,"156,9",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-03-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,40,5983803,"462,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-03-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,2271314,"189,2",False,Laboral,Lunes,3.4743,-7.649.963
+2024-03-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,3224006,"268,5",False,Laboral,Lunes,3.4743,-7.649.963
+2024-03-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,1609592,"213,6",False,Laboral,Martes,3.4743,-7.649.963
+2024-03-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,3786752,"502,4",False,Laboral,Martes,3.4743,-7.649.963
+2024-03-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,1377235,"210,1",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,3887711,"593,1",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,4020875,"460,5",False,Laboral,Jueves,3.4743,-7.649.963
+2024-03-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,35,1906322,"218,3",False,Laboral,Jueves,3.4743,-7.649.963
+2024-03-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,5092942,"522,1",False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,928072,"95,1",False,Laboral,Viernes,3.4743,-7.649.963
+2024-03-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,6585070,844,False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,1219844,"156,3",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,2090495,"229,8",True,Festivo,Domingo,3.4743,-7.649.963
+2024-03-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,3107063,"341,6",True,Festivo,Domingo,3.4743,-7.649.963
+2024-03-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,2132544,"303,9",True,Festivo,Lunes,3.4743,-7.649.963
+2024-03-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,18,3916732,"558,2",True,Festivo,Lunes,3.4743,-7.649.963
+2024-03-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,19,2427829,"311,8",False,Laboral,Martes,3.4743,-7.649.963
+2024-03-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,7878575,"1011,7",False,Laboral,Martes,3.4743,-7.649.963
+2024-03-27,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,1034685,"128,1",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-27,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,5935112,"734,8",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-03-28,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,1291463,"202,4",True,Festivo,Jueves,3.4743,-7.649.963
+2024-03-28,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,7091233,"1111,3",True,Festivo,Jueves,3.4743,-7.649.963
+2024-03-29,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,2317938,"233,8",True,Festivo,Viernes,3.4743,-7.649.963
+2024-03-29,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,4903203,"494,5",True,Festivo,Viernes,3.4743,-7.649.963
+2024-03-30,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,29,1530400,"245,4",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-30,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,32,4081147,"654,4",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-03-31,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,1664809,"218,6",True,Festivo,Domingo,3.4743,-7.649.963
+2024-03-31,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,3484517,"457,5",True,Festivo,Domingo,3.4743,-7.649.963
+2024-04-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,21,701207,"66,8",False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-01,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,16,4518038,"430,7",False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,6,123725,"17,6",False,Laboral,Martes,3.4743,-7.649.963
+2024-04-02,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,7,640682,"91,1",False,Laboral,Martes,3.4743,-7.649.963
+2024-04-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,1042266,"115,7",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-03,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,17,2245368,"249,2",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,3292913,"286,4",False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-04,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,6270872,"545,4",False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,33,1589639,"141,5",False,Laboral,Viernes,3.4743,-7.649.963
+2024-04-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,29,6195611,"551,4",False,Laboral,Viernes,3.4743,-7.649.963
+2024-04-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,35,2895945,"240,6",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-04-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,37,5809848,"482,7",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-04-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,42,2414732,"201,9",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-04-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,39,12493690,"1044,5",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-04-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,676380,"95,6",False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,5551411,"784,3",False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,35,3555682,"464,7",False,Laboral,Martes,3.4743,-7.649.963
+2024-04-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,3110891,"406,6",False,Laboral,Martes,3.4743,-7.649.963
+2024-04-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,40,1622316,"381,7",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,37,4925504,"1158,8",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,29,1096351,"248,2",False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,28,4499763,"1018,8",False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,1820994,"268,2",False,Laboral,Viernes,3.4743,-7.649.963
+2024-04-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,36,3561974,"524,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-04-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,43,4136876,"486,2",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-04-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,34,3918769,"460,6",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-04-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,48,4739360,"687,2",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-04-14,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,53,3966279,"575,1",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-04-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,31,1982824,"495,4",False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-15,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,32,2246651,"561,3",False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,36,7408,"1,7",False,Laboral,Martes,3.4743,-7.649.963
+2024-04-16,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,38,3296149,"776,1",False,Laboral,Martes,3.4743,-7.649.963
+2024-04-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,36,2352,"0,6",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-17,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,4012201,"1075,7",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,30,553416,190,False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-18,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,5860171,"2011,7",False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,27,2655968,"654,8",False,Laboral,Viernes,3.4743,-7.649.963
+2024-04-19,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,2541831,"626,6",False,Laboral,Viernes,3.4743,-7.649.963
+2024-04-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,6542559,"837,1",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-04-20,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,25,4222700,"540,3",False,Fin de Semana,Sábado,3.4743,-7.649.963
+2024-04-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,32,3671621,"593,3",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-04-21,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,4980831,"804,9",False,Fin de Semana,Domingo,3.4743,-7.649.963
+2024-04-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,3552483,"763,8",False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-22,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,20,3455489,743,False,Laboral,Lunes,3.4743,-7.649.963
+2024-04-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,24,3366058,"183,4",False,Laboral,Martes,3.4743,-7.649.963
+2024-04-23,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,17,1689618,92,False,Laboral,Martes,3.4743,-7.649.963
+2024-04-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,26,4234394,"230,5",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-24,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,22,3796886,"206,7",False,Laboral,Miércoles,3.4743,-7.649.963
+2024-04-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,20,3843658,"323,9",False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-25,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,20,2211902,"186,4",False,Laboral,Jueves,3.4743,-7.649.963
+2024-04-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,19,3336657,333,False,Laboral,Viernes,3.4743,-7.649.963
+2024-04-26,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,12,207077,"20,7",False,Laboral,Viernes,3.4743,-7.649.963
+2025-02-05,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,9,109091,4,False,Laboral,Miércoles,3.4743,-7.649.963
+2025-02-06,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,23,852674,31,False,Laboral,Jueves,3.4743,-7.649.963
+2025-02-07,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,13,566364,19,False,Laboral,Viernes,3.4743,-7.649.963
+2025-02-08,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,13,258100,10,False,Fin de Semana,Sábado,3.4743,-7.649.963
+2025-02-09,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,8,296275,9,False,Fin de Semana,Domingo,3.4743,-7.649.963
+2025-02-10,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,8,218944,8,False,Laboral,Lunes,3.4743,-7.649.963
+2025-02-11,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,8,592320,20,False,Laboral,Martes,3.4743,-7.649.963
+2025-02-12,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,17,169848,5,False,Laboral,Miércoles,3.4743,-7.649.963
+2025-02-13,URBANA,040_ZW Polideportivo Torres Comfandi,5,MR76,5,9536,0,False,Laboral,Jueves,3.4743,-7.649.963

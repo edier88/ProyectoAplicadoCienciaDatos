@@ -1,0 +1,11 @@
+1. group and sum
+2. convert columns to uppercase
+3. codificar días.py
+4. ordenar y borrar columnas, convertir PORCENTAJE.USO
+5. Split 70/30 (train/test)
+6. Robust Scaler
+7. Windowing teniendo en cuenta todos las variables en los 7 días y solo las variables de entrada para el octavo dia
+8. Random forest
+9. Regresión Lineal
+
+

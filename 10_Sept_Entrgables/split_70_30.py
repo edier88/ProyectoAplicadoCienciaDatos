@@ -8,7 +8,7 @@
 # la misma zona, siguiendo la regla de oro de predicción temporal.
 # Esto requiere un conjunto de datasets ya normalizados, un registro 
 # por dia, variables limpias, y si se tienen metadatos como es_festivo, tipo_dia, dia_semana.
-# """
+"""
 Split 70/30 (time-based) for daily-normalized WiFi zone datasets.
 
 - Reads all .csv files from `resultados_agrupados/` (each one should be 1 row per day).

@@ -1,0 +1,1223 @@
+REPORTE DE ANÁLISIS DE COLUMNA 'porcentajeuso'
+============================================================
+
+RESUMEN GENERAL:
+- Total archivos procesados: 64
+- Archivos con problemas: 56
+- Archivos con advertencias: 7
+- Archivos OK: 1
+- Archivos sin columna: 0
+
+ARCHIVOS CON PROBLEMAS:
+------------------------------
+
+📁 agrupado_001_ZW Parque Ingenio_estandarizado.csv
+   Problemas: 186 valores > 100, 11 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 5.02e+10
+   Valor máximo: 5.02e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [716.0999999999999, 205.4, 370.5, 167.39999999999998, 250.9]
+
+📁 agrupado_002_ZW Canchas Panamericanas_estandarizado.csv
+   Problemas: 104 valores > 100, 4 valores > 1000, Valor máximo muy grande: 4.88e+08
+   Valor máximo: 4.88e+08
+   Valor mínimo: 0.00e+00
+   Muestra: [162.4, 304.7, 138.6, 194.5, 201.4]
+
+📁 agrupado_003_ZW Parque del Perro_estandarizado.csv
+   Problemas: 206 valores > 100, 11 valores > 1000, Valor máximo muy grande: 8.81e+08
+   Valor máximo: 8.81e+08
+   Valor mínimo: 5.00e-01
+   Muestra: [95.8, 628.5, 549.8, 402.1, 1201.8]
+
+📁 agrupado_004_ZW Parque San Nicolas_estandarizado.csv
+   Problemas: 151 valores > 100, 7 valores > 1000, Valor máximo muy grande: 2.27e+08
+   Valor máximo: 2.27e+08
+   Valor mínimo: 0.00e+00
+   Muestra: [256.2, 425.6, 328.7, 330.4, 368.8]
+
+📁 agrupado_005_ZW Parque Barrio Obrero_estandarizado.csv
+   Problemas: 287 valores > 100, 68 valores > 1000, 1 valores en notación científica, Valor máximo muy grande: 1.21e+11
+   Valor máximo: 1.21e+11
+   Valor mínimo: 5.60e-01
+   Muestra: [277.2, 32.3, 955.6, 908.8, 540.8]
+
+📁 agrupado_006_ZW Parque Vallado_estandarizado.csv
+   Problemas: 121 valores > 100, 6 valores > 1000, Valor máximo muy grande: 1.09e+09
+   Valor máximo: 1.09e+09
+   Valor mínimo: 4.00e-01
+   Muestra: [4.4, 1.7, 19.8, 1.4, 2.0]
+
+📁 agrupado_008_ZW Parque Alfonso Lopez_estandarizado.csv
+   Problemas: 205 valores > 100, 13 valores > 1000, Valor máximo muy grande: 8.34e+07
+   Valor máximo: 8.34e+07
+   Valor mínimo: 0.00e+00
+   Muestra: [505.2, 417.2, 666.4, 523.7, 705.5]
+
+📁 agrupado_010_ZW Parque Antonio Nariño_estandarizado.csv
+   Problemas: 170 valores > 100, 10 valores > 1000, Valor máximo muy grande: 5.63e+07
+   Valor máximo: 5.63e+07
+   Valor mínimo: 1.00e-01
+   Muestra: [0.6, 15.7, 86.0, 67.0, 212.6]
+
+📁 agrupado_011_ZW Parque Santa Rosa Poblado_estandarizado.csv
+   Problemas: 132 valores > 100, 6 valores > 1000, Valor máximo muy grande: 2.44e+08
+   Valor máximo: 2.44e+08
+   Valor mínimo: 1.00e-01
+   Muestra: [375.8, 449.2, 774.1, 195.5, 201.2]
+
+📁 agrupado_012_ZW Polideportivo Los Naranjos_estandarizado.csv
+   Problemas: 156 valores > 100, 7 valores > 1000, 1 valores en notación científica, Valor máximo muy grande: 1.22e+10
+   Valor máximo: 1.22e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [0.2, 0.3, 0.1, 0.7, 1.0]
+
+📁 agrupado_013_ZW Parque Llano Verde_estandarizado.csv
+   Problemas: 88 valores > 100, 5 valores > 1000, Valor máximo muy grande: 6.40e+09
+   Valor máximo: 6.40e+09
+   Valor mínimo: 9.00e-02
+   Muestra: [0.2, 0.2, 0.1, 0.2, 0.2]
+
+📁 agrupado_014_ZW Centro Cultural Alto Jordan_estandarizado.csv
+   Problemas: 245 valores > 100, 41 valores > 1000, Valor máximo muy grande: 3.27e+09
+   Valor máximo: 3.27e+09
+   Valor mínimo: 0.00e+00
+   Muestra: [643.6, 648.8, 171.4, 334.1, 607.9]
+
+📁 agrupado_015_ZW Centro Cultural Comuna 13_estandarizado.csv
+   Problemas: 146 valores > 100, 15 valores > 1000, 3 valores en notación científica, Valor máximo muy grande: 8.87e+10
+   Valor máximo: 8.87e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [2.8, 1.4, 0.5, 0.2, 152.6]
+
+📁 agrupado_016_ZW Conjunto Habitacional Ramali_estandarizado.csv
+   Problemas: 173 valores > 100, 14 valores > 1000, Valor máximo muy grande: 1.02e+08
+   Valor máximo: 1.02e+08
+   Valor mínimo: 1.00e-02
+   Muestra: [2.4, 716.0, 885.9, 779.6, 31.6]
+
+📁 agrupado_017_ZW Conjunto Habitacional Rio Cauca_estandarizado.csv
+   Problemas: 189 valores > 100, 36 valores > 1000, 1 valores en notación científica, Valor máximo muy grande: 1.73e+10
+   Valor máximo: 1.73e+10
+   Valor mínimo: 3.00e-01
+   Muestra: [47.4, 4.0, 5.7, 68.7, 0.6]
+
+📁 agrupado_018_ZW Parque Las Banderas_estandarizado.csv
+   Problemas: 104 valores > 100, 10 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 5.80e+10
+   Valor máximo: 5.80e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [84.2, 4.300000000000001, 12.9, 7.7, 25.6]
+
+📁 agrupado_019_ZW Parque Skate Board_estandarizado.csv
+   Problemas: 298 valores > 100, 33 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 7.86e+10
+   Valor máximo: 7.86e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [3.0, 11.0, 163.5, 997.4, 731.7]
+
+📁 agrupado_020_ZW Parque Petecuy1_estandarizado.csv
+   Problemas: 199 valores > 100, 10 valores > 1000, Valor máximo muy grande: 2.24e+08
+   Valor máximo: 2.24e+08
+   Valor mínimo: 0.00e+00
+   Muestra: [493.6, 318.3, 267.2, 84.7, 138.4]
+
+📁 agrupado_021_ZW Parque Alfonso Barberena_estandarizado.csv
+   Problemas: 209 valores > 100, 7 valores > 1000, Valor máximo muy grande: 4.76e+08
+   Valor máximo: 4.76e+08
+   Valor mínimo: 0.00e+00
+   Muestra: [2.8, 21.6, 1.7000000000000002, 6.6000000000000005, 3.3]
+
+📁 agrupado_022_ZW Polideportivo Los Farallones_estandarizado.csv
+   Problemas: 105 valores > 100, 8 valores > 1000, Valor máximo muy grande: 7.43e+07
+   Valor máximo: 7.43e+07
+   Valor mínimo: 0.00e+00
+   Muestra: [7.1, 0.0, 175.2, 31.6, 58.5]
+
+📁 agrupado_023_ZW Parque Los Guerreros_estandarizado.csv
+   Problemas: 102 valores > 100, 4 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 5.76e+10
+   Valor máximo: 5.76e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [47.4, 14.9, 341.7, 476.9, 187.9]
+
+📁 agrupado_024_ZW Museo La Tertualia_estandarizado.csv
+   Problemas: 160 valores > 100, 4 valores > 1000, Valor máximo muy grande: 1.83e+08
+   Valor máximo: 1.83e+08
+   Valor mínimo: 3.00e-01
+   Muestra: [646.9, 109.9, 64.1, 339.1, 427.1]
+
+📁 agrupado_025_ZW Parque San Marino_estandarizado.csv
+   Problemas: 245 valores > 100, 71 valores > 1000, 1 valores en notación científica, Valor máximo muy grande: 2.97e+10
+   Valor máximo: 2.97e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [50.9, 364.9, 383.5, 520.0, 849.0]
+
+📁 agrupado_026_ZW Parque La Flora_estandarizado.csv
+   Problemas: 230 valores > 100, 30 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 9.58e+10
+   Valor máximo: 9.58e+10
+   Valor mínimo: 2.00e-01
+   Muestra: [342.6, 66.2, 8.1, 10.5, 1.7]
+
+📁 agrupado_027_ZW Parque Alfonso Bonilla Aragón_estandarizado.csv
+   Problemas: 201 valores > 100, 8 valores > 1000, Valor máximo muy grande: 3.19e+08
+   Valor máximo: 3.19e+08
+   Valor mínimo: 2.00e-01
+   Muestra: [1.6, 1.1, 164.8, 143.7, 573.7]
+
+📁 agrupado_028_ZW Parque Yo Amo a Siloe_estandarizado.csv
+   Problemas: 303 valores > 100, 89 valores > 1000, 3 valores en notación científica, Valor máximo muy grande: 9.19e+10
+   Valor máximo: 9.19e+10
+   Valor mínimo: 1.00e-01
+   Muestra: [1827.4, 1353.3, 1195.1, 808.9, 235.7]
+
+📁 agrupado_029_ZW Centro Cultural Vista Hermosa_estandarizado.csv
+   Problemas: 329 valores > 100, 47 valores > 1000, 4 valores en notación científica, Valor máximo muy grande: 8.55e+10
+   Valor máximo: 8.55e+10
+   Valor mínimo: 1.10e-01
+   Muestra: [578.6, 800.7, 543.2, 533.2, 362.2000000000001]
+
+📁 agrupado_030_ZW Parque Mutis_estandarizado.csv
+   Problemas: 138 valores > 100, 2 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 4.18e+10
+   Valor máximo: 4.18e+10
+   Valor mínimo: 1.00e-01
+   Muestra: [0.6, 0.1, 0.8, 0.9, 23.5]
+
+📁 agrupado_031_ZW Cancha Los Azules_estandarizado.csv
+   Problemas: 204 valores > 100, 18 valores > 1000, 4 valores en notación científica, Valor máximo muy grande: 8.12e+10
+   Valor máximo: 8.12e+10
+   Valor mínimo: 1.00e-01
+   Muestra: [182.1, 112.6, 250.7, 203.5, 192.3]
+
+📁 agrupado_032_ZW Paque La Orqueta_estandarizado.csv
+   Problemas: 235 valores > 100, 19 valores > 1000, 4 valores en notación científica, Valor máximo muy grande: 8.62e+10
+   Valor máximo: 8.62e+10
+   Valor mínimo: 1.00e-01
+   Muestra: [0.4, 1.1, 509.3, 326.3, 267.3]
+
+📁 agrupado_034_ZW Parque Villa Colombia_estandarizado.csv
+   Problemas: 103 valores > 100, 4 valores > 1000, 1 valores en notación científica, Valor máximo muy grande: 1.63e+10
+   Valor máximo: 1.63e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [0.5, 0.2, 0.3, 0.1, 0.0]
+
+📁 agrupado_035_ZW Parque Colseguros_estandarizado.csv
+   Problemas: 248 valores > 100, 18 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 8.48e+10
+   Valor máximo: 8.48e+10
+   Valor mínimo: 4.00e-01
+   Muestra: [894.4, 539.7, 13.5, 2.5, 11.5]
+
+📁 agrupado_036_ZW Parque India Elena_estandarizado.csv
+   Problemas: 182 valores > 100, 7 valores > 1000, Valor máximo muy grande: 5.55e+08
+   Valor máximo: 5.55e+08
+   Valor mínimo: 8.00e-01
+   Muestra: [5.9, 24.7, 1.2999999999999998, 1.0, 1.5]
+
+📁 agrupado_037_ZW Parque Tequendama_estandarizado.csv
+   Problemas: 219 valores > 100, 9 valores > 1000, Valor máximo muy grande: 2.56e+08
+   Valor máximo: 2.56e+08
+   Valor mínimo: 1.00e-01
+   Muestra: [170.9, 528.9, 465.1, 642.5, 277.8]
+
+📁 agrupado_038_ZW Parque Sector Amarillo Skate Park_estandarizado.csv
+   Problemas: 283 valores > 100, 31 valores > 1000, 3 valores en notación científica, Valor máximo muy grande: 8.48e+10
+   Valor máximo: 8.48e+10
+   Valor mínimo: 2.00e-01
+   Muestra: [1.8, 0.2, 1.1, 0.6, 375.9]
+
+📁 agrupado_039_ZW Biblioteca Daniel Guillard_estandarizado.csv
+   Problemas: 233 valores > 100, 32 valores > 1000, Valor máximo muy grande: 2.53e+08
+   Valor máximo: 2.53e+08
+   Valor mínimo: 1.10e-01
+   Muestra: [2.7, 3.9, 1.1, 2.2, 1.6]
+
+📁 agrupado_041_ZW Parque Junin_estandarizado.csv
+   Problemas: 225 valores > 100, 4 valores > 1000, 3 valores en notación científica, Valor máximo muy grande: 4.18e+10
+   Valor máximo: 4.18e+10
+   Valor mínimo: 3.00e-01
+   Muestra: [241.7, 488.5, 186.4, 187.1, 318.4]
+
+📁 agrupado_042_ZW Parque Mariano Ramos_estandarizado.csv
+   Problemas: 183 valores > 100, 10 valores > 1000, Valor máximo muy grande: 8.04e+09
+   Valor máximo: 8.04e+09
+   Valor mínimo: 2.00e-01
+   Muestra: [0.4, 1.1, 1.8, 0.9, 0.9]
+
+📁 agrupado_043_ZW Polideportivo Ricardo Balcazar_estandarizado.csv
+   Problemas: 131 valores > 100, 6 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 4.24e+10
+   Valor máximo: 4.24e+10
+   Valor mínimo: 2.00e-01
+   Muestra: [0.7, 0.5, 0.2, 0.3, 1.1]
+
+📁 agrupado_044_ZW Polideportivo San Benito_estandarizado.csv
+   Problemas: 142 valores > 100, 7 valores > 1000, Valor máximo muy grande: 2.21e+08
+   Valor máximo: 2.21e+08
+   Valor mínimo: 1.00e-01
+   Muestra: [0.8, 0.7, 0.5, 1.3, 0.9]
+
+📁 agrupado_045_ZW Parque Santa Anita_estandarizado.csv
+   Problemas: 130 valores > 100, 5 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 3.58e+10
+   Valor máximo: 3.58e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [0.3, 21.5, 55.4, 219.5, 135.0]
+
+📁 agrupado_046_ZW Sebastian Belalcazar_estandarizado.csv
+   Problemas: 78 valores > 100, 4 valores > 1000, 1 valores en notación científica, Valor máximo muy grande: 7.19e+10
+   Valor máximo: 7.19e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [57.5, 130.9, 72.9, 99.4, 0.2]
+
+📁 agrupado_047_ZW Parque del Mico_estandarizado.csv
+   Problemas: 103 valores > 100, 5 valores > 1000, Valor máximo muy grande: 2.09e+08
+   Valor máximo: 2.09e+08
+   Valor mínimo: 0.00e+00
+   Muestra: [240.6, 340.4, 96.6, 53.8, 1.2]
+
+📁 agrupado_048_ZW Parque Cien Palos_estandarizado.csv
+   Problemas: 93 valores > 100, 5 valores > 1000, 3 valores en notación científica, Valor máximo muy grande: 3.07e+10
+   Valor máximo: 3.07e+10
+   Valor mínimo: 5.00e-02
+   Muestra: [163.9, 345.6, 74.2, 165.7, 276.9]
+
+📁 agrupado_049_ZW Cerro 3 Cruces_estandarizado.csv
+   Problemas: 71 valores > 100, 3 valores > 1000, Valor máximo muy grande: 1.22e+08
+   Valor máximo: 1.22e+08
+   Valor mínimo: 0.00e+00
+   Muestra: [359.1, 116.2, 432.8, 195.4, 207.6]
+
+📁 agrupado_050_ZW Parque Calima_estandarizado.csv
+   Problemas: 100 valores > 100, 5 valores > 1000, Valor máximo muy grande: 1.59e+09
+   Valor máximo: 1.59e+09
+   Valor mínimo: 1.00e-02
+   Muestra: [413.3, 133.2, 137.0, 171.9, 122.3]
+
+📁 agrupado_051_ZW Parque La Mecerd_estandarizado.csv
+   Problemas: 104 valores > 100, 4 valores > 1000, 4 valores en notación científica, Valor máximo muy grande: 3.00e+10
+   Valor máximo: 3.00e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [25.4, 0.0, 2.5, 7.4, 18.0]
+
+📁 agrupado_052_ZW Puente de Colores_estandarizado.csv
+   Problemas: 337 valores > 100, 104 valores > 1000, 4 valores en notación científica, Valor máximo muy grande: 3.07e+10
+   Valor máximo: 3.07e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [1.1, 0.6, 5.6, 4.1, 2.0]
+
+📁 agrupado_053_ZW Polideportivo Laureano Gomez_estandarizado.csv
+   Problemas: 164 valores > 100, 7 valores > 1000, Valor máximo muy grande: 1.36e+09
+   Valor máximo: 1.36e+09
+   Valor mínimo: 0.00e+00
+   Muestra: [16.1, 468.7000000000001, 183.3, 169.79999999999998, 69.0]
+
+📁 agrupado_054_ZW El Diamante_estandarizado.csv
+   Problemas: 109 valores > 100, 4 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 3.79e+10
+   Valor máximo: 3.79e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [491.1, 97.6, 122.0, 0.2, 0.1]
+
+📁 agrupado_055_ZW Polideportivo Petecuy_estandarizado.csv
+   Problemas: 158 valores > 100, 10 valores > 1000, Valor máximo muy grande: 1.00e+09
+   Valor máximo: 1.00e+09
+   Valor mínimo: 0.00e+00
+   Muestra: [0.0, 0.0, 27.3, 83.5, 3.1]
+
+📁 agrupado_056_ZW Comuna 16_estandarizado.csv
+   Problemas: 21 valores > 100, 5 valores > 1000, 2 valores en notación científica, Valor máximo muy grande: 3.50e+10
+   Valor máximo: 3.50e+10
+   Valor mínimo: 0.00e+00
+   Muestra: [69.1, 0.6, 0.3, 0.1, 1.0]
+
+📁 agrupado_060_Felidia_estandarizado.csv
+   Problemas: 127 valores > 100, 86 valores > 1000, Valor máximo muy grande: 2.02e+07
+   Valor máximo: 2.02e+07
+   Valor mínimo: 1.12e+00
+   Muestra: [777.8, 697.8, 1019.5, 521.7, 623.8]
+
+📁 agrupado_061_La Leonera_estandarizado.csv
+   Problemas: 92 valores > 100, 90 valores > 1000, Valor máximo muy grande: 6.07e+07
+   Valor máximo: 6.07e+07
+   Valor mínimo: 0.00e+00
+   Muestra: [1937.54399, 19185262.0, 28355038.6, 404.85535, 87.47556]
+
+📁 agrupado_062_Pichinde_estandarizado.csv
+   Problemas: 111 valores > 100, 86 valores > 1000, Valor máximo muy grande: 6.53e+06
+   Valor máximo: 6.53e+06
+   Valor mínimo: 1.00e-02
+   Muestra: [112.5448, 78321.2, 49263.7, 2328.5, 62996.5]
+
+📁 agrupado_063_Los Andes_estandarizado.csv
+   Problemas: 94 valores > 100, 88 valores > 1000, 14 valores en notación científica, Valor máximo muy grande: 3.21e+11
+   Valor máximo: 3.21e+11
+   Valor mínimo: 7.50e-01
+   Muestra: [825.3, 12.626, 208275373.0, 3.88253, 0.7496]
+
+
+ARCHIVOS CON ADVERTENCIAS:
+------------------------------
+
+⚠️  agrupado_007_ZW Parque Pizamos_estandarizado.csv
+   Advertencias: 44 valores > 100
+   Valor máximo: 3.93e+02
+   Muestra: [3.46, 33.2, 0.8]
+
+⚠️  agrupado_009_ZW Polideportivo Los Almendros_estandarizado.csv
+   Advertencias: 6 valores > 100
+   Valor máximo: 2.11e+02
+   Muestra: [0.61, 0.07, 0.28]
+
+⚠️  agrupado_033_ZW Plaza Alameda_estandarizado.csv
+   Advertencias: 76 valores > 100
+   Valor máximo: 9.13e+02
+   Muestra: [0.1, 191.7, 74.6]
+
+⚠️  agrupado_040_ZW Polideportivo Torres Comfandi_estandarizado.csv
+   Advertencias: 111 valores > 100, 23 valores > 1000
+   Valor máximo: 2.20e+03
+   Muestra: [98.1, 87.5, 75.3]
+
+⚠️  agrupado_057_La Castilla_estandarizado.csv
+   Advertencias: 57 valores > 100, 19 valores > 1000
+   Valor máximo: 6.15e+03
+   Muestra: [2080.6, 108.1, 1289.3000000000002]
+
+⚠️  agrupado_058_La Elvira_estandarizado.csv
+   Advertencias: 89 valores > 100, 54 valores > 1000
+   Valor máximo: 8.94e+03
+   Muestra: [0.04, 943.2, 2172.27]
+
+⚠️  agrupado_059_El Saladito_estandarizado.csv
+   Advertencias: 114 valores > 100, 28 valores > 1000
+   Valor máximo: 6.28e+03
+   Muestra: [286.4, 503.0, 88.5]
+
+
+ESTADÍSTICAS DETALLADAS:
+------------------------------
+
+📊 agrupado_001_ZW Parque Ingenio_estandarizado.csv
+   Filas totales: 397
+   Valores no nulos: 397
+   Valores únicos: 354
+   Mínimo: 0.000000
+   Máximo: 50210386100.000000
+   Promedio: 167707408.596902
+   Mediana: 83.540000
+   Valores 0-100: 211
+   Valores >100: 186
+   Valores >1000: 11
+   Valores notación científica: 2
+
+📊 agrupado_002_ZW Canchas Panamericanas_estandarizado.csv
+   Filas totales: 386
+   Valores no nulos: 386
+   Valores únicos: 311
+   Mínimo: 0.000000
+   Máximo: 488440400.000000
+   Promedio: 2448237.941062
+   Mediana: 35.500000
+   Valores 0-100: 282
+   Valores >100: 104
+   Valores >1000: 4
+   Valores notación científica: 0
+
+📊 agrupado_003_ZW Parque del Perro_estandarizado.csv
+   Filas totales: 378
+   Valores no nulos: 378
+   Valores únicos: 322
+   Mínimo: 0.500000
+   Máximo: 880564000.000000
+   Promedio: 4802340.498360
+   Mediana: 115.500000
+   Valores 0-100: 172
+   Valores >100: 206
+   Valores >1000: 11
+   Valores notación científica: 0
+
+📊 agrupado_004_ZW Parque San Nicolas_estandarizado.csv
+   Filas totales: 301
+   Valores no nulos: 301
+   Valores únicos: 253
+   Mínimo: 0.000000
+   Máximo: 227046800.000000
+   Promedio: 2006374.458505
+   Mediana: 101.000000
+   Valores 0-100: 150
+   Valores >100: 151
+   Valores >1000: 7
+   Valores notación científica: 0
+
+📊 agrupado_005_ZW Parque Barrio Obrero_estandarizado.csv
+   Filas totales: 378
+   Valores no nulos: 378
+   Valores únicos: 363
+   Mínimo: 0.560000
+   Máximo: 121381893400.000000
+   Promedio: 350396598.673492
+   Mediana: 636.225000
+   Valores 0-100: 91
+   Valores >100: 287
+   Valores >1000: 68
+   Valores notación científica: 1
+
+📊 agrupado_006_ZW Parque Vallado_estandarizado.csv
+   Filas totales: 337
+   Valores no nulos: 337
+   Valores únicos: 270
+   Mínimo: 0.400000
+   Máximo: 1089621000.000000
+   Promedio: 7914680.912285
+   Mediana: 45.630000
+   Valores 0-100: 216
+   Valores >100: 121
+   Valores >1000: 6
+   Valores notación científica: 0
+
+📊 agrupado_007_ZW Parque Pizamos_estandarizado.csv
+   Filas totales: 102
+   Valores no nulos: 102
+   Valores únicos: 73
+   Mínimo: 0.000000
+   Máximo: 393.000000
+   Promedio: 99.367157
+   Mediana: 85.600000
+   Valores 0-100: 58
+   Valores >100: 44
+   Valores >1000: 0
+   Valores notación científica: 0
+
+📊 agrupado_008_ZW Parque Alfonso Lopez_estandarizado.csv
+   Filas totales: 406
+   Valores no nulos: 406
+   Valores únicos: 310
+   Mínimo: 0.000000
+   Máximo: 83404900.000000
+   Promedio: 559861.861527
+   Mediana: 102.000000
+   Valores 0-100: 201
+   Valores >100: 205
+   Valores >1000: 13
+   Valores notación científica: 0
+
+📊 agrupado_009_ZW Polideportivo Los Almendros_estandarizado.csv
+   Filas totales: 83
+   Valores no nulos: 83
+   Valores únicos: 72
+   Mínimo: 0.000000
+   Máximo: 211.000000
+   Promedio: 47.584217
+   Mediana: 44.000000
+   Valores 0-100: 77
+   Valores >100: 6
+   Valores >1000: 0
+   Valores notación científica: 0
+
+📊 agrupado_010_ZW Parque Antonio Nariño_estandarizado.csv
+   Filas totales: 372
+   Valores no nulos: 372
+   Valores únicos: 310
+   Mínimo: 0.100000
+   Máximo: 56296500.000000
+   Promedio: 339048.503629
+   Mediana: 92.000000
+   Valores 0-100: 202
+   Valores >100: 170
+   Valores >1000: 10
+   Valores notación científica: 0
+
+📊 agrupado_011_ZW Parque Santa Rosa Poblado_estandarizado.csv
+   Filas totales: 315
+   Valores no nulos: 315
+   Valores únicos: 266
+   Mínimo: 0.100000
+   Máximo: 244194400.000000
+   Promedio: 1979613.213714
+   Mediana: 33.720000
+   Valores 0-100: 183
+   Valores >100: 132
+   Valores >1000: 6
+   Valores notación científica: 0
+
+📊 agrupado_012_ZW Polideportivo Los Naranjos_estandarizado.csv
+   Filas totales: 394
+   Valores no nulos: 394
+   Valores únicos: 333
+   Mínimo: 0.000000
+   Máximo: 12249115700.000000
+   Promedio: 31258648.851599
+   Mediana: 67.320000
+   Valores 0-100: 238
+   Valores >100: 156
+   Valores >1000: 7
+   Valores notación científica: 1
+
+📊 agrupado_013_ZW Parque Llano Verde_estandarizado.csv
+   Filas totales: 358
+   Valores no nulos: 358
+   Valores únicos: 276
+   Mínimo: 0.090000
+   Máximo: 6398999500.000000
+   Promedio: 23230762.124441
+   Mediana: 46.000000
+   Valores 0-100: 270
+   Valores >100: 88
+   Valores >1000: 5
+   Valores notación científica: 0
+
+📊 agrupado_014_ZW Centro Cultural Alto Jordan_estandarizado.csv
+   Filas totales: 305
+   Valores no nulos: 305
+   Valores únicos: 284
+   Mínimo: 0.000000
+   Máximo: 3273611800.000000
+   Promedio: 16341283.501213
+   Mediana: 331.670000
+   Valores 0-100: 60
+   Valores >100: 245
+   Valores >1000: 41
+   Valores notación científica: 0
+
+📊 agrupado_015_ZW Centro Cultural Comuna 13_estandarizado.csv
+   Filas totales: 340
+   Valores no nulos: 340
+   Valores únicos: 262
+   Mínimo: 0.000000
+   Máximo: 88694736200.000000
+   Promedio: 513546631.526324
+   Mediana: 76.650000
+   Valores 0-100: 194
+   Valores >100: 146
+   Valores >1000: 15
+   Valores notación científica: 3
+
+📊 agrupado_016_ZW Conjunto Habitacional Ramali_estandarizado.csv
+   Filas totales: 374
+   Valores no nulos: 374
+   Valores únicos: 273
+   Mínimo: 0.010000
+   Máximo: 101828900.000000
+   Promedio: 958147.676631
+   Mediana: 73.000000
+   Valores 0-100: 201
+   Valores >100: 173
+   Valores >1000: 14
+   Valores notación científica: 0
+
+📊 agrupado_017_ZW Conjunto Habitacional Rio Cauca_estandarizado.csv
+   Filas totales: 363
+   Valores no nulos: 363
+   Valores únicos: 309
+   Mínimo: 0.300000
+   Máximo: 17263944100.000000
+   Promedio: 65188581.890882
+   Mediana: 182.400000
+   Valores 0-100: 174
+   Valores >100: 189
+   Valores >1000: 36
+   Valores notación científica: 1
+
+📊 agrupado_018_ZW Parque Las Banderas_estandarizado.csv
+   Filas totales: 329
+   Valores no nulos: 329
+   Valores únicos: 318
+   Mínimo: 0.000000
+   Máximo: 58017501200.000000
+   Promedio: 268722402.899666
+   Mediana: 48.170000
+   Valores 0-100: 225
+   Valores >100: 104
+   Valores >1000: 10
+   Valores notación científica: 2
+
+📊 agrupado_019_ZW Parque Skate Board_estandarizado.csv
+   Filas totales: 354
+   Valores no nulos: 354
+   Valores únicos: 342
+   Mínimo: 0.000000
+   Máximo: 78588931400.000000
+   Promedio: 285966825.730367
+   Mediana: 410.845000
+   Valores 0-100: 56
+   Valores >100: 298
+   Valores >1000: 33
+   Valores notación científica: 2
+
+📊 agrupado_020_ZW Parque Petecuy1_estandarizado.csv
+   Filas totales: 340
+   Valores no nulos: 340
+   Valores únicos: 279
+   Mínimo: 0.000000
+   Máximo: 223535600.000000
+   Promedio: 1582045.974500
+   Mediana: 144.500000
+   Valores 0-100: 141
+   Valores >100: 199
+   Valores >1000: 10
+   Valores notación científica: 0
+
+📊 agrupado_021_ZW Parque Alfonso Barberena_estandarizado.csv
+   Filas totales: 399
+   Valores no nulos: 399
+   Valores únicos: 348
+   Mínimo: 0.000000
+   Máximo: 475524500.000000
+   Promedio: 4182674.192306
+   Mediana: 113.300000
+   Valores 0-100: 190
+   Valores >100: 209
+   Valores >1000: 7
+   Valores notación científica: 0
+
+📊 agrupado_022_ZW Polideportivo Los Farallones_estandarizado.csv
+   Filas totales: 397
+   Valores no nulos: 397
+   Valores únicos: 300
+   Mínimo: 0.000000
+   Máximo: 74298500.000000
+   Promedio: 377976.002494
+   Mediana: 36.000000
+   Valores 0-100: 292
+   Valores >100: 105
+   Valores >1000: 8
+   Valores notación científica: 0
+
+📊 agrupado_023_ZW Parque Los Guerreros_estandarizado.csv
+   Filas totales: 400
+   Valores no nulos: 400
+   Valores únicos: 297
+   Mínimo: 0.000000
+   Máximo: 57586257300.000000
+   Promedio: 247163392.292425
+   Mediana: 30.650000
+   Valores 0-100: 298
+   Valores >100: 102
+   Valores >1000: 4
+   Valores notación científica: 2
+
+📊 agrupado_024_ZW Museo La Tertualia_estandarizado.csv
+   Filas totales: 406
+   Valores no nulos: 406
+   Valores únicos: 331
+   Mínimo: 0.300000
+   Máximo: 183455800.000000
+   Promedio: 1663058.571749
+   Mediana: 69.700000
+   Valores 0-100: 246
+   Valores >100: 160
+   Valores >1000: 4
+   Valores notación científica: 0
+
+📊 agrupado_025_ZW Parque San Marino_estandarizado.csv
+   Filas totales: 351
+   Valores no nulos: 351
+   Valores únicos: 294
+   Mínimo: 0.000000
+   Máximo: 29691239600.000000
+   Promedio: 85877592.174501
+   Mediana: 347.500000
+   Valores 0-100: 106
+   Valores >100: 245
+   Valores >1000: 71
+   Valores notación científica: 1
+
+📊 agrupado_026_ZW Parque La Flora_estandarizado.csv
+   Filas totales: 403
+   Valores no nulos: 403
+   Valores únicos: 352
+   Mínimo: 0.200000
+   Máximo: 95774436800.000000
+   Promedio: 300549102.975062
+   Mediana: 147.030000
+   Valores 0-100: 173
+   Valores >100: 230
+   Valores >1000: 30
+   Valores notación científica: 2
+
+📊 agrupado_027_ZW Parque Alfonso Bonilla Aragón_estandarizado.csv
+   Filas totales: 393
+   Valores no nulos: 393
+   Valores únicos: 303
+   Mínimo: 0.200000
+   Máximo: 319134800.000000
+   Promedio: 1241161.031476
+   Mediana: 106.000000
+   Valores 0-100: 192
+   Valores >100: 201
+   Valores >1000: 8
+   Valores notación científica: 0
+
+📊 agrupado_028_ZW Parque Yo Amo a Siloe_estandarizado.csv
+   Filas totales: 392
+   Valores no nulos: 392
+   Valores únicos: 356
+   Mínimo: 0.100000
+   Máximo: 91913496900.000000
+   Promedio: 334074778.645867
+   Mediana: 442.700000
+   Valores 0-100: 89
+   Valores >100: 303
+   Valores >1000: 89
+   Valores notación científica: 3
+
+📊 agrupado_029_ZW Centro Cultural Vista Hermosa_estandarizado.csv
+   Filas totales: 395
+   Valores no nulos: 395
+   Valores únicos: 380
+   Mínimo: 0.110000
+   Máximo: 85549252700.000000
+   Promedio: 599608139.650228
+   Mediana: 331.750000
+   Valores 0-100: 66
+   Valores >100: 329
+   Valores >1000: 47
+   Valores notación científica: 4
+
+📊 agrupado_030_ZW Parque Mutis_estandarizado.csv
+   Filas totales: 395
+   Valores no nulos: 395
+   Valores únicos: 277
+   Mínimo: 0.100000
+   Máximo: 41838584600.000000
+   Promedio: 133731425.514278
+   Mediana: 27.600000
+   Valores 0-100: 257
+   Valores >100: 138
+   Valores >1000: 2
+   Valores notación científica: 2
+
+📊 agrupado_031_ZW Cancha Los Azules_estandarizado.csv
+   Filas totales: 400
+   Valores no nulos: 400
+   Valores únicos: 308
+   Mínimo: 0.100000
+   Máximo: 81179317700.000000
+   Promedio: 610962121.545800
+   Mediana: 102.500000
+   Valores 0-100: 196
+   Valores >100: 204
+   Valores >1000: 18
+   Valores notación científica: 4
+
+📊 agrupado_032_ZW Paque La Orqueta_estandarizado.csv
+   Filas totales: 378
+   Valores no nulos: 378
+   Valores únicos: 321
+   Mínimo: 0.100000
+   Máximo: 86186903400.000000
+   Promedio: 806626737.400053
+   Mediana: 181.000000
+   Valores 0-100: 143
+   Valores >100: 235
+   Valores >1000: 19
+   Valores notación científica: 4
+
+📊 agrupado_033_ZW Plaza Alameda_estandarizado.csv
+   Filas totales: 118
+   Valores no nulos: 118
+   Valores únicos: 112
+   Mínimo: 0.100000
+   Máximo: 913.400000
+   Promedio: 184.134831
+   Mediana: 184.655000
+   Valores 0-100: 42
+   Valores >100: 76
+   Valores >1000: 0
+   Valores notación científica: 0
+
+📊 agrupado_034_ZW Parque Villa Colombia_estandarizado.csv
+   Filas totales: 390
+   Valores no nulos: 390
+   Valores únicos: 291
+   Mínimo: 0.000000
+   Máximo: 16295885700.000000
+   Promedio: 88520872.113308
+   Mediana: 39.755000
+   Valores 0-100: 287
+   Valores >100: 103
+   Valores >1000: 4
+   Valores notación científica: 1
+
+📊 agrupado_035_ZW Parque Colseguros_estandarizado.csv
+   Filas totales: 391
+   Valores no nulos: 391
+   Valores únicos: 373
+   Mínimo: 0.400000
+   Máximo: 84767793000.000000
+   Promedio: 311927746.315678
+   Mediana: 221.000000
+   Valores 0-100: 143
+   Valores >100: 248
+   Valores >1000: 18
+   Valores notación científica: 2
+
+📊 agrupado_036_ZW Parque India Elena_estandarizado.csv
+   Filas totales: 391
+   Valores no nulos: 391
+   Valores únicos: 321
+   Mínimo: 0.800000
+   Máximo: 554827600.000000
+   Promedio: 4863271.558159
+   Mediana: 55.600000
+   Valores 0-100: 209
+   Valores >100: 182
+   Valores >1000: 7
+   Valores notación científica: 0
+
+📊 agrupado_037_ZW Parque Tequendama_estandarizado.csv
+   Filas totales: 397
+   Valores no nulos: 397
+   Valores únicos: 328
+   Mínimo: 0.100000
+   Máximo: 255619300.000000
+   Promedio: 1642917.847028
+   Mediana: 128.800000
+   Valores 0-100: 178
+   Valores >100: 219
+   Valores >1000: 9
+   Valores notación científica: 0
+
+📊 agrupado_038_ZW Parque Sector Amarillo Skate Park_estandarizado.csv
+   Filas totales: 390
+   Valores no nulos: 390
+   Valores únicos: 354
+   Mínimo: 0.200000
+   Máximo: 84841132800.000000
+   Promedio: 396419387.524821
+   Mediana: 299.450000
+   Valores 0-100: 107
+   Valores >100: 283
+   Valores >1000: 31
+   Valores notación científica: 3
+
+📊 agrupado_039_ZW Biblioteca Daniel Guillard_estandarizado.csv
+   Filas totales: 356
+   Valores no nulos: 356
+   Valores únicos: 312
+   Mínimo: 0.110000
+   Máximo: 253057200.000000
+   Promedio: 2105800.928455
+   Mediana: 252.000000
+   Valores 0-100: 123
+   Valores >100: 233
+   Valores >1000: 32
+   Valores notación científica: 0
+
+📊 agrupado_040_ZW Polideportivo Torres Comfandi_estandarizado.csv
+   Filas totales: 126
+   Valores no nulos: 126
+   Valores únicos: 125
+   Mínimo: 0.000000
+   Máximo: 2201.700000
+   Promedio: 650.283333
+   Mediana: 631.450000
+   Valores 0-100: 15
+   Valores >100: 111
+   Valores >1000: 23
+   Valores notación científica: 0
+
+📊 agrupado_041_ZW Parque Junin_estandarizado.csv
+   Filas totales: 406
+   Valores no nulos: 406
+   Valores únicos: 347
+   Mínimo: 0.300000
+   Máximo: 41828691900.000000
+   Promedio: 235100613.126355
+   Mediana: 128.980000
+   Valores 0-100: 181
+   Valores >100: 225
+   Valores >1000: 4
+   Valores notación científica: 3
+
+📊 agrupado_042_ZW Parque Mariano Ramos_estandarizado.csv
+   Filas totales: 402
+   Valores no nulos: 402
+   Valores únicos: 298
+   Mínimo: 0.200000
+   Máximo: 8038023500.000000
+   Promedio: 29787752.748507
+   Mediana: 81.450000
+   Valores 0-100: 219
+   Valores >100: 183
+   Valores >1000: 10
+   Valores notación científica: 0
+
+📊 agrupado_043_ZW Polideportivo Ricardo Balcazar_estandarizado.csv
+   Filas totales: 307
+   Valores no nulos: 307
+   Valores únicos: 224
+   Mínimo: 0.200000
+   Máximo: 42393397500.000000
+   Promedio: 213323767.631922
+   Mediana: 73.300000
+   Valores 0-100: 176
+   Valores >100: 131
+   Valores >1000: 6
+   Valores notación científica: 2
+
+📊 agrupado_044_ZW Polideportivo San Benito_estandarizado.csv
+   Filas totales: 389
+   Valores no nulos: 389
+   Valores únicos: 284
+   Mínimo: 0.100000
+   Máximo: 221392700.000000
+   Promedio: 1306328.701003
+   Mediana: 57.000000
+   Valores 0-100: 247
+   Valores >100: 142
+   Valores >1000: 7
+   Valores notación científica: 0
+
+📊 agrupado_045_ZW Parque Santa Anita_estandarizado.csv
+   Filas totales: 389
+   Valores no nulos: 389
+   Valores únicos: 305
+   Mínimo: 0.000000
+   Máximo: 35769017700.000000
+   Promedio: 183714759.377609
+   Mediana: 66.000000
+   Valores 0-100: 259
+   Valores >100: 130
+   Valores >1000: 5
+   Valores notación científica: 2
+
+📊 agrupado_046_ZW Sebastian Belalcazar_estandarizado.csv
+   Filas totales: 405
+   Valores no nulos: 405
+   Valores únicos: 323
+   Mínimo: 0.000000
+   Máximo: 71866895600.000000
+   Promedio: 204476610.953506
+   Mediana: 29.000000
+   Valores 0-100: 327
+   Valores >100: 78
+   Valores >1000: 4
+   Valores notación científica: 1
+
+📊 agrupado_047_ZW Parque del Mico_estandarizado.csv
+   Filas totales: 374
+   Valores no nulos: 374
+   Valores únicos: 233
+   Mínimo: 0.000000
+   Máximo: 209430400.000000
+   Promedio: 1051956.217219
+   Mediana: 20.500000
+   Valores 0-100: 271
+   Valores >100: 103
+   Valores >1000: 5
+   Valores notación científica: 0
+
+📊 agrupado_048_ZW Parque Cien Palos_estandarizado.csv
+   Filas totales: 302
+   Valores no nulos: 302
+   Valores únicos: 221
+   Mínimo: 0.050000
+   Máximo: 30724235500.000000
+   Promedio: 195911985.801954
+   Mediana: 7.250000
+   Valores 0-100: 209
+   Valores >100: 93
+   Valores >1000: 5
+   Valores notación científica: 3
+
+📊 agrupado_049_ZW Cerro 3 Cruces_estandarizado.csv
+   Filas totales: 326
+   Valores no nulos: 326
+   Valores únicos: 229
+   Mínimo: 0.000000
+   Máximo: 122098300.000000
+   Promedio: 907906.398374
+   Mediana: 18.545000
+   Valores 0-100: 255
+   Valores >100: 71
+   Valores >1000: 3
+   Valores notación científica: 0
+
+📊 agrupado_050_ZW Parque Calima_estandarizado.csv
+   Filas totales: 391
+   Valores no nulos: 391
+   Valores únicos: 280
+   Mínimo: 0.010000
+   Máximo: 1587887900.000000
+   Promedio: 9347234.809847
+   Mediana: 34.000000
+   Valores 0-100: 291
+   Valores >100: 100
+   Valores >1000: 5
+   Valores notación científica: 0
+
+📊 agrupado_051_ZW Parque La Mecerd_estandarizado.csv
+   Filas totales: 391
+   Valores no nulos: 391
+   Valores únicos: 341
+   Mínimo: 0.000000
+   Máximo: 30041193700.000000
+   Promedio: 214546375.193146
+   Mediana: 48.000000
+   Valores 0-100: 287
+   Valores >100: 104
+   Valores >1000: 4
+   Valores notación científica: 4
+
+📊 agrupado_052_ZW Puente de Colores_estandarizado.csv
+   Filas totales: 778
+   Valores no nulos: 778
+   Valores únicos: 671
+   Mínimo: 0.000000
+   Máximo: 30711228800.000000
+   Promedio: 106135287.083509
+   Mediana: 78.000000
+   Valores 0-100: 441
+   Valores >100: 337
+   Valores >1000: 104
+   Valores notación científica: 4
+
+📊 agrupado_053_ZW Polideportivo Laureano Gomez_estandarizado.csv
+   Filas totales: 381
+   Valores no nulos: 381
+   Valores únicos: 333
+   Mínimo: 0.000000
+   Máximo: 1356656000.000000
+   Promedio: 8661129.801365
+   Mediana: 74.230000
+   Valores 0-100: 217
+   Valores >100: 164
+   Valores >1000: 7
+   Valores notación científica: 0
+
+📊 agrupado_054_ZW El Diamante_estandarizado.csv
+   Filas totales: 369
+   Valores no nulos: 369
+   Valores únicos: 282
+   Mínimo: 0.000000
+   Máximo: 37895586200.000000
+   Promedio: 228535488.321138
+   Mediana: 39.000000
+   Valores 0-100: 260
+   Valores >100: 109
+   Valores >1000: 4
+   Valores notación científica: 2
+
+📊 agrupado_055_ZW Polideportivo Petecuy_estandarizado.csv
+   Filas totales: 367
+   Valores no nulos: 367
+   Valores únicos: 299
+   Mínimo: 0.000000
+   Máximo: 1002157900.000000
+   Promedio: 6596751.895940
+   Mediana: 45.820000
+   Valores 0-100: 209
+   Valores >100: 158
+   Valores >1000: 10
+   Valores notación científica: 0
+
+📊 agrupado_056_ZW Comuna 16_estandarizado.csv
+   Filas totales: 311
+   Valores no nulos: 311
+   Valores únicos: 148
+   Mínimo: 0.000000
+   Máximo: 35003153800.000000
+   Promedio: 207101877.918135
+   Mediana: 2.000000
+   Valores 0-100: 290
+   Valores >100: 21
+   Valores >1000: 5
+   Valores notación científica: 2
+
+📊 agrupado_057_La Castilla_estandarizado.csv
+   Filas totales: 114
+   Valores no nulos: 114
+   Valores únicos: 97
+   Mínimo: 0.000000
+   Máximo: 6154.500000
+   Promedio: 449.383684
+   Mediana: 99.000000
+   Valores 0-100: 57
+   Valores >100: 57
+   Valores >1000: 19
+   Valores notación científica: 0
+
+📊 agrupado_058_La Elvira_estandarizado.csv
+   Filas totales: 102
+   Valores no nulos: 102
+   Valores únicos: 102
+   Mínimo: 0.040000
+   Máximo: 8935.100000
+   Promedio: 1546.918725
+   Mediana: 1090.500000
+   Valores 0-100: 13
+   Valores >100: 89
+   Valores >1000: 54
+   Valores notación científica: 0
+
+📊 agrupado_059_El Saladito_estandarizado.csv
+   Filas totales: 170
+   Valores no nulos: 169
+   Valores únicos: 157
+   Mínimo: 0.000000
+   Máximo: 6283.200000
+   Promedio: 629.498994
+   Mediana: 318.000000
+   Valores 0-100: 55
+   Valores >100: 114
+   Valores >1000: 28
+   Valores notación científica: 0
+
+📊 agrupado_060_Felidia_estandarizado.csv
+   Filas totales: 167
+   Valores no nulos: 147
+   Valores únicos: 147
+   Mínimo: 1.120000
+   Máximo: 20191096.000000
+   Promedio: 1648920.925970
+   Mediana: 3240.000000
+   Valores 0-100: 20
+   Valores >100: 127
+   Valores >1000: 86
+   Valores notación científica: 0
+
+📊 agrupado_061_La Leonera_estandarizado.csv
+   Filas totales: 167
+   Valores no nulos: 95
+   Valores únicos: 95
+   Mínimo: 0.000000
+   Máximo: 60702730.000000
+   Promedio: 10041612.187703
+   Mediana: 8033298.000000
+   Valores 0-100: 3
+   Valores >100: 92
+   Valores >1000: 90
+   Valores notación científica: 0
+
+📊 agrupado_062_Pichinde_estandarizado.csv
+   Filas totales: 187
+   Valores no nulos: 135
+   Valores únicos: 133
+   Mínimo: 0.010000
+   Máximo: 6532314.000000
+   Promedio: 142620.388272
+   Mediana: 2500.000000
+   Valores 0-100: 24
+   Valores >100: 111
+   Valores >1000: 86
+   Valores notación científica: 0
+
+📊 agrupado_063_Los Andes_estandarizado.csv
+   Filas totales: 187
+   Valores no nulos: 99
+   Valores únicos: 98
+   Mínimo: 0.749600
+   Máximo: 321332073170.000000
+   Promedio: 7631911351.280623
+   Mediana: 1305237.000000
+   Valores 0-100: 5
+   Valores >100: 94
+   Valores >1000: 88
+   Valores notación científica: 14
+
+📊 agrupado_064_ZW Centro Tecnología YAWA_estandarizado.csv
+   Filas totales: 2
+   Valores no nulos: 2
+   Valores únicos: 2
+   Mínimo: 0.000000
+   Máximo: 26.960000
+   Promedio: 13.480000
+   Mediana: 13.480000
+   Valores 0-100: 2
+   Valores >100: 0
+   Valores >1000: 0
+   Valores notación científica: 0

@@ -1,0 +1,783 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,035_ZW Parque Colseguros,10,MR76,70,6298076,"720,5",True,Festivo,Lunes,342.729,-7.652.952
+2024-01-01,URBANA,035_ZW Parque Colseguros,10,MR76,64,1519747,"173,9",True,Festivo,Lunes,342.729,-7.652.952
+2024-01-02,URBANA,035_ZW Parque Colseguros,10,MR76,49,4186822,"497,3",False,Laboral,Martes,342.729,-7.652.952
+2024-01-02,URBANA,035_ZW Parque Colseguros,10,MR76,50,357196,"42,4",False,Laboral,Martes,342.729,-7.652.952
+2024-01-03,URBANA,035_ZW Parque Colseguros,10,MR76,65,155222,"12,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-03,URBANA,035_ZW Parque Colseguros,10,MR76,61,8021,"0,7",False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-04,URBANA,035_ZW Parque Colseguros,10,MR76,73,22350,"2,1",False,Laboral,Jueves,342.729,-7.652.952
+2024-01-04,URBANA,035_ZW Parque Colseguros,10,MR76,57,3717,"0,4",False,Laboral,Jueves,342.729,-7.652.952
+2024-01-05,URBANA,035_ZW Parque Colseguros,10,MR76,89,67121,"6,2",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-05,URBANA,035_ZW Parque Colseguros,10,MR76,67,57802,"5,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-06,URBANA,035_ZW Parque Colseguros,10,MR76,62,158137,"20,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-06,URBANA,035_ZW Parque Colseguros,10,MR76,48,8503,"1,1",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-07,URBANA,035_ZW Parque Colseguros,10,MR76,65,3816076,"380,2",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-07,URBANA,035_ZW Parque Colseguros,10,MR76,68,1570630,"156,5",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-08,URBANA,035_ZW Parque Colseguros,10,MR76,59,1779298,"112,9",True,Festivo,Lunes,342.729,-7.652.952
+2024-01-08,URBANA,035_ZW Parque Colseguros,10,MR76,62,3595820,"228,1",True,Festivo,Lunes,342.729,-7.652.952
+2024-01-09,URBANA,035_ZW Parque Colseguros,10,MR76,63,2987455,"230,5",False,Laboral,Martes,342.729,-7.652.952
+2024-01-09,URBANA,035_ZW Parque Colseguros,10,MR76,77,5963045,"460,2",False,Laboral,Martes,342.729,-7.652.952
+2024-01-10,URBANA,035_ZW Parque Colseguros,10,MR76,78,6416311,"531,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-10,URBANA,035_ZW Parque Colseguros,10,MR76,90,6369394,528,False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-11,URBANA,035_ZW Parque Colseguros,10,MR76,82,4474474,"415,8",False,Laboral,Jueves,342.729,-7.652.952
+2024-01-11,URBANA,035_ZW Parque Colseguros,10,MR76,78,6713747,624,False,Laboral,Jueves,342.729,-7.652.952
+2024-01-12,URBANA,035_ZW Parque Colseguros,10,MR76,80,531690,"45,8",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-12,URBANA,035_ZW Parque Colseguros,10,MR76,87,574745,"49,5",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-13,URBANA,035_ZW Parque Colseguros,10,MR76,82,1039096,"115,4",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-13,URBANA,035_ZW Parque Colseguros,10,MR76,90,180323,20,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-14,URBANA,035_ZW Parque Colseguros,10,MR76,92,287400,"36,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-14,URBANA,035_ZW Parque Colseguros,10,MR76,104,255547,"32,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-15,URBANA,035_ZW Parque Colseguros,10,MR76,75,123812,"17,9",False,Laboral,Lunes,342.729,-7.652.952
+2024-01-15,URBANA,035_ZW Parque Colseguros,10,MR76,85,18268,"2,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-01-16,URBANA,035_ZW Parque Colseguros,10,MR76,73,127329,"14,9",False,Laboral,Martes,342.729,-7.652.952
+2024-01-16,URBANA,035_ZW Parque Colseguros,10,MR76,74,30144,"3,5",False,Laboral,Martes,342.729,-7.652.952
+2024-01-17,URBANA,035_ZW Parque Colseguros,10,MR76,70,185297,"18,5",False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-17,URBANA,035_ZW Parque Colseguros,10,MR76,75,17873,"1,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-18,URBANA,035_ZW Parque Colseguros,10,MR76,97,345576,"28,8",False,Laboral,Jueves,342.729,-7.652.952
+2024-01-18,URBANA,035_ZW Parque Colseguros,10,MR76,93,44752,"3,7",False,Laboral,Jueves,342.729,-7.652.952
+2024-01-19,URBANA,035_ZW Parque Colseguros,10,MR76,89,1194538,"77,8",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-19,URBANA,035_ZW Parque Colseguros,10,MR76,80,1953649,"127,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-20,URBANA,035_ZW Parque Colseguros,10,MR76,93,2455142,"189,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-20,URBANA,035_ZW Parque Colseguros,10,MR76,71,4100018,"316,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-21,URBANA,035_ZW Parque Colseguros,10,MR76,87,2001386,"154,6",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-21,URBANA,035_ZW Parque Colseguros,10,MR76,86,1927727,"148,9",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-22,URBANA,035_ZW Parque Colseguros,10,MR76,71,3856714,"367,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-01-22,URBANA,035_ZW Parque Colseguros,10,MR76,88,1736531,"165,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-01-23,URBANA,035_ZW Parque Colseguros,10,MR76,71,3401014,"314,9",False,Laboral,Martes,342.729,-7.652.952
+2024-01-23,URBANA,035_ZW Parque Colseguros,10,MR76,80,2418963,224,False,Laboral,Martes,342.729,-7.652.952
+2024-01-24,URBANA,035_ZW Parque Colseguros,10,MR76,70,2478622,"198,2",False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-24,URBANA,035_ZW Parque Colseguros,10,MR76,68,3463784,277,False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-25,URBANA,035_ZW Parque Colseguros,10,MR76,75,6991372,"467,7",False,Laboral,Jueves,342.729,-7.652.952
+2024-01-25,URBANA,035_ZW Parque Colseguros,10,MR76,69,3524504,"235,8",False,Laboral,Jueves,342.729,-7.652.952
+2024-01-26,URBANA,035_ZW Parque Colseguros,10,MR76,89,15000884,"1088,9",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-26,URBANA,035_ZW Parque Colseguros,10,MR76,76,4345814,"315,5",False,Laboral,Viernes,342.729,-7.652.952
+2024-01-27,URBANA,035_ZW Parque Colseguros,10,MR76,88,3658112,"294,7",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-27,URBANA,035_ZW Parque Colseguros,10,MR76,88,4154678,"334,7",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-01-28,URBANA,035_ZW Parque Colseguros,10,MR76,87,301499,"29,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-28,URBANA,035_ZW Parque Colseguros,10,MR76,89,989174,"96,2",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-01-29,URBANA,035_ZW Parque Colseguros,10,MR76,90,127257,"10,9",False,Laboral,Lunes,342.729,-7.652.952
+2024-01-29,URBANA,035_ZW Parque Colseguros,10,MR76,103,426355,"36,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-01-30,URBANA,035_ZW Parque Colseguros,10,MR76,91,1378904,"152,3",False,Laboral,Martes,342.729,-7.652.952
+2024-01-30,URBANA,035_ZW Parque Colseguros,10,MR76,93,523991,"57,9",False,Laboral,Martes,342.729,-7.652.952
+2024-01-31,URBANA,035_ZW Parque Colseguros,10,MR76,93,531525,"50,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-01-31,URBANA,035_ZW Parque Colseguros,10,MR76,86,158826,"15,2",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-01,URBANA,035_ZW Parque Colseguros,10,MR76,85,38371,"2,8",False,Laboral,Jueves,342.729,-7.652.952
+2024-02-01,URBANA,035_ZW Parque Colseguros,10,MR76,87,375520,27,False,Laboral,Jueves,342.729,-7.652.952
+2024-02-02,URBANA,035_ZW Parque Colseguros,10,MR76,78,2935335,"307,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-02-02,URBANA,035_ZW Parque Colseguros,10,MR76,67,638660,"66,9",False,Laboral,Viernes,342.729,-7.652.952
+2024-02-03,URBANA,035_ZW Parque Colseguros,10,MR76,84,10403842,"586,4",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-03,URBANA,035_ZW Parque Colseguros,10,MR76,108,2150762,"121,2",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-04,URBANA,035_ZW Parque Colseguros,10,MR76,67,7490945,"468,4",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-04,URBANA,035_ZW Parque Colseguros,10,MR76,65,2634783,"164,7",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-05,URBANA,035_ZW Parque Colseguros,10,MR76,58,5697940,"378,5",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-05,URBANA,035_ZW Parque Colseguros,10,MR76,63,2056453,"136,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-06,URBANA,035_ZW Parque Colseguros,10,MR76,59,5046825,"337,7",False,Laboral,Martes,342.729,-7.652.952
+2024-02-06,URBANA,035_ZW Parque Colseguros,10,MR76,83,912682,"61,1",False,Laboral,Martes,342.729,-7.652.952
+2024-02-07,URBANA,035_ZW Parque Colseguros,10,MR76,72,8112057,"491,4",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-07,URBANA,035_ZW Parque Colseguros,10,MR76,85,3722151,"225,5",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-08,URBANA,035_ZW Parque Colseguros,10,MR76,63,6046087,445,False,Laboral,Jueves,342.729,-7.652.952
+2024-02-08,URBANA,035_ZW Parque Colseguros,10,MR76,72,2820718,"207,6",False,Laboral,Jueves,342.729,-7.652.952
+2024-02-09,URBANA,035_ZW Parque Colseguros,10,MR76,81,2503978,"208,1",False,Laboral,Viernes,342.729,-7.652.952
+2024-02-09,URBANA,035_ZW Parque Colseguros,10,MR76,69,2261142,"187,9",False,Laboral,Viernes,342.729,-7.652.952
+2024-02-10,URBANA,035_ZW Parque Colseguros,10,MR76,105,4616597,289,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-10,URBANA,035_ZW Parque Colseguros,10,MR76,103,6082464,"380,8",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-11,URBANA,035_ZW Parque Colseguros,10,MR76,93,1336288,"99,4",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-11,URBANA,035_ZW Parque Colseguros,10,MR76,84,2309630,"171,9",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-12,URBANA,035_ZW Parque Colseguros,10,MR76,88,18323,"1,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-12,URBANA,035_ZW Parque Colseguros,10,MR76,98,17042,"1,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-13,URBANA,035_ZW Parque Colseguros,10,MR76,76,69299,8,False,Laboral,Martes,342.729,-7.652.952
+2024-02-13,URBANA,035_ZW Parque Colseguros,10,MR76,84,140636,"16,2",False,Laboral,Martes,342.729,-7.652.952
+2024-02-14,URBANA,035_ZW Parque Colseguros,10,MR76,81,84927,"11,2",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-14,URBANA,035_ZW Parque Colseguros,10,MR76,94,32733,"4,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-15,URBANA,035_ZW Parque Colseguros,10,MR76,68,37894,"3,2",False,Laboral,Jueves,342.729,-7.652.952
+2024-02-15,URBANA,035_ZW Parque Colseguros,10,MR76,83,7723,"0,7",False,Laboral,Jueves,342.729,-7.652.952
+2024-02-16,URBANA,035_ZW Parque Colseguros,10,MR76,81,46978,"4,5",False,Laboral,Viernes,342.729,-7.652.952
+2024-02-16,URBANA,035_ZW Parque Colseguros,10,MR76,73,9284,"0,9",False,Laboral,Viernes,342.729,-7.652.952
+2024-02-17,URBANA,035_ZW Parque Colseguros,10,MR76,94,136096,"12,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-17,URBANA,035_ZW Parque Colseguros,10,MR76,91,8959,"0,8",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-18,URBANA,035_ZW Parque Colseguros,10,MR76,67,319822,"24,7",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-18,URBANA,035_ZW Parque Colseguros,10,MR76,71,17990,"1,4",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-19,URBANA,035_ZW Parque Colseguros,10,MR76,74,7198759,"491,2",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-19,URBANA,035_ZW Parque Colseguros,10,MR76,73,1594250,"108,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-20,URBANA,035_ZW Parque Colseguros,10,MR76,72,5864052,"480,2",False,Laboral,Martes,342.729,-7.652.952
+2024-02-20,URBANA,035_ZW Parque Colseguros,10,MR76,73,1208286,99,False,Laboral,Martes,342.729,-7.652.952
+2024-02-21,URBANA,035_ZW Parque Colseguros,10,MR76,76,8186591,"709,6",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-21,URBANA,035_ZW Parque Colseguros,10,MR76,85,2710368,"234,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-22,URBANA,035_ZW Parque Colseguros,10,MR76,84,6490181,424,False,Laboral,Jueves,342.729,-7.652.952
+2024-02-22,URBANA,035_ZW Parque Colseguros,10,MR76,83,1772230,"115,8",False,Laboral,Jueves,342.729,-7.652.952
+2024-02-23,URBANA,035_ZW Parque Colseguros,10,MR76,86,3988501,"280,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-02-23,URBANA,035_ZW Parque Colseguros,10,MR76,77,3101489,218,False,Laboral,Viernes,342.729,-7.652.952
+2024-02-24,URBANA,035_ZW Parque Colseguros,10,MR76,106,2604293,"207,4",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-24,URBANA,035_ZW Parque Colseguros,10,MR76,78,4054954,"322,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-02-25,URBANA,035_ZW Parque Colseguros,10,MR76,99,3987696,227,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-25,URBANA,035_ZW Parque Colseguros,10,MR76,88,4484671,"255,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-02-26,URBANA,035_ZW Parque Colseguros,10,MR76,82,10822047,"972,1",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-26,URBANA,035_ZW Parque Colseguros,10,MR76,77,2984099,"268,1",False,Laboral,Lunes,342.729,-7.652.952
+2024-02-27,URBANA,035_ZW Parque Colseguros,10,MR76,84,6831763,588,False,Laboral,Martes,342.729,-7.652.952
+2024-02-27,URBANA,035_ZW Parque Colseguros,10,MR76,96,2111102,"181,7",False,Laboral,Martes,342.729,-7.652.952
+2024-02-28,URBANA,035_ZW Parque Colseguros,10,MR76,91,3016287,"175,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-28,URBANA,035_ZW Parque Colseguros,10,MR76,85,1048992,"61,2",False,Laboral,Miércoles,342.729,-7.652.952
+2024-02-29,URBANA,035_ZW Parque Colseguros,10,MR76,84,3404221,430,False,Laboral,Jueves,342.729,-7.652.952
+2024-02-29,URBANA,035_ZW Parque Colseguros,10,MR76,78,2495184,"315,1",False,Laboral,Jueves,342.729,-7.652.952
+2024-03-01,URBANA,035_ZW Parque Colseguros,10,MR76,85,594529,"49,6",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-01,URBANA,035_ZW Parque Colseguros,10,MR76,82,237074,"19,8",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-02,URBANA,035_ZW Parque Colseguros,10,MR76,64,57466,"5,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-02,URBANA,035_ZW Parque Colseguros,10,MR76,67,286220,"27,8",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-03,URBANA,035_ZW Parque Colseguros,10,MR76,70,245687,"17,6",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-03-03,URBANA,035_ZW Parque Colseguros,10,MR76,63,239101,"17,2",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-03-04,URBANA,035_ZW Parque Colseguros,10,MR76,71,365231,"25,7",False,Laboral,Lunes,342.729,-7.652.952
+2024-03-04,URBANA,035_ZW Parque Colseguros,10,MR76,77,153432,"10,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-03-05,URBANA,035_ZW Parque Colseguros,10,MR76,72,77202,"5,6",False,Laboral,Martes,342.729,-7.652.952
+2024-03-05,URBANA,035_ZW Parque Colseguros,10,MR76,68,58669,"4,3",False,Laboral,Martes,342.729,-7.652.952
+2024-03-06,URBANA,035_ZW Parque Colseguros,10,MR76,81,265529,"21,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-06,URBANA,035_ZW Parque Colseguros,10,MR76,88,215055,"17,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-07,URBANA,035_ZW Parque Colseguros,10,MR76,98,287644,"26,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-03-07,URBANA,035_ZW Parque Colseguros,10,MR76,97,65277,"6,1",False,Laboral,Jueves,342.729,-7.652.952
+2024-03-08,URBANA,035_ZW Parque Colseguros,10,MR76,94,123397,"11,5",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-08,URBANA,035_ZW Parque Colseguros,10,MR76,93,15344,"1,4",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-09,URBANA,035_ZW Parque Colseguros,10,MR76,96,270073,"27,3",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-09,URBANA,035_ZW Parque Colseguros,10,MR76,86,8264,"0,8",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-10,URBANA,035_ZW Parque Colseguros,10,MR76,87,382179,40,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-03-10,URBANA,035_ZW Parque Colseguros,10,MR76,88,10439,"1,1",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-03-11,URBANA,035_ZW Parque Colseguros,10,MR76,82,318014,"33,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-03-11,URBANA,035_ZW Parque Colseguros,10,MR76,68,30571,"3,3",False,Laboral,Lunes,342.729,-7.652.952
+2024-03-12,URBANA,035_ZW Parque Colseguros,10,MR76,78,2529891,"286,9",False,Laboral,Martes,342.729,-7.652.952
+2024-03-12,URBANA,035_ZW Parque Colseguros,10,MR76,80,1175763,"133,3",False,Laboral,Martes,342.729,-7.652.952
+2024-03-13,URBANA,035_ZW Parque Colseguros,10,MR76,82,832258,"112,4",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-13,URBANA,035_ZW Parque Colseguros,10,MR76,56,3389860,"457,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-14,URBANA,035_ZW Parque Colseguros,10,MR76,101,1593634,"164,3",False,Laboral,Jueves,342.729,-7.652.952
+2024-03-14,URBANA,035_ZW Parque Colseguros,10,MR76,78,3311181,"341,3",False,Laboral,Jueves,342.729,-7.652.952
+2024-03-15,URBANA,035_ZW Parque Colseguros,10,MR76,103,2469020,"189,5",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-15,URBANA,035_ZW Parque Colseguros,10,MR76,89,3510479,"269,4",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-16,URBANA,035_ZW Parque Colseguros,10,MR76,97,142309,"12,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-16,URBANA,035_ZW Parque Colseguros,10,MR76,88,191641,"16,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-17,URBANA,035_ZW Parque Colseguros,10,MR76,81,90948,7,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-03-17,URBANA,035_ZW Parque Colseguros,10,MR76,78,22525,"1,7",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-03-18,URBANA,035_ZW Parque Colseguros,10,MR76,70,70076,"5,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-03-18,URBANA,035_ZW Parque Colseguros,10,MR76,73,9001,"0,7",False,Laboral,Lunes,342.729,-7.652.952
+2024-03-19,URBANA,035_ZW Parque Colseguros,10,MR76,74,109103,"14,5",False,Laboral,Martes,342.729,-7.652.952
+2024-03-19,URBANA,035_ZW Parque Colseguros,10,MR76,85,77893,"10,3",False,Laboral,Martes,342.729,-7.652.952
+2024-03-20,URBANA,035_ZW Parque Colseguros,10,MR76,66,87512,"13,4",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-20,URBANA,035_ZW Parque Colseguros,10,MR76,60,5531,"0,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-21,URBANA,035_ZW Parque Colseguros,10,MR76,83,121974,14,False,Laboral,Jueves,342.729,-7.652.952
+2024-03-21,URBANA,035_ZW Parque Colseguros,10,MR76,71,4852,"0,6",False,Laboral,Jueves,342.729,-7.652.952
+2024-03-22,URBANA,035_ZW Parque Colseguros,10,MR76,62,772849,"79,2",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-22,URBANA,035_ZW Parque Colseguros,10,MR76,70,674191,"69,1",False,Laboral,Viernes,342.729,-7.652.952
+2024-03-23,URBANA,035_ZW Parque Colseguros,10,MR76,54,3154580,"404,3",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-23,URBANA,035_ZW Parque Colseguros,10,MR76,71,555357,"71,2",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-24,URBANA,035_ZW Parque Colseguros,10,MR76,76,1990993,"218,9",True,Festivo,Domingo,342.729,-7.652.952
+2024-03-24,URBANA,035_ZW Parque Colseguros,10,MR76,80,1327913,146,True,Festivo,Domingo,342.729,-7.652.952
+2024-03-25,URBANA,035_ZW Parque Colseguros,10,MR76,52,977021,"139,2",True,Festivo,Lunes,342.729,-7.652.952
+2024-03-25,URBANA,035_ZW Parque Colseguros,10,MR76,65,77021,11,True,Festivo,Lunes,342.729,-7.652.952
+2024-03-26,URBANA,035_ZW Parque Colseguros,10,MR76,59,2119678,"272,2",False,Laboral,Martes,342.729,-7.652.952
+2024-03-26,URBANA,035_ZW Parque Colseguros,10,MR76,65,850357,"109,2",False,Laboral,Martes,342.729,-7.652.952
+2024-03-27,URBANA,035_ZW Parque Colseguros,10,MR76,62,3351334,"414,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-27,URBANA,035_ZW Parque Colseguros,10,MR76,71,234674,"29,1",False,Laboral,Miércoles,342.729,-7.652.952
+2024-03-28,URBANA,035_ZW Parque Colseguros,10,MR76,65,234697,"36,8",True,Festivo,Jueves,342.729,-7.652.952
+2024-03-28,URBANA,035_ZW Parque Colseguros,10,MR76,63,11475,"1,8",True,Festivo,Jueves,342.729,-7.652.952
+2024-03-29,URBANA,035_ZW Parque Colseguros,10,MR76,64,168611,17,True,Festivo,Viernes,342.729,-7.652.952
+2024-03-29,URBANA,035_ZW Parque Colseguros,10,MR76,54,7057,"0,7",True,Festivo,Viernes,342.729,-7.652.952
+2024-03-30,URBANA,035_ZW Parque Colseguros,10,MR76,77,168505,27,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-30,URBANA,035_ZW Parque Colseguros,10,MR76,64,9616,"1,5",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-03-31,URBANA,035_ZW Parque Colseguros,10,MR76,72,63776,"8,4",True,Festivo,Domingo,342.729,-7.652.952
+2024-03-31,URBANA,035_ZW Parque Colseguros,10,MR76,68,10722,"1,4",True,Festivo,Domingo,342.729,-7.652.952
+2024-04-01,URBANA,035_ZW Parque Colseguros,10,MR76,76,169116,"16,1",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-01,URBANA,035_ZW Parque Colseguros,10,MR76,67,71107,"6,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-02,URBANA,035_ZW Parque Colseguros,10,MR76,64,145560,"20,7",False,Laboral,Martes,342.729,-7.652.952
+2024-04-02,URBANA,035_ZW Parque Colseguros,10,MR76,59,9677,"1,4",False,Laboral,Martes,342.729,-7.652.952
+2024-04-03,URBANA,035_ZW Parque Colseguros,10,MR76,70,147952,"16,4",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-03,URBANA,035_ZW Parque Colseguros,10,MR76,59,3937,"0,4",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-04,URBANA,035_ZW Parque Colseguros,10,MR76,87,175553,"15,3",False,Laboral,Jueves,342.729,-7.652.952
+2024-04-04,URBANA,035_ZW Parque Colseguros,10,MR76,62,10965,1,False,Laboral,Jueves,342.729,-7.652.952
+2024-04-05,URBANA,035_ZW Parque Colseguros,10,MR76,74,32603,"2,9",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-05,URBANA,035_ZW Parque Colseguros,10,MR76,63,5507,"0,5",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-06,URBANA,035_ZW Parque Colseguros,10,MR76,76,59386,"4,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-06,URBANA,035_ZW Parque Colseguros,10,MR76,76,127952,"10,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-07,URBANA,035_ZW Parque Colseguros,10,MR76,65,51747,"4,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-07,URBANA,035_ZW Parque Colseguros,10,MR76,63,6195,"0,5",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-08,URBANA,035_ZW Parque Colseguros,10,MR76,86,96499,"13,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-08,URBANA,035_ZW Parque Colseguros,10,MR76,72,9765,"1,4",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-09,URBANA,035_ZW Parque Colseguros,10,MR76,80,142889,"18,7",False,Laboral,Martes,342.729,-7.652.952
+2024-04-09,URBANA,035_ZW Parque Colseguros,10,MR76,78,6653,"0,9",False,Laboral,Martes,342.729,-7.652.952
+2024-04-10,URBANA,035_ZW Parque Colseguros,10,MR76,66,526717,"123,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-10,URBANA,035_ZW Parque Colseguros,10,MR76,74,3499380,"823,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-11,URBANA,035_ZW Parque Colseguros,10,MR76,68,1991719,"450,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-04-11,URBANA,035_ZW Parque Colseguros,10,MR76,66,1340677,"303,5",False,Laboral,Jueves,342.729,-7.652.952
+2024-04-12,URBANA,035_ZW Parque Colseguros,10,MR76,76,3513272,"517,4",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-12,URBANA,035_ZW Parque Colseguros,10,MR76,75,3232765,"476,1",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-13,URBANA,035_ZW Parque Colseguros,10,MR76,77,4167457,"489,8",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-13,URBANA,035_ZW Parque Colseguros,10,MR76,64,3920658,"460,8",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-14,URBANA,035_ZW Parque Colseguros,10,MR76,64,597996,"86,7",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-14,URBANA,035_ZW Parque Colseguros,10,MR76,64,100200,"14,5",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-15,URBANA,035_ZW Parque Colseguros,10,MR76,70,118979,"29,7",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-15,URBANA,035_ZW Parque Colseguros,10,MR76,71,7283,"1,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-16,URBANA,035_ZW Parque Colseguros,10,MR76,77,134097,"31,6",False,Laboral,Martes,342.729,-7.652.952
+2024-04-16,URBANA,035_ZW Parque Colseguros,10,MR76,75,6245,"1,5",False,Laboral,Martes,342.729,-7.652.952
+2024-04-17,URBANA,035_ZW Parque Colseguros,10,MR76,74,88783,"23,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-17,URBANA,035_ZW Parque Colseguros,10,MR76,66,8116,"2,2",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-18,URBANA,035_ZW Parque Colseguros,10,MR76,63,120593,"41,4",False,Laboral,Jueves,342.729,-7.652.952
+2024-04-18,URBANA,035_ZW Parque Colseguros,10,MR76,62,14167,"4,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-04-19,URBANA,035_ZW Parque Colseguros,10,MR76,52,58266,"14,4",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-19,URBANA,035_ZW Parque Colseguros,10,MR76,50,15786,"3,9",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-20,URBANA,035_ZW Parque Colseguros,10,MR76,72,156985,"20,1",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-20,URBANA,035_ZW Parque Colseguros,10,MR76,85,10898,"1,4",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-21,URBANA,035_ZW Parque Colseguros,10,MR76,75,114886,"18,6",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-21,URBANA,035_ZW Parque Colseguros,10,MR76,65,13701,"2,2",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-22,URBANA,035_ZW Parque Colseguros,10,MR76,55,83219,"17,9",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-22,URBANA,035_ZW Parque Colseguros,10,MR76,52,10290,"2,2",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-23,URBANA,035_ZW Parque Colseguros,10,MR76,60,1490516,"81,2",False,Laboral,Martes,342.729,-7.652.952
+2024-04-23,URBANA,035_ZW Parque Colseguros,10,MR76,46,726141,"39,6",False,Laboral,Martes,342.729,-7.652.952
+2024-04-24,URBANA,035_ZW Parque Colseguros,10,MR76,57,554655,"30,2",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-24,URBANA,035_ZW Parque Colseguros,10,MR76,55,2141790,"116,6",False,Laboral,Miércoles,342.729,-7.652.952
+2024-04-25,URBANA,035_ZW Parque Colseguros,10,MR76,64,973401,82,False,Laboral,Jueves,342.729,-7.652.952
+2024-04-25,URBANA,035_ZW Parque Colseguros,10,MR76,59,758148,"63,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-04-26,URBANA,035_ZW Parque Colseguros,10,MR76,64,4825748,"481,6",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-26,URBANA,035_ZW Parque Colseguros,10,MR76,58,2854072,"284,8",False,Laboral,Viernes,342.729,-7.652.952
+2024-04-27,URBANA,035_ZW Parque Colseguros,10,MR76,70,13036134,"1068,5",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-27,URBANA,035_ZW Parque Colseguros,10,MR76,53,1898228,"155,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-04-28,URBANA,035_ZW Parque Colseguros,10,MR76,46,3155259,"427,1",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-28,URBANA,035_ZW Parque Colseguros,10,MR76,31,585524,"79,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-04-29,URBANA,035_ZW Parque Colseguros,10,MR76,70,2593605,"323,9",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-29,URBANA,035_ZW Parque Colseguros,10,MR76,53,1503891,"187,8",False,Laboral,Lunes,342.729,-7.652.952
+2024-04-30,URBANA,035_ZW Parque Colseguros,10,MR76,74,2076174,"329,6",False,Laboral,Martes,342.729,-7.652.952
+2024-04-30,URBANA,035_ZW Parque Colseguros,10,MR76,57,4032594,"640,1",False,Laboral,Martes,342.729,-7.652.952
+2024-05-01,URBANA,035_ZW Parque Colseguros,10,MR76,76,1286946,"244,7",True,Festivo,Miércoles,342.729,-7.652.952
+2024-05-01,URBANA,035_ZW Parque Colseguros,10,MR76,62,6828086,"1298,5",True,Festivo,Miércoles,342.729,-7.652.952
+2024-05-02,URBANA,035_ZW Parque Colseguros,10,MR76,61,2577818,"503,7",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-02,URBANA,035_ZW Parque Colseguros,10,MR76,63,3736310,730,False,Laboral,Jueves,342.729,-7.652.952
+2024-05-03,URBANA,035_ZW Parque Colseguros,10,MR76,57,3277530,"715,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-03,URBANA,035_ZW Parque Colseguros,10,MR76,46,2294140,"500,7",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-04,URBANA,035_ZW Parque Colseguros,10,MR76,67,7595173,"1052,1",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-04,URBANA,035_ZW Parque Colseguros,10,MR76,63,3736865,"517,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-05,URBANA,035_ZW Parque Colseguros,10,MR76,75,3263633,"529,4",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-05,URBANA,035_ZW Parque Colseguros,10,MR76,74,988028,"160,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-06,URBANA,035_ZW Parque Colseguros,10,MR76,59,115158,"24,1",False,Laboral,Lunes,342.729,-7.652.952
+2024-05-06,URBANA,035_ZW Parque Colseguros,10,MR76,62,61498,"12,9",False,Laboral,Lunes,342.729,-7.652.952
+2024-05-07,URBANA,035_ZW Parque Colseguros,10,MR76,83,125853,"20,8",False,Laboral,Martes,342.729,-7.652.952
+2024-05-07,URBANA,035_ZW Parque Colseguros,10,MR76,71,19920,"3,3",False,Laboral,Martes,342.729,-7.652.952
+2024-05-08,URBANA,035_ZW Parque Colseguros,10,MR76,62,81327,"10,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-08,URBANA,035_ZW Parque Colseguros,10,MR76,63,14744,"1,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-09,URBANA,035_ZW Parque Colseguros,10,MR76,59,7029,"0,8",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-09,URBANA,035_ZW Parque Colseguros,10,MR76,54,7543,"0,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-10,URBANA,035_ZW Parque Colseguros,10,MR76,67,186401,"23,6",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-10,URBANA,035_ZW Parque Colseguros,10,MR76,59,8295,"1,1",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-11,URBANA,035_ZW Parque Colseguros,10,MR76,78,106994,"14,4",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-11,URBANA,035_ZW Parque Colseguros,10,MR76,74,71278,"9,6",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-12,URBANA,035_ZW Parque Colseguros,10,MR76,71,40955,"9,9",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-12,URBANA,035_ZW Parque Colseguros,10,MR76,70,20719,5,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-13,URBANA,035_ZW Parque Colseguros,10,MR76,81,167124,"29,9",True,Festivo,Lunes,342.729,-7.652.952
+2024-05-13,URBANA,035_ZW Parque Colseguros,10,MR76,61,12151,"2,2",True,Festivo,Lunes,342.729,-7.652.952
+2024-05-14,URBANA,035_ZW Parque Colseguros,10,MR76,69,138880,"64,1",False,Laboral,Martes,342.729,-7.652.952
+2024-05-14,URBANA,035_ZW Parque Colseguros,10,MR76,54,23470,"10,8",False,Laboral,Martes,342.729,-7.652.952
+2024-05-15,URBANA,035_ZW Parque Colseguros,10,MR76,65,260998,"42,2",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-15,URBANA,035_ZW Parque Colseguros,10,MR76,56,5182,"0,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-16,URBANA,035_ZW Parque Colseguros,10,MR76,78,2078467,"254,7",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-16,URBANA,035_ZW Parque Colseguros,10,MR76,63,1454044,"178,2",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-17,URBANA,035_ZW Parque Colseguros,10,MR76,81,4404493,"423,6",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-17,URBANA,035_ZW Parque Colseguros,10,MR76,75,2263366,"217,7",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-18,URBANA,035_ZW Parque Colseguros,10,MR76,78,2414802,220,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-18,URBANA,035_ZW Parque Colseguros,10,MR76,76,2757748,"251,2",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-19,URBANA,035_ZW Parque Colseguros,10,MR76,82,1552613,"132,8",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-19,URBANA,035_ZW Parque Colseguros,10,MR76,68,5390548,461,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-20,URBANA,035_ZW Parque Colseguros,10,MR76,74,316604,45,False,Laboral,Lunes,342.729,-7.652.952
+2024-05-20,URBANA,035_ZW Parque Colseguros,10,MR76,63,16083,"2,3",False,Laboral,Lunes,342.729,-7.652.952
+2024-05-21,URBANA,035_ZW Parque Colseguros,10,MR76,65,198093,"25,5",False,Laboral,Martes,342.729,-7.652.952
+2024-05-21,URBANA,035_ZW Parque Colseguros,10,MR76,66,22766,"2,9",False,Laboral,Martes,342.729,-7.652.952
+2024-05-22,URBANA,035_ZW Parque Colseguros,10,MR76,64,210946,"81,9",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-22,URBANA,035_ZW Parque Colseguros,10,MR76,56,13570,"5,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-23,URBANA,035_ZW Parque Colseguros,10,MR76,68,97536,"18,4",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-23,URBANA,035_ZW Parque Colseguros,10,MR76,62,20754,"3,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-24,URBANA,035_ZW Parque Colseguros,10,MR76,83,128726,"27,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-24,URBANA,035_ZW Parque Colseguros,10,MR76,71,204517,"43,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-25,URBANA,035_ZW Parque Colseguros,10,MR76,64,73992,"10,4",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-25,URBANA,035_ZW Parque Colseguros,10,MR76,55,21298,3,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-05-26,URBANA,035_ZW Parque Colseguros,10,MR76,70,160351,"23,2",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-26,URBANA,035_ZW Parque Colseguros,10,MR76,53,13676,2,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-05-27,URBANA,035_ZW Parque Colseguros,10,MR76,71,69207,"8,1",False,Laboral,Lunes,342.729,-7.652.952
+2024-05-27,URBANA,035_ZW Parque Colseguros,10,MR76,62,11392,"1,3",False,Laboral,Lunes,342.729,-7.652.952
+2024-05-28,URBANA,035_ZW Parque Colseguros,10,MR76,77,113951,"15,3",False,Laboral,Martes,342.729,-7.652.952
+2024-05-28,URBANA,035_ZW Parque Colseguros,10,MR76,69,8276,"1,1",False,Laboral,Martes,342.729,-7.652.952
+2024-05-29,URBANA,035_ZW Parque Colseguros,10,MR76,40,54251,"10,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-29,URBANA,035_ZW Parque Colseguros,10,MR76,37,36461,"7,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-05-30,URBANA,035_ZW Parque Colseguros,10,MR76,80,192992,"16,1",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-30,URBANA,035_ZW Parque Colseguros,10,MR76,60,6971,"0,6",False,Laboral,Jueves,342.729,-7.652.952
+2024-05-31,URBANA,035_ZW Parque Colseguros,10,MR76,90,350418,"37,7",False,Laboral,Viernes,342.729,-7.652.952
+2024-05-31,URBANA,035_ZW Parque Colseguros,10,MR76,88,168003,"18,1",False,Laboral,Viernes,342.729,-7.652.952
+2024-06-01,URBANA,035_ZW Parque Colseguros,10,MR76,68,139955,14,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-01,URBANA,035_ZW Parque Colseguros,10,MR76,53,33662,"3,4",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-02,URBANA,035_ZW Parque Colseguros,10,MR76,95,123482,"12,6",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-02,URBANA,035_ZW Parque Colseguros,10,MR76,67,8653,"0,9",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-03,URBANA,035_ZW Parque Colseguros,10,MR76,76,128734,"18,6",True,Festivo,Lunes,342.729,-7.652.952
+2024-06-03,URBANA,035_ZW Parque Colseguros,10,MR76,67,12487,"1,8",True,Festivo,Lunes,342.729,-7.652.952
+2024-06-04,URBANA,035_ZW Parque Colseguros,10,MR76,67,211200,"46,5",False,Laboral,Martes,342.729,-7.652.952
+2024-06-04,URBANA,035_ZW Parque Colseguros,10,MR76,61,9038,2,False,Laboral,Martes,342.729,-7.652.952
+2024-06-05,URBANA,035_ZW Parque Colseguros,10,MR76,59,1057814,"370,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-05,URBANA,035_ZW Parque Colseguros,10,MR76,51,2211701,"774,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-06,URBANA,035_ZW Parque Colseguros,10,MR76,71,7228870,"1184,3",False,Laboral,Jueves,342.729,-7.652.952
+2024-06-06,URBANA,035_ZW Parque Colseguros,10,MR76,65,393384,"64,4",False,Laboral,Jueves,342.729,-7.652.952
+2024-06-07,URBANA,035_ZW Parque Colseguros,10,MR76,70,6733938,"1400,2",False,Laboral,Viernes,342.729,-7.652.952
+2024-06-07,URBANA,035_ZW Parque Colseguros,10,MR76,73,965345,"200,7",False,Laboral,Viernes,342.729,-7.652.952
+2024-06-08,URBANA,035_ZW Parque Colseguros,10,MR76,59,3938608,1250,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-08,URBANA,035_ZW Parque Colseguros,10,MR76,67,81479,"25,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-09,URBANA,035_ZW Parque Colseguros,10,MR76,68,132493,"45,5",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-09,URBANA,035_ZW Parque Colseguros,10,MR76,55,11659,4,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-10,URBANA,035_ZW Parque Colseguros,10,MR76,64,104357,"19,1",True,Festivo,Lunes,342.729,-7.652.952
+2024-06-10,URBANA,035_ZW Parque Colseguros,10,MR76,53,8272,"1,5",True,Festivo,Lunes,342.729,-7.652.952
+2024-06-11,URBANA,035_ZW Parque Colseguros,10,MR76,85,67363,"10,8",False,Laboral,Martes,342.729,-7.652.952
+2024-06-11,URBANA,035_ZW Parque Colseguros,10,MR76,92,15386,"2,5",False,Laboral,Martes,342.729,-7.652.952
+2024-06-12,URBANA,035_ZW Parque Colseguros,10,MR76,68,153010,"20,6",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-12,URBANA,035_ZW Parque Colseguros,10,MR76,71,5848,"0,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-13,URBANA,035_ZW Parque Colseguros,10,MR76,95,207877,4047144300,False,Laboral,Jueves,342.729,-7.652.952
+2024-06-13,URBANA,035_ZW Parque Colseguros,10,MR76,74,25297,492505700,False,Laboral,Jueves,342.729,-7.652.952
+2024-06-14,URBANA,035_ZW Parque Colseguros,10,MR76,91,183522,5515941400,False,Laboral,Viernes,342.729,-7.652.952
+2024-06-14,URBANA,035_ZW Parque Colseguros,10,MR76,67,26353,792066400,False,Laboral,Viernes,342.729,-7.652.952
+2024-06-15,URBANA,035_ZW Parque Colseguros,10,MR76,48,3014394,54079007500,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-15,URBANA,035_ZW Parque Colseguros,10,MR76,44,1710610,30688785500,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-16,URBANA,035_ZW Parque Colseguros,10,MR76,59,1395695,25027467200,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-16,URBANA,035_ZW Parque Colseguros,10,MR76,52,736522,1320724100,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-17,URBANA,035_ZW Parque Colseguros,10,MR76,66,2165442,"346,5",False,Laboral,Lunes,342.729,-7.652.952
+2024-06-17,URBANA,035_ZW Parque Colseguros,10,MR76,63,953367,"152,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-06-18,URBANA,035_ZW Parque Colseguros,10,MR76,66,6192138,"978,1",False,Laboral,Martes,342.729,-7.652.952
+2024-06-18,URBANA,035_ZW Parque Colseguros,10,MR76,55,1081356,"170,8",False,Laboral,Martes,342.729,-7.652.952
+2024-06-19,URBANA,035_ZW Parque Colseguros,10,MR76,61,2084072,"295,6",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-19,URBANA,035_ZW Parque Colseguros,10,MR76,43,2183941,"309,8",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-20,URBANA,035_ZW Parque Colseguros,10,MR76,114,1588595,318,False,Laboral,Jueves,342.729,-7.652.952
+2024-06-20,URBANA,035_ZW Parque Colseguros,10,MR76,104,1573302,"314,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-06-21,URBANA,035_ZW Parque Colseguros,10,MR76,103,1394632,"239,6",False,Laboral,Viernes,342.729,-7.652.952
+2024-06-21,URBANA,035_ZW Parque Colseguros,10,MR76,101,149658,"25,7",False,Laboral,Viernes,342.729,-7.652.952
+2024-06-22,URBANA,035_ZW Parque Colseguros,10,MR76,99,101437,"19,2",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-22,URBANA,035_ZW Parque Colseguros,10,MR76,68,5945,"1,1",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-23,URBANA,035_ZW Parque Colseguros,10,MR76,89,124360,"48,8",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-23,URBANA,035_ZW Parque Colseguros,10,MR76,91,25640,"10,1",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-24,URBANA,035_ZW Parque Colseguros,10,MR76,78,337095,"64,6",False,Laboral,Lunes,342.729,-7.652.952
+2024-06-24,URBANA,035_ZW Parque Colseguros,10,MR76,69,8671,"1,7",False,Laboral,Lunes,342.729,-7.652.952
+2024-06-25,URBANA,035_ZW Parque Colseguros,10,MR76,97,293877,"72,8",False,Laboral,Martes,342.729,-7.652.952
+2024-06-25,URBANA,035_ZW Parque Colseguros,10,MR76,87,9152,"2,3",False,Laboral,Martes,342.729,-7.652.952
+2024-06-26,URBANA,035_ZW Parque Colseguros,10,MR76,74,183336,"47,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-26,URBANA,035_ZW Parque Colseguros,10,MR76,65,5058,"1,3",False,Laboral,Miércoles,342.729,-7.652.952
+2024-06-27,URBANA,035_ZW Parque Colseguros,10,MR76,74,191859,"57,1",False,Laboral,Jueves,342.729,-7.652.952
+2024-06-27,URBANA,035_ZW Parque Colseguros,10,MR76,77,7549,"2,2",False,Laboral,Jueves,342.729,-7.652.952
+2024-06-28,URBANA,035_ZW Parque Colseguros,10,MR76,99,173651,"29,9",False,Laboral,Viernes,342.729,-7.652.952
+2024-06-28,URBANA,035_ZW Parque Colseguros,10,MR76,74,9964,"1,7",False,Laboral,Viernes,342.729,-7.652.952
+2024-06-29,URBANA,035_ZW Parque Colseguros,10,MR76,82,76444,13,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-29,URBANA,035_ZW Parque Colseguros,10,MR76,84,16889,"2,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-06-30,URBANA,035_ZW Parque Colseguros,10,MR76,70,174253,"37,4",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-06-30,URBANA,035_ZW Parque Colseguros,10,MR76,62,5229,"1,1",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-01,URBANA,035_ZW Parque Colseguros,10,MR76,88,623534,"86,62",True,Festivo,Lunes,342.729,-7.652.952
+2024-07-01,URBANA,035_ZW Parque Colseguros,10,MR76,59,32476,"4,51",True,Festivo,Lunes,342.729,-7.652.952
+2024-07-02,URBANA,035_ZW Parque Colseguros,10,MR76,90,213041,"22,95",False,Laboral,Martes,342.729,-7.652.952
+2024-07-02,URBANA,035_ZW Parque Colseguros,10,MR76,77,9372,"1,01",False,Laboral,Martes,342.729,-7.652.952
+2024-07-03,URBANA,035_ZW Parque Colseguros,10,MR76,83,138777,"16,51",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-03,URBANA,035_ZW Parque Colseguros,10,MR76,76,11962,"1,42",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-04,URBANA,035_ZW Parque Colseguros,10,MR76,84,171564,"21,62",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-04,URBANA,035_ZW Parque Colseguros,10,MR76,78,11291,"1,42",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-05,URBANA,035_ZW Parque Colseguros,10,MR76,61,181642,"21,32",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-05,URBANA,035_ZW Parque Colseguros,10,MR76,51,22162,"2,6",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-06,URBANA,035_ZW Parque Colseguros,10,MR76,73,863314,"102,56",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-07-06,URBANA,035_ZW Parque Colseguros,10,MR76,67,408896,"48,57",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-07-07,URBANA,035_ZW Parque Colseguros,10,MR76,90,1539926,"174,55",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-07,URBANA,035_ZW Parque Colseguros,10,MR76,85,244534,"27,72",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-08,URBANA,035_ZW Parque Colseguros,10,MR76,71,1701780,"306,3",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-08,URBANA,035_ZW Parque Colseguros,10,MR76,74,1852120,"333,36",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-09,URBANA,035_ZW Parque Colseguros,10,MR76,74,3264874,"562,22",False,Laboral,Martes,342.729,-7.652.952
+2024-07-09,URBANA,035_ZW Parque Colseguros,10,MR76,78,2521029,"434,13",False,Laboral,Martes,342.729,-7.652.952
+2024-07-10,URBANA,035_ZW Parque Colseguros,10,MR76,83,2169515,"314,17",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-10,URBANA,035_ZW Parque Colseguros,10,MR76,84,234142,"33,91",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-11,URBANA,035_ZW Parque Colseguros,10,MR76,103,363994,"49,33",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-11,URBANA,035_ZW Parque Colseguros,10,MR76,94,23746,"3,22",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-12,URBANA,035_ZW Parque Colseguros,10,MR76,97,318237,"50,18",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-12,URBANA,035_ZW Parque Colseguros,10,MR76,93,16095,"2,54",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-13,URBANA,035_ZW Parque Colseguros,10,MR76,91,1640672,"232,88",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-07-13,URBANA,035_ZW Parque Colseguros,10,MR76,89,525033,"74,53",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-07-14,URBANA,035_ZW Parque Colseguros,10,MR76,63,678936,"106,77",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-14,URBANA,035_ZW Parque Colseguros,10,MR76,48,5392,"0,85",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-15,URBANA,035_ZW Parque Colseguros,10,MR76,84,3517703,"629,3",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-15,URBANA,035_ZW Parque Colseguros,10,MR76,78,640381,"114,56",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-16,URBANA,035_ZW Parque Colseguros,10,MR76,77,2866426,"456,3",False,Laboral,Martes,342.729,-7.652.952
+2024-07-16,URBANA,035_ZW Parque Colseguros,10,MR76,75,337405,"53,71",False,Laboral,Martes,342.729,-7.652.952
+2024-07-17,URBANA,035_ZW Parque Colseguros,10,MR76,86,193949,"42,86",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-17,URBANA,035_ZW Parque Colseguros,10,MR76,93,557260,"123,15",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-18,URBANA,035_ZW Parque Colseguros,10,MR76,104,233522,"39,19",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-18,URBANA,035_ZW Parque Colseguros,10,MR76,96,21091,"3,54",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-19,URBANA,035_ZW Parque Colseguros,10,MR76,96,361992,"50,44",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-19,URBANA,035_ZW Parque Colseguros,10,MR76,87,87026,"12,13",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-20,URBANA,035_ZW Parque Colseguros,10,MR76,98,179225,"23,01",True,Festivo,Sábado,342.729,-7.652.952
+2024-07-20,URBANA,035_ZW Parque Colseguros,10,MR76,92,84955,"10,91",True,Festivo,Sábado,342.729,-7.652.952
+2024-07-21,URBANA,035_ZW Parque Colseguros,10,MR76,89,441273,"67,41",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-21,URBANA,035_ZW Parque Colseguros,10,MR76,90,45200,"6,9",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-22,URBANA,035_ZW Parque Colseguros,10,MR76,73,120756,"17,37",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-22,URBANA,035_ZW Parque Colseguros,10,MR76,75,37537,"5,4",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-23,URBANA,035_ZW Parque Colseguros,10,MR76,103,287273,"41,47",False,Laboral,Martes,342.729,-7.652.952
+2024-07-23,URBANA,035_ZW Parque Colseguros,10,MR76,89,72307,"10,44",False,Laboral,Martes,342.729,-7.652.952
+2024-07-24,URBANA,035_ZW Parque Colseguros,10,MR76,94,476074,"75,32",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-24,URBANA,035_ZW Parque Colseguros,10,MR76,101,338585,"53,57",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-25,URBANA,035_ZW Parque Colseguros,10,MR76,103,222487,"35,19",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-25,URBANA,035_ZW Parque Colseguros,10,MR76,93,33876,"5,36",False,Laboral,Jueves,342.729,-7.652.952
+2024-07-26,URBANA,035_ZW Parque Colseguros,10,MR76,93,307550,"40,51",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-26,URBANA,035_ZW Parque Colseguros,10,MR76,89,12537,"1,65",False,Laboral,Viernes,342.729,-7.652.952
+2024-07-27,URBANA,035_ZW Parque Colseguros,10,MR76,104,245500,"41,99",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-07-27,URBANA,035_ZW Parque Colseguros,10,MR76,81,43105,"7,37",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-07-28,URBANA,035_ZW Parque Colseguros,10,MR76,91,269526,"57,03",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-28,URBANA,035_ZW Parque Colseguros,10,MR76,92,29572,"6,26",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-07-29,URBANA,035_ZW Parque Colseguros,10,MR76,99,367012,"58,85",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-29,URBANA,035_ZW Parque Colseguros,10,MR76,87,9594,"1,54",False,Laboral,Lunes,342.729,-7.652.952
+2024-07-30,URBANA,035_ZW Parque Colseguros,10,MR76,114,356547,"52,11",False,Laboral,Martes,342.729,-7.652.952
+2024-07-30,URBANA,035_ZW Parque Colseguros,10,MR76,92,79781,"11,66",False,Laboral,Martes,342.729,-7.652.952
+2024-07-31,URBANA,035_ZW Parque Colseguros,10,MR76,101,110417,"18,34",False,Laboral,Miércoles,342.729,-7.652.952
+2024-07-31,URBANA,035_ZW Parque Colseguros,10,MR76,92,74196,"12,32",False,Laboral,Miércoles,342.729,-7.652.952
+2024-08-01,URBANA,035_ZW Parque Colseguros,10,MR76,99,241852,"36,09",False,Laboral,Jueves,342.729,-7.652.952
+2024-08-01,URBANA,035_ZW Parque Colseguros,10,MR76,83,137870,"20,57",False,Laboral,Jueves,342.729,-7.652.952
+2024-08-02,URBANA,035_ZW Parque Colseguros,10,MR76,81,231261,"38,47",False,Laboral,Viernes,342.729,-7.652.952
+2024-08-02,URBANA,035_ZW Parque Colseguros,10,MR76,80,6072,"1,01",False,Laboral,Viernes,342.729,-7.652.952
+2024-08-03,URBANA,035_ZW Parque Colseguros,10,MR76,101,341943,"69,67",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-08-03,URBANA,035_ZW Parque Colseguros,10,MR76,82,7490,"1,53",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-08-04,URBANA,035_ZW Parque Colseguros,10,MR76,98,202669,"32,31",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-08-04,URBANA,035_ZW Parque Colseguros,10,MR76,86,6579,"1,05",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-08-05,URBANA,035_ZW Parque Colseguros,10,MR76,85,304841,"44,05",False,Laboral,Lunes,342.729,-7.652.952
+2024-08-05,URBANA,035_ZW Parque Colseguros,10,MR76,63,3983,"0,58",False,Laboral,Lunes,342.729,-7.652.952
+2024-08-06,URBANA,035_ZW Parque Colseguros,10,MR76,89,245317,"23,62",False,Laboral,Martes,342.729,-7.652.952
+2024-08-06,URBANA,035_ZW Parque Colseguros,10,MR76,74,34503,"3,32",False,Laboral,Martes,342.729,-7.652.952
+2024-08-07,URBANA,035_ZW Parque Colseguros,10,MR76,99,266575,"31,71",True,Festivo,Miércoles,342.729,-7.652.952
+2024-08-07,URBANA,035_ZW Parque Colseguros,10,MR76,84,8708,"1,04",True,Festivo,Miércoles,342.729,-7.652.952
+2024-08-08,URBANA,035_ZW Parque Colseguros,10,MR76,95,1178854,"147,9",False,Laboral,Jueves,342.729,-7.652.952
+2024-08-08,URBANA,035_ZW Parque Colseguros,10,MR76,88,364585,"45,74",False,Laboral,Jueves,342.729,-7.652.952
+2024-08-09,URBANA,035_ZW Parque Colseguros,10,MR76,84,2882355,"531,94",False,Laboral,Viernes,342.729,-7.652.952
+2024-08-09,URBANA,035_ZW Parque Colseguros,10,MR76,85,428167,"79,02",False,Laboral,Viernes,342.729,-7.652.952
+2024-08-10,URBANA,035_ZW Parque Colseguros,10,MR76,78,2875774,"544,33",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-08-10,URBANA,035_ZW Parque Colseguros,10,MR76,82,170112,"32,2",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-08-11,URBANA,035_ZW Parque Colseguros,10,MR76,90,865431,"150,19",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-08-11,URBANA,035_ZW Parque Colseguros,10,MR76,90,8591,"1,49",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-08-12,URBANA,035_ZW Parque Colseguros,10,MR76,69,222001,"47,59",False,Laboral,Lunes,342.729,-7.652.952
+2024-08-12,URBANA,035_ZW Parque Colseguros,10,MR76,73,28354,"6,08",False,Laboral,Lunes,342.729,-7.652.952
+2024-08-13,URBANA,035_ZW Parque Colseguros,10,MR76,96,366671,"41,5",False,Laboral,Martes,342.729,-7.652.952
+2024-08-13,URBANA,035_ZW Parque Colseguros,10,MR76,94,19772,"2,24",False,Laboral,Martes,342.729,-7.652.952
+2024-08-14,URBANA,035_ZW Parque Colseguros,10,MR76,98,289300,"38,4",False,Laboral,Miércoles,342.729,-7.652.952
+2024-08-14,URBANA,035_ZW Parque Colseguros,10,MR76,89,27034,"3,59",False,Laboral,Miércoles,342.729,-7.652.952
+2024-08-15,URBANA,035_ZW Parque Colseguros,10,MR76,98,426153,"63,98",False,Laboral,Jueves,342.729,-7.652.952
+2024-08-15,URBANA,035_ZW Parque Colseguros,10,MR76,87,27645,"4,15",False,Laboral,Jueves,342.729,-7.652.952
+2024-08-16,URBANA,035_ZW Parque Colseguros,10,MR76,80,237701,"32,39",False,Laboral,Viernes,342.729,-7.652.952
+2024-08-16,URBANA,035_ZW Parque Colseguros,10,MR76,85,20170,"2,75",False,Laboral,Viernes,342.729,-7.652.952
+2024-08-17,URBANA,035_ZW Parque Colseguros,10,MR76,78,188235,"27,3",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-08-17,URBANA,035_ZW Parque Colseguros,10,MR76,87,6352,"0,92",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-08-18,URBANA,035_ZW Parque Colseguros,10,MR76,66,316618,"47,91",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-08-18,URBANA,035_ZW Parque Colseguros,10,MR76,75,10046,"1,52",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-08-19,URBANA,035_ZW Parque Colseguros,10,MR76,80,280322,"38,48",True,Festivo,Lunes,342.729,-7.652.952
+2024-08-19,URBANA,035_ZW Parque Colseguros,10,MR76,83,8040,"1,1",True,Festivo,Lunes,342.729,-7.652.952
+2024-08-20,URBANA,035_ZW Parque Colseguros,10,MR76,14,422,"0,1",False,Laboral,Martes,342.729,-7.652.952
+2024-08-20,URBANA,035_ZW Parque Colseguros,10,MR76,15,1198,"0,3",False,Laboral,Martes,342.729,-7.652.952
+2024-10-25,URBANA,035_ZW Parque Colseguros,10,MR76,60,1202654,"268,65",False,Laboral,Viernes,342.729,-7.652.952
+2024-10-25,URBANA,035_ZW Parque Colseguros,10,MR76,53,999946,"223,37",False,Laboral,Viernes,342.729,-7.652.952
+2024-10-26,URBANA,035_ZW Parque Colseguros,10,MR76,50,1128435,"146,13",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-10-26,URBANA,035_ZW Parque Colseguros,10,MR76,62,991078,"128,34",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-10-27,URBANA,035_ZW Parque Colseguros,10,MR76,53,74835,"7,52",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-10-27,URBANA,035_ZW Parque Colseguros,10,MR76,48,313096,"31,45",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-10-28,URBANA,035_ZW Parque Colseguros,10,MR76,43,183911,"30,54",False,Laboral,Lunes,342.729,-7.652.952
+2024-10-28,URBANA,035_ZW Parque Colseguros,10,MR76,39,130980,"21,75",False,Laboral,Lunes,342.729,-7.652.952
+2024-10-29,URBANA,035_ZW Parque Colseguros,10,MR76,55,2993,"0,47",False,Laboral,Martes,342.729,-7.652.952
+2024-10-29,URBANA,035_ZW Parque Colseguros,10,MR76,57,5866,"0,93",False,Laboral,Martes,342.729,-7.652.952
+2024-10-30,URBANA,035_ZW Parque Colseguros,10,MR76,56,78707,"16,07",False,Laboral,Miércoles,342.729,-7.652.952
+2024-10-30,URBANA,035_ZW Parque Colseguros,10,MR76,60,5915,"1,21",False,Laboral,Miércoles,342.729,-7.652.952
+2024-10-31,URBANA,035_ZW Parque Colseguros,10,MR76,65,35466,"7,56",False,Laboral,Jueves,342.729,-7.652.952
+2024-10-31,URBANA,035_ZW Parque Colseguros,10,MR76,59,5837,"1,24",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-01,URBANA,035_ZW Parque Colseguros,10,MR76,54,26655,"4,82",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-01,URBANA,035_ZW Parque Colseguros,10,MR76,64,52494,"9,49",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-02,URBANA,035_ZW Parque Colseguros,10,MR76,54,483274,"77,78",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-02,URBANA,035_ZW Parque Colseguros,10,MR76,58,802457,"129,14",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-03,URBANA,035_ZW Parque Colseguros,10,MR76,63,535234,"90,99",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-03,URBANA,035_ZW Parque Colseguros,10,MR76,60,426550,"72,51",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-04,URBANA,035_ZW Parque Colseguros,10,MR76,44,732473,"110,41",True,Festivo,Lunes,342.729,-7.652.952
+2024-11-04,URBANA,035_ZW Parque Colseguros,10,MR76,40,650770,"98,1",True,Festivo,Lunes,342.729,-7.652.952
+2024-11-05,URBANA,035_ZW Parque Colseguros,10,MR76,81,324733,"44,47",False,Laboral,Martes,342.729,-7.652.952
+2024-11-05,URBANA,035_ZW Parque Colseguros,10,MR76,66,176471,"24,17",False,Laboral,Martes,342.729,-7.652.952
+2024-11-06,URBANA,035_ZW Parque Colseguros,10,MR76,48,1058127,"168,99",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-06,URBANA,035_ZW Parque Colseguros,10,MR76,42,27500,"4,39",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-07,URBANA,035_ZW Parque Colseguros,10,MR76,82,1277709,"143,67",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-07,URBANA,035_ZW Parque Colseguros,10,MR76,69,626616,"70,46",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-08,URBANA,035_ZW Parque Colseguros,10,MR76,85,2254413,"182,3",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-08,URBANA,035_ZW Parque Colseguros,10,MR76,66,1532132,"123,89",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-09,URBANA,035_ZW Parque Colseguros,10,MR76,82,1661113,"99,76",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-09,URBANA,035_ZW Parque Colseguros,10,MR76,70,532001,"31,95",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-10,URBANA,035_ZW Parque Colseguros,10,MR76,111,3171582,"163,72",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-10,URBANA,035_ZW Parque Colseguros,10,MR76,76,1226355,"63,31",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-11,URBANA,035_ZW Parque Colseguros,10,MR76,81,2353852,"134,03",True,Festivo,Lunes,342.729,-7.652.952
+2024-11-11,URBANA,035_ZW Parque Colseguros,10,MR76,64,1337633,"76,16",True,Festivo,Lunes,342.729,-7.652.952
+2024-11-12,URBANA,035_ZW Parque Colseguros,10,MR76,77,777477,"40,67",False,Laboral,Martes,342.729,-7.652.952
+2024-11-12,URBANA,035_ZW Parque Colseguros,10,MR76,82,776654,"40,63",False,Laboral,Martes,342.729,-7.652.952
+2024-11-13,URBANA,035_ZW Parque Colseguros,10,MR76,101,3696554,"228,17",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-13,URBANA,035_ZW Parque Colseguros,10,MR76,84,1109355,"68,47",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-14,URBANA,035_ZW Parque Colseguros,10,MR76,80,3366228,"175,35",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-14,URBANA,035_ZW Parque Colseguros,10,MR76,74,3108963,"161,95",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-15,URBANA,035_ZW Parque Colseguros,10,MR76,82,2188227,"120,12",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-15,URBANA,035_ZW Parque Colseguros,10,MR76,91,4201385,"230,64",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-16,URBANA,035_ZW Parque Colseguros,10,MR76,100,2670423,"145,03",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-16,URBANA,035_ZW Parque Colseguros,10,MR76,91,4394761,"238,68",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-17,URBANA,035_ZW Parque Colseguros,10,MR76,80,2140600,"124,6",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-17,URBANA,035_ZW Parque Colseguros,10,MR76,75,1860228,"108,28",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-18,URBANA,035_ZW Parque Colseguros,10,MR76,61,481909,"29,98",False,Laboral,Lunes,342.729,-7.652.952
+2024-11-18,URBANA,035_ZW Parque Colseguros,10,MR76,76,1171991,"72,91",False,Laboral,Lunes,342.729,-7.652.952
+2024-11-19,URBANA,035_ZW Parque Colseguros,10,MR76,71,2053608,"128,54",False,Laboral,Martes,342.729,-7.652.952
+2024-11-19,URBANA,035_ZW Parque Colseguros,10,MR76,63,4445634,"278,27",False,Laboral,Martes,342.729,-7.652.952
+2024-11-20,URBANA,035_ZW Parque Colseguros,10,MR76,85,4976890,"260,81",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-20,URBANA,035_ZW Parque Colseguros,10,MR76,90,2918900,"152,96",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-21,URBANA,035_ZW Parque Colseguros,10,MR76,94,1050108,"58,16",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-21,URBANA,035_ZW Parque Colseguros,10,MR76,97,2922759,"161,87",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-22,URBANA,035_ZW Parque Colseguros,10,MR76,84,5067906,"251,04",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-22,URBANA,035_ZW Parque Colseguros,10,MR76,74,712986,"35,32",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-23,URBANA,035_ZW Parque Colseguros,10,MR76,78,5800520,"302,67",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-23,URBANA,035_ZW Parque Colseguros,10,MR76,92,1070682,"55,87",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-24,URBANA,035_ZW Parque Colseguros,10,MR76,82,1391957,"188,01",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-24,URBANA,035_ZW Parque Colseguros,10,MR76,76,831431,"112,3",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-11-25,URBANA,035_ZW Parque Colseguros,10,MR76,19,1310915,"318,75",False,Laboral,Lunes,342.729,-7.652.952
+2024-11-25,URBANA,035_ZW Parque Colseguros,10,MR76,59,160475,"39,02",False,Laboral,Lunes,342.729,-7.652.952
+2024-11-26,URBANA,035_ZW Parque Colseguros,10,MR76,42,687556,"87,31",False,Laboral,Martes,342.729,-7.652.952
+2024-11-26,URBANA,035_ZW Parque Colseguros,10,MR76,50,305360,"38,77",False,Laboral,Martes,342.729,-7.652.952
+2024-11-27,URBANA,035_ZW Parque Colseguros,10,MR76,86,4380362,"225,55",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-27,URBANA,035_ZW Parque Colseguros,10,MR76,88,3151388,"162,27",False,Laboral,Miércoles,342.729,-7.652.952
+2024-11-28,URBANA,035_ZW Parque Colseguros,10,MR76,63,1081515,"51,37",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-28,URBANA,035_ZW Parque Colseguros,10,MR76,86,3366236,"159,87",False,Laboral,Jueves,342.729,-7.652.952
+2024-11-29,URBANA,035_ZW Parque Colseguros,10,MR76,91,3596290,"161,82",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-29,URBANA,035_ZW Parque Colseguros,10,MR76,87,2896683,"130,34",False,Laboral,Viernes,342.729,-7.652.952
+2024-11-30,URBANA,035_ZW Parque Colseguros,10,MR76,90,2964908,"130,08",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-11-30,URBANA,035_ZW Parque Colseguros,10,MR76,78,2546880,"111,74",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-01,URBANA,035_ZW Parque Colseguros,10,MR76,73,1828159,"75,65",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-01,URBANA,035_ZW Parque Colseguros,10,MR76,83,5024591,"207,92",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-02,URBANA,035_ZW Parque Colseguros,10,MR76,88,4927392,"236,15",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-02,URBANA,035_ZW Parque Colseguros,10,MR76,89,3221613,"154,4",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-03,URBANA,035_ZW Parque Colseguros,10,MR76,92,7056208,"377,93",False,Laboral,Martes,342.729,-7.652.952
+2024-12-03,URBANA,035_ZW Parque Colseguros,10,MR76,88,2115213,"113,29",False,Laboral,Martes,342.729,-7.652.952
+2024-12-04,URBANA,035_ZW Parque Colseguros,10,MR76,78,2842958,"123,09",False,Laboral,Miércoles,342.729,-7.652.952
+2024-12-04,URBANA,035_ZW Parque Colseguros,10,MR76,77,918434,"39,77",False,Laboral,Miércoles,342.729,-7.652.952
+2024-12-05,URBANA,035_ZW Parque Colseguros,10,MR76,83,4316701,"188,16",False,Laboral,Jueves,342.729,-7.652.952
+2024-12-05,URBANA,035_ZW Parque Colseguros,10,MR76,93,2274048,"99,12",False,Laboral,Jueves,342.729,-7.652.952
+2024-12-06,URBANA,035_ZW Parque Colseguros,10,MR76,65,988358,"43,96",False,Laboral,Viernes,342.729,-7.652.952
+2024-12-06,URBANA,035_ZW Parque Colseguros,10,MR76,61,3283090,"146,02",False,Laboral,Viernes,342.729,-7.652.952
+2024-12-07,URBANA,035_ZW Parque Colseguros,10,MR76,81,3579494,"174,48",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-07,URBANA,035_ZW Parque Colseguros,10,MR76,83,4578435,"223,17",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-08,URBANA,035_ZW Parque Colseguros,10,MR76,92,5875135,"221,24",True,Festivo,Domingo,342.729,-7.652.952
+2024-12-08,URBANA,035_ZW Parque Colseguros,10,MR76,83,4630144,"174,35",True,Festivo,Domingo,342.729,-7.652.952
+2024-12-09,URBANA,035_ZW Parque Colseguros,10,MR76,75,2240273,"83,06",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-09,URBANA,035_ZW Parque Colseguros,10,MR76,81,3382154,"125,4",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-10,URBANA,035_ZW Parque Colseguros,10,MR76,94,7626888,"251,84",False,Laboral,Martes,342.729,-7.652.952
+2024-12-10,URBANA,035_ZW Parque Colseguros,10,MR76,94,4031930,"133,14",False,Laboral,Martes,342.729,-7.652.952
+2024-12-11,URBANA,035_ZW Parque Colseguros,10,MR76,76,3202697,"106,22",False,Laboral,Miércoles,342.729,-7.652.952
+2024-12-11,URBANA,035_ZW Parque Colseguros,10,MR76,77,874182,"28,99",False,Laboral,Miércoles,342.729,-7.652.952
+2024-12-12,URBANA,035_ZW Parque Colseguros,10,MR76,80,6234230,"181,68",False,Laboral,Jueves,342.729,-7.652.952
+2024-12-12,URBANA,035_ZW Parque Colseguros,10,MR76,78,2145339,"62,52",False,Laboral,Jueves,342.729,-7.652.952
+2024-12-13,URBANA,035_ZW Parque Colseguros,10,MR76,85,6234515,"183,77",False,Laboral,Viernes,342.729,-7.652.952
+2024-12-13,URBANA,035_ZW Parque Colseguros,10,MR76,82,2084886,"61,45",False,Laboral,Viernes,342.729,-7.652.952
+2024-12-14,URBANA,035_ZW Parque Colseguros,10,MR76,76,3440146,"113,25",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-14,URBANA,035_ZW Parque Colseguros,10,MR76,81,3545213,"116,71",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-15,URBANA,035_ZW Parque Colseguros,10,MR76,80,1109111,"37,44",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-15,URBANA,035_ZW Parque Colseguros,10,MR76,78,3959312,"133,64",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-16,URBANA,035_ZW Parque Colseguros,10,MR76,73,4180935,"125,72",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-16,URBANA,035_ZW Parque Colseguros,10,MR76,80,1553421,"46,71",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-17,URBANA,035_ZW Parque Colseguros,10,MR76,103,4538746,148,False,Laboral,Martes,342.729,-7.652.952
+2024-12-17,URBANA,035_ZW Parque Colseguros,10,MR76,93,3156015,103,False,Laboral,Martes,342.729,-7.652.952
+2024-12-18,URBANA,035_ZW Parque Colseguros,10,MR76,77,2559221,"81,1",False,Laboral,Miércoles,342.729,-7.652.952
+2024-12-18,URBANA,035_ZW Parque Colseguros,10,MR76,67,1642099,52,False,Laboral,Miércoles,342.729,-7.652.952
+2024-12-19,URBANA,035_ZW Parque Colseguros,10,MR76,90,10036525,353,False,Laboral,Jueves,342.729,-7.652.952
+2024-12-19,URBANA,035_ZW Parque Colseguros,10,MR76,84,3778669,133,False,Laboral,Jueves,342.729,-7.652.952
+2024-12-20,URBANA,035_ZW Parque Colseguros,10,MR76,96,5458665,180,False,Laboral,Viernes,342.729,-7.652.952
+2024-12-20,URBANA,035_ZW Parque Colseguros,10,MR76,94,3878064,128,False,Laboral,Viernes,342.729,-7.652.952
+2024-12-21,URBANA,035_ZW Parque Colseguros,10,MR76,80,1952859,"74,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-21,URBANA,035_ZW Parque Colseguros,10,MR76,63,1222914,"46,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-22,URBANA,035_ZW Parque Colseguros,10,MR76,86,3158571,"98,6",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-22,URBANA,035_ZW Parque Colseguros,10,MR76,70,1056470,33,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-23,URBANA,035_ZW Parque Colseguros,10,MR76,90,1113862,"44,4",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-23,URBANA,035_ZW Parque Colseguros,10,MR76,63,1345989,"53,7",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-24,URBANA,035_ZW Parque Colseguros,10,MR76,46,1176082,"49,2",False,Laboral,Martes,342.729,-7.652.952
+2024-12-24,URBANA,035_ZW Parque Colseguros,10,MR76,40,369579,"15,5",False,Laboral,Martes,342.729,-7.652.952
+2024-12-25,URBANA,035_ZW Parque Colseguros,10,MR76,63,10588701,375,True,Festivo,Miércoles,342.729,-7.652.952
+2024-12-25,URBANA,035_ZW Parque Colseguros,10,MR76,65,3459110,122,True,Festivo,Miércoles,342.729,-7.652.952
+2024-12-26,URBANA,035_ZW Parque Colseguros,10,MR76,55,2683897,"98,1",False,Laboral,Jueves,342.729,-7.652.952
+2024-12-26,URBANA,035_ZW Parque Colseguros,10,MR76,52,3609229,132,False,Laboral,Jueves,342.729,-7.652.952
+2024-12-27,URBANA,035_ZW Parque Colseguros,10,MR76,66,4635627,142,False,Laboral,Viernes,342.729,-7.652.952
+2024-12-27,URBANA,035_ZW Parque Colseguros,10,MR76,57,12456044,382,False,Laboral,Viernes,342.729,-7.652.952
+2024-12-28,URBANA,035_ZW Parque Colseguros,10,MR76,48,1691635,"71,9",False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-28,URBANA,035_ZW Parque Colseguros,10,MR76,49,2584453,110,False,Fin de Semana,Sábado,342.729,-7.652.952
+2024-12-29,URBANA,035_ZW Parque Colseguros,10,MR76,49,2455129,76,False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-29,URBANA,035_ZW Parque Colseguros,10,MR76,49,2061389,"63,8",False,Fin de Semana,Domingo,342.729,-7.652.952
+2024-12-30,URBANA,035_ZW Parque Colseguros,10,MR76,43,2253995,"92,2",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-30,URBANA,035_ZW Parque Colseguros,10,MR76,40,2109179,"86,2",False,Laboral,Lunes,342.729,-7.652.952
+2024-12-31,RURAL,035_ZW Parque Colseguros,10,MR76,48,2366183,127,False,Laboral,Martes,342.729,-7.652.952
+2024-12-31,RURAL,035_ZW Parque Colseguros,10,MR76,42,3818738,206,False,Laboral,Martes,342.729,-7.652.952
+2025-01-01,URBANA,035_ZW Parque Colseguros,10,MR76,35,1386730,94,True,Festivo,Miércoles,342.729,-7.652.952
+2025-01-01,URBANA,035_ZW Parque Colseguros,10,MR76,38,3757929,256,True,Festivo,Miércoles,342.729,-7.652.952
+2025-01-02,URBANA,035_ZW Parque Colseguros,10,MR76,61,2302481,83,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-02,URBANA,035_ZW Parque Colseguros,10,MR76,69,3933051,141,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-03,URBANA,035_ZW Parque Colseguros,10,MR76,42,6286433,235,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-03,URBANA,035_ZW Parque Colseguros,10,MR76,48,4101102,153,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-04,URBANA,035_ZW Parque Colseguros,10,MR76,57,1542290,57,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-04,URBANA,035_ZW Parque Colseguros,10,MR76,55,1755003,65,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-05,URBANA,035_ZW Parque Colseguros,10,MR76,47,4388372,134,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-05,URBANA,035_ZW Parque Colseguros,10,MR76,55,3403495,104,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-06,URBANA,035_ZW Parque Colseguros,10,MR76,75,9590249,256,True,Festivo,Lunes,342.729,-7.652.952
+2025-01-06,URBANA,035_ZW Parque Colseguros,10,MR76,74,5231417,140,True,Festivo,Lunes,342.729,-7.652.952
+2025-01-07,URBANA,035_ZW Parque Colseguros,10,MR76,57,3020636,91,False,Laboral,Martes,342.729,-7.652.952
+2025-01-07,URBANA,035_ZW Parque Colseguros,10,MR76,66,2382986,72,False,Laboral,Martes,342.729,-7.652.952
+2025-01-08,URBANA,035_ZW Parque Colseguros,10,MR76,68,3230440,93,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-08,URBANA,035_ZW Parque Colseguros,10,MR76,62,3229621,93,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-09,URBANA,035_ZW Parque Colseguros,10,MR76,63,2484476,71,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-09,URBANA,035_ZW Parque Colseguros,10,MR76,72,5819234,167,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-10,URBANA,035_ZW Parque Colseguros,10,MR76,73,8499547,235,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-10,URBANA,035_ZW Parque Colseguros,10,MR76,72,5470298,151,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-11,URBANA,035_ZW Parque Colseguros,10,MR76,76,5252086,154,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-11,URBANA,035_ZW Parque Colseguros,10,MR76,90,2861886,84,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-12,URBANA,035_ZW Parque Colseguros,10,MR76,76,2311999,62,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-12,URBANA,035_ZW Parque Colseguros,10,MR76,87,4402289,118,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-13,URBANA,035_ZW Parque Colseguros,10,MR76,73,5128609,171,False,Laboral,Lunes,342.729,-7.652.952
+2025-01-13,URBANA,035_ZW Parque Colseguros,10,MR76,85,5249949,175,False,Laboral,Lunes,342.729,-7.652.952
+2025-01-14,URBANA,035_ZW Parque Colseguros,10,MR76,103,8119814,268,False,Laboral,Martes,342.729,-7.652.952
+2025-01-14,URBANA,035_ZW Parque Colseguros,10,MR76,104,5645231,186,False,Laboral,Martes,342.729,-7.652.952
+2025-01-15,URBANA,035_ZW Parque Colseguros,10,MR76,67,5433237,188,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-15,URBANA,035_ZW Parque Colseguros,10,MR76,71,6492209,225,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-16,URBANA,035_ZW Parque Colseguros,10,MR76,78,6385873,203,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-16,URBANA,035_ZW Parque Colseguros,10,MR76,90,5783410,184,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-17,URBANA,035_ZW Parque Colseguros,10,MR76,81,6125872,201,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-17,URBANA,035_ZW Parque Colseguros,10,MR76,83,3129609,103,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-18,URBANA,035_ZW Parque Colseguros,10,MR76,72,5857224,193,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-18,URBANA,035_ZW Parque Colseguros,10,MR76,70,2937495,97,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-19,URBANA,035_ZW Parque Colseguros,10,MR76,83,5497427,170,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-19,URBANA,035_ZW Parque Colseguros,10,MR76,90,4665003,144,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-20,URBANA,035_ZW Parque Colseguros,10,MR76,75,7229288,224,False,Laboral,Lunes,342.729,-7.652.952
+2025-01-20,URBANA,035_ZW Parque Colseguros,10,MR76,85,4777063,148,False,Laboral,Lunes,342.729,-7.652.952
+2025-01-21,URBANA,035_ZW Parque Colseguros,10,MR76,81,7959071,221,False,Laboral,Martes,342.729,-7.652.952
+2025-01-21,URBANA,035_ZW Parque Colseguros,10,MR76,91,2624508,73,False,Laboral,Martes,342.729,-7.652.952
+2025-01-22,URBANA,035_ZW Parque Colseguros,10,MR76,75,5688959,170,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-22,URBANA,035_ZW Parque Colseguros,10,MR76,87,4253853,127,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-23,URBANA,035_ZW Parque Colseguros,10,MR76,89,6654843,166,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-23,URBANA,035_ZW Parque Colseguros,10,MR76,100,6828578,170,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-24,URBANA,035_ZW Parque Colseguros,10,MR76,73,4871296,146,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-24,URBANA,035_ZW Parque Colseguros,10,MR76,90,6340077,190,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-25,URBANA,035_ZW Parque Colseguros,10,MR76,95,7028559,189,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-25,URBANA,035_ZW Parque Colseguros,10,MR76,93,6779691,182,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-01-26,URBANA,035_ZW Parque Colseguros,10,MR76,76,7242583,184,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-26,URBANA,035_ZW Parque Colseguros,10,MR76,75,2075024,53,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-01-27,URBANA,035_ZW Parque Colseguros,10,MR76,83,4344404,115,False,Laboral,Lunes,342.729,-7.652.952
+2025-01-27,URBANA,035_ZW Parque Colseguros,10,MR76,80,4657609,123,False,Laboral,Lunes,342.729,-7.652.952
+2025-01-28,URBANA,035_ZW Parque Colseguros,10,MR76,84,5019103,152,False,Laboral,Martes,342.729,-7.652.952
+2025-01-28,URBANA,035_ZW Parque Colseguros,10,MR76,86,2793674,85,False,Laboral,Martes,342.729,-7.652.952
+2025-01-29,URBANA,035_ZW Parque Colseguros,10,MR76,68,2516705,69,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-29,URBANA,035_ZW Parque Colseguros,10,MR76,75,3680188,102,False,Laboral,Miércoles,342.729,-7.652.952
+2025-01-30,URBANA,035_ZW Parque Colseguros,10,MR76,80,1061955,39,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-30,URBANA,035_ZW Parque Colseguros,10,MR76,90,4075571,150,False,Laboral,Jueves,342.729,-7.652.952
+2025-01-31,URBANA,035_ZW Parque Colseguros,10,MR76,94,2450839,133,False,Laboral,Viernes,342.729,-7.652.952
+2025-01-31,URBANA,035_ZW Parque Colseguros,10,MR76,89,2493660,135,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-01,URBANA,035_ZW Parque Colseguros,10,MR76,105,7204280,254,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-01,URBANA,035_ZW Parque Colseguros,10,MR76,99,7515340,265,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-02,URBANA,035_ZW Parque Colseguros,10,MR76,81,3996312,118,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-02,URBANA,035_ZW Parque Colseguros,10,MR76,77,7057558,209,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-03,URBANA,035_ZW Parque Colseguros,10,MR76,57,7660271,297,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-03,URBANA,035_ZW Parque Colseguros,10,MR76,61,2583135,100,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-04,URBANA,035_ZW Parque Colseguros,10,MR76,80,5191818,184,False,Laboral,Martes,342.729,-7.652.952
+2025-02-04,URBANA,035_ZW Parque Colseguros,10,MR76,90,3294563,117,False,Laboral,Martes,342.729,-7.652.952
+2025-02-05,URBANA,035_ZW Parque Colseguros,10,MR76,86,2503666,103,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-05,URBANA,035_ZW Parque Colseguros,10,MR76,99,3381559,139,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-06,URBANA,035_ZW Parque Colseguros,10,MR76,82,3551451,131,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-06,URBANA,035_ZW Parque Colseguros,10,MR76,93,2063631,76,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-07,URBANA,035_ZW Parque Colseguros,10,MR76,86,3015292,103,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-07,URBANA,035_ZW Parque Colseguros,10,MR76,87,6184046,211,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-08,URBANA,035_ZW Parque Colseguros,10,MR76,65,2808449,105,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-08,URBANA,035_ZW Parque Colseguros,10,MR76,73,4118772,154,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-09,URBANA,035_ZW Parque Colseguros,10,MR76,66,1870859,59,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-09,URBANA,035_ZW Parque Colseguros,10,MR76,76,2861764,90,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-10,URBANA,035_ZW Parque Colseguros,10,MR76,78,3824218,145,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-10,URBANA,035_ZW Parque Colseguros,10,MR76,74,2323708,88,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-11,URBANA,035_ZW Parque Colseguros,10,MR76,66,7434928,250,False,Laboral,Martes,342.729,-7.652.952
+2025-02-11,URBANA,035_ZW Parque Colseguros,10,MR76,80,4262136,144,False,Laboral,Martes,342.729,-7.652.952
+2025-02-12,URBANA,035_ZW Parque Colseguros,10,MR76,93,6354867,193,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-12,URBANA,035_ZW Parque Colseguros,10,MR76,104,3513061,107,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-13,URBANA,035_ZW Parque Colseguros,10,MR76,47,2329210,109,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-13,URBANA,035_ZW Parque Colseguros,10,MR76,44,2989085,140,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-14,URBANA,035_ZW Parque Colseguros,10,MR76,78,6187561,185,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-14,URBANA,035_ZW Parque Colseguros,10,MR76,94,3004372,90,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-15,URBANA,035_ZW Parque Colseguros,10,MR76,82,4448680,161,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-15,URBANA,035_ZW Parque Colseguros,10,MR76,72,1350012,49,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-16,URBANA,035_ZW Parque Colseguros,10,MR76,67,2863908,94,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-16,URBANA,035_ZW Parque Colseguros,10,MR76,75,7251175,239,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-17,URBANA,035_ZW Parque Colseguros,10,MR76,84,8750069,311,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-17,URBANA,035_ZW Parque Colseguros,10,MR76,85,6265417,222,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-18,URBANA,035_ZW Parque Colseguros,10,MR76,70,5256213,187,False,Laboral,Martes,342.729,-7.652.952
+2025-02-18,URBANA,035_ZW Parque Colseguros,10,MR76,82,3742553,133,False,Laboral,Martes,342.729,-7.652.952
+2025-02-19,URBANA,035_ZW Parque Colseguros,10,MR76,75,2494632,79,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-19,URBANA,035_ZW Parque Colseguros,10,MR76,77,7134225,227,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-20,URBANA,035_ZW Parque Colseguros,10,MR76,84,4361150,124,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-20,URBANA,035_ZW Parque Colseguros,10,MR76,91,6968396,198,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-21,URBANA,035_ZW Parque Colseguros,10,MR76,67,2906056,100,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-21,URBANA,035_ZW Parque Colseguros,10,MR76,73,3855717,132,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-22,URBANA,035_ZW Parque Colseguros,10,MR76,85,3714725,131,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-22,URBANA,035_ZW Parque Colseguros,10,MR76,86,2782790,98,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-02-23,URBANA,035_ZW Parque Colseguros,10,MR76,77,2804175,82,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-23,URBANA,035_ZW Parque Colseguros,10,MR76,84,3665169,107,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-02-24,URBANA,035_ZW Parque Colseguros,10,MR76,64,3194145,131,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-24,URBANA,035_ZW Parque Colseguros,10,MR76,64,2712790,112,False,Laboral,Lunes,342.729,-7.652.952
+2025-02-25,URBANA,035_ZW Parque Colseguros,10,MR76,94,6633030,213,False,Laboral,Martes,342.729,-7.652.952
+2025-02-25,URBANA,035_ZW Parque Colseguros,10,MR76,81,5330043,171,False,Laboral,Martes,342.729,-7.652.952
+2025-02-26,URBANA,035_ZW Parque Colseguros,10,MR76,68,10106998,365,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-26,URBANA,035_ZW Parque Colseguros,10,MR76,64,3129404,113,False,Laboral,Miércoles,342.729,-7.652.952
+2025-02-27,URBANA,035_ZW Parque Colseguros,10,MR76,78,4116370,144,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-27,URBANA,035_ZW Parque Colseguros,10,MR76,76,3740146,131,False,Laboral,Jueves,342.729,-7.652.952
+2025-02-28,URBANA,035_ZW Parque Colseguros,10,MR76,84,3943703,140,False,Laboral,Viernes,342.729,-7.652.952
+2025-02-28,URBANA,035_ZW Parque Colseguros,10,MR76,85,5853045,208,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-01,URBANA,035_ZW Parque Colseguros,10,MR76,87,7389377,278,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-01,URBANA,035_ZW Parque Colseguros,10,MR76,83,3435624,129,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-02,URBANA,035_ZW Parque Colseguros,10,MR76,73,5706823,168,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-02,URBANA,035_ZW Parque Colseguros,10,MR76,77,9720924,287,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-03,URBANA,035_ZW Parque Colseguros,10,MR76,70,4714552,177,False,Laboral,Lunes,342.729,-7.652.952
+2025-03-03,URBANA,035_ZW Parque Colseguros,10,MR76,69,2924049,110,False,Laboral,Lunes,342.729,-7.652.952
+2025-03-04,URBANA,035_ZW Parque Colseguros,10,MR76,55,1089469,49,False,Laboral,Martes,342.729,-7.652.952
+2025-03-04,URBANA,035_ZW Parque Colseguros,10,MR76,55,5196267,235,False,Laboral,Martes,342.729,-7.652.952
+2025-03-05,URBANA,035_ZW Parque Colseguros,10,MR76,81,5784734,205,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-05,URBANA,035_ZW Parque Colseguros,10,MR76,90,3558040,126,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-06,URBANA,035_ZW Parque Colseguros,10,MR76,66,5374142,173,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-06,URBANA,035_ZW Parque Colseguros,10,MR76,75,2554210,82,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-07,URBANA,035_ZW Parque Colseguros,10,MR76,90,5585313,201,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-07,URBANA,035_ZW Parque Colseguros,10,MR76,93,5435656,195,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-08,URBANA,035_ZW Parque Colseguros,10,MR76,91,7836690,227,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-08,URBANA,035_ZW Parque Colseguros,10,MR76,88,6995903,203,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-09,URBANA,035_ZW Parque Colseguros,10,MR76,73,3120560,97,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-09,URBANA,035_ZW Parque Colseguros,10,MR76,72,9309781,290,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-10,URBANA,035_ZW Parque Colseguros,10,MR76,78,5896316,171,False,Laboral,Lunes,342.729,-7.652.952
+2025-03-10,URBANA,035_ZW Parque Colseguros,10,MR76,94,5476062,158,False,Laboral,Lunes,342.729,-7.652.952
+2025-03-11,URBANA,035_ZW Parque Colseguros,10,MR76,55,5493171,247,False,Laboral,Martes,342.729,-7.652.952
+2025-03-11,URBANA,035_ZW Parque Colseguros,10,MR76,57,6662552,299,False,Laboral,Martes,342.729,-7.652.952
+2025-03-12,URBANA,035_ZW Parque Colseguros,10,MR76,78,1343339,45,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-12,URBANA,035_ZW Parque Colseguros,10,MR76,82,4506868,152,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-13,URBANA,035_ZW Parque Colseguros,10,MR76,80,4175085,172,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-13,URBANA,035_ZW Parque Colseguros,10,MR76,89,3141036,130,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-14,URBANA,035_ZW Parque Colseguros,10,MR76,90,4809315,163,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-14,URBANA,035_ZW Parque Colseguros,10,MR76,94,6186924,209,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-15,URBANA,035_ZW Parque Colseguros,10,MR76,77,3645703,117,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-15,URBANA,035_ZW Parque Colseguros,10,MR76,91,5905456,190,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-16,URBANA,035_ZW Parque Colseguros,10,MR76,75,3324259,107,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-16,URBANA,035_ZW Parque Colseguros,10,MR76,74,3970457,128,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-17,URBANA,035_ZW Parque Colseguros,10,MR76,68,2975909,102,False,Laboral,Lunes,342.729,-7.652.952
+2025-03-17,URBANA,035_ZW Parque Colseguros,10,MR76,76,4109848,141,False,Laboral,Lunes,342.729,-7.652.952
+2025-03-18,URBANA,035_ZW Parque Colseguros,10,MR76,69,6857379,208,False,Laboral,Martes,342.729,-7.652.952
+2025-03-18,URBANA,035_ZW Parque Colseguros,10,MR76,80,1947072,59,False,Laboral,Martes,342.729,-7.652.952
+2025-03-19,URBANA,035_ZW Parque Colseguros,10,MR76,88,6356295,229,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-19,URBANA,035_ZW Parque Colseguros,10,MR76,76,2918063,105,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-20,URBANA,035_ZW Parque Colseguros,10,MR76,68,5464483,176,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-20,URBANA,035_ZW Parque Colseguros,10,MR76,80,3305386,106,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-21,URBANA,035_ZW Parque Colseguros,10,MR76,80,7106008,193,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-21,URBANA,035_ZW Parque Colseguros,10,MR76,99,2934358,80,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-22,URBANA,035_ZW Parque Colseguros,10,MR76,85,8822764,290,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-22,URBANA,035_ZW Parque Colseguros,10,MR76,98,2195150,72,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-23,URBANA,035_ZW Parque Colseguros,10,MR76,85,6298820,195,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-23,URBANA,035_ZW Parque Colseguros,10,MR76,97,8973685,278,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-24,URBANA,035_ZW Parque Colseguros,10,MR76,72,2780571,69,True,Festivo,Lunes,342.729,-7.652.952
+2025-03-24,URBANA,035_ZW Parque Colseguros,10,MR76,82,5024177,124,True,Festivo,Lunes,342.729,-7.652.952
+2025-03-25,URBANA,035_ZW Parque Colseguros,10,MR76,73,4758930,138,False,Laboral,Martes,342.729,-7.652.952
+2025-03-25,URBANA,035_ZW Parque Colseguros,10,MR76,83,5194102,151,False,Laboral,Martes,342.729,-7.652.952
+2025-03-26,URBANA,035_ZW Parque Colseguros,10,MR76,76,3550672,115,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-26,URBANA,035_ZW Parque Colseguros,10,MR76,88,3299993,106,False,Laboral,Miércoles,342.729,-7.652.952
+2025-03-27,URBANA,035_ZW Parque Colseguros,10,MR76,82,5081654,141,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-27,URBANA,035_ZW Parque Colseguros,10,MR76,98,4756369,132,False,Laboral,Jueves,342.729,-7.652.952
+2025-03-28,URBANA,035_ZW Parque Colseguros,10,MR76,69,6124043,254,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-28,URBANA,035_ZW Parque Colseguros,10,MR76,71,3071872,127,False,Laboral,Viernes,342.729,-7.652.952
+2025-03-29,URBANA,035_ZW Parque Colseguros,10,MR76,88,7191578,225,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-29,URBANA,035_ZW Parque Colseguros,10,MR76,104,4837998,151,False,Fin de Semana,Sábado,342.729,-7.652.952
+2025-03-30,URBANA,035_ZW Parque Colseguros,10,MR76,72,5774490,165,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-30,URBANA,035_ZW Parque Colseguros,10,MR76,78,4204439,120,False,Fin de Semana,Domingo,342.729,-7.652.952
+2025-03-31,URBANA,035_ZW Parque Colseguros,10,MR76,77,15213142,506,False,Laboral,Lunes,342.729,-7.652.952
+2025-03-31,URBANA,035_ZW Parque Colseguros,10,MR76,93,5502697,183,False,Laboral,Lunes,342.729,-7.652.952

@@ -1,0 +1,791 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,3197167,"365,8",True,Festivo,Lunes,346.237,-7.658.815
+2024-01-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,1860119,"212,8",True,Festivo,Lunes,346.237,-7.658.815
+2024-01-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,4441260,"527,5",False,Laboral,Martes,346.237,-7.658.815
+2024-01-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,2299729,"273,2",False,Laboral,Martes,346.237,-7.658.815
+2024-01-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,2804467,"231,4",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,3778860,"311,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,3160761,"299,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-01-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,2472172,234,False,Laboral,Jueves,346.237,-7.658.815
+2024-01-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,2936071,"270,8",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,991413,"91,4",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,2706619,"352,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,21,1465112,191,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,2897981,"288,7",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,983768,98,False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,3688792,234,True,Festivo,Lunes,346.237,-7.658.815
+2024-01-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,14,1234143,"78,3",True,Festivo,Lunes,346.237,-7.658.815
+2024-01-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,32,5686736,"438,8",False,Laboral,Martes,346.237,-7.658.815
+2024-01-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,5560976,"429,1",False,Laboral,Martes,346.237,-7.658.815
+2024-01-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,6923701,"573,9",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,20,1570577,"130,2",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,3100190,"288,1",False,Laboral,Jueves,346.237,-7.658.815
+2024-01-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,3267340,"303,7",False,Laboral,Jueves,346.237,-7.658.815
+2024-01-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,6291095,"541,6",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,1807119,"155,6",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,2114385,"234,8",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,2808886,312,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,5413769,"684,1",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,3015054,381,False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,1336627,"193,2",False,Laboral,Lunes,346.237,-7.658.815
+2024-01-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,832771,"120,4",False,Laboral,Lunes,346.237,-7.658.815
+2024-01-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,1514945,"177,1",False,Laboral,Martes,346.237,-7.658.815
+2024-01-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,1664447,"194,6",False,Laboral,Martes,346.237,-7.658.815
+2024-01-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,2663830,"266,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,2836556,"283,6",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,1601354,"133,5",False,Laboral,Jueves,346.237,-7.658.815
+2024-01-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,22,583710,"48,7",False,Laboral,Jueves,346.237,-7.658.815
+2024-01-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,87,1008150,"65,7",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,3650643,"237,8",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,1658226,"128,1",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,2756146,"212,8",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,1732634,"133,8",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,1678603,"129,6",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,723727,69,False,Laboral,Lunes,346.237,-7.658.815
+2024-01-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,2223500,212,False,Laboral,Lunes,346.237,-7.658.815
+2024-01-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,1586281,"146,9",False,Laboral,Martes,346.237,-7.658.815
+2024-01-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,2613857,242,False,Laboral,Martes,346.237,-7.658.815
+2024-01-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,7962967,"636,7",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,3664342,293,False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,6083985,407,False,Laboral,Jueves,346.237,-7.658.815
+2024-01-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,6329286,"423,4",False,Laboral,Jueves,346.237,-7.658.815
+2024-01-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,74,5225879,"379,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,6665225,"483,8",False,Laboral,Viernes,346.237,-7.658.815
+2024-01-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,6105247,"491,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,15,484155,39,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-01-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,82,8802228,"856,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,4484270,"436,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-01-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,2175249,"186,9",False,Laboral,Lunes,346.237,-7.658.815
+2024-01-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,3794818,326,False,Laboral,Lunes,346.237,-7.658.815
+2024-01-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,1863485,"205,9",False,Laboral,Martes,346.237,-7.658.815
+2024-01-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,15,1588249,"175,5",False,Laboral,Martes,346.237,-7.658.815
+2024-01-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,2119002,"202,9",False,Laboral,Miércoles,346.237,-7.658.815
+2024-01-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,5884154,"563,4",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,81,10535035,"757,4",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,10788616,"775,6",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,1741512,"182,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-02-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,4129305,"432,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-02-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,1810121,102,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,6599527,372,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,2618653,"163,7",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,14322615,"895,6",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,859657,"57,1",False,Laboral,Lunes,346.237,-7.658.815
+2024-02-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,25,6739689,"447,7",False,Laboral,Lunes,346.237,-7.658.815
+2024-02-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,5393790,361,False,Laboral,Martes,346.237,-7.658.815
+2024-02-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,9924620,"664,2",False,Laboral,Martes,346.237,-7.658.815
+2024-02-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,7710028,467,False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,2192324,"132,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,778191,"57,3",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,22,7484411,"550,8",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,2632496,"218,8",False,Laboral,Viernes,346.237,-7.658.815
+2024-02-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,10715535,"890,5",False,Laboral,Viernes,346.237,-7.658.815
+2024-02-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2247993,"140,7",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,12315063,771,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,85,2061882,"153,4",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,6177824,"459,7",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,25515,"2,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-02-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,47008,"4,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-02-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,4835,"0,6",False,Laboral,Martes,346.237,-7.658.815
+2024-02-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,11947,"1,4",False,Laboral,Martes,346.237,-7.658.815
+2024-02-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,6507,"0,9",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,4273,"0,6",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,5635,"0,5",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,13888,"1,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,7606,"0,7",False,Laboral,Viernes,346.237,-7.658.815
+2024-02-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,16536,"1,6",False,Laboral,Viernes,346.237,-7.658.815
+2024-02-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,89,15148,"1,4",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,81,15785,"1,5",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,76,1359816,"105,1",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,8358330,"645,8",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2688578,"183,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-02-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,15233485,"1039,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-02-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,966314,"79,1",False,Laboral,Martes,346.237,-7.658.815
+2024-02-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,13379580,"1095,7",False,Laboral,Martes,346.237,-7.658.815
+2024-02-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,3086419,"267,5",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,14194034,"1230,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,3860639,"252,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,13786362,"900,7",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,7318913,"514,4",False,Laboral,Viernes,346.237,-7.658.815
+2024-02-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,21994277,1546,False,Laboral,Viernes,346.237,-7.658.815
+2024-02-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,3322438,"264,6",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,14608747,"1163,2",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-02-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,5481875,"312,1",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,11631535,"662,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-02-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1113478,100,False,Laboral,Lunes,346.237,-7.658.815
+2024-02-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,30,9724085,"873,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-02-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,1582837,"136,2",False,Laboral,Martes,346.237,-7.658.815
+2024-02-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,30,3878372,"333,8",False,Laboral,Martes,346.237,-7.658.815
+2024-02-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,3051574,"177,9",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,6014642,"350,7",False,Laboral,Miércoles,346.237,-7.658.815
+2024-02-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,4172054,"526,9",False,Laboral,Jueves,346.237,-7.658.815
+2024-02-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,8069082,"1019,1",False,Laboral,Jueves,346.237,-7.658.815
+2024-03-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,9806163,"817,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,9572795,"797,9",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,4227191,"410,8",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,8315247,808,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,73,6252748,"448,6",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-03-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,11521618,"826,6",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-03-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,4640004,"326,3",False,Laboral,Lunes,346.237,-7.658.815
+2024-03-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,7805734,549,False,Laboral,Lunes,346.237,-7.658.815
+2024-03-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,1140322,"82,7",False,Laboral,Martes,346.237,-7.658.815
+2024-03-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,65,12430366,"901,9",False,Laboral,Martes,346.237,-7.658.815
+2024-03-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,90,16064,"1,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,95,3345133,"276,4",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,85,12631,"1,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-03-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,80,14395,"1,3",False,Laboral,Jueves,346.237,-7.658.815
+2024-03-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,3738782,"349,5",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,2815933,"263,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,6373270,"644,7",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,1488309,"150,5",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,81,2365444,"247,9",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-03-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,10736881,1125,False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-03-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,1615637,"171,9",False,Laboral,Lunes,346.237,-7.658.815
+2024-03-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,5880011,"625,6",False,Laboral,Lunes,346.237,-7.658.815
+2024-03-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,83,2543700,"288,5",False,Laboral,Martes,346.237,-7.658.815
+2024-03-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,7629442,"865,3",False,Laboral,Martes,346.237,-7.658.815
+2024-03-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,75,2012365,"271,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,9980750,"1348,2",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,3426985,"353,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-03-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,3181864,"327,9",False,Laboral,Jueves,346.237,-7.658.815
+2024-03-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,73,2512501,"192,8",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,14369197,"1102,9",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,2279144,"201,5",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,3939311,"348,3",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,4711174,"363,8",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-03-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,6362228,"491,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-03-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,1752517,146,False,Laboral,Lunes,346.237,-7.658.815
+2024-03-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,8949487,"745,4",False,Laboral,Lunes,346.237,-7.658.815
+2024-03-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,432310,"57,4",False,Laboral,Martes,346.237,-7.658.815
+2024-03-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,368168,"48,8",False,Laboral,Martes,346.237,-7.658.815
+2024-03-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,11551,"1,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,27534,"4,2",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,18175,"2,1",False,Laboral,Jueves,346.237,-7.658.815
+2024-03-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,27386,"3,1",False,Laboral,Jueves,346.237,-7.658.815
+2024-03-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,24945,"2,6",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,42078,"4,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-03-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,5239,"0,7",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,16073,"2,1",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,91,54219,6,True,Festivo,Domingo,346.237,-7.658.815
+2024-03-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,17,44570,"4,9",True,Festivo,Domingo,346.237,-7.658.815
+2024-03-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,133509,19,True,Festivo,Lunes,346.237,-7.658.815
+2024-03-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,18,602726,"85,9",True,Festivo,Lunes,346.237,-7.658.815
+2024-03-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,881933,"113,3",False,Laboral,Martes,346.237,-7.658.815
+2024-03-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,2477082,"318,1",False,Laboral,Martes,346.237,-7.658.815
+2024-03-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,720680,"89,2",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,5723775,"708,6",False,Laboral,Miércoles,346.237,-7.658.815
+2024-03-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,7556,"1,2",True,Festivo,Jueves,346.237,-7.658.815
+2024-03-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,16,1039378,"162,9",True,Festivo,Jueves,346.237,-7.658.815
+2024-03-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,475262,"47,9",True,Festivo,Viernes,346.237,-7.658.815
+2024-03-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,5445772,"549,3",True,Festivo,Viernes,346.237,-7.658.815
+2024-03-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,1297833,"208,1",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,1476116,"236,7",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-03-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,1681394,"220,7",True,Festivo,Domingo,346.237,-7.658.815
+2024-03-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,7129446,936,True,Festivo,Domingo,346.237,-7.658.815
+2024-04-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,126558,"12,1",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,17,196336,"18,7",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,4156,"0,6",False,Laboral,Martes,346.237,-7.658.815
+2024-04-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,2,4,0,False,Laboral,Martes,346.237,-7.658.815
+2024-04-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,634221,"70,4",False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,1252454,139,False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,1454068,"126,5",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,32,484129,"42,1",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,2325955,207,False,Laboral,Viernes,346.237,-7.658.815
+2024-04-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,2640300,235,False,Laboral,Viernes,346.237,-7.658.815
+2024-04-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,23,429394,"35,7",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,1785555,"148,4",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,6043996,"505,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,3339357,"279,2",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2024774,"286,1",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,914637,"129,2",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,6677051,"872,7",False,Laboral,Martes,346.237,-7.658.815
+2024-04-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,2490853,"325,6",False,Laboral,Martes,346.237,-7.658.815
+2024-04-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,84,3791234,892,False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,77,3182494,"748,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,2424006,"548,8",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,2496407,"565,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,4381968,"645,4",False,Laboral,Viernes,346.237,-7.658.815
+2024-04-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,2248275,"331,1",False,Laboral,Viernes,346.237,-7.658.815
+2024-04-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,4119546,"484,2",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,4728134,"555,7",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,14166170,2054,False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,6495528,"941,8",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,1378532,"344,4",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,1745392,"436,1",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,17902,"4,2",False,Laboral,Martes,346.237,-7.658.815
+2024-04-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,18032,"4,2",False,Laboral,Martes,346.237,-7.658.815
+2024-04-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,17571,"4,7",False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,16791,"4,5",False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,857352,"294,3",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,4061426,"1394,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,870888,"214,7",False,Laboral,Viernes,346.237,-7.658.815
+2024-04-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,23,914123,"225,4",False,Laboral,Viernes,346.237,-7.658.815
+2024-04-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,575766,"73,7",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,3128527,"400,3",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,814006,"131,5",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,942658,"152,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,799481,"171,9",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,537333,"115,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2383565,"129,8",False,Laboral,Martes,346.237,-7.658.815
+2024-04-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,1503574,"81,9",False,Laboral,Martes,346.237,-7.658.815
+2024-04-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,74,2659480,"144,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,894682,"48,7",False,Laboral,Miércoles,346.237,-7.658.815
+2024-04-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,210043,"17,7",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,4412317,"371,8",False,Laboral,Jueves,346.237,-7.658.815
+2024-04-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,544855,"54,4",False,Laboral,Viernes,346.237,-7.658.815
+2024-04-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,538311,"53,7",False,Laboral,Viernes,346.237,-7.658.815
+2024-04-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,1102346,"90,4",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1431971,"117,4",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-04-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,749466,"101,4",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,1708918,"231,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-04-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,1044081,"130,4",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,2286155,"285,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-04-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,11590,"1,8",False,Laboral,Martes,346.237,-7.658.815
+2024-04-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,11307,"1,8",False,Laboral,Martes,346.237,-7.658.815
+2024-05-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,35499,"6,8",True,Festivo,Miércoles,346.237,-7.658.815
+2024-05-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,8639,"1,6",True,Festivo,Miércoles,346.237,-7.658.815
+2024-05-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,19236,"3,8",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,16090,"3,1",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,21968,"4,8",False,Laboral,Viernes,346.237,-7.658.815
+2024-05-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,78446,"17,1",False,Laboral,Viernes,346.237,-7.658.815
+2024-05-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,678152,"93,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,1241293,"171,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,1037187,"168,2",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,2631608,"426,9",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,472831,"98,9",False,Laboral,Lunes,346.237,-7.658.815
+2024-05-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,1728885,"361,8",False,Laboral,Lunes,346.237,-7.658.815
+2024-05-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,892951,"147,3",False,Laboral,Martes,346.237,-7.658.815
+2024-05-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,3023816,"498,7",False,Laboral,Martes,346.237,-7.658.815
+2024-05-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,371210,"46,9",False,Laboral,Miércoles,346.237,-7.658.815
+2024-05-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,8946801,"1129,4",False,Laboral,Miércoles,346.237,-7.658.815
+2024-05-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,1173682,"133,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,2419009,"274,5",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,792282,"100,4",False,Laboral,Viernes,346.237,-7.658.815
+2024-05-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,3495533,443,False,Laboral,Viernes,346.237,-7.658.815
+2024-05-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,453684,"60,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,18,868138,"116,5",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,547726,"132,8",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,3512316,"851,5",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,445546,"79,6",True,Festivo,Lunes,346.237,-7.658.815
+2024-05-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,7054554,"1260,7",True,Festivo,Lunes,346.237,-7.658.815
+2024-05-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,621495,"286,7",False,Laboral,Martes,346.237,-7.658.815
+2024-05-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,1364175,"629,2",False,Laboral,Martes,346.237,-7.658.815
+2024-05-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,22,4980,"0,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-05-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,1,396,"0,1",False,Laboral,Miércoles,346.237,-7.658.815
+2024-05-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,13378004,"1639,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,4353698,"533,5",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,7881777,"758,1",False,Laboral,Viernes,346.237,-7.658.815
+2024-05-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,7051908,"678,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-05-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,2231963,"203,3",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1673784,"152,5",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,5412533,"462,9",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,4177948,"357,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,4114801,"584,5",False,Laboral,Lunes,346.237,-7.658.815
+2024-05-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,32,1877289,"266,6",False,Laboral,Lunes,346.237,-7.658.815
+2024-05-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,5338342,"1005,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,76,5594101,"1053,4",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,77,8435192,"1787,1",False,Laboral,Viernes,346.237,-7.658.815
+2024-05-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,89,1424076,"301,7",False,Laboral,Viernes,346.237,-7.658.815
+2024-05-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,6742775,"946,6",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,2567527,"360,5",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-05-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,5844574,"845,8",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,3588229,"519,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-05-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,3291332,"387,1",False,Laboral,Lunes,346.237,-7.658.815
+2024-05-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,3759238,"442,1",False,Laboral,Lunes,346.237,-7.658.815
+2024-05-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,2242674,"301,1",False,Laboral,Martes,346.237,-7.658.815
+2024-05-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,2897668,"389,1",False,Laboral,Martes,346.237,-7.658.815
+2024-05-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,2672001,"534,2",False,Laboral,Miércoles,346.237,-7.658.815
+2024-05-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,32,2661793,"532,1",False,Laboral,Miércoles,346.237,-7.658.815
+2024-05-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,2177303,182,False,Laboral,Jueves,346.237,-7.658.815
+2024-05-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,2723361,"227,6",False,Laboral,Jueves,346.237,-7.658.815
+2024-05-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,808971,87,False,Laboral,Viernes,346.237,-7.658.815
+2024-05-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,1520110,"163,5",False,Laboral,Viernes,346.237,-7.658.815
+2024-06-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,1971698,"196,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,4937042,"493,2",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,48543,5,False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,199030,"20,3",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,13228,"1,9",True,Festivo,Lunes,346.237,-7.658.815
+2024-06-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,7522,"1,1",True,Festivo,Lunes,346.237,-7.658.815
+2024-06-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,4442,1,False,Laboral,Martes,346.237,-7.658.815
+2024-06-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,7374,"1,6",False,Laboral,Martes,346.237,-7.658.815
+2024-06-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,17475,"6,1",False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,26551,"9,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,34811,"5,7",False,Laboral,Jueves,346.237,-7.658.815
+2024-06-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,111161,"18,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-06-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,73814,"15,3",False,Laboral,Viernes,346.237,-7.658.815
+2024-06-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,14233,3,False,Laboral,Viernes,346.237,-7.658.815
+2024-06-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,22,2697,"0,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,9617,"3,1",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,18895,"6,5",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,8955,"3,1",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,3790,"0,7",True,Festivo,Lunes,346.237,-7.658.815
+2024-06-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,30,14438,"2,6",True,Festivo,Lunes,346.237,-7.658.815
+2024-06-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,9299,"1,5",False,Laboral,Martes,346.237,-7.658.815
+2024-06-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,8041,"1,3",False,Laboral,Martes,346.237,-7.658.815
+2024-06-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,17,2334,"0,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,1983,"0,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2153245,41921392600,False,Laboral,Jueves,346.237,-7.658.815
+2024-06-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,922810,17966130300,False,Laboral,Jueves,346.237,-7.658.815
+2024-06-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,1496138,44967957600,False,Laboral,Viernes,346.237,-7.658.815
+2024-06-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,964483,28988522900,False,Laboral,Viernes,346.237,-7.658.815
+2024-06-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,196079,3517707900,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,4572484,82031544800,False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,749646,13442579300,False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,2235792,4009200500,False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,2485676,"397,8",False,Laboral,Lunes,346.237,-7.658.815
+2024-06-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,2908488,"465,4",False,Laboral,Lunes,346.237,-7.658.815
+2024-06-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,30,1696121,"267,9",False,Laboral,Martes,346.237,-7.658.815
+2024-06-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,2123606,"335,4",False,Laboral,Martes,346.237,-7.658.815
+2024-06-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,846153,120,False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,1947817,"276,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,30,731606,"146,5",False,Laboral,Jueves,346.237,-7.658.815
+2024-06-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,1571071,"314,5",False,Laboral,Jueves,346.237,-7.658.815
+2024-06-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,1741708,"299,2",False,Laboral,Viernes,346.237,-7.658.815
+2024-06-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,1091550,"187,5",False,Laboral,Viernes,346.237,-7.658.815
+2024-06-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2157523,"408,2",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,1708241,"323,2",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,500484,"196,4",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,646315,"253,7",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,6787,"1,3",False,Laboral,Lunes,346.237,-7.658.815
+2024-06-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,8903,"1,7",False,Laboral,Lunes,346.237,-7.658.815
+2024-06-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,14092,"3,5",False,Laboral,Martes,346.237,-7.658.815
+2024-06-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,20411,"5,1",False,Laboral,Martes,346.237,-7.658.815
+2024-06-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,12802,"3,3",False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,19113,"4,9",False,Laboral,Miércoles,346.237,-7.658.815
+2024-06-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,12,111086,"33,1",False,Laboral,Jueves,346.237,-7.658.815
+2024-06-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,19,30979,"9,2",False,Laboral,Jueves,346.237,-7.658.815
+2024-06-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,1431196,"246,2",False,Laboral,Viernes,346.237,-7.658.815
+2024-06-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,1376877,"236,9",False,Laboral,Viernes,346.237,-7.658.815
+2024-06-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,2502844,"424,4",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,1629020,"276,2",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-06-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,1413104,"303,5",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-06-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,1332165,"286,1",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,1407004,"195,47",True,Festivo,Lunes,346.237,-7.658.815
+2024-07-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,2728398,"379,04",True,Festivo,Lunes,346.237,-7.658.815
+2024-07-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,1465864,"157,89",False,Laboral,Martes,346.237,-7.658.815
+2024-07-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,1781499,"191,88",False,Laboral,Martes,346.237,-7.658.815
+2024-07-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,563641,"67,04",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,78,763375,"90,79",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,7664,"0,97",False,Laboral,Jueves,346.237,-7.658.815
+2024-07-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,10895,"1,37",False,Laboral,Jueves,346.237,-7.658.815
+2024-07-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,4065657,"477,19",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,2478329,"290,89",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,1494265,"177,51",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-07-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,3439183,"408,56",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-07-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,1208892,"137,02",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,4037591,"457,65",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,1220426,"219,66",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,3717372,"669,08",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,1191220,"205,13",False,Laboral,Martes,346.237,-7.658.815
+2024-07-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,2117739,"364,68",False,Laboral,Martes,346.237,-7.658.815
+2024-07-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,1531668,"221,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2490910,"360,71",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,2422090,"328,25",False,Laboral,Jueves,346.237,-7.658.815
+2024-07-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,65,3889305,"527,09",False,Laboral,Jueves,346.237,-7.658.815
+2024-07-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,3679491,"580,21",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,2696613,"425,22",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,707768,"100,46",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-07-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,3498266,"496,56",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-07-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,2434492,"382,84",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,2275297,"357,81",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,1408396,"251,96",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,3374433,"603,67",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,458847,"73,04",False,Laboral,Martes,346.237,-7.658.815
+2024-07-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,3955680,"629,7",False,Laboral,Martes,346.237,-7.658.815
+2024-07-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,5,76341,"16,87",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,5,48073,"10,62",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,2480109,"345,58",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,2224132,"309,91",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,1451520,"186,37",True,Festivo,Sábado,346.237,-7.658.815
+2024-07-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2665639,"342,26",True,Festivo,Sábado,346.237,-7.658.815
+2024-07-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,126,1550440,"236,85",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,107,2058941,"314,53",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,1242579,"178,79",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,391023,"56,26",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,2246565,"324,32",False,Laboral,Martes,346.237,-7.658.815
+2024-07-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,405280,"58,51",False,Laboral,Martes,346.237,-7.658.815
+2024-07-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,1403781,"222,09",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,350693,"55,48",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,2720357,"430,28",False,Laboral,Jueves,346.237,-7.658.815
+2024-07-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1341412,"212,17",False,Laboral,Jueves,346.237,-7.658.815
+2024-07-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,1965085,"258,82",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,1806440,"237,92",False,Laboral,Viernes,346.237,-7.658.815
+2024-07-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,2294774,"392,47",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-07-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,1515786,"259,24",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-07-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,78,1286426,"272,22",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,65,1730219,"366,13",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-07-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,521026,"83,55",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,1414581,"226,83",False,Laboral,Lunes,346.237,-7.658.815
+2024-07-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,65,6089883,"889,97",False,Laboral,Martes,346.237,-7.658.815
+2024-07-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,1247818,"182,35",False,Laboral,Martes,346.237,-7.658.815
+2024-07-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,2223227,"369,28",False,Laboral,Miércoles,346.237,-7.658.815
+2024-07-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,3731030,"619,73",False,Laboral,Miércoles,346.237,-7.658.815
+2024-08-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,10747,"1,6",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,134277,"20,04",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,20289,"3,38",False,Laboral,Viernes,346.237,-7.658.815
+2024-08-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,16252,"2,7",False,Laboral,Viernes,346.237,-7.658.815
+2024-08-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,14991,"3,05",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,7895,"1,61",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,80,26813,"4,27",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,77,8465,"1,35",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,7298,"1,05",False,Laboral,Lunes,346.237,-7.658.815
+2024-08-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,8,2310,"0,33",False,Laboral,Lunes,346.237,-7.658.815
+2024-08-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,78610,"7,57",False,Laboral,Martes,346.237,-7.658.815
+2024-08-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,533796,"51,39",False,Laboral,Martes,346.237,-7.658.815
+2024-08-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,845300,"100,55",True,Festivo,Miércoles,346.237,-7.658.815
+2024-08-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,2516903,"299,39",True,Festivo,Miércoles,346.237,-7.658.815
+2024-08-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,58603,"7,35",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,83,1081399,"135,67",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,6988,"1,29",False,Laboral,Viernes,346.237,-7.658.815
+2024-08-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,34642,"6,39",False,Laboral,Viernes,346.237,-7.658.815
+2024-08-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,70889,"13,42",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,1331821,"252,09",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,1685381,"292,49",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,3337299,"579,17",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,379283,"81,3",False,Laboral,Lunes,346.237,-7.658.815
+2024-08-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,1835995,"393,56",False,Laboral,Lunes,346.237,-7.658.815
+2024-08-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,1009379,"114,25",False,Laboral,Martes,346.237,-7.658.815
+2024-08-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,1126262,"127,48",False,Laboral,Martes,346.237,-7.658.815
+2024-08-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,86,1237843,"164,29",False,Laboral,Miércoles,346.237,-7.658.815
+2024-08-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,1498769,"198,92",False,Laboral,Miércoles,346.237,-7.658.815
+2024-08-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,73,1150628,"172,75",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,1472349,"221,05",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,1211045,165,False,Laboral,Viernes,346.237,-7.658.815
+2024-08-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,1110874,"151,36",False,Laboral,Viernes,346.237,-7.658.815
+2024-08-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,2017314,"292,59",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,1973704,"286,26",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,3086082,"466,99",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,2295277,"347,33",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,3359281,"461,14",True,Festivo,Lunes,346.237,-7.658.815
+2024-08-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,1134618,"155,75",True,Festivo,Lunes,346.237,-7.658.815
+2024-08-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,584004,"144,59",False,Laboral,Martes,346.237,-7.658.815
+2024-08-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,933913,"231,22",False,Laboral,Martes,346.237,-7.658.815
+2024-08-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,4306361,"1254,18",False,Laboral,Miércoles,346.237,-7.658.815
+2024-08-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,1744467,"508,05",False,Laboral,Miércoles,346.237,-7.658.815
+2024-08-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,73,2603106,"692,68",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,1930851,"513,8",False,Laboral,Jueves,346.237,-7.658.815
+2024-08-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,8970,"3,65",False,Laboral,Viernes,346.237,-7.658.815
+2024-08-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,7814,"3,18",False,Laboral,Viernes,346.237,-7.658.815
+2024-08-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,6203,"4,2",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,9677,"6,56",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-08-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,6734,"6,44",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,8524,"8,16",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-08-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,1,23,"0,03",False,Laboral,Lunes,346.237,-7.658.815
+2024-08-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,2,61,"0,08",False,Laboral,Lunes,346.237,-7.658.815
+2024-10-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,1424281,"3073,02",False,Laboral,Jueves,346.237,-7.658.815
+2024-10-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,329646,"711,24",False,Laboral,Jueves,346.237,-7.658.815
+2024-10-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,1367548,"305,49",False,Laboral,Viernes,346.237,-7.658.815
+2024-10-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,594111,"132,72",False,Laboral,Viernes,346.237,-7.658.815
+2024-10-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,297579,"38,54",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-10-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,25,899465,"116,48",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-10-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,19505,"1,96",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-10-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,6304,"0,63",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-10-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,23,35869,"5,96",False,Laboral,Lunes,346.237,-7.658.815
+2024-10-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,19,527517,"87,6",False,Laboral,Lunes,346.237,-7.658.815
+2024-10-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,25,973562,"153,57",False,Laboral,Martes,346.237,-7.658.815
+2024-10-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,1021357,"161,11",False,Laboral,Martes,346.237,-7.658.815
+2024-10-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,21116,"4,31",False,Laboral,Miércoles,346.237,-7.658.815
+2024-10-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,729889,"148,98",False,Laboral,Miércoles,346.237,-7.658.815
+2024-10-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,23,70982,"15,13",False,Laboral,Jueves,346.237,-7.658.815
+2024-10-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,805953,"171,79",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,478078,"86,45",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,21,438687,"79,33",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,434718,"69,96",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,542032,"87,23",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,1850529,"314,58",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,16,760654,"129,31",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,21,1236371,"186,37",True,Festivo,Lunes,346.237,-7.658.815
+2024-11-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,20,118533,"17,87",True,Festivo,Lunes,346.237,-7.658.815
+2024-11-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,2006788,"274,82",False,Laboral,Martes,346.237,-7.658.815
+2024-11-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,2133621,"292,19",False,Laboral,Martes,346.237,-7.658.815
+2024-11-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,2082152,"332,53",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,4693254,"749,53",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,1554574,"174,8",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,3644732,"409,82",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2246263,"181,64",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,4805238,"388,57",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,389502,"23,39",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,1044324,"62,72",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,1110383,"57,32",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,325103,"16,78",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,1781078,"101,41",True,Festivo,Lunes,346.237,-7.658.815
+2024-11-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,639867,"36,43",True,Festivo,Lunes,346.237,-7.658.815
+2024-11-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,6349514,"332,18",False,Laboral,Martes,346.237,-7.658.815
+2024-11-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,1685022,"88,15",False,Laboral,Martes,346.237,-7.658.815
+2024-11-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,1509707,"93,19",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,1308453,"80,76",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,3452534,"179,85",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,2792798,"145,48",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,4119538,"226,14",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,2422872,"133,01",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,590709,"32,08",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,1233169,"66,97",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,2519026,"146,63",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,644293,"37,5",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,271295,"16,88",False,Laboral,Lunes,346.237,-7.658.815
+2024-11-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,3725992,"231,8",False,Laboral,Lunes,346.237,-7.658.815
+2024-11-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,581398,"36,39",False,Laboral,Martes,346.237,-7.658.815
+2024-11-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,913549,"57,18",False,Laboral,Martes,346.237,-7.658.815
+2024-11-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,83,2495973,"130,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,93,10171716,"533,03",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,3453977,"191,29",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,2815918,"155,96",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,3632919,"179,96",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,3634147,"180,02",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,80,3944890,"205,85",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,84,2935835,"153,19",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,166966,"22,55",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,311012,"42,01",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-11-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,243815,"59,28",False,Laboral,Lunes,346.237,-7.658.815
+2024-11-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,2398363,"583,16",False,Laboral,Lunes,346.237,-7.658.815
+2024-11-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,671965,"85,33",False,Laboral,Martes,346.237,-7.658.815
+2024-11-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,368937,"46,85",False,Laboral,Martes,346.237,-7.658.815
+2024-11-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,86,3811055,"196,24",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,84,5893759,"303,48",False,Laboral,Miércoles,346.237,-7.658.815
+2024-11-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,141,13866653,"658,58",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,153,14068579,"668,17",False,Laboral,Jueves,346.237,-7.658.815
+2024-11-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,2536676,"114,14",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,3455481,"155,48",False,Laboral,Viernes,346.237,-7.658.815
+2024-11-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,30,908149,"39,84",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-11-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,3363007,"147,55",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,5590267,"231,32",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,1746405,"72,27",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,6165484,"295,48",False,Laboral,Lunes,346.237,-7.658.815
+2024-12-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,2124529,"101,82",False,Laboral,Lunes,346.237,-7.658.815
+2024-12-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,75,4638336,"248,43",False,Laboral,Martes,346.237,-7.658.815
+2024-12-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,73,6543672,"350,48",False,Laboral,Martes,346.237,-7.658.815
+2024-12-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,89,5625866,"243,58",False,Laboral,Miércoles,346.237,-7.658.815
+2024-12-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,98,6393197,"276,8",False,Laboral,Miércoles,346.237,-7.658.815
+2024-12-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,77,3704182,"161,46",False,Laboral,Jueves,346.237,-7.658.815
+2024-12-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,85,6305303,"274,84",False,Laboral,Jueves,346.237,-7.658.815
+2024-12-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,1297092,"57,69",False,Laboral,Viernes,346.237,-7.658.815
+2024-12-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,3924956,"174,57",False,Laboral,Viernes,346.237,-7.658.815
+2024-12-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,5656364,"275,72",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,2571915,"125,37",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,3106158,"116,97",True,Festivo,Domingo,346.237,-7.658.815
+2024-12-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,65,1065168,"40,11",True,Festivo,Domingo,346.237,-7.658.815
+2024-12-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,1496625,"55,49",False,Laboral,Lunes,346.237,-7.658.815
+2024-12-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,4854403,"179,99",False,Laboral,Lunes,346.237,-7.658.815
+2024-12-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,1433974,"47,35",False,Laboral,Martes,346.237,-7.658.815
+2024-12-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,5489268,"181,26",False,Laboral,Martes,346.237,-7.658.815
+2024-12-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,89,6002114,"199,06",False,Laboral,Miércoles,346.237,-7.658.815
+2024-12-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,103,10121505,"335,68",False,Laboral,Miércoles,346.237,-7.658.815
+2024-12-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,2034434,"59,29",False,Laboral,Jueves,346.237,-7.658.815
+2024-12-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,74,9349420,"272,46",False,Laboral,Jueves,346.237,-7.658.815
+2024-12-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,2049777,"60,42",False,Laboral,Viernes,346.237,-7.658.815
+2024-12-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,75,9216739,"271,67",False,Laboral,Viernes,346.237,-7.658.815
+2024-12-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,2583681,"85,06",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,2987192,"98,34",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,82,6159483,"207,91",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,2079610,"70,2",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,2878862,"86,57",False,Laboral,Lunes,346.237,-7.658.815
+2024-12-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,6023421,"181,12",False,Laboral,Lunes,346.237,-7.658.815
+2024-12-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,2248125,"73,2",False,Laboral,Martes,346.237,-7.658.815
+2024-12-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,3684865,120,False,Laboral,Martes,346.237,-7.658.815
+2024-12-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,2476781,"78,5",False,Laboral,Miércoles,346.237,-7.658.815
+2024-12-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,80,4969368,157,False,Laboral,Miércoles,346.237,-7.658.815
+2024-12-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,96,3638957,128,False,Laboral,Jueves,346.237,-7.658.815
+2024-12-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,92,6292183,221,False,Laboral,Jueves,346.237,-7.658.815
+2024-12-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,78,7640807,252,False,Laboral,Viernes,346.237,-7.658.815
+2024-12-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,5741925,189,False,Laboral,Viernes,346.237,-7.658.815
+2024-12-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1442958,"55,3",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,1275230,"48,9",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,2341101,"73,1",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,1432332,"44,7",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,2613295,104,False,Laboral,Lunes,346.237,-7.658.815
+2024-12-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,2744904,109,False,Laboral,Lunes,346.237,-7.658.815
+2024-12-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,615321,"25,7",False,Laboral,Martes,346.237,-7.658.815
+2024-12-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,2158104,"90,3",False,Laboral,Martes,346.237,-7.658.815
+2024-12-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,1374184,"48,6",True,Festivo,Miércoles,346.237,-7.658.815
+2024-12-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,1018528,"36,1",True,Festivo,Miércoles,346.237,-7.658.815
+2024-12-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,1473463,"53,9",False,Laboral,Jueves,346.237,-7.658.815
+2024-12-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,285278,"10,4",False,Laboral,Jueves,346.237,-7.658.815
+2024-12-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,3453118,106,False,Laboral,Viernes,346.237,-7.658.815
+2024-12-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,4414039,135,False,Laboral,Viernes,346.237,-7.658.815
+2024-12-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,1689100,"71,8",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,2033455,"86,4",False,Fin de Semana,Sábado,346.237,-7.658.815
+2024-12-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,1924541,"59,6",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,830985,"25,7",False,Fin de Semana,Domingo,346.237,-7.658.815
+2024-12-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,4941088,202,False,Laboral,Lunes,346.237,-7.658.815
+2024-12-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,1215465,"49,7",False,Laboral,Lunes,346.237,-7.658.815
+2024-12-31,RURAL,029_ZW Centro Cultural Vista Hermosa,1,MR76,23,784955,"42,3",False,Laboral,Martes,346.237,-7.658.815
+2024-12-31,RURAL,029_ZW Centro Cultural Vista Hermosa,1,MR76,21,346291,"18,6",False,Laboral,Martes,346.237,-7.658.815
+2025-01-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,262824,18,True,Festivo,Miércoles,346.237,-7.658.815
+2025-01-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,377237,26,True,Festivo,Miércoles,346.237,-7.658.815
+2025-01-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,4352163,156,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,1125718,40,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,2352531,88,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,6112018,228,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,3738908,139,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,531816,20,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,21,2237486,68,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,15,220523,7,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,20,5654430,151,True,Festivo,Lunes,346.237,-7.658.815
+2025-01-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,1768687,47,True,Festivo,Lunes,346.237,-7.658.815
+2025-01-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,3409943,103,False,Laboral,Martes,346.237,-7.658.815
+2025-01-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2960823,89,False,Laboral,Martes,346.237,-7.658.815
+2025-01-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,2426879,70,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,2828552,82,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,1214840,35,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,7800037,224,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,3754652,104,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,10711240,296,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,2884316,84,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,2384488,70,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,2725197,73,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,1660404,44,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,3947266,131,False,Laboral,Lunes,346.237,-7.658.815
+2025-01-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,75,7954278,265,False,Laboral,Lunes,346.237,-7.658.815
+2025-01-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,4714270,155,False,Laboral,Martes,346.237,-7.658.815
+2025-01-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,5102398,168,False,Laboral,Martes,346.237,-7.658.815
+2025-01-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,2243461,78,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,5499499,190,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,1860840,59,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,7304167,232,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2407592,79,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,52,2479827,81,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,5050005,167,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,23,958334,32,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,4457808,138,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,526001,16,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,3095507,96,False,Laboral,Lunes,346.237,-7.658.815
+2025-01-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,5413534,168,False,Laboral,Lunes,346.237,-7.658.815
+2025-01-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,1339088,37,False,Laboral,Martes,346.237,-7.658.815
+2025-01-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,66,8148245,226,False,Laboral,Martes,346.237,-7.658.815
+2025-01-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,73,4225672,126,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,83,8610512,257,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,3198706,80,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,4481555,112,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,5124275,154,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,4701846,141,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,2512584,68,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,1727180,46,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-01-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,4391550,112,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,1706450,43,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-01-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,65,3094191,82,False,Laboral,Lunes,346.237,-7.658.815
+2025-01-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,7844398,207,False,Laboral,Lunes,346.237,-7.658.815
+2025-01-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,5150554,156,False,Laboral,Martes,346.237,-7.658.815
+2025-01-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,57,3581813,109,False,Laboral,Martes,346.237,-7.658.815
+2025-01-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,71,8079591,223,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,4029640,111,False,Laboral,Miércoles,346.237,-7.658.815
+2025-01-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,85,3768030,139,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,3780517,139,False,Laboral,Jueves,346.237,-7.658.815
+2025-01-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,2930806,159,False,Laboral,Viernes,346.237,-7.658.815
+2025-01-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,1452430,79,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,2967433,105,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,7703046,272,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,1247538,37,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,973622,29,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,1963857,76,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,2969344,115,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,3073476,109,False,Laboral,Martes,346.237,-7.658.815
+2025-02-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1935810,69,False,Laboral,Martes,346.237,-7.658.815
+2025-02-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,1987942,82,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,62,3280944,135,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,2286244,84,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,2055316,76,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,4410628,150,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,5205702,178,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,17,731724,27,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,24,5163556,193,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,5320827,168,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,34,5043192,159,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2980411,113,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,1592121,61,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,1435238,48,False,Laboral,Martes,346.237,-7.658.815
+2025-02-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,2993433,101,False,Laboral,Martes,346.237,-7.658.815
+2025-02-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,1620427,49,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,2085267,63,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,1214035,57,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,23,1163146,55,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,7165467,214,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,6601161,198,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,32,1157173,42,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,28,1571110,57,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,7731963,255,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,7765395,256,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,1289261,46,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,2650755,94,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,1947862,69,False,Laboral,Martes,346.237,-7.658.815
+2025-02-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,2178028,78,False,Laboral,Martes,346.237,-7.658.815
+2025-02-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,1163980,37,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,2097582,67,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,2968126,84,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,3428707,97,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,3045264,104,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,3571743,123,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,1571525,55,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,38,2476359,87,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-02-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,4607058,134,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,37,5874783,171,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-02-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,1948287,80,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,60,1579200,65,False,Laboral,Lunes,346.237,-7.658.815
+2025-02-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,67,5713988,184,False,Laboral,Martes,346.237,-7.658.815
+2025-02-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,72,6281743,202,False,Laboral,Martes,346.237,-7.658.815
+2025-02-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,8276250,299,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,4962284,179,False,Laboral,Miércoles,346.237,-7.658.815
+2025-02-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,7325931,256,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,2619144,91,False,Laboral,Jueves,346.237,-7.658.815
+2025-02-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,8009478,284,False,Laboral,Viernes,346.237,-7.658.815
+2025-02-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,69,1756001,62,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,50,3545088,133,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-01,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1549266,58,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,3045528,90,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-02,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,1896925,56,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,848404,32,False,Laboral,Lunes,346.237,-7.658.815
+2025-03-03,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,5226770,196,False,Laboral,Lunes,346.237,-7.658.815
+2025-03-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,39,3024682,137,False,Laboral,Martes,346.237,-7.658.815
+2025-03-04,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,55,6046123,274,False,Laboral,Martes,346.237,-7.658.815
+2025-03-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,56,5678239,201,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-05,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,63,9317991,330,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,5161117,166,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-06,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,3244022,104,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,58,2104455,76,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-07,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,68,3858574,139,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,25,2105314,61,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-08,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,27,713358,21,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,5427595,169,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-09,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,30,1660238,52,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,31,5064308,146,False,Laboral,Lunes,346.237,-7.658.815
+2025-03-10,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,4111655,119,False,Laboral,Lunes,346.237,-7.658.815
+2025-03-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,1513269,68,False,Laboral,Martes,346.237,-7.658.815
+2025-03-11,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,41,1174095,53,False,Laboral,Martes,346.237,-7.658.815
+2025-03-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,83,3805987,129,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-12,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,78,5126410,173,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,61,4122233,170,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-13,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,51,2485048,103,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,70,5418104,183,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-14,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,83,7317067,247,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2689320,86,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-15,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,5236493,168,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,25,1033566,33,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-16,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,33,1127473,36,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,1812926,62,False,Laboral,Lunes,346.237,-7.658.815
+2025-03-17,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,3441141,118,False,Laboral,Lunes,346.237,-7.658.815
+2025-03-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2748042,83,False,Laboral,Martes,346.237,-7.658.815
+2025-03-18,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,1715907,52,False,Laboral,Martes,346.237,-7.658.815
+2025-03-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,64,1560371,56,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-19,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,59,3065028,110,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2125223,68,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-20,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,49,5497636,177,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,54,2438987,66,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-21,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,2769380,75,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,44,3409470,112,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-22,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,40,2069153,68,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,1678025,52,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-23,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,48,1769017,55,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,36,6986120,173,True,Festivo,Lunes,346.237,-7.658.815
+2025-03-24,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,1531063,38,True,Festivo,Lunes,346.237,-7.658.815
+2025-03-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,3209541,93,False,Laboral,Martes,346.237,-7.658.815
+2025-03-25,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,2141500,62,False,Laboral,Martes,346.237,-7.658.815
+2025-03-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,2660943,86,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-26,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,5335100,172,False,Laboral,Miércoles,346.237,-7.658.815
+2025-03-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,43,7692683,213,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-27,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,1377317,38,False,Laboral,Jueves,346.237,-7.658.815
+2025-03-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,888535,37,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-28,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,26,3253417,135,False,Laboral,Viernes,346.237,-7.658.815
+2025-03-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,53,11221376,351,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-29,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,46,2170654,68,False,Fin de Semana,Sábado,346.237,-7.658.815
+2025-03-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,42,6054872,173,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-30,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,29,2713184,78,False,Fin de Semana,Domingo,346.237,-7.658.815
+2025-03-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,47,2836430,94,False,Laboral,Lunes,346.237,-7.658.815
+2025-03-31,URBANA,029_ZW Centro Cultural Vista Hermosa,1,MR76,35,3206322,107,False,Laboral,Lunes,346.237,-7.658.815

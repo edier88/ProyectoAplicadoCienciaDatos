@@ -1,0 +1,357 @@
+﻿fechaconexion,area,nombrezona,comuna,model,es_festivo,tipo_dia,dia_semana,latitud,longitud,numeroconexiones,usagekb,porcentajeuso
+2024-01-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,87.0,23011,2.7
+2024-01-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,62.0,33003,3.9
+2024-01-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,82.0,14167,1.1
+2024-01-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,71.0,23103,2.2
+2024-01-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,88.0,16926,1.6
+2024-01-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,90.0,27794,3.6
+2024-01-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,83.0,4739507,472.2
+2024-01-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,77.0,5788385,367.1
+2024-01-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,93.0,5800441,447.6
+2024-01-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,94.0,3442145,285.29999999999995
+2024-01-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,91.0,6929923,644.0
+2024-01-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,97.0,24498866,2109.3
+2024-01-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,115.0,12494778,1387.8000000000002
+2024-01-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,111.0,10527020,1330.3000000000002
+2024-01-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,90.0,218735,31.6
+2024-01-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,90.0,11306,1.4
+2024-01-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,71.0,9998,1.0
+2024-01-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,83.0,1264899,105.4
+2024-01-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,94.0,3735477,243.4
+2024-01-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,113.0,9514381,734.6999999999999
+2024-01-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,111.0,7537281,582.2
+2024-01-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,114.0,12484720,1190.7
+2024-01-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,101.0,14259413,1320.4
+2024-01-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,107.0,4749572,379.7000000000001
+2024-01-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,108.0,15488,1.0
+2024-01-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,102.0,26982,2.0
+2024-01-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,85.0,17473,1.4
+2024-01-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,93.0,14894,1.4
+2024-01-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,101.0,29477,2.5
+2024-01-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,89.0,40355,4.5
+2024-01-31,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,75.0,11226,1.1
+2024-02-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,94.0,17145,1.3
+2024-02-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,51.0,40183,4.2
+2024-02-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,82.0,1258233,70.9
+2024-02-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,54.0,2145556,134.2
+2024-02-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,63.0,9693816,644.0
+2024-02-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,56.0,4605460,308.2
+2024-02-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,73.0,12667185,767.3
+2024-02-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,82.0,8962853,659.7
+2024-02-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,95.0,13713370,1139.6
+2024-02-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,101.0,7664501,479.8
+2024-02-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,93.0,6118790,455.3
+2024-02-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,86.0,11763709,1136.2
+2024-02-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,80.0,16312753,1883.2
+2024-02-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,89.0,6762885,895.4
+2024-02-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,105.0,7219011,618.2
+2024-02-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,107.0,13209871,1252.8
+2024-02-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,108.0,12762626,1206.9
+2024-02-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,96.0,18922581,1462.0
+2024-02-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,101.0,11855235,809.0
+2024-02-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,93.0,16262370,1331.8000000000002
+2024-02-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,105.0,7765243,673.0999999999999
+2024-02-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,107.0,15539671,1015.2
+2024-02-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,86.0,10332498,726.2
+2024-02-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,125.0,9847814,784.1
+2024-02-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,99.0,12160632,692.4000000000001
+2024-02-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,113.0,2951837,265.2
+2024-02-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,96.0,36346,3.2
+2024-02-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,81.0,25208,1.5
+2024-02-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,93.0,24469,3.0
+2024-03-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,109.0,11135990,928.2
+2024-03-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,85.0,6314963,613.6
+2024-03-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,106.0,8133263,583.5
+2024-03-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,83.0,6948304,488.7000000000001
+2024-03-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,84.0,4539800,329.3
+2024-03-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,92.0,6955605,574.8
+2024-03-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,107.0,7523125,704.0999999999999
+2024-03-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,102.0,4028969,376.7
+2024-03-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,116.0,682784,69.0
+2024-03-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,104.0,5419667,567.9
+2024-03-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,108.0,15685827,1668.9
+2024-03-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,119.0,6636308,752.7
+2024-03-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,101.0,487574,65.8
+2024-03-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,117.0,107027,11.0
+2024-03-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,105.0,41817,3.2
+2024-03-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,126.0,256707,22.700000000000003
+2024-03-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,108.0,19896,1.5
+2024-03-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,103.0,5867855,488.8
+2024-03-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,98.0,6099912,809.3
+2024-03-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,100.0,4683337,714.5
+2024-03-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,114.0,4786345,548.2
+2024-03-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,99.0,9254164,948.7
+2024-03-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,105.0,6623807,848.9
+2024-03-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Domingo,342.637,-764.865,122.0,1867445,205.3
+2024-03-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,83.0,36506,5.2
+2024-03-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,105.0,22630,2.9
+2024-03-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,129.0,25264,3.1
+2024-03-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Jueves,342.637,-764.865,123.0,27308,4.300000000000001
+2024-03-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Viernes,342.637,-764.865,92.0,71185,7.2
+2024-03-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,120.0,25877,4.1
+2024-03-31,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Domingo,342.637,-764.865,70.0,97139,12.8
+2024-04-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,70.0,5171326,493.0
+2024-04-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,76.0,4265189,606.1999999999999
+2024-04-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,95.0,4748374,527.1
+2024-04-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,88.0,7551910,656.9
+2024-04-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,98.0,21868,2.0
+2024-04-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,110.0,29790,2.5
+2024-04-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,78.0,31231,2.6
+2024-04-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,74.0,25827,3.7
+2024-04-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,87.0,21439,2.8
+2024-04-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,86.0,211030,49.7
+2024-04-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,89.0,8120900,1838.6
+2024-04-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,87.0,7118913,1048.5
+2024-04-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,110.0,3317661,390.0
+2024-04-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,87.0,4521249,655.6
+2024-04-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,99.0,32696,8.2
+2024-04-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,76.0,12871,3.0
+2024-04-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,89.0,139949,37.5
+2024-04-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,87.0,8293285,2846.9
+2024-04-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,78.0,2623544,646.8
+2024-04-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,72.0,1759890,225.2
+2024-04-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,75.0,5157510,833.5
+2024-04-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,71.0,3390748,729.0
+2024-04-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,95.0,12745207,694.2
+2024-04-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,98.0,14833635,807.5999999999999
+2024-04-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,86.0,12281964,1035.1
+2024-04-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,82.0,3863867,385.6
+2024-04-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,100.0,420013,34.4
+2024-04-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,61.0,21632,2.9
+2024-04-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,78.0,43607,5.5
+2024-04-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,86.0,14840,2.4
+2024-05-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Miércoles,342.637,-764.865,77.0,13571,2.6
+2024-05-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,57.0,21754,4.2
+2024-05-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,69.0,7384556,1611.6
+2024-05-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,73.0,5096377,706.0
+2024-05-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,82.0,3129784,507.7
+2024-05-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,81.0,3900542,816.3000000000001
+2024-05-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,73.0,1166547,192.4
+2024-05-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,59.0,12204,1.6
+2024-05-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,58.0,7577,0.8999999999999999
+2024-05-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,68.0,12709,1.6
+2024-05-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,82.0,26794,3.6
+2024-05-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,62.0,60015,14.6
+2024-05-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,94.0,38108,6.9
+2024-05-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,73.0,7971,3.6
+2024-05-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,67.0,13244,2.2
+2024-05-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,80.0,13234,1.6
+2024-05-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,67.0,34631,3.4
+2024-05-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,73.0,24941,2.3
+2024-05-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,63.0,10305,0.9
+2024-05-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,66.0,14045,2.0
+2024-05-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,72.0,5675,0.7
+2024-05-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,45.0,9136,3.6
+2024-05-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,62.0,26830,5.1
+2024-05-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,78.0,13059,2.8
+2024-05-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,92.0,11796,1.6
+2024-05-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,64.0,16570,2.4
+2024-05-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,66.0,14712,1.8
+2024-05-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,63.0,4704,0.7
+2024-05-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,41.0,6892,1.4
+2024-05-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,68.0,9849,0.8
+2024-05-31,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,78.0,5997,0.6
+2024-06-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,81.0,21055,2.1
+2024-06-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,63.0,12197,1.2000000000000002
+2024-06-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,74.0,15728,2.2
+2024-06-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,57.0,11355,2.5
+2024-06-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,42.0,7202,2.5
+2024-06-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,64.0,9335,1.5
+2024-06-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,71.0,16893,3.5
+2024-06-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,74.0,15914,5.1
+2024-06-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,73.0,23250,8.0
+2024-06-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,77.0,21595,4.0
+2024-06-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,70.0,12778,2.0
+2024-06-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,80.0,11053,1.4
+2024-06-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,55.0,12998,253057200.0
+2024-06-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,48.0,8180,245858300.0
+2024-06-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,77.0,6099,109417600.0
+2024-06-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,83.0,11350,141199400.0
+2024-06-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,66.0,12650,2.0
+2024-06-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,59.0,2401618,379.4
+2024-06-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,46.0,501516,71.19999999999999
+2024-06-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,80.0,871111,174.39999999999998
+2024-06-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,76.0,693580,119.1
+2024-06-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,114.0,15480,2.9
+2024-06-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,15.0,1002,0.4
+2024-06-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,68.0,1276063,316.1
+2024-06-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,86.0,3190834,824.0
+2024-06-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,76.0,6716576,1998.7
+2024-06-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,3.0,4092,0.7
+2024-06-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,88.0,1750534,296.8
+2024-06-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,59.0,6412319,1377.3
+2024-07-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,93.0,6753718,938.26
+2024-07-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,6.0,963,0.11
+2024-07-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,61.0,1005438,119.58
+2024-07-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,73.0,3091058,389.54
+2024-07-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,72.0,3842753,451.03
+2024-07-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,100.0,7634702,906.97
+2024-07-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,123.0,2771081,314.1
+2024-07-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,71.0,20253,3.65
+2024-07-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,77.0,18259,3.1500000000000004
+2024-07-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,97.0,10407,1.5
+2024-07-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,98.0,30671,4.16
+2024-07-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,85.0,9662,1.5299999999999998
+2024-07-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,87.0,420772,59.73
+2024-07-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,89.0,1626950,255.85
+2024-07-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,69.0,1512119,270.51
+2024-07-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,89.0,2924213,465.51
+2024-07-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,110.0,54756,12.1
+2024-07-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,81.0,10245,1.72
+2024-07-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,80.0,16445,2.29
+2024-07-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Sábado,342.637,-764.865,126.0,16243,2.09
+2024-07-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,96.0,12553,1.92
+2024-07-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,83.0,9218,1.32
+2024-07-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,93.0,15997,2.31
+2024-07-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,99.0,13991,2.21
+2024-07-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,106.0,25708,4.07
+2024-07-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,126.0,16111,2.12
+2024-07-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,77.0,7408,1.27
+2024-07-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,93.0,238246,50.41
+2024-07-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,91.0,1167303,187.18
+2024-07-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,100.0,2964755,433.26
+2024-07-31,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,111.0,2491781,413.88
+2024-08-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,111.0,3665010,546.9100000000001
+2024-08-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,133.0,3183366,529.59
+2024-08-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,108.0,2066361,421.02
+2024-08-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,117.0,2030781,323.78
+2024-08-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,90.0,1511151,218.35
+2024-08-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,70.0,1080674,104.04
+2024-08-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Miércoles,342.637,-764.865,107.0,4448432,529.15
+2024-08-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,97.0,3143743,394.41
+2024-08-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,114.0,6275734,1158.1999999999998
+2024-08-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,114.0,1756951,332.56
+2024-08-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,100.0,13725,2.38
+2024-08-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,102.0,11561,2.48
+2024-08-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,111.0,11366,1.28
+2024-08-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,109.0,13589,1.7999999999999998
+2024-08-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,109.0,13107,1.96
+2024-08-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,143.0,18941,2.58
+2024-08-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,104.0,11853,1.7200000000000002
+2024-08-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,142.0,1525079,230.78
+2024-08-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,97.0,3451772,473.83
+2024-08-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,104.0,1559436,386.09
+2024-08-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,88.0,846370,246.5
+2024-08-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,98.0,13540,3.6
+2024-08-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,107.0,3720595,1515.91
+2024-08-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,122.0,5165892,3501.09
+2024-08-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,119.0,3425501,3277.44
+2024-08-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,87.0,2340668,3127.67
+2024-08-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,110.0,3927456,4215.48
+2024-08-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,45.0,1164098,2065.36
+2024-12-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,62.0,940428,41.82
+2024-12-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,73.0,3411880,166.31
+2024-12-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Domingo,342.637,-764.865,44.0,1712801,64.5
+2024-12-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,102.0,4824961,178.89
+2024-12-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,83.0,4449188,146.91
+2024-12-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,80.0,3735025,123.87
+2024-12-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,79.0,9864573,287.47
+2024-12-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,81.0,9888100,291.46
+2024-12-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,119.0,4605653,151.62
+2024-12-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,71.0,6236931,210.53
+2024-12-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,77.0,3144616,94.56
+2024-12-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,111.0,3547195,115.5
+2024-12-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,86.0,8142941,257.6
+2024-12-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,101.0,4903305,172.39999999999998
+2024-12-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,80.0,13709129,452.0
+2024-12-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,81.0,6642922,254.0
+2024-12-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,84.0,17962404,561.0
+2024-12-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,112.0,13898181,554.0
+2024-12-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,70.0,11995763,502.0
+2024-12-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Miércoles,342.637,-764.865,91.0,9167366,325.0
+2024-12-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,69.0,11762103,429.6
+2024-12-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,72.0,14380330,440.8
+2024-12-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,53.0,13970785,593.0
+2024-12-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,84.0,16363446,506.7
+2024-12-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,63.0,4061744,166.3
+2024-12-31,RURAL,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,77.0,4366190,236.0
+2025-01-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Miércoles,342.637,-764.865,96.0,6055120,412.0
+2025-01-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,65.0,5525272,198.0
+2025-01-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,61.0,3254651,122.0
+2025-01-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,81.0,8851475,328.0
+2025-01-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,82.0,6117651,187.0
+2025-01-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,92.0,5285520,141.0
+2025-01-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,81.0,5899834,178.0
+2025-01-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,51.0,4008790,116.0
+2025-01-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,47.0,6391110,183.0
+2025-01-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,46.0,7110194,197.0
+2025-01-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,59.0,10682217,313.0
+2025-01-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,46.0,3516309,94.0
+2025-01-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,38.0,5978553,199.0
+2025-01-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,37.0,3907777,129.0
+2025-01-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,38.0,7637540,264.0
+2025-01-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,49.0,5109026,162.0
+2025-01-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,48.0,8455077,277.0
+2025-01-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,58.0,8901919,294.0
+2025-01-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,54.0,11140149,344.0
+2025-01-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,49.0,9768008,302.0
+2025-01-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,47.0,7080025,197.0
+2025-01-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,56.0,9135397,272.0
+2025-01-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,52.0,6288249,157.0
+2025-01-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,53.0,9873584,296.0
+2025-01-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,58.0,2875619,77.0
+2025-01-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,47.0,4597942,117.0
+2025-01-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,57.0,8432415,222.0
+2025-01-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,62.0,5400706,164.0
+2025-01-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,49.0,5401922,149.0
+2025-01-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,46.0,3742355,138.0
+2025-01-31,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,43.0,2686623,146.0
+2025-02-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,60.0,8759103,309.0
+2025-02-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,62.0,11959218,354.0
+2025-02-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,41.0,17476746,677.0
+2025-02-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,52.0,7839671,278.0
+2025-02-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,48.0,4675069,193.0
+2025-02-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,60.0,11491289,424.0
+2025-02-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,50.0,10649728,363.0
+2025-02-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,48.0,6282801,235.0
+2025-02-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,93.0,7787077,245.0
+2025-02-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,81.0,9251536,352.0
+2025-02-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,74.0,6426997,217.0
+2025-02-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,93.0,10207413,309.0
+2025-02-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,79.0,6888576,323.0
+2025-02-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,100.0,12443352,372.0
+2025-02-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,107.0,8426921,304.0
+2025-02-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,93.0,6882232,227.0
+2025-02-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,85.0,5617218,200.0
+2025-02-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,90.0,7623558,271.0
+2025-02-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,97.0,10473384,333.0
+2025-02-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,115.0,22602322,641.0
+2025-02-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,96.0,10238082,351.0
+2025-02-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,108.0,11811301,416.0
+2025-02-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,136.0,21670351,631.0
+2025-02-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,103.0,5874245,241.0
+2025-02-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,99.0,6469462,208.0
+2025-02-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,96.0,6187489,224.0
+2025-02-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,142.0,13522844,472.0
+2025-02-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,116.0,12372761,439.0
+2025-03-01,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,121.0,13849325,522.0
+2025-03-02,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,131.0,17100877,504.0
+2025-03-03,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,121.0,14731361,552.0
+2025-03-04,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,96.0,7131356,323.0
+2025-03-05,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,115.0,11181103,396.0
+2025-03-06,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,114.0,9105027,293.0
+2025-03-07,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,82.0,6951252,250.0
+2025-03-08,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,120.0,12164996,353.0
+2025-03-09,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,96.0,7326158,229.0
+2025-03-10,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,128.0,9971889,288.0
+2025-03-11,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,73.0,12056518,542.0
+2025-03-12,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,97.0,7571121,256.0
+2025-03-13,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,87.0,5162060,213.0
+2025-03-14,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,116.0,7739318,262.0
+2025-03-15,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,129.0,12579948,405.0
+2025-03-16,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,124.0,13143409,424.0
+2025-03-17,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,97.0,16907945,580.0
+2025-03-18,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,120.0,22480072,681.0
+2025-03-19,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,115.0,11787934,424.0
+2025-03-20,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,114.0,8125646,262.0
+2025-03-21,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,137.0,10847651,295.0
+2025-03-22,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,111.0,9002432,297.0
+2025-03-23,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,120.0,11261519,349.0
+2025-03-24,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,True,Festivo,Lunes,342.637,-764.865,133.0,23610642,584.0
+2025-03-25,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Martes,342.637,-764.865,122.0,17180102,499.0
+2025-03-26,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Miércoles,342.637,-764.865,136.0,18492811,596.0
+2025-03-27,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Jueves,342.637,-764.865,116.0,16445897,454.0
+2025-03-28,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Viernes,342.637,-764.865,115.0,16731530,693.0
+2025-03-29,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Sábado,342.637,-764.865,123.0,13216042,413.0
+2025-03-30,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Fin de Semana,Domingo,342.637,-764.865,127.0,15421460,441.0
+2025-03-31,URBANA,039_ZW Biblioteca Daniel Guillard,13,MR76,False,Laboral,Lunes,342.637,-764.865,137.0,14705185,488.0

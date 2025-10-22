@@ -1,0 +1,398 @@
+﻿fechaconexion,area,nombrezona,comuna,model,es_festivo,tipo_dia,dia_semana,latitud,longitud,numeroconexiones,usagekb,porcentajeuso
+2024-01-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,1.0,61916,7.1
+2024-01-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,1.0,10,0.0
+2024-01-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,7.0,1851293,175.2
+2024-01-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,7.0,343051,31.6
+2024-01-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,10.0,448778,58.5
+2024-01-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,5.0,727490,72.5
+2024-01-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,5.0,118792,7.5
+2024-01-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,7.0,528204,40.8
+2024-01-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,11.0,879509,72.9
+2024-01-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,5.0,831688,77.3
+2024-01-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,11.0,1405746,121.0
+2024-01-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,9.0,1148352,127.5
+2024-01-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,11.0,185592,23.5
+2024-01-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,12.0,953889,137.9
+2024-01-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,16.0,2399305,280.5
+2024-01-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,13.0,973209,97.3
+2024-01-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,13.0,464433,38.7
+2024-01-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,11.0,1351292,88.0
+2024-01-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,17.0,909207,70.2
+2024-01-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,7.0,1660312,128.2
+2024-01-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,12.0,1555034,148.3
+2024-01-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,10.0,1886638,174.7
+2024-01-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,9.0,604823,48.4
+2024-01-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,10.0,680418,45.5
+2024-01-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,19.0,4202655,305.1
+2024-01-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,14.0,460858,37.1
+2024-01-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,12.0,595684,58.0
+2024-01-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,17.0,13468,1.2
+2024-01-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,16.0,10597,1.2
+2024-01-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,14.0,1297,0.1
+2024-02-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,11.0,3000,0.2
+2024-02-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,14.0,2774,0.3
+2024-02-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,13.0,1408,0.1
+2024-02-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,12.0,2415,0.2
+2024-02-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,11.0,5335,0.4
+2024-02-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,16.0,611,0.0
+2024-02-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,15.0,57523,3.5
+2024-02-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,12.0,1217,0.1
+2024-02-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,14.0,2120,0.2
+2024-02-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,22.0,3679,0.2
+2024-02-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,13.0,773,0.1
+2024-02-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,17.0,2950,0.3
+2024-02-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,12.0,3748,0.4
+2024-02-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,8.0,483,0.1
+2024-02-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,16.0,6144,0.5
+2024-02-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,14.0,793,0.1
+2024-02-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,10.0,4216,0.4
+2024-02-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,17.0,1738,0.1
+2024-02-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,11.0,752,0.1
+2024-02-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,15.0,6330,0.5
+2024-02-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,7.0,344,0.0
+2024-02-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,10.0,795977,71.5
+2024-02-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,16.0,446911,38.5
+2024-02-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,9.0,3579366,208.7
+2024-02-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,24.0,2234447,282.2
+2024-03-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,12.0,12370918,1031.1
+2024-03-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,13.0,123282,12.0
+2024-03-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,11.0,766028,55.0
+2024-03-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,12.0,693158,48.8
+2024-03-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,15.0,838109,60.8
+2024-03-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,15.0,28452,2.4
+2024-03-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,16.0,2149,0.2
+2024-03-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,12.0,2098,0.2
+2024-03-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,13.0,1677,0.2
+2024-03-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,12.0,1262,0.1
+2024-03-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,17.0,5435,0.6
+2024-03-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,16.0,2839,0.3
+2024-03-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,13.0,1674,0.2
+2024-03-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,14.0,7652,0.8
+2024-03-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,13.0,1513,0.1
+2024-03-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,8.0,223,0.0
+2024-03-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,6.0,1232,0.1
+2024-03-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,12.0,1503,0.1
+2024-03-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,8.0,266,0.0
+2024-03-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,12.0,717,0.1
+2024-03-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,16.0,4516,0.5
+2024-03-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,16.0,12775,1.3
+2024-03-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,11.0,297958,38.2
+2024-03-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Domingo,339.181,-7.655.266,9.0,1050334,115.5
+2024-03-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,3.0,213999,30.5
+2024-03-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,11.0,406404,52.2
+2024-03-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,10.0,54862,6.8
+2024-03-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Jueves,339.181,-7.655.266,5.0,25709,4.0
+2024-03-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Viernes,339.181,-7.655.266,5.0,6754,0.7
+2024-03-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,13.0,635253,101.9
+2024-03-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Domingo,339.181,-7.655.266,6.0,439854,57.7
+2024-04-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,1351296,128.8
+2024-04-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,6.0,711,0.1
+2024-04-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,10.0,202433,22.5
+2024-04-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,10.0,2044434,177.8
+2024-04-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,11.0,217363,19.3
+2024-04-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,10.0,1133851,94.2
+2024-04-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,888989,74.3
+2024-04-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,17.0,2518406,355.8
+2024-04-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,25.0,2440511,319.0
+2024-04-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,9.0,6300,1.5
+2024-04-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,24.0,14991,3.4
+2024-04-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,19.0,4466,0.7
+2024-04-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,20.0,7589,0.9
+2024-04-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,13.0,3181,0.5
+2024-04-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,20.0,6369,1.6
+2024-04-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,19.0,804,0.2
+2024-04-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,12.0,877,0.2
+2024-04-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,12.0,1145,0.4
+2024-04-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,8.0,391,0.1
+2024-04-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,24.0,7899,1.0
+2024-04-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,12.0,2470,0.4
+2024-04-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,662,0.1
+2024-04-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,11.0,211930,11.5
+2024-04-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,10.0,816,0.0
+2024-04-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,16.0,495021,41.7
+2024-04-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,4.0,796,0.1
+2024-04-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,11.0,481827,39.5
+2024-04-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,3.0,84850,11.5
+2024-04-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,16.0,2340507,292.3
+2024-04-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,11.0,1285117,204.0
+2024-05-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Miércoles,339.181,-7.655.266,16.0,961788,182.9
+2024-05-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,9.0,2678238,523.3
+2024-05-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,3.0,184,0.0
+2024-05-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,13.0,3662714,507.3
+2024-05-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,2940254,477.0
+2024-05-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,10.0,12572,2.6
+2024-05-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,11.0,960537,158.4
+2024-05-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,11.0,769677,97.2
+2024-05-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,9.0,159388,18.1
+2024-05-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,10.0,351980,44.6
+2024-05-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,11.0,4352251,584.1
+2024-05-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,7.0,351494,85.2
+2024-05-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,10.0,730039,130.5
+2024-05-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,7.0,142646,65.8
+2024-05-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,10.0,612294,99.1
+2024-05-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,11.0,2654935,325.3
+2024-05-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,12.0,1094987,105.3
+2024-05-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,14.0,1797155,163.7
+2024-05-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,9.0,2612729,223.4
+2024-05-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,13.0,2671829,379.5
+2024-05-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,14.0,2111997,271.9
+2024-05-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,9.0,753180,292.4
+2024-05-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,9.0,1245068,234.5
+2024-05-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,13.0,1063572,225.3
+2024-05-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,15.0,2999187,421.1
+2024-05-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,4.0,64888,9.4
+2024-05-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,9.0,1037842,122.1
+2024-05-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,10.0,1269272,170.4
+2024-05-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,8.0,232382,46.5
+2024-05-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,14.0,2279147,190.5
+2024-05-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,8.0,1960312,210.8
+2024-06-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,14.0,3165365,316.2
+2024-06-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,12.0,2043844,208.5
+2024-06-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,16.0,3660721,528.4
+2024-06-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,14.0,1126896,247.9
+2024-06-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,11.0,1778394,622.6
+2024-06-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,11.0,1233682,202.1
+2024-06-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,14.0,1161762,241.6
+2024-06-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,21.0,1076614,341.7
+2024-06-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,11.0,2950,1.0
+2024-06-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,11.0,1273,0.2
+2024-06-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,15.0,14008,2.2
+2024-06-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,8.0,3792,0.5
+2024-06-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,18.0,2524,49139600.0
+2024-06-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,11.0,2472,74298500.0
+2024-06-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,6.0,844,15141600.0
+2024-06-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,638,11440600.0
+2024-06-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,17.0,3773,0.6
+2024-06-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,13.0,2266,0.4
+2024-06-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,12.0,1876,0.3
+2024-06-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,14.0,3937,0.8
+2024-06-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,17.0,6521,1.1
+2024-06-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,24.0,10038,1.9
+2024-06-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,20.0,1620,0.6
+2024-06-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,13.0,2862,0.5
+2024-06-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,18.0,6330,1.6
+2024-06-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,23.0,5903,1.5
+2024-06-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,16.0,4656,1.4
+2024-06-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,23.0,1385,0.2
+2024-06-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,17.0,1713,0.3
+2024-06-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,16.0,1134048,243.6
+2024-07-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,8.0,49980,6.94
+2024-07-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,14.0,210125,22.63
+2024-07-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,16.0,181454,21.58
+2024-07-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,25.0,836882,105.46
+2024-07-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,15.0,1365569,160.28
+2024-07-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,12.0,408274,48.5
+2024-07-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,1029079,116.64
+2024-07-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,11.0,140815,25.34
+2024-07-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,16.0,522318,89.94
+2024-07-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,18.0,4276818,619.32
+2024-07-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,12.0,1699522,230.32
+2024-07-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,15.0,2280816,359.66
+2024-07-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,17.0,1323,0.19
+2024-07-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,7.0,103,0.02
+2024-07-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,16.0,801,0.14
+2024-07-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,26.0,106767,17.0
+2024-07-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,22.0,9536,2.11
+2024-07-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,11.0,622,0.1
+2024-07-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,26.0,3722,0.52
+2024-07-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Sábado,339.181,-7.655.266,11.0,2314,0.3
+2024-07-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,21.0,2696,0.41
+2024-07-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,15.0,1838,0.26
+2024-07-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,24.0,1061,0.15
+2024-07-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,19.0,1828,0.29
+2024-07-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,11.0,261,0.04
+2024-07-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,19.0,1509,0.2
+2024-07-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,12.0,16891,2.89
+2024-07-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,15.0,4389,0.93
+2024-07-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,21.0,1534,0.25
+2024-07-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,24.0,6776,0.99
+2024-07-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,11.0,1791,0.3
+2024-08-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,22.0,1784,0.27
+2024-08-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,20.0,4220,0.7
+2024-08-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,10.0,1667,0.34
+2024-08-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,12.0,418,0.07
+2024-08-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,11839,1.71
+2024-08-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,22.0,1477,0.14
+2024-08-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Miércoles,339.181,-7.655.266,18.0,4145,0.49
+2024-08-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,28.0,4513,0.57
+2024-08-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,20.0,2226,0.41
+2024-08-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,22.0,3947,0.75
+2024-08-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,16.0,8026,1.39
+2024-08-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,16.0,884,0.19
+2024-08-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,28.0,306047,34.64
+2024-08-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,21.0,2232221,296.26
+2024-08-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,20.0,2428440,364.59
+2024-08-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,12.0,536493,73.1
+2024-08-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,21.0,3733066,541.44
+2024-08-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,18.0,6800981,1029.14
+2024-08-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,20.0,7188721,986.81
+2024-08-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,18.0,1197180,296.41
+2024-08-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,19.0,4694514,1367.22
+2024-08-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,22.0,6453866,1717.36
+2024-08-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,15.0,2435601,992.36
+2024-08-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,14.0,911,0.62
+2024-08-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,14.0,1429,1.37
+2024-08-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,12.0,1021,1.36
+2024-08-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,20.0,11379,12.21
+2024-08-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,13.0,1609,2.85
+2024-08-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,15.0,645,1.84
+2024-08-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,9.0,2974,7.16
+2024-08-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,6.0,1550,2.21
+2024-10-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,14.0,63121,14.1
+2024-10-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,13.0,911842,118.08
+2024-10-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,4.0,219,0.02
+2024-10-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,8.0,420703,69.86
+2024-10-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,13.0,461946,72.87
+2024-10-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,10.0,26484,5.41
+2024-10-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,9.0,353477,75.34
+2024-11-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,14.0,1507897,272.68
+2024-11-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,12.0,570274,91.78
+2024-11-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,13.0,2291,0.39
+2024-11-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,8.0,1448,0.22
+2024-11-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,26.0,542810,74.34
+2024-11-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,4.0,9304,1.49
+2024-11-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,14.0,407312,45.8
+2024-11-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,12.0,2051,0.17
+2024-11-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,17.0,738856,44.37
+2024-11-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,74159,3.83
+2024-11-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,15.0,620624,35.34
+2024-11-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,22.0,1773082,92.76
+2024-11-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,15.0,179940,11.11
+2024-11-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,27.0,1652625,86.09
+2024-11-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,17.0,22714,1.25
+2024-11-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,20.0,539001,29.27
+2024-11-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,15.0,969333,56.42
+2024-11-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,13.0,2999,0.19
+2024-11-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,19.0,1092922,68.41
+2024-11-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,21.0,799306,41.89
+2024-11-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,30.0,1282961,71.05
+2024-11-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,23.0,575608,28.51
+2024-11-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,19.0,359084,18.74
+2024-11-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,12.0,828771,111.94
+2024-11-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,20.0,279454,67.95
+2024-11-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,13.0,703036,89.27
+2024-11-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,26.0,3104559,159.86
+2024-11-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,21.0,8725829,414.42
+2024-11-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,24.0,5379383,242.05
+2024-11-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,19.0,2655056,116.49
+2024-12-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,13.0,1942551,80.38
+2024-12-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,26.0,3923908,188.05
+2024-12-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,24.0,2883593,154.44
+2024-12-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,24.0,1084053,46.94
+2024-12-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,27.0,1901272,82.87
+2024-12-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,17.0,676021,30.07
+2024-12-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,17.0,423362,20.64
+2024-12-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Domingo,339.181,-7.655.266,9.0,389713,14.68
+2024-12-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,28.0,5858743,217.23
+2024-12-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,25.0,6596935,217.83
+2024-12-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,24.0,8909175,295.48
+2024-12-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,18.0,6180272,180.1
+2024-12-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,16.0,6187541,182.38
+2024-12-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,20.0,1316686,43.35
+2024-12-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,7.0,2181928,73.65
+2024-12-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,5290985,159.1
+2024-12-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,23.0,6504558,212.0
+2024-12-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,18.0,1519328,48.1
+2024-12-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,20.0,4838826,170.0
+2024-12-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,15.0,1391132,45.9
+2024-12-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,13.0,1074981,41.2
+2024-12-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,8.0,199866,6.24
+2024-12-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,16.0,621872,24.8
+2024-12-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,7.0,89728,3.75
+2024-12-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Miércoles,339.181,-7.655.266,7.0,132049,4.67
+2024-12-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,8.0,256219,9.37
+2024-12-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,11.0,1139391,34.9
+2024-12-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,5.0,238389,10.1
+2024-12-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,9.0,317651,9.83
+2024-12-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,8.0,316676,12.9
+2024-12-31,RURAL,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,7.0,193860,10.4
+2025-01-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Miércoles,339.181,-7.655.266,9.0,37937,3.0
+2025-01-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,14.0,2836369,102.0
+2025-01-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,6.0,86340,3.0
+2025-01-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,5.0,249020,9.0
+2025-01-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,4.0,35077,1.0
+2025-01-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,7.0,183555,5.0
+2025-01-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,12.0,33107,1.0
+2025-01-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,9.0,1109613,32.0
+2025-01-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,10.0,1232072,35.0
+2025-01-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,11.0,5199244,144.0
+2025-01-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,11.0,2367967,69.0
+2025-01-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,9.0,1291916,35.0
+2025-01-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,4640448,154.0
+2025-01-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,11.0,330842,11.0
+2025-01-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,16.0,1369769,47.0
+2025-01-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,21.0,2980913,95.0
+2025-01-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,17.0,4365221,143.0
+2025-01-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,18.0,1057598,35.0
+2025-01-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,666860,21.0
+2025-01-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,20.0,1457669,45.0
+2025-01-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,20.0,1746955,49.0
+2025-01-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,15.0,46791,1.0
+2025-01-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,11.0,560440,14.0
+2025-01-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,12.0,431228,13.0
+2025-01-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,10.0,629485,17.0
+2025-01-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,9.0,1488252,38.0
+2025-01-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,10.0,583779,15.0
+2025-01-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,12.0,367355,11.0
+2025-01-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,20.0,295381,8.0
+2025-01-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,24.0,1296599,48.0
+2025-01-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,19.0,2765198,150.0
+2025-02-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,12.0,1274180,45.0
+2025-02-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,18.0,1952175,58.0
+2025-02-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,314159,12.0
+2025-02-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,25.0,574213,20.0
+2025-02-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,13.0,480,0.0
+2025-02-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,20.0,4767108,176.0
+2025-02-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,15.0,546393,19.0
+2025-02-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,21.0,1753714,66.0
+2025-02-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,5.0,359650,11.0
+2025-02-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,15.0,1222476,46.0
+2025-02-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,21.0,1645446,55.0
+2025-02-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,24.0,7991316,242.0
+2025-02-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,13.0,1726589,81.0
+2025-02-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,32.0,1730514,52.0
+2025-02-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,12.0,1045068,38.0
+2025-02-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,7.0,373786,12.0
+2025-02-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,21.0,1732753,62.0
+2025-02-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,27.0,2893256,103.0
+2025-02-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,34.0,4398361,140.0
+2025-02-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,33.0,4647472,132.0
+2025-02-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,28.0,2943403,101.0
+2025-02-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,19.0,1401856,49.0
+2025-02-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,2158633,63.0
+2025-02-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,18.0,878939,36.0
+2025-02-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,28.0,3588824,115.0
+2025-02-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,23.0,1839545,66.0
+2025-02-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,18.0,2343694,82.0
+2025-02-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,11.0,390383,14.0
+2025-03-01,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,9.0,1789556,67.0
+2025-03-02,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,10.0,2260621,67.0
+2025-03-03,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,22.0,1973512,74.0
+2025-03-04,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,8.0,1488857,67.0
+2025-03-05,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,16.0,2382899,84.0
+2025-03-06,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,24.0,2501213,80.0
+2025-03-07,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,21.0,3102163,112.0
+2025-03-08,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,15.0,1489072,43.0
+2025-03-09,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,7.0,1432,0.0
+2025-03-10,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,1116917,32.0
+2025-03-11,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,10.0,259825,12.0
+2025-03-12,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,23.0,517258,17.0
+2025-03-13,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,27.0,2850330,118.0
+2025-03-14,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,24.0,3111856,105.0
+2025-03-15,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,10.0,1991240,64.0
+2025-03-16,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,11.0,1275507,41.0
+2025-03-17,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,14.0,5312702,182.0
+2025-03-18,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,18.0,2305686,70.0
+2025-03-19,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,20.0,2395429,86.0
+2025-03-20,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,16.0,1888626,61.0
+2025-03-21,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,25.0,1451396,39.0
+2025-03-22,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,10.0,18648,1.0
+2025-03-23,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,7.0,952956,30.0
+2025-03-24,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,True,Festivo,Lunes,339.181,-7.655.266,10.0,12928700,319.0
+2025-03-25,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Martes,339.181,-7.655.266,16.0,2200539,64.0
+2025-03-26,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Miércoles,339.181,-7.655.266,21.0,1218082,39.0
+2025-03-27,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Jueves,339.181,-7.655.266,23.0,5734831,159.0
+2025-03-28,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Viernes,339.181,-7.655.266,12.0,305198,13.0
+2025-03-29,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Sábado,339.181,-7.655.266,19.0,2184191,68.0
+2025-03-30,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Fin de Semana,Domingo,339.181,-7.655.266,11.0,366632,10.0
+2025-03-31,URBANA,022_ZW Polideportivo Los Farallones,18,MR76,False,Laboral,Lunes,339.181,-7.655.266,15.0,3537421,118.0

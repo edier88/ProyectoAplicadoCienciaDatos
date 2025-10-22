@@ -1,0 +1,341 @@
+﻿fechaconexion,area,nombrezona,comuna,model,es_festivo,tipo_dia,dia_semana,latitud,longitud,numeroconexiones,usagekb,porcentajeuso
+2024-01-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,19.0,24708,2.8
+2024-01-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,24.0,11925,1.4
+2024-01-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,22.0,5857,0.5
+2024-01-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,15.0,1637,0.2
+2024-01-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,14.0,1654006,152.6
+2024-01-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,16.0,1632214,212.8
+2024-01-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,14.0,1871862,186.5
+2024-01-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,17.0,2464932,156.3
+2024-01-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,50.0,6491785,501.0
+2024-01-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,14.0,5345662,443.1
+2024-01-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,18.0,11301065,1050.3
+2024-01-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,29.0,11397338,981.3
+2024-01-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,20.0,7681743,853.2
+2024-01-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,13.0,83837,10.6
+2024-01-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,19.0,4947,0.7
+2024-01-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,51.0,4420825,516.9
+2024-01-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,26.0,9852411,985.1
+2024-01-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,22.0,10957401,913.5
+2024-01-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,22.0,9215322,600.3
+2024-01-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,22.0,6316932,487.8
+2024-01-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,15.0,3285,0.3
+2024-01-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,27.0,58990,5.6
+2024-01-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,76.0,7576377,701.6
+2024-01-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,22.0,10722782,857.4
+2024-01-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,36.0,2837118,189.8
+2024-01-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,21.0,8831,0.6
+2024-01-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,20.0,5327,0.4
+2024-01-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,30.0,13001,1.3
+2024-01-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,23.0,3360,0.3
+2024-01-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,63.0,4008178,442.8
+2024-01-31,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,16.0,12272955,1175.1
+2024-02-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,29.0,12982823,933.3
+2024-02-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,13.0,10312279,1079.5
+2024-02-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,24.0,8185674,461.3
+2024-02-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,18.0,5582188,349.0
+2024-02-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,19.0,7800197,518.2
+2024-02-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,66.0,12783595,855.5
+2024-02-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,20.0,4521467,273.9
+2024-02-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,25.0,4748594,349.5
+2024-02-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,35.0,6219750,516.9
+2024-02-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,41.0,10655744,667.1
+2024-02-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,48.0,9597304,714.2
+2024-02-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,33.0,5217875,504.0
+2024-02-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,70.0,490788,56.7
+2024-02-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,33.0,5991,0.8
+2024-02-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,30.0,7797585,667.8
+2024-02-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,27.0,7040978,667.8
+2024-02-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,37.0,4630501,437.9
+2024-02-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,35.0,3988,0.3
+2024-02-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,37.0,7831,0.5
+2024-02-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,74.0,20862,1.7
+2024-02-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,23.0,3556,0.3
+2024-02-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,29.0,7112,0.5
+2024-02-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,24.0,4149,0.3
+2024-02-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,2.0,4,0.0
+2024-02-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,29.0,3887446,221.3
+2024-02-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,24.0,2618399,235.2
+2024-02-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,63.0,7351510,632.7
+2024-02-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,19.0,336409,19.6
+2024-02-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,21.0,3118,0.4
+2024-03-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,29.0,4861,0.4
+2024-03-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,34.0,4571,0.4
+2024-03-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,51.0,49928,3.6
+2024-03-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,33.0,4096,0.3
+2024-03-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,75.0,19347,1.4
+2024-03-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,23.0,3131,0.3
+2024-03-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,36.0,9356,0.9
+2024-03-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,33.0,11462,1.1
+2024-03-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,35.0,797544,80.7
+2024-03-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,38.0,3163736,331.5
+2024-03-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,32.0,2393908,254.7
+2024-03-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,73.0,12877360,1460.5
+2024-03-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,15.0,244104,33.0
+2024-03-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,28.0,3876,0.4
+2024-03-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,34.0,4465,0.3
+2024-03-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,27.0,3433,0.3
+2024-03-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,21.0,3750,0.3
+2024-03-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,21.0,2842,0.2
+2024-03-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,80.0,20059,2.7
+2024-03-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,28.0,2640,0.4
+2024-03-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,16.0,506,0.1
+2024-03-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,34.0,2504,0.3
+2024-03-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,23.0,6000,0.8
+2024-03-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Domingo,342.853,-7.649.725,21.0,1592,0.2
+2024-03-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,21.0,3463,0.5
+2024-03-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,61.0,15097,1.9
+2024-03-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,28.0,3378,0.4
+2024-03-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Jueves,342.853,-7.649.725,26.0,3962,0.6
+2024-03-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Viernes,342.853,-7.649.725,32.0,4044,0.4
+2024-03-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,23.0,1223,0.2
+2024-03-31,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Domingo,342.853,-7.649.725,26.0,4021,0.5
+2024-04-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,26.0,3284,0.3
+2024-04-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,72.0,12546,1.8
+2024-04-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,28.0,1992,0.2
+2024-04-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,27.0,3952,0.3
+2024-04-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,26.0,6123,0.5
+2024-04-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,59.0,7473,0.6
+2024-04-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,26.0,2009,0.2
+2024-04-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,23.0,3611,0.5
+2024-04-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,70.0,11849,1.5
+2024-04-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,20.0,1552,0.4
+2024-04-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,23.0,1751,0.4
+2024-04-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,29.0,2922,0.4
+2024-04-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,32.0,6196,0.7
+2024-04-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,27.0,2292878,332.4
+2024-04-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,29.0,4255997,1063.3
+2024-04-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,53.0,2162992,509.3
+2024-04-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,18.0,2089,0.6
+2024-04-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,17.0,2744,0.9
+2024-04-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,21.0,2054,0.5
+2024-04-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,36.0,8632,1.1
+2024-04-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,24.0,8367,1.4
+2024-04-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,18.0,65552,14.1
+2024-04-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,73.0,9105878,496.0
+2024-04-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,31.0,9360,0.5
+2024-04-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,25.0,18917,1.6
+2024-04-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,32.0,1432581,143.0
+2024-04-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,28.0,2640641,216.4
+2024-04-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,29.0,3475975,470.5
+2024-04-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,37.0,4605892,575.3
+2024-04-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,66.0,5149052,817.3
+2024-05-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Miércoles,342.853,-7.649.725,33.0,3085,0.6
+2024-05-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,31.0,71184,13.9
+2024-05-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,30.0,12514,2.7
+2024-05-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,43.0,18855,2.6
+2024-05-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,25.0,11254,1.8
+2024-05-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,29.0,5698,1.2
+2024-05-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,76.0,181084,29.9
+2024-05-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,19.0,1214045,153.3
+2024-05-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,17.0,2158950,245.0
+2024-05-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,35.0,2016853,255.6
+2024-05-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,25.0,8266290,1109.3
+2024-05-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,29.0,7383584,1790.0
+2024-05-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,26.0,6307975,1127.3
+2024-05-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,81.0,2176326,1003.8
+2024-05-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,31.0,7958,1.3
+2024-05-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,34.0,2340,0.3
+2024-05-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,46.0,13293,1.3
+2024-05-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,46.0,5077,0.5
+2024-05-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,51.0,4133982,353.5
+2024-05-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,37.0,2259625,320.9
+2024-05-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,92.0,5112899,658.3
+2024-05-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,30.0,44615,17.3
+2024-05-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,44.0,22162,4.2
+2024-05-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,38.0,25266,5.4
+2024-05-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,33.0,9762,1.4
+2024-05-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,24.0,3278944,474.5
+2024-05-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,24.0,780898,91.8
+2024-05-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,91.0,4332381,581.7
+2024-05-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,24.0,2941,0.6
+2024-05-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,28.0,2250,0.2
+2024-05-31,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,34.0,4019402,432.3
+2024-06-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,22.0,6408527,640.1
+2024-06-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,23.0,4643421,473.7
+2024-06-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,23.0,3361400,485.2
+2024-06-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,69.0,2365687,520.4
+2024-06-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,28.0,18749,6.6
+2024-06-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,25.0,5677,0.9
+2024-06-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,43.0,29573,6.1
+2024-06-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,34.0,10825,3.4
+2024-06-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,29.0,316985,108.7
+2024-06-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,29.0,3802,0.7
+2024-06-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,85.0,42362,6.8
+2024-06-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,28.0,6244330,842.0
+2024-06-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,31.0,2745750,53456835400.0
+2024-06-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,40.0,3597127,1081153300.0
+2024-06-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,33.0,4943894,88694736200.0
+2024-06-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,23.0,1749567,31373065500.0
+2024-06-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,35.0,2733611,437.5
+2024-06-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,84.0,3443633,544.0
+2024-06-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,21.0,13429,1.9
+2024-06-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,34.0,16894,3.4
+2024-06-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,40.0,19311,3.3
+2024-06-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,40.0,9086,1.7
+2024-06-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,4.0,105,0.0
+2024-06-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,91.0,9395975,2327.8
+2024-06-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,31.0,4365469,1127.4
+2024-06-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,32.0,1762976,524.6
+2024-06-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,38.0,3063858,527.0
+2024-06-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,53.0,11678,2.0
+2024-06-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,18.0,671006,144.1
+2024-07-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,28.0,1823595,253.34
+2024-07-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,3.0,346115,37.28
+2024-07-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,20.0,516900,61.48
+2024-07-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,36.0,6631627,835.71
+2024-07-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,41.0,3321615,389.86
+2024-07-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,48.0,4658454,553.4
+2024-07-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,30.0,1217775,138.03
+2024-07-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,28.0,1699866,305.95
+2024-07-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,35.0,2175068,374.55
+2024-07-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,25.0,1281,0.19
+2024-07-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,38.0,16392,2.22
+2024-07-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,39.0,8758,1.38
+2024-07-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,36.0,20235,2.87
+2024-07-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,52.0,25185,3.96
+2024-07-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,38.0,22272,3.98
+2024-07-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,95.0,29000,4.62
+2024-07-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,44.0,11944,2.64
+2024-07-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,42.0,6716,1.13
+2024-07-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,39.0,6750,0.94
+2024-07-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Sábado,342.853,-7.649.725,48.0,12436,1.6
+2024-11-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,25.0,6135,0.38
+2024-11-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,31.0,1503185,78.3
+2024-11-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,32.0,5578,0.31
+2024-11-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,54.0,5770663,313.4
+2024-11-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,25.0,65979,3.84
+2024-11-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,27.0,163597,10.18
+2024-11-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,83.0,3070057,192.16
+2024-11-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,35.0,355510,18.63
+2024-11-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,19.0,3179055,176.07
+2024-11-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,24.0,918230,45.48
+2024-11-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,22.0,886054,46.23
+2024-11-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,18.0,51076,6.9
+2024-11-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,5.0,25971,6.31
+2024-11-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,32.0,176823,22.45
+2024-11-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,24.0,407413,20.98
+2024-11-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,19.0,3556816,168.93
+2024-11-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,35.0,657409,29.58
+2024-11-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,27.0,1171819,51.41
+2024-12-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,38.0,3701232,153.16
+2024-12-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,21.0,1077686,51.65
+2024-12-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,73.0,4394271,235.36
+2024-12-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,30.0,3858291,167.05
+2024-12-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,28.0,1900251,82.83
+2024-12-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,34.0,35614,1.58
+2024-12-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,30.0,1084849,52.88
+2024-12-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Domingo,342.853,-7.649.725,14.0,7050,0.27
+2024-12-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,33.0,2629783,97.51
+2024-12-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,71.0,4460420,147.29
+2024-12-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,27.0,758373,25.15
+2024-12-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,33.0,1750209,51.0
+2024-12-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,34.0,1771789,52.22
+2024-12-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,30.0,2073813,68.27
+2024-12-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,28.0,1301049,43.92
+2024-12-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,23.0,2769109,83.27
+2024-12-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,78.0,4437493,144.0
+2024-12-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,27.0,815543,25.8
+2024-12-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,27.0,826374,29.1
+2024-12-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,30.0,3146364,104.0
+2024-12-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,36.0,3046580,117.0
+2024-12-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,33.0,820658,25.6
+2024-12-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,39.0,757084,30.2
+2024-12-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,42.0,4525447,189.0
+2024-12-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Miércoles,342.853,-7.649.725,17.0,2258155,79.9
+2024-12-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,39.0,6387611,234.0
+2024-12-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,16.0,4925447,151.0
+2024-12-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,7.0,74709,3.17
+2024-12-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,12.0,669108,20.7
+2024-12-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,18.0,5297992,217.0
+2024-12-31,RURAL,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,38.0,4506394,243.0
+2025-01-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Miércoles,342.853,-7.649.725,16.0,1233844,84.0
+2025-01-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,16.0,563824,20.0
+2025-01-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,9.0,86329,3.0
+2025-01-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,21.0,2675409,99.0
+2025-01-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,17.0,1994268,61.0
+2025-01-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,17.0,9674518,259.0
+2025-01-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,35.0,2133614,64.0
+2025-01-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,20.0,1727763,50.0
+2025-01-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,19.0,2087941,60.0
+2025-01-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,20.0,4140010,114.0
+2025-01-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,20.0,4499050,132.0
+2025-01-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,25.0,3892369,104.0
+2025-01-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,29.0,4537961,151.0
+2025-01-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,82.0,10628206,350.0
+2025-01-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,15.0,3783140,131.0
+2025-01-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,23.0,3421401,109.0
+2025-01-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,17.0,1616765,53.0
+2025-01-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,34.0,4398352,145.0
+2025-01-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,30.0,2981343,92.0
+2025-01-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,33.0,4962094,154.0
+2025-01-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,60.0,7574347,210.0
+2025-01-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,24.0,2797502,83.0
+2025-01-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,33.0,2917542,73.0
+2025-01-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,29.0,3389721,102.0
+2025-01-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,30.0,6241921,168.0
+2025-01-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,46.0,4530355,115.0
+2025-01-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,35.0,5215200,138.0
+2025-01-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,98.0,11059186,335.0
+2025-01-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,25.0,6775994,187.0
+2025-01-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,31.0,3966122,146.0
+2025-01-31,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,40.0,1003165,54.0
+2025-02-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,29.0,1324280,47.0
+2025-02-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,29.0,1972941,58.0
+2025-02-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,21.0,1282767,50.0
+2025-02-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,73.0,7399704,262.0
+2025-02-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,29.0,1968905,81.0
+2025-02-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,36.0,2253785,83.0
+2025-02-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,26.0,866337,30.0
+2025-02-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,26.0,1765736,66.0
+2025-02-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,30.0,870464,27.0
+2025-02-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,31.0,2430752,92.0
+2025-02-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,91.0,6581627,222.0
+2025-02-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,28.0,2925451,89.0
+2025-02-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,26.0,1163224,55.0
+2025-02-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,36.0,2509086,75.0
+2025-02-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,27.0,7381295,267.0
+2025-02-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,34.0,1945501,64.0
+2025-02-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,29.0,663713,24.0
+2025-02-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,95.0,11295103,402.0
+2025-02-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,26.0,3736687,119.0
+2025-02-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,38.0,3220122,91.0
+2025-02-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,30.0,5151880,177.0
+2025-02-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,39.0,2454576,86.0
+2025-02-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,38.0,6656927,194.0
+2025-02-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,28.0,4160208,171.0
+2025-02-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,86.0,13642589,438.0
+2025-02-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,23.0,2687224,97.0
+2025-02-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,24.0,1347696,47.0
+2025-02-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,25.0,2864387,102.0
+2025-03-01,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,34.0,2972547,112.0
+2025-03-02,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,25.0,1354493,40.0
+2025-03-03,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,22.0,3276155,123.0
+2025-03-04,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,81.0,6858294,310.0
+2025-03-05,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,24.0,1515455,54.0
+2025-03-06,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,24.0,1273751,41.0
+2025-03-07,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,36.0,1660204,60.0
+2025-03-08,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,29.0,2029034,59.0
+2025-03-09,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,23.0,786597,25.0
+2025-03-10,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,32.0,6557004,190.0
+2025-03-11,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,82.0,5550924,249.0
+2025-03-12,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,22.0,7437060,252.0
+2025-03-13,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,20.0,2113884,87.0
+2025-03-14,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,25.0,1222480,41.0
+2025-03-15,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,41.0,3548859,114.0
+2025-03-16,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,46.0,3918325,126.0
+2025-03-17,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,36.0,2665120,91.0
+2025-03-18,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,108.0,10253721,311.0
+2025-03-19,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,29.0,2267153,82.0
+2025-03-20,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,34.0,5051343,163.0
+2025-03-21,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,26.0,1614391,44.0
+2025-03-22,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,33.0,3528449,116.0
+2025-03-23,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,50.0,10496998,325.0
+2025-03-24,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,True,Festivo,Lunes,342.853,-7.649.725,23.0,3475989,86.0
+2025-03-25,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Martes,342.853,-7.649.725,116.0,10767006,313.0
+2025-03-26,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Miércoles,342.853,-7.649.725,29.0,3276994,106.0
+2025-03-27,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Jueves,342.853,-7.649.725,38.0,2900929,80.0
+2025-03-28,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Viernes,342.853,-7.649.725,33.0,2669103,111.0
+2025-03-29,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Sábado,342.853,-7.649.725,26.0,1958199,61.0
+2025-03-30,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Fin de Semana,Domingo,342.853,-7.649.725,37.0,5139580,147.0
+2025-03-31,URBANA,015_ZW Centro Cultural Comuna 13,13,MR76,False,Laboral,Lunes,342.853,-7.649.725,32.0,2794558,93.0

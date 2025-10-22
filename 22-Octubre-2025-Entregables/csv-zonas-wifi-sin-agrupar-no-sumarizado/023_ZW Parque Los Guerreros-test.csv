@@ -1,0 +1,401 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,414008,"47,4",True,Festivo,Lunes,343.832,-7.647.297
+2024-01-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,125388,"14,9",False,Laboral,Martes,343.832,-7.647.297
+2024-01-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,4140482,"341,7",False,Laboral,Miércoles,343.832,-7.647.297
+2024-01-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,26,5038805,"476,9",False,Laboral,Jueves,343.832,-7.647.297
+2024-01-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,2036595,"187,9",False,Laboral,Viernes,343.832,-7.647.297
+2024-01-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,47,613517,80,False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-01-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,26,604,"0,1",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-01-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,7648,"0,5",True,Festivo,Lunes,343.832,-7.647.297
+2024-01-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,7750,"0,6",False,Laboral,Martes,343.832,-7.647.297
+2024-01-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,43614,"3,6",False,Laboral,Miércoles,343.832,-7.647.297
+2024-01-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,20008,"1,9",False,Laboral,Jueves,343.832,-7.647.297
+2024-01-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,4910,"0,4",False,Laboral,Viernes,343.832,-7.647.297
+2024-01-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,3012,"0,3",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-01-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,3114,"0,4",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-01-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,4093,"0,6",False,Laboral,Lunes,343.832,-7.647.297
+2024-01-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,3551,"0,4",False,Laboral,Martes,343.832,-7.647.297
+2024-01-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,7355,"0,7",False,Laboral,Miércoles,343.832,-7.647.297
+2024-01-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,779,"0,1",False,Laboral,Jueves,343.832,-7.647.297
+2024-01-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,1229,"0,1",False,Laboral,Viernes,343.832,-7.647.297
+2024-01-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,46,10394,"0,8",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-01-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,30,1341,"0,1",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-01-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,1527,"0,1",False,Laboral,Lunes,343.832,-7.647.297
+2024-01-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,1420,"0,1",False,Laboral,Martes,343.832,-7.647.297
+2024-01-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,8171,"0,7",False,Laboral,Miércoles,343.832,-7.647.297
+2024-01-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,1290,"0,1",False,Laboral,Jueves,343.832,-7.647.297
+2024-01-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,5180,"0,4",False,Laboral,Viernes,343.832,-7.647.297
+2024-01-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,2181,"0,2",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-01-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,3687,"0,4",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-01-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,16628,"1,4",False,Laboral,Lunes,343.832,-7.647.297
+2024-01-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,14839,"1,6",False,Laboral,Martes,343.832,-7.647.297
+2024-01-31,URBANA,023_ZW Parque Los Guerreros,21,MR76,50,6192,"0,6",False,Laboral,Miércoles,343.832,-7.647.297
+2024-02-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,10909,"0,8",False,Laboral,Jueves,343.832,-7.647.297
+2024-02-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,7975,"0,8",False,Laboral,Viernes,343.832,-7.647.297
+2024-02-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,51,874,0,False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-02-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,47,2074,"0,1",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-02-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,4042,"0,3",False,Laboral,Lunes,343.832,-7.647.297
+2024-02-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,21,8305,"0,6",False,Laboral,Martes,343.832,-7.647.297
+2024-02-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,29,663677,"40,2",False,Laboral,Miércoles,343.832,-7.647.297
+2024-02-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,65895,"4,8",False,Laboral,Jueves,343.832,-7.647.297
+2024-02-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,24,42227,"3,5",False,Laboral,Viernes,343.832,-7.647.297
+2024-02-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,181041,"11,3",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-02-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,30,476231,"35,4",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-02-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,24,177008,"17,1",False,Laboral,Lunes,343.832,-7.647.297
+2024-02-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,1142468,"131,9",False,Laboral,Martes,343.832,-7.647.297
+2024-02-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,1541594,"204,1",False,Laboral,Miércoles,343.832,-7.647.297
+2024-02-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,419322,"35,9",False,Laboral,Jueves,343.832,-7.647.297
+2024-02-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,2581,"0,2",False,Laboral,Viernes,343.832,-7.647.297
+2024-02-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,52,9365,"0,9",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-02-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,7140,"0,6",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-02-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,41976,"2,9",False,Laboral,Lunes,343.832,-7.647.297
+2024-02-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,2902,"0,2",False,Laboral,Martes,343.832,-7.647.297
+2024-02-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,30,6200,"0,5",False,Laboral,Miércoles,343.832,-7.647.297
+2024-02-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,25,124450,"8,1",False,Laboral,Jueves,343.832,-7.647.297
+2024-02-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,23,585601,"41,2",False,Laboral,Viernes,343.832,-7.647.297
+2024-02-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,1433904,"114,2",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-02-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,22,1963515,"111,8",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-02-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,2066983,"185,7",False,Laboral,Lunes,343.832,-7.647.297
+2024-02-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,728492,"62,7",False,Laboral,Martes,343.832,-7.647.297
+2024-02-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,2857491,"166,6",False,Laboral,Miércoles,343.832,-7.647.297
+2024-02-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,18793,"2,4",False,Laboral,Jueves,343.832,-7.647.297
+2024-03-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,46,39723,"3,3",False,Laboral,Viernes,343.832,-7.647.297
+2024-03-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,35,128311,"12,5",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-03-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,174727,"12,5",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-03-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,987146,"69,4",False,Laboral,Lunes,343.832,-7.647.297
+2024-03-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,30,1765464,"128,1",False,Laboral,Martes,343.832,-7.647.297
+2024-03-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,376609,"31,1",False,Laboral,Miércoles,343.832,-7.647.297
+2024-03-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,312123,"29,2",False,Laboral,Jueves,343.832,-7.647.297
+2024-03-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,35,3091905,"289,1",False,Laboral,Viernes,343.832,-7.647.297
+2024-03-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,299800,"30,3",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-03-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,186615,"19,6",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-03-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,5354,"0,6",False,Laboral,Lunes,343.832,-7.647.297
+2024-03-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,22151,"2,5",False,Laboral,Martes,343.832,-7.647.297
+2024-03-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,47,3545,"0,5",False,Laboral,Miércoles,343.832,-7.647.297
+2024-03-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,46,2611,"0,3",False,Laboral,Jueves,343.832,-7.647.297
+2024-03-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,4095,"0,3",False,Laboral,Viernes,343.832,-7.647.297
+2024-03-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,3499,"0,3",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-03-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,14649,"1,1",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-03-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,2092,"0,2",False,Laboral,Lunes,343.832,-7.647.297
+2024-03-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,2624,"0,3",False,Laboral,Martes,343.832,-7.647.297
+2024-03-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,3404,"0,5",False,Laboral,Miércoles,343.832,-7.647.297
+2024-03-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,15314,"1,8",False,Laboral,Jueves,343.832,-7.647.297
+2024-03-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,2152,"0,2",False,Laboral,Viernes,343.832,-7.647.297
+2024-03-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,9216,"1,2",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-03-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,7388,"0,8",True,Festivo,Domingo,343.832,-7.647.297
+2024-03-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,6667,1,True,Festivo,Lunes,343.832,-7.647.297
+2024-03-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,12319,"1,6",False,Laboral,Martes,343.832,-7.647.297
+2024-03-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,3918,"0,5",False,Laboral,Miércoles,343.832,-7.647.297
+2024-03-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,3694,"0,6",True,Festivo,Jueves,343.832,-7.647.297
+2024-03-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,1188,"0,1",True,Festivo,Viernes,343.832,-7.647.297
+2024-03-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,54,6104,1,False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-03-31,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,139199,"18,3",True,Festivo,Domingo,343.832,-7.647.297
+2024-04-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,159811,"15,2",False,Laboral,Lunes,343.832,-7.647.297
+2024-04-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,12853,"1,8",False,Laboral,Martes,343.832,-7.647.297
+2024-04-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,96645,"10,7",False,Laboral,Miércoles,343.832,-7.647.297
+2024-04-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,3113,"0,3",False,Laboral,Jueves,343.832,-7.647.297
+2024-04-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,2091,"0,2",False,Laboral,Viernes,343.832,-7.647.297
+2024-04-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,46,3585,"0,3",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-04-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,871,"0,1",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-04-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,1493,"0,2",False,Laboral,Lunes,343.832,-7.647.297
+2024-04-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,1103,"0,1",False,Laboral,Martes,343.832,-7.647.297
+2024-04-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,10956,"2,6",False,Laboral,Miércoles,343.832,-7.647.297
+2024-04-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,945,"0,2",False,Laboral,Jueves,343.832,-7.647.297
+2024-04-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,1374,"0,2",False,Laboral,Viernes,343.832,-7.647.297
+2024-04-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,2083,"0,2",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-04-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,29,2151,"0,3",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-04-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,1613,"0,4",False,Laboral,Lunes,343.832,-7.647.297
+2024-04-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,8365,2,False,Laboral,Martes,343.832,-7.647.297
+2024-04-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,9328,"2,5",False,Laboral,Miércoles,343.832,-7.647.297
+2024-04-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,3058,1,False,Laboral,Jueves,343.832,-7.647.297
+2024-04-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,2922,"0,7",False,Laboral,Viernes,343.832,-7.647.297
+2024-04-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,6604,"0,8",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-04-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,3971,"0,6",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-04-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,20908,"4,5",False,Laboral,Lunes,343.832,-7.647.297
+2024-04-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,942796,"51,4",False,Laboral,Martes,343.832,-7.647.297
+2024-04-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,2420765,"131,8",False,Laboral,Miércoles,343.832,-7.647.297
+2024-04-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,2132005,"179,7",False,Laboral,Jueves,343.832,-7.647.297
+2024-04-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,29,196073,"19,6",False,Laboral,Viernes,343.832,-7.647.297
+2024-04-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,1058080,"86,7",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-04-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,4114,"0,6",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-04-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,3288,"0,4",False,Laboral,Lunes,343.832,-7.647.297
+2024-04-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,2596,"0,4",False,Laboral,Martes,343.832,-7.647.297
+2024-05-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,2735,"0,5",True,Festivo,Miércoles,343.832,-7.647.297
+2024-05-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,3630,"0,7",False,Laboral,Jueves,343.832,-7.647.297
+2024-05-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,27,2276,"0,5",False,Laboral,Viernes,343.832,-7.647.297
+2024-05-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,6928,1,False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-05-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,50,18148,"2,9",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-05-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,2401,"0,5",False,Laboral,Lunes,343.832,-7.647.297
+2024-05-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,1252,"0,2",False,Laboral,Martes,343.832,-7.647.297
+2024-05-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,2267,"0,3",False,Laboral,Miércoles,343.832,-7.647.297
+2024-05-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,3562,"0,4",False,Laboral,Jueves,343.832,-7.647.297
+2024-05-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,2858,"0,4",False,Laboral,Viernes,343.832,-7.647.297
+2024-05-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,24284,"3,3",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-05-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,52,4015,1,False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-05-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,2287,"0,4",True,Festivo,Lunes,343.832,-7.647.297
+2024-05-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,3069,"1,4",False,Laboral,Martes,343.832,-7.647.297
+2024-05-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,225878,"36,6",False,Laboral,Miércoles,343.832,-7.647.297
+2024-05-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,1255789,"153,9",False,Laboral,Jueves,343.832,-7.647.297
+2024-05-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,2956879,"284,4",False,Laboral,Viernes,343.832,-7.647.297
+2024-05-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,2433940,"221,7",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-05-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,610157,"52,2",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-05-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,47,4110,"0,6",False,Laboral,Lunes,343.832,-7.647.297
+2024-05-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,3808,"0,5",False,Laboral,Martes,343.832,-7.647.297
+2024-05-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,1030,"0,4",False,Laboral,Miércoles,343.832,-7.647.297
+2024-05-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,1137,"0,2",False,Laboral,Jueves,343.832,-7.647.297
+2024-05-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,5929,"1,3",False,Laboral,Viernes,343.832,-7.647.297
+2024-05-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,6994,1,False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-05-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,26,215711,"31,2",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-05-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,310051,"36,5",False,Laboral,Lunes,343.832,-7.647.297
+2024-05-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,33584,"4,5",False,Laboral,Martes,343.832,-7.647.297
+2024-05-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,23,43587,"8,7",False,Laboral,Miércoles,343.832,-7.647.297
+2024-05-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,360024,"30,1",False,Laboral,Jueves,343.832,-7.647.297
+2024-05-31,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,824138,"88,6",False,Laboral,Viernes,343.832,-7.647.297
+2024-06-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,1243859,"124,2",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-06-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,943310,"96,2",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-06-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,360064,52,True,Festivo,Lunes,343.832,-7.647.297
+2024-06-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,1683,"0,4",False,Laboral,Martes,343.832,-7.647.297
+2024-06-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,26,1258,"0,4",False,Laboral,Miércoles,343.832,-7.647.297
+2024-06-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,34342,"5,6",False,Laboral,Jueves,343.832,-7.647.297
+2024-06-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,35,403659,"83,9",False,Laboral,Viernes,343.832,-7.647.297
+2024-06-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,29,1336678,"424,2",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-06-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,604267,"207,3",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-06-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,25,961496,"176,4",True,Festivo,Lunes,343.832,-7.647.297
+2024-06-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,35,2738508,"437,4",False,Laboral,Martes,343.832,-7.647.297
+2024-06-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,4190624,"565,1",False,Laboral,Miércoles,343.832,-7.647.297
+2024-06-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,1718195,33451431300,False,Laboral,Jueves,343.832,-7.647.297
+2024-06-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,1915964,57586257300,False,Laboral,Viernes,343.832,-7.647.297
+2024-06-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,37,406358,7290167600,False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-06-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,46,29973,537472900,False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-06-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,1194,"0,2",False,Laboral,Lunes,343.832,-7.647.297
+2024-06-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,35,2418960,"382,1",False,Laboral,Martes,343.832,-7.647.297
+2024-06-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,32,797376,"113,1",False,Laboral,Miércoles,343.832,-7.647.297
+2024-06-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,1671114,"334,5",False,Laboral,Jueves,343.832,-7.647.297
+2024-06-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,645021,"110,8",False,Laboral,Viernes,343.832,-7.647.297
+2024-06-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,58,4469427,"845,6",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-06-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,2479,1,False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-06-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,67,534782,"102,4",False,Laboral,Lunes,343.832,-7.647.297
+2024-06-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,52,2991412,"741,1",False,Laboral,Martes,343.832,-7.647.297
+2024-06-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,898678,"232,1",False,Laboral,Miércoles,343.832,-7.647.297
+2024-06-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,559419,"166,5",False,Laboral,Jueves,343.832,-7.647.297
+2024-06-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,68,1113093,"191,5",False,Laboral,Viernes,343.832,-7.647.297
+2024-06-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,81,1905988,"323,2",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-06-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,66,1429444,307,False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-07-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,69,141970,"19,72",True,Festivo,Lunes,343.832,-7.647.297
+2024-07-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,7157,"0,77",False,Laboral,Martes,343.832,-7.647.297
+2024-07-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,77,23845,"2,84",False,Laboral,Miércoles,343.832,-7.647.297
+2024-07-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,54,149820,"18,88",False,Laboral,Jueves,343.832,-7.647.297
+2024-07-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,614192,"72,09",False,Laboral,Viernes,343.832,-7.647.297
+2024-07-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,82,4880569,"579,79",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-07-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,77,579159,"65,65",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-07-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,1605100,"288,9",False,Laboral,Lunes,343.832,-7.647.297
+2024-07-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,1004630,173,False,Laboral,Martes,343.832,-7.647.297
+2024-07-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,29324,"4,25",False,Laboral,Miércoles,343.832,-7.647.297
+2024-07-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,7499,"1,02",False,Laboral,Jueves,343.832,-7.647.297
+2024-07-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,6866,"1,08",False,Laboral,Viernes,343.832,-7.647.297
+2024-07-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,3755,"0,53",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-07-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,98,3882,"0,61",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-07-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,83,5265,"0,94",False,Laboral,Lunes,343.832,-7.647.297
+2024-07-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,68,2427,"0,39",False,Laboral,Martes,343.832,-7.647.297
+2024-07-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,4018,"0,89",False,Laboral,Miércoles,343.832,-7.647.297
+2024-07-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,1643,"0,28",False,Laboral,Jueves,343.832,-7.647.297
+2024-07-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,64,2133,"0,3",False,Laboral,Viernes,343.832,-7.647.297
+2024-07-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,91,327687,"42,07",True,Festivo,Sábado,343.832,-7.647.297
+2024-07-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,503930,"76,98",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-07-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,71,3531139,"508,07",False,Laboral,Lunes,343.832,-7.647.297
+2024-07-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,56904,"8,21",False,Laboral,Martes,343.832,-7.647.297
+2024-07-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,779703,"123,35",False,Laboral,Miércoles,343.832,-7.647.297
+2024-07-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,340019,"53,78",False,Laboral,Jueves,343.832,-7.647.297
+2024-07-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,139902,"18,43",False,Laboral,Viernes,343.832,-7.647.297
+2024-07-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,76,2656,"0,45",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-07-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,72,3734,"0,79",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-07-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,67,292909,"46,97",False,Laboral,Lunes,343.832,-7.647.297
+2024-07-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,37630,"5,5",False,Laboral,Martes,343.832,-7.647.297
+2024-07-31,URBANA,023_ZW Parque Los Guerreros,21,MR76,66,398163,"66,14",False,Laboral,Miércoles,343.832,-7.647.297
+2024-08-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,361692,"53,97",False,Laboral,Jueves,343.832,-7.647.297
+2024-08-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,640602,"106,57",False,Laboral,Viernes,343.832,-7.647.297
+2024-08-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,61,1196859,"243,86",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-08-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,2002365,"319,25",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-08-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,58,1410626,"203,83",False,Laboral,Lunes,343.832,-7.647.297
+2024-08-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,3172,"0,31",False,Laboral,Martes,343.832,-7.647.297
+2024-08-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,342737,"40,77",True,Festivo,Miércoles,343.832,-7.647.297
+2024-08-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,263693,"33,08",False,Laboral,Jueves,343.832,-7.647.297
+2024-08-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,50,1543811,"284,91",False,Laboral,Viernes,343.832,-7.647.297
+2024-08-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,1529017,"289,41",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-08-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,75,65999,"11,45",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-08-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,58,1726,"0,37",False,Laboral,Lunes,343.832,-7.647.297
+2024-08-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,4032,"0,46",False,Laboral,Martes,343.832,-7.647.297
+2024-08-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,3561,"0,47",False,Laboral,Miércoles,343.832,-7.647.297
+2024-08-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,72,17109,"2,57",False,Laboral,Jueves,343.832,-7.647.297
+2024-08-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,90,7898,"1,08",False,Laboral,Viernes,343.832,-7.647.297
+2024-08-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,105,6330,"0,92",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-08-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,2358,"0,36",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-08-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,2532,"0,35",True,Festivo,Lunes,343.832,-7.647.297
+2024-08-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,51,1645,"0,41",False,Laboral,Martes,343.832,-7.647.297
+2024-08-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,3016,"0,88",False,Laboral,Miércoles,343.832,-7.647.297
+2024-08-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,75,7737,"2,06",False,Laboral,Jueves,343.832,-7.647.297
+2024-08-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,68,5639,"2,3",False,Laboral,Viernes,343.832,-7.647.297
+2024-08-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,74,5367,"3,64",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-08-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,74,8407,"8,04",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-08-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,66,2144,"2,86",False,Laboral,Lunes,343.832,-7.647.297
+2024-08-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,60,1773,"1,9",False,Laboral,Martes,343.832,-7.647.297
+2024-08-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,76,4635,"8,22",False,Laboral,Miércoles,343.832,-7.647.297
+2024-08-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,2008,"5,74",False,Laboral,Jueves,343.832,-7.647.297
+2024-10-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,28,213231,"47,63",False,Laboral,Viernes,343.832,-7.647.297
+2024-10-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,2132477,"276,15",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-10-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,476469,"47,86",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-10-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,313886,"52,12",False,Laboral,Lunes,343.832,-7.647.297
+2024-10-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,31,690005,"108,84",False,Laboral,Martes,343.832,-7.647.297
+2024-10-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,744380,"151,94",False,Laboral,Miércoles,343.832,-7.647.297
+2024-10-31,URBANA,023_ZW Parque Los Guerreros,21,MR76,98,1612291,"343,66",False,Laboral,Jueves,343.832,-7.647.297
+2024-11-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,4655,"0,84",False,Laboral,Viernes,343.832,-7.647.297
+2024-11-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,51,3768,"0,61",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-11-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,35,3128,"0,53",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-11-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,1876,"0,28",True,Festivo,Lunes,343.832,-7.647.297
+2024-11-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,68,1149028,"157,36",False,Laboral,Martes,343.832,-7.647.297
+2024-11-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,50,522182,"83,39",False,Laboral,Miércoles,343.832,-7.647.297
+2024-11-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,448721,"50,45",False,Laboral,Jueves,343.832,-7.647.297
+2024-11-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,69,2223987,"179,84",False,Laboral,Viernes,343.832,-7.647.297
+2024-11-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,78,5394186,"323,95",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-11-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,74,1498454,"77,35",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-11-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,251513,"14,32",True,Festivo,Lunes,343.832,-7.647.297
+2024-11-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,60,210638,"11,02",False,Laboral,Martes,343.832,-7.647.297
+2024-11-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,4477905,"276,39",False,Laboral,Miércoles,343.832,-7.647.297
+2024-11-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,66,1660122,"86,48",False,Laboral,Jueves,343.832,-7.647.297
+2024-11-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,95,1521114,"83,5",False,Laboral,Viernes,343.832,-7.647.297
+2024-11-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,83,1560688,"84,76",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-11-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,3318939,"193,19",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-11-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,64,1858698,"115,63",False,Laboral,Lunes,343.832,-7.647.297
+2024-11-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,454874,"28,47",False,Laboral,Martes,343.832,-7.647.297
+2024-11-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,279284,"14,64",False,Laboral,Miércoles,343.832,-7.647.297
+2024-11-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,926676,"51,32",False,Laboral,Jueves,343.832,-7.647.297
+2024-11-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,62,1033011,"51,17",False,Laboral,Viernes,343.832,-7.647.297
+2024-11-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,76,495270,"25,84",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-11-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,73,190365,"25,71",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-11-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,97640,"23,74",False,Laboral,Lunes,343.832,-7.647.297
+2024-11-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,34,330618,"41,98",False,Laboral,Martes,343.832,-7.647.297
+2024-11-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,377349,"19,43",False,Laboral,Miércoles,343.832,-7.647.297
+2024-11-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,335960,"15,96",False,Laboral,Jueves,343.832,-7.647.297
+2024-11-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,569944,"25,64",False,Laboral,Viernes,343.832,-7.647.297
+2024-11-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,96,2936672,"128,84",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-12-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,85,997528,"41,28",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-12-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,70,2550163,"122,22",False,Laboral,Lunes,343.832,-7.647.297
+2024-12-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,54,252739,"13,54",False,Laboral,Martes,343.832,-7.647.297
+2024-12-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,1527388,"66,13",False,Laboral,Miércoles,343.832,-7.647.297
+2024-12-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,67,271084,"11,82",False,Laboral,Jueves,343.832,-7.647.297
+2024-12-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,74,633024,"28,16",False,Laboral,Viernes,343.832,-7.647.297
+2024-12-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,101,2149888,"104,79",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-12-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,78,968784,"36,48",True,Festivo,Domingo,343.832,-7.647.297
+2024-12-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,73,1804638,"66,91",False,Laboral,Lunes,343.832,-7.647.297
+2024-12-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,295883,"9,77",False,Laboral,Martes,343.832,-7.647.297
+2024-12-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,980370,"32,51",False,Laboral,Miércoles,343.832,-7.647.297
+2024-12-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,69,2156231,"62,84",False,Laboral,Jueves,343.832,-7.647.297
+2024-12-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,74,2252626,"66,4",False,Laboral,Viernes,343.832,-7.647.297
+2024-12-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,83,1981632,"65,24",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-12-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,89,854515,"28,84",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-12-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,81,1932002,"58,1",False,Laboral,Lunes,343.832,-7.647.297
+2024-12-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,64,1966042,64,False,Laboral,Martes,343.832,-7.647.297
+2024-12-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,71,2334761,74,False,Laboral,Miércoles,343.832,-7.647.297
+2024-12-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,77,3070473,108,False,Laboral,Jueves,343.832,-7.647.297
+2024-12-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,86,2470537,"81,4",False,Laboral,Viernes,343.832,-7.647.297
+2024-12-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,89,2131703,"81,8",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-12-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,86,910861,"28,4",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-12-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,86,1754557,70,False,Laboral,Lunes,343.832,-7.647.297
+2024-12-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,58,3899981,163,False,Laboral,Martes,343.832,-7.647.297
+2024-12-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,60,4239933,150,True,Festivo,Miércoles,343.832,-7.647.297
+2024-12-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,40,587895,"21,5",False,Laboral,Jueves,343.832,-7.647.297
+2024-12-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,47,1365165,"41,9",False,Laboral,Viernes,343.832,-7.647.297
+2024-12-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,38,1519382,"64,6",False,Fin de Semana,Sábado,343.832,-7.647.297
+2024-12-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,762332,"23,6",False,Fin de Semana,Domingo,343.832,-7.647.297
+2024-12-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,51,4984122,204,False,Laboral,Lunes,343.832,-7.647.297
+2024-12-31,RURAL,023_ZW Parque Los Guerreros,21,MR76,55,2627519,141,False,Laboral,Martes,343.832,-7.647.297
+2025-01-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,1248112,85,True,Festivo,Miércoles,343.832,-7.647.297
+2025-01-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,665036,24,False,Laboral,Jueves,343.832,-7.647.297
+2025-01-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,986470,37,False,Laboral,Viernes,343.832,-7.647.297
+2025-01-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,2432120,90,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-01-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,320334,10,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-01-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,1769564,47,True,Festivo,Lunes,343.832,-7.647.297
+2025-01-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,1694477,51,False,Laboral,Martes,343.832,-7.647.297
+2025-01-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,923226,27,False,Laboral,Miércoles,343.832,-7.647.297
+2025-01-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,1394659,40,False,Laboral,Jueves,343.832,-7.647.297
+2025-01-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,4978992,138,False,Laboral,Viernes,343.832,-7.647.297
+2025-01-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,1847535,54,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-01-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,1531830,41,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-01-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,2207940,73,False,Laboral,Lunes,343.832,-7.647.297
+2025-01-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,2761619,91,False,Laboral,Martes,343.832,-7.647.297
+2025-01-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,8535540,296,False,Laboral,Miércoles,343.832,-7.647.297
+2025-01-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,61,5925196,188,False,Laboral,Jueves,343.832,-7.647.297
+2025-01-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,54,2001881,66,False,Laboral,Viernes,343.832,-7.647.297
+2025-01-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,58,2145811,71,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-01-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,541619,17,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-01-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,58,1970139,61,False,Laboral,Lunes,343.832,-7.647.297
+2025-01-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,1221324,34,False,Laboral,Martes,343.832,-7.647.297
+2025-01-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,46,804135,24,False,Laboral,Miércoles,343.832,-7.647.297
+2025-01-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,51,1427378,36,False,Laboral,Jueves,343.832,-7.647.297
+2025-01-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,1614078,48,False,Laboral,Viernes,343.832,-7.647.297
+2025-01-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,69,3420722,92,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-01-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,1255576,32,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-01-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,6634969,175,False,Laboral,Lunes,343.832,-7.647.297
+2025-01-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,52,1863694,57,False,Laboral,Martes,343.832,-7.647.297
+2025-01-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,47,1133197,31,False,Laboral,Miércoles,343.832,-7.647.297
+2025-01-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,216208,8,False,Laboral,Jueves,343.832,-7.647.297
+2025-01-31,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,114035,6,False,Laboral,Viernes,343.832,-7.647.297
+2025-02-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,3888517,137,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-02-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,936275,28,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-02-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,42,552230,21,False,Laboral,Lunes,343.832,-7.647.297
+2025-02-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,368193,13,False,Laboral,Martes,343.832,-7.647.297
+2025-02-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,33,200411,8,False,Laboral,Miércoles,343.832,-7.647.297
+2025-02-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,1593321,59,False,Laboral,Jueves,343.832,-7.647.297
+2025-02-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,742778,25,False,Laboral,Viernes,343.832,-7.647.297
+2025-02-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,39,2011940,75,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-02-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,62,3265950,103,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-02-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,60,2485233,94,False,Laboral,Lunes,343.832,-7.647.297
+2025-02-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,1560539,53,False,Laboral,Martes,343.832,-7.647.297
+2025-02-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,35,1779733,54,False,Laboral,Miércoles,343.832,-7.647.297
+2025-02-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,41,1853322,87,False,Laboral,Jueves,343.832,-7.647.297
+2025-02-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,43,571560,17,False,Laboral,Viernes,343.832,-7.647.297
+2025-02-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,4069282,147,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-02-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,67,5768587,190,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-02-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,966088,34,False,Laboral,Lunes,343.832,-7.647.297
+2025-02-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,62,1264910,45,False,Laboral,Martes,343.832,-7.647.297
+2025-02-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,56,2290665,73,False,Laboral,Miércoles,343.832,-7.647.297
+2025-02-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,49,2788553,79,False,Laboral,Jueves,343.832,-7.647.297
+2025-02-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,62,2141116,73,False,Laboral,Viernes,343.832,-7.647.297
+2025-02-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,62,1404051,49,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-02-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,44,6067296,177,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-02-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,2527170,104,False,Laboral,Lunes,343.832,-7.647.297
+2025-02-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,3938093,127,False,Laboral,Martes,343.832,-7.647.297
+2025-02-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,5002421,181,False,Laboral,Miércoles,343.832,-7.647.297
+2025-02-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,61,4611021,161,False,Laboral,Jueves,343.832,-7.647.297
+2025-02-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,2892257,103,False,Laboral,Viernes,343.832,-7.647.297
+2025-03-01,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,3010637,113,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-03-02,URBANA,023_ZW Parque Los Guerreros,21,MR76,62,5601784,165,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-03-03,URBANA,023_ZW Parque Los Guerreros,21,MR76,63,4275619,160,False,Laboral,Lunes,343.832,-7.647.297
+2025-03-04,URBANA,023_ZW Parque Los Guerreros,21,MR76,51,3248188,147,False,Laboral,Martes,343.832,-7.647.297
+2025-03-05,URBANA,023_ZW Parque Los Guerreros,21,MR76,53,2503211,89,False,Laboral,Miércoles,343.832,-7.647.297
+2025-03-06,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,8187006,263,False,Laboral,Jueves,343.832,-7.647.297
+2025-03-07,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,2115119,76,False,Laboral,Viernes,343.832,-7.647.297
+2025-03-08,URBANA,023_ZW Parque Los Guerreros,21,MR76,73,3580897,104,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-03-09,URBANA,023_ZW Parque Los Guerreros,21,MR76,60,3179005,99,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-03-10,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,5681755,164,False,Laboral,Lunes,343.832,-7.647.297
+2025-03-11,URBANA,023_ZW Parque Los Guerreros,21,MR76,47,894779,40,False,Laboral,Martes,343.832,-7.647.297
+2025-03-12,URBANA,023_ZW Parque Los Guerreros,21,MR76,46,3831177,130,False,Laboral,Miércoles,343.832,-7.647.297
+2025-03-13,URBANA,023_ZW Parque Los Guerreros,21,MR76,48,2601904,107,False,Laboral,Jueves,343.832,-7.647.297
+2025-03-14,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,1614338,55,False,Laboral,Viernes,343.832,-7.647.297
+2025-03-15,URBANA,023_ZW Parque Los Guerreros,21,MR76,76,4858957,156,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-03-16,URBANA,023_ZW Parque Los Guerreros,21,MR76,65,3701239,119,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-03-17,URBANA,023_ZW Parque Los Guerreros,21,MR76,66,1359094,47,False,Laboral,Lunes,343.832,-7.647.297
+2025-03-18,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,3581049,108,False,Laboral,Martes,343.832,-7.647.297
+2025-03-19,URBANA,023_ZW Parque Los Guerreros,21,MR76,36,254326,9,False,Laboral,Miércoles,343.832,-7.647.297
+2025-03-20,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,2598577,84,False,Laboral,Jueves,343.832,-7.647.297
+2025-03-21,URBANA,023_ZW Parque Los Guerreros,21,MR76,57,3542941,96,False,Laboral,Viernes,343.832,-7.647.297
+2025-03-22,URBANA,023_ZW Parque Los Guerreros,21,MR76,76,5047116,166,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-03-23,URBANA,023_ZW Parque Los Guerreros,21,MR76,55,4012367,124,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-03-24,URBANA,023_ZW Parque Los Guerreros,21,MR76,52,4759607,118,True,Festivo,Lunes,343.832,-7.647.297
+2025-03-25,URBANA,023_ZW Parque Los Guerreros,21,MR76,64,3683716,107,False,Laboral,Martes,343.832,-7.647.297
+2025-03-26,URBANA,023_ZW Parque Los Guerreros,21,MR76,74,4871033,157,False,Laboral,Miércoles,343.832,-7.647.297
+2025-03-27,URBANA,023_ZW Parque Los Guerreros,21,MR76,50,6778813,187,False,Laboral,Jueves,343.832,-7.647.297
+2025-03-28,URBANA,023_ZW Parque Los Guerreros,21,MR76,54,2409985,100,False,Laboral,Viernes,343.832,-7.647.297
+2025-03-29,URBANA,023_ZW Parque Los Guerreros,21,MR76,85,5617682,176,False,Fin de Semana,Sábado,343.832,-7.647.297
+2025-03-30,URBANA,023_ZW Parque Los Guerreros,21,MR76,60,5549164,159,False,Fin de Semana,Domingo,343.832,-7.647.297
+2025-03-31,URBANA,023_ZW Parque Los Guerreros,21,MR76,59,4368185,145,False,Laboral,Lunes,343.832,-7.647.297

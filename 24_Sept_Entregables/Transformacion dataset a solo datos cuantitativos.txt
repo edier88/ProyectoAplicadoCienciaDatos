@@ -1,0 +1,31 @@
+Transformación del dataset a solo datos cuantitativos:
+
+
+1. tipo_dia (aplica4 One Hot Encoding): 
+
+Laboral	|	Fin de Semana	|	Festivo
+----------------------------------------------------
+1	|	0		|	0
+0	|	1		|	0
+0	|	0		|	1
+
+
+2. dia_semana (darle un peso numérico):
+Lunes: 0
+Martes: 1
+Miércoles: 2
+Jueves: 3
+Viernes: 4
+Sábado: 5
+Domingo: 6
+
+3. Borrar columnas:
+MODEL
+NOMBRE.ZONA
+COMUNA
+AREA
+LONGITUD
+LATITUD
+
+4. Columna USAGE.KB debe estar en la última posición, a la extrema derecha de la tabla
+

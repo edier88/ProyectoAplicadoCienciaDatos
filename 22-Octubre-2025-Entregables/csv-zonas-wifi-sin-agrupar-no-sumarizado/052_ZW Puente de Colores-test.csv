@@ -1,0 +1,779 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,052_ZW Puente de Colores,13,MR74,34,9639,"1,1",True,Festivo,Lunes,342.065,-7.648.699
+2024-01-01,URBANA,052_ZW Puente de Colores,13,MR74,46,5027,"0,6",True,Festivo,Lunes,342.065,-7.648.699
+2024-01-02,URBANA,052_ZW Puente de Colores,13,MR74,32,47276,"5,6",False,Laboral,Martes,342.065,-7.648.699
+2024-01-02,URBANA,052_ZW Puente de Colores,13,MR74,30,34629,"4,1",False,Laboral,Martes,342.065,-7.648.699
+2024-01-03,URBANA,052_ZW Puente de Colores,13,MR74,38,24086,2,False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-03,URBANA,052_ZW Puente de Colores,13,MR74,42,53827,"4,4",False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-04,URBANA,052_ZW Puente de Colores,13,MR74,28,3793,"0,4",False,Laboral,Jueves,342.065,-7.648.699
+2024-01-04,URBANA,052_ZW Puente de Colores,13,MR74,32,3734,"0,4",False,Laboral,Jueves,342.065,-7.648.699
+2024-01-05,URBANA,052_ZW Puente de Colores,13,MR74,31,230814,"21,3",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-05,URBANA,052_ZW Puente de Colores,13,MR74,37,9740,"0,9",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-06,URBANA,052_ZW Puente de Colores,13,MR74,38,1654,"0,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-06,URBANA,052_ZW Puente de Colores,13,MR74,50,21059,"2,7",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-07,URBANA,052_ZW Puente de Colores,13,MR74,31,411686,41,False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-07,URBANA,052_ZW Puente de Colores,13,MR74,48,15479,"1,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-08,URBANA,052_ZW Puente de Colores,13,MR74,35,188515,12,True,Festivo,Lunes,342.065,-7.648.699
+2024-01-08,URBANA,052_ZW Puente de Colores,13,MR74,37,8686,"0,6",True,Festivo,Lunes,342.065,-7.648.699
+2024-01-09,URBANA,052_ZW Puente de Colores,13,MR74,27,164754,"12,7",False,Laboral,Martes,342.065,-7.648.699
+2024-01-09,URBANA,052_ZW Puente de Colores,13,MR74,29,2231,"0,2",False,Laboral,Martes,342.065,-7.648.699
+2024-01-10,URBANA,052_ZW Puente de Colores,13,MR74,34,581290,"48,2",False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-10,URBANA,052_ZW Puente de Colores,13,MR74,56,8823,"0,7",False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-11,URBANA,052_ZW Puente de Colores,13,MR74,28,93205,"8,7",False,Laboral,Jueves,342.065,-7.648.699
+2024-01-11,URBANA,052_ZW Puente de Colores,13,MR74,38,688937,64,False,Laboral,Jueves,342.065,-7.648.699
+2024-01-12,URBANA,052_ZW Puente de Colores,13,MR74,34,750227,"64,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-12,URBANA,052_ZW Puente de Colores,13,MR74,34,324206,"27,9",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-13,URBANA,052_ZW Puente de Colores,13,MR74,36,85880,"9,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-13,URBANA,052_ZW Puente de Colores,13,MR74,46,295988,"32,9",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-14,URBANA,052_ZW Puente de Colores,13,MR74,35,2733,"0,3",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-14,URBANA,052_ZW Puente de Colores,13,MR74,46,3914,"0,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-15,URBANA,052_ZW Puente de Colores,13,MR74,28,4115,"0,6",False,Laboral,Lunes,342.065,-7.648.699
+2024-01-15,URBANA,052_ZW Puente de Colores,13,MR74,39,574458,83,False,Laboral,Lunes,342.065,-7.648.699
+2024-01-16,URBANA,052_ZW Puente de Colores,13,MR74,31,3235,"0,4",False,Laboral,Martes,342.065,-7.648.699
+2024-01-16,URBANA,052_ZW Puente de Colores,13,MR74,43,28760,"3,4",False,Laboral,Martes,342.065,-7.648.699
+2024-01-17,URBANA,052_ZW Puente de Colores,13,MR74,31,460858,"46,1",False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-17,URBANA,052_ZW Puente de Colores,13,MR74,40,989898,99,False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-18,URBANA,052_ZW Puente de Colores,13,MR74,28,360517,"30,1",False,Laboral,Jueves,342.065,-7.648.699
+2024-01-18,URBANA,052_ZW Puente de Colores,13,MR74,32,1211064,101,False,Laboral,Jueves,342.065,-7.648.699
+2024-01-19,URBANA,052_ZW Puente de Colores,13,MR74,33,193356,"12,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-19,URBANA,052_ZW Puente de Colores,13,MR74,36,287515,"18,7",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-20,URBANA,052_ZW Puente de Colores,13,MR74,29,75058,"5,8",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-20,URBANA,052_ZW Puente de Colores,13,MR74,52,430201,"33,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-21,URBANA,052_ZW Puente de Colores,13,MR74,28,313643,"24,2",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-21,URBANA,052_ZW Puente de Colores,13,MR74,40,152208,"11,8",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-22,URBANA,052_ZW Puente de Colores,13,MR74,39,154195,"14,7",False,Laboral,Lunes,342.065,-7.648.699
+2024-01-22,URBANA,052_ZW Puente de Colores,13,MR74,48,23980,"2,3",False,Laboral,Lunes,342.065,-7.648.699
+2024-01-23,URBANA,052_ZW Puente de Colores,13,MR74,36,4201,"0,4",False,Laboral,Martes,342.065,-7.648.699
+2024-01-23,URBANA,052_ZW Puente de Colores,13,MR74,51,10115,"0,9",False,Laboral,Martes,342.065,-7.648.699
+2024-01-24,URBANA,052_ZW Puente de Colores,13,MR74,35,2190,"0,2",False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-24,URBANA,052_ZW Puente de Colores,13,MR74,47,12432,1,False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-25,URBANA,052_ZW Puente de Colores,13,MR74,40,3570,"0,2",False,Laboral,Jueves,342.065,-7.648.699
+2024-01-25,URBANA,052_ZW Puente de Colores,13,MR74,47,12469,"0,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-01-26,URBANA,052_ZW Puente de Colores,13,MR74,43,8364,"0,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-26,URBANA,052_ZW Puente de Colores,13,MR74,48,26420,"1,9",False,Laboral,Viernes,342.065,-7.648.699
+2024-01-27,URBANA,052_ZW Puente de Colores,13,MR74,39,7155,"0,6",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-27,URBANA,052_ZW Puente de Colores,13,MR74,49,68282,"5,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-01-28,URBANA,052_ZW Puente de Colores,13,MR74,52,76245,"7,4",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-28,URBANA,052_ZW Puente de Colores,13,MR74,61,46034,"4,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-01-29,URBANA,052_ZW Puente de Colores,13,MR74,51,27488,"2,4",False,Laboral,Lunes,342.065,-7.648.699
+2024-01-29,URBANA,052_ZW Puente de Colores,13,MR74,61,46667,4,False,Laboral,Lunes,342.065,-7.648.699
+2024-01-30,URBANA,052_ZW Puente de Colores,13,MR74,57,174409,"19,3",False,Laboral,Martes,342.065,-7.648.699
+2024-01-30,URBANA,052_ZW Puente de Colores,13,MR74,58,69156,"7,6",False,Laboral,Martes,342.065,-7.648.699
+2024-01-31,URBANA,052_ZW Puente de Colores,13,MR74,57,940971,"90,1",False,Laboral,Miércoles,342.065,-7.648.699
+2024-01-31,URBANA,052_ZW Puente de Colores,13,MR74,63,395237,"37,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-01,URBANA,052_ZW Puente de Colores,13,MR74,54,18209,"1,3",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-01,URBANA,052_ZW Puente de Colores,13,MR74,57,34922,"2,5",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-02,URBANA,052_ZW Puente de Colores,13,MR74,43,8452,"0,9",False,Laboral,Viernes,342.065,-7.648.699
+2024-02-02,URBANA,052_ZW Puente de Colores,13,MR74,44,13517,"1,4",False,Laboral,Viernes,342.065,-7.648.699
+2024-02-03,URBANA,052_ZW Puente de Colores,13,MR74,39,6717,"0,4",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-03,URBANA,052_ZW Puente de Colores,13,MR74,47,28189,"1,6",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-04,URBANA,052_ZW Puente de Colores,13,MR74,35,5317,"0,3",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-04,URBANA,052_ZW Puente de Colores,13,MR74,36,7089,"0,4",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-05,URBANA,052_ZW Puente de Colores,13,MR74,33,2234,"0,1",False,Laboral,Lunes,342.065,-7.648.699
+2024-02-05,URBANA,052_ZW Puente de Colores,13,MR74,49,3206,"0,2",False,Laboral,Lunes,342.065,-7.648.699
+2024-02-06,URBANA,052_ZW Puente de Colores,13,MR74,41,27281,"1,8",False,Laboral,Martes,342.065,-7.648.699
+2024-02-06,URBANA,052_ZW Puente de Colores,13,MR74,41,96691,"6,5",False,Laboral,Martes,342.065,-7.648.699
+2024-02-07,URBANA,052_ZW Puente de Colores,13,MR74,46,15073,"0,9",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-07,URBANA,052_ZW Puente de Colores,13,MR74,47,10005,"0,6",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-08,URBANA,052_ZW Puente de Colores,13,MR74,28,354419,"26,1",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-08,URBANA,052_ZW Puente de Colores,13,MR74,35,20937,"1,5",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-09,URBANA,052_ZW Puente de Colores,13,MR74,43,24259,2,False,Laboral,Viernes,342.065,-7.648.699
+2024-02-09,URBANA,052_ZW Puente de Colores,13,MR74,56,11596,1,False,Laboral,Viernes,342.065,-7.648.699
+2024-02-10,URBANA,052_ZW Puente de Colores,13,MR74,29,809860,"50,7",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-10,URBANA,052_ZW Puente de Colores,13,MR74,42,1447455,"90,6",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-11,URBANA,052_ZW Puente de Colores,13,MR74,34,617682,46,False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-11,URBANA,052_ZW Puente de Colores,13,MR74,37,1245285,"92,7",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-12,URBANA,052_ZW Puente de Colores,13,MR74,41,1533128,"148,1",False,Laboral,Lunes,342.065,-7.648.699
+2024-02-12,URBANA,052_ZW Puente de Colores,13,MR74,42,387196,"37,4",False,Laboral,Lunes,342.065,-7.648.699
+2024-02-13,URBANA,052_ZW Puente de Colores,13,MR74,46,1128401,"130,3",False,Laboral,Martes,342.065,-7.648.699
+2024-02-13,URBANA,052_ZW Puente de Colores,13,MR74,46,378980,"43,8",False,Laboral,Martes,342.065,-7.648.699
+2024-02-14,URBANA,052_ZW Puente de Colores,13,MR74,39,1403840,"185,9",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-14,URBANA,052_ZW Puente de Colores,13,MR74,47,253555,"33,6",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-15,URBANA,052_ZW Puente de Colores,13,MR74,56,2145095,"183,7",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-15,URBANA,052_ZW Puente de Colores,13,MR74,57,523786,"44,9",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-16,URBANA,052_ZW Puente de Colores,13,MR74,44,839066,"79,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-02-16,URBANA,052_ZW Puente de Colores,13,MR74,59,48393,"4,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-02-17,URBANA,052_ZW Puente de Colores,13,MR74,49,548051,"51,8",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-17,URBANA,052_ZW Puente de Colores,13,MR74,51,205454,"19,4",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-18,URBANA,052_ZW Puente de Colores,13,MR74,39,782302,"60,4",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-18,URBANA,052_ZW Puente de Colores,13,MR74,50,36388,"2,8",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-19,URBANA,052_ZW Puente de Colores,13,MR74,40,2370838,"161,8",False,Laboral,Lunes,342.065,-7.648.699
+2024-02-19,URBANA,052_ZW Puente de Colores,13,MR74,46,660440,"45,1",False,Laboral,Lunes,342.065,-7.648.699
+2024-02-20,URBANA,052_ZW Puente de Colores,13,MR74,43,2509304,"205,5",False,Laboral,Martes,342.065,-7.648.699
+2024-02-20,URBANA,052_ZW Puente de Colores,13,MR74,54,138059,"11,3",False,Laboral,Martes,342.065,-7.648.699
+2024-02-21,URBANA,052_ZW Puente de Colores,13,MR74,48,2039205,"176,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-21,URBANA,052_ZW Puente de Colores,13,MR74,67,649585,"56,3",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-22,URBANA,052_ZW Puente de Colores,13,MR74,55,3170209,"207,1",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-22,URBANA,052_ZW Puente de Colores,13,MR74,71,630240,"41,2",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-23,URBANA,052_ZW Puente de Colores,13,MR74,53,1232590,"86,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-02-23,URBANA,052_ZW Puente de Colores,13,MR74,57,350035,"24,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-02-24,URBANA,052_ZW Puente de Colores,13,MR74,56,2715035,"216,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-24,URBANA,052_ZW Puente de Colores,13,MR74,53,1996375,159,False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-02-25,URBANA,052_ZW Puente de Colores,13,MR74,55,1461162,"83,2",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-25,URBANA,052_ZW Puente de Colores,13,MR74,49,1077690,"61,4",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-02-26,URBANA,052_ZW Puente de Colores,13,MR74,54,450216,"40,4",False,Laboral,Lunes,342.065,-7.648.699
+2024-02-26,URBANA,052_ZW Puente de Colores,13,MR74,54,66779,6,False,Laboral,Lunes,342.065,-7.648.699
+2024-02-27,URBANA,052_ZW Puente de Colores,13,MR74,53,17411,"1,5",False,Laboral,Martes,342.065,-7.648.699
+2024-02-27,URBANA,052_ZW Puente de Colores,13,MR74,57,6205,"0,5",False,Laboral,Martes,342.065,-7.648.699
+2024-02-28,URBANA,052_ZW Puente de Colores,13,MR74,53,187887,11,False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-28,URBANA,052_ZW Puente de Colores,13,MR74,56,6422,"0,4",False,Laboral,Miércoles,342.065,-7.648.699
+2024-02-29,URBANA,052_ZW Puente de Colores,13,MR74,60,1582077,"199,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-02-29,URBANA,052_ZW Puente de Colores,13,MR74,56,593750,75,False,Laboral,Jueves,342.065,-7.648.699
+2024-03-01,URBANA,052_ZW Puente de Colores,13,MR74,58,1580871,"131,8",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-01,URBANA,052_ZW Puente de Colores,13,MR74,58,2630962,"219,3",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-02,URBANA,052_ZW Puente de Colores,13,MR74,55,702509,"68,3",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-02,URBANA,052_ZW Puente de Colores,13,MR74,42,406402,"39,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-03,URBANA,052_ZW Puente de Colores,13,MR74,43,726304,"52,1",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-03-03,URBANA,052_ZW Puente de Colores,13,MR74,51,1193441,"85,6",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-03-04,URBANA,052_ZW Puente de Colores,13,MR74,53,2159524,"151,9",False,Laboral,Lunes,342.065,-7.648.699
+2024-03-04,URBANA,052_ZW Puente de Colores,13,MR74,60,138750,"9,8",False,Laboral,Lunes,342.065,-7.648.699
+2024-03-05,URBANA,052_ZW Puente de Colores,13,MR74,59,1220052,"88,5",False,Laboral,Martes,342.065,-7.648.699
+2024-03-05,URBANA,052_ZW Puente de Colores,13,MR74,63,334689,"24,3",False,Laboral,Martes,342.065,-7.648.699
+2024-03-06,URBANA,052_ZW Puente de Colores,13,MR74,46,2704686,"223,5",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-06,URBANA,052_ZW Puente de Colores,13,MR74,67,227009,"18,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-07,URBANA,052_ZW Puente de Colores,13,MR74,104,3590487,"336,1",False,Laboral,Jueves,342.065,-7.648.699
+2024-03-07,URBANA,052_ZW Puente de Colores,13,MR74,128,1453748,"136,1",False,Laboral,Jueves,342.065,-7.648.699
+2024-03-08,URBANA,052_ZW Puente de Colores,13,MR74,54,1599161,"149,5",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-08,URBANA,052_ZW Puente de Colores,13,MR74,62,68034,"6,4",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-09,URBANA,052_ZW Puente de Colores,13,MR74,39,1869823,"189,1",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-09,URBANA,052_ZW Puente de Colores,13,MR74,49,485319,"49,1",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-10,URBANA,052_ZW Puente de Colores,13,MR74,41,3681498,"385,8",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-03-10,URBANA,052_ZW Puente de Colores,13,MR74,40,114632,12,False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-03-11,URBANA,052_ZW Puente de Colores,13,MR74,54,1050582,"111,8",False,Laboral,Lunes,342.065,-7.648.699
+2024-03-11,URBANA,052_ZW Puente de Colores,13,MR74,77,386544,"41,1",False,Laboral,Lunes,342.065,-7.648.699
+2024-03-12,URBANA,052_ZW Puente de Colores,13,MR74,62,4090204,"463,9",False,Laboral,Martes,342.065,-7.648.699
+2024-03-12,URBANA,052_ZW Puente de Colores,13,MR74,66,614437,"69,7",False,Laboral,Martes,342.065,-7.648.699
+2024-03-13,URBANA,052_ZW Puente de Colores,13,MR74,60,250066,"33,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-13,URBANA,052_ZW Puente de Colores,13,MR74,68,115181,"15,6",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-14,URBANA,052_ZW Puente de Colores,13,MR74,52,36884,"3,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-03-14,URBANA,052_ZW Puente de Colores,13,MR74,61,7369,"0,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-03-15,URBANA,052_ZW Puente de Colores,13,MR74,58,686944,"52,7",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-15,URBANA,052_ZW Puente de Colores,13,MR74,55,255951,"19,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-16,URBANA,052_ZW Puente de Colores,13,MR74,52,7460,"0,7",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-16,URBANA,052_ZW Puente de Colores,13,MR74,54,13740,"1,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-17,URBANA,052_ZW Puente de Colores,13,MR74,42,36142,"2,8",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-03-17,URBANA,052_ZW Puente de Colores,13,MR74,50,73457,"5,7",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-03-18,URBANA,052_ZW Puente de Colores,13,MR74,38,1304588,"108,7",False,Laboral,Lunes,342.065,-7.648.699
+2024-03-18,URBANA,052_ZW Puente de Colores,13,MR74,42,1307505,"108,9",False,Laboral,Lunes,342.065,-7.648.699
+2024-03-19,URBANA,052_ZW Puente de Colores,13,MR74,55,4324637,"573,8",False,Laboral,Martes,342.065,-7.648.699
+2024-03-19,URBANA,052_ZW Puente de Colores,13,MR74,61,848794,"112,6",False,Laboral,Martes,342.065,-7.648.699
+2024-03-20,URBANA,052_ZW Puente de Colores,13,MR74,54,1218194,"185,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-20,URBANA,052_ZW Puente de Colores,13,MR74,56,101001,"15,4",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-21,URBANA,052_ZW Puente de Colores,13,MR74,51,1536262,"175,9",False,Laboral,Jueves,342.065,-7.648.699
+2024-03-21,URBANA,052_ZW Puente de Colores,13,MR74,57,21517,"2,5",False,Laboral,Jueves,342.065,-7.648.699
+2024-03-22,URBANA,052_ZW Puente de Colores,13,MR74,50,1729176,"177,3",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-22,URBANA,052_ZW Puente de Colores,13,MR74,51,143107,"14,7",False,Laboral,Viernes,342.065,-7.648.699
+2024-03-23,URBANA,052_ZW Puente de Colores,13,MR74,53,1049211,"134,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-23,URBANA,052_ZW Puente de Colores,13,MR74,36,218297,28,False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-24,URBANA,052_ZW Puente de Colores,13,MR74,46,1287309,"141,5",True,Festivo,Domingo,342.065,-7.648.699
+2024-03-24,URBANA,052_ZW Puente de Colores,13,MR74,36,403904,"44,4",True,Festivo,Domingo,342.065,-7.648.699
+2024-03-25,URBANA,052_ZW Puente de Colores,13,MR74,34,1840127,"262,2",True,Festivo,Lunes,342.065,-7.648.699
+2024-03-25,URBANA,052_ZW Puente de Colores,13,MR74,40,100648,"14,3",True,Festivo,Lunes,342.065,-7.648.699
+2024-03-26,URBANA,052_ZW Puente de Colores,13,MR74,38,39842,"5,1",False,Laboral,Martes,342.065,-7.648.699
+2024-03-26,URBANA,052_ZW Puente de Colores,13,MR74,37,2931,"0,4",False,Laboral,Martes,342.065,-7.648.699
+2024-03-27,URBANA,052_ZW Puente de Colores,13,MR74,42,43382,"5,4",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-27,URBANA,052_ZW Puente de Colores,13,MR74,44,50940,"6,3",False,Laboral,Miércoles,342.065,-7.648.699
+2024-03-28,URBANA,052_ZW Puente de Colores,13,MR74,36,12802,2,True,Festivo,Jueves,342.065,-7.648.699
+2024-03-28,URBANA,052_ZW Puente de Colores,13,MR74,42,18632,"2,9",True,Festivo,Jueves,342.065,-7.648.699
+2024-03-29,URBANA,052_ZW Puente de Colores,13,MR74,33,5764,"0,6",True,Festivo,Viernes,342.065,-7.648.699
+2024-03-29,URBANA,052_ZW Puente de Colores,13,MR74,27,1585,"0,2",True,Festivo,Viernes,342.065,-7.648.699
+2024-03-30,URBANA,052_ZW Puente de Colores,13,MR74,47,8436,"1,4",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-30,URBANA,052_ZW Puente de Colores,13,MR74,38,5690,"0,9",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-03-31,URBANA,052_ZW Puente de Colores,13,MR74,40,1764746,"231,7",True,Festivo,Domingo,342.065,-7.648.699
+2024-03-31,URBANA,052_ZW Puente de Colores,13,MR74,47,516395,"67,8",True,Festivo,Domingo,342.065,-7.648.699
+2024-04-01,URBANA,052_ZW Puente de Colores,13,MR74,54,1616683,"154,1",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-01,URBANA,052_ZW Puente de Colores,13,MR74,59,654222,"62,4",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-02,URBANA,052_ZW Puente de Colores,13,MR74,53,5195377,"738,4",False,Laboral,Martes,342.065,-7.648.699
+2024-04-02,URBANA,052_ZW Puente de Colores,13,MR74,59,909654,"129,3",False,Laboral,Martes,342.065,-7.648.699
+2024-04-03,URBANA,052_ZW Puente de Colores,13,MR74,58,3028430,"336,1",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-03,URBANA,052_ZW Puente de Colores,13,MR74,67,870213,"96,6",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-04,URBANA,052_ZW Puente de Colores,13,MR74,51,2438418,"212,1",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-04,URBANA,052_ZW Puente de Colores,13,MR74,52,279379,"24,3",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-05,URBANA,052_ZW Puente de Colores,13,MR74,58,2752417,"244,9",False,Laboral,Viernes,342.065,-7.648.699
+2024-04-05,URBANA,052_ZW Puente de Colores,13,MR74,52,202971,"18,1",False,Laboral,Viernes,342.065,-7.648.699
+2024-04-06,URBANA,052_ZW Puente de Colores,13,MR74,57,1420902,"118,1",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-06,URBANA,052_ZW Puente de Colores,13,MR74,69,249084,"20,7",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-07,URBANA,052_ZW Puente de Colores,13,MR74,43,2147520,"179,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-07,URBANA,052_ZW Puente de Colores,13,MR74,46,6735,"0,6",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-08,URBANA,052_ZW Puente de Colores,13,MR74,59,3670950,"518,7",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-08,URBANA,052_ZW Puente de Colores,13,MR74,65,172958,"24,4",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-09,URBANA,052_ZW Puente de Colores,13,MR74,56,1461272,191,False,Laboral,Martes,342.065,-7.648.699
+2024-04-09,URBANA,052_ZW Puente de Colores,13,MR74,67,726421,"94,9",False,Laboral,Martes,342.065,-7.648.699
+2024-04-10,URBANA,052_ZW Puente de Colores,13,MR74,62,92576,"21,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-10,URBANA,052_ZW Puente de Colores,13,MR74,65,10709,"2,5",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-11,URBANA,052_ZW Puente de Colores,13,MR74,68,1579721,"357,7",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-11,URBANA,052_ZW Puente de Colores,13,MR74,70,354861,"80,3",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-12,URBANA,052_ZW Puente de Colores,13,MR74,56,746612,110,False,Laboral,Viernes,342.065,-7.648.699
+2024-04-12,URBANA,052_ZW Puente de Colores,13,MR74,54,145127,"21,4",False,Laboral,Viernes,342.065,-7.648.699
+2024-04-13,URBANA,052_ZW Puente de Colores,13,MR74,64,4000420,"470,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-13,URBANA,052_ZW Puente de Colores,13,MR74,41,267722,"31,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-14,URBANA,052_ZW Puente de Colores,13,MR74,46,3441594,499,False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-14,URBANA,052_ZW Puente de Colores,13,MR74,54,1680647,"243,7",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-15,URBANA,052_ZW Puente de Colores,13,MR74,60,2976370,"743,6",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-15,URBANA,052_ZW Puente de Colores,13,MR74,54,487802,"121,9",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-16,URBANA,052_ZW Puente de Colores,13,MR74,66,3491113,822,False,Laboral,Martes,342.065,-7.648.699
+2024-04-16,URBANA,052_ZW Puente de Colores,13,MR74,66,899080,"211,7",False,Laboral,Martes,342.065,-7.648.699
+2024-04-17,URBANA,052_ZW Puente de Colores,13,MR74,62,802988,"215,3",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-17,URBANA,052_ZW Puente de Colores,13,MR74,62,22672,"6,1",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-18,URBANA,052_ZW Puente de Colores,13,MR74,62,11341,"3,9",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-18,URBANA,052_ZW Puente de Colores,13,MR74,64,3606,"1,2",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-19,URBANA,052_ZW Puente de Colores,13,MR74,56,3187017,"785,7",False,Laboral,Viernes,342.065,-7.648.699
+2024-04-19,URBANA,052_ZW Puente de Colores,13,MR74,49,491226,"121,1",False,Laboral,Viernes,342.065,-7.648.699
+2024-04-20,URBANA,052_ZW Puente de Colores,13,MR74,59,2771547,"354,6",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-20,URBANA,052_ZW Puente de Colores,13,MR74,52,386679,"49,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-21,URBANA,052_ZW Puente de Colores,13,MR74,44,3761491,"607,9",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-21,URBANA,052_ZW Puente de Colores,13,MR74,35,229928,"37,2",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-22,URBANA,052_ZW Puente de Colores,13,MR74,44,3354092,"721,1",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-22,URBANA,052_ZW Puente de Colores,13,MR74,46,144953,"31,2",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-23,URBANA,052_ZW Puente de Colores,13,MR74,53,1428076,"77,8",False,Laboral,Martes,342.065,-7.648.699
+2024-04-23,URBANA,052_ZW Puente de Colores,13,MR74,60,1483790,"80,8",False,Laboral,Martes,342.065,-7.648.699
+2024-04-24,URBANA,052_ZW Puente de Colores,13,MR74,58,3200320,"174,2",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-24,URBANA,052_ZW Puente de Colores,13,MR74,73,1393578,"75,9",False,Laboral,Miércoles,342.065,-7.648.699
+2024-04-25,URBANA,052_ZW Puente de Colores,13,MR74,55,4365953,"367,9",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-25,URBANA,052_ZW Puente de Colores,13,MR74,72,536300,"45,2",False,Laboral,Jueves,342.065,-7.648.699
+2024-04-26,URBANA,052_ZW Puente de Colores,13,MR74,58,3712084,"370,5",False,Laboral,Viernes,342.065,-7.648.699
+2024-04-26,URBANA,052_ZW Puente de Colores,13,MR74,76,264041,"26,4",False,Laboral,Viernes,342.065,-7.648.699
+2024-04-27,URBANA,052_ZW Puente de Colores,13,MR74,50,1863164,"152,7",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-27,URBANA,052_ZW Puente de Colores,13,MR74,63,176000,"14,4",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-04-28,URBANA,052_ZW Puente de Colores,13,MR74,43,877825,"118,8",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-28,URBANA,052_ZW Puente de Colores,13,MR74,55,225083,"30,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-04-29,URBANA,052_ZW Puente de Colores,13,MR74,61,7124178,"889,8",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-29,URBANA,052_ZW Puente de Colores,13,MR74,67,216856,"27,1",False,Laboral,Lunes,342.065,-7.648.699
+2024-04-30,URBANA,052_ZW Puente de Colores,13,MR74,56,2499245,"396,7",False,Laboral,Martes,342.065,-7.648.699
+2024-04-30,URBANA,052_ZW Puente de Colores,13,MR74,59,269473,"42,8",False,Laboral,Martes,342.065,-7.648.699
+2024-05-01,URBANA,052_ZW Puente de Colores,13,MR74,39,1671709,"317,9",True,Festivo,Miércoles,342.065,-7.648.699
+2024-05-01,URBANA,052_ZW Puente de Colores,13,MR74,29,199150,"37,9",True,Festivo,Miércoles,342.065,-7.648.699
+2024-05-02,URBANA,052_ZW Puente de Colores,13,MR74,51,4034151,"788,2",False,Laboral,Jueves,342.065,-7.648.699
+2024-05-02,URBANA,052_ZW Puente de Colores,13,MR74,47,570548,"111,5",False,Laboral,Jueves,342.065,-7.648.699
+2024-05-03,URBANA,052_ZW Puente de Colores,13,MR74,46,1388818,"303,1",False,Laboral,Viernes,342.065,-7.648.699
+2024-05-03,URBANA,052_ZW Puente de Colores,13,MR74,15,6953,"1,5",False,Laboral,Viernes,342.065,-7.648.699
+2024-05-04,URBANA,052_ZW Puente de Colores,13,MR74,37,826882,"114,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-05-04,URBANA,052_ZW Puente de Colores,13,MR74,6,406,"0,1",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-05-05,URBANA,052_ZW Puente de Colores,13,MR74,47,2474762,"401,4",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-05-06,URBANA,052_ZW Puente de Colores,13,MR74,50,2488033,"520,7",False,Laboral,Lunes,342.065,-7.648.699
+2024-05-07,URBANA,052_ZW Puente de Colores,13,MR74,61,3679419,"606,8",False,Laboral,Martes,342.065,-7.648.699
+2024-05-08,URBANA,052_ZW Puente de Colores,13,MR74,63,203773,"25,7",False,Laboral,Miércoles,342.065,-7.648.699
+2024-05-09,URBANA,052_ZW Puente de Colores,13,MR74,63,3318023,"376,6",False,Laboral,Jueves,342.065,-7.648.699
+2024-05-10,URBANA,052_ZW Puente de Colores,13,MR74,72,1702614,"215,8",False,Laboral,Viernes,342.065,-7.648.699
+2024-05-11,URBANA,052_ZW Puente de Colores,13,MR74,52,1045671,"140,3",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-05-12,URBANA,052_ZW Puente de Colores,13,MR74,57,644028,"156,1",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-05-13,URBANA,052_ZW Puente de Colores,13,MR74,51,12610,"2,3",True,Festivo,Lunes,342.065,-7.648.699
+2024-05-14,URBANA,052_ZW Puente de Colores,13,MR74,65,2102492,"969,7",False,Laboral,Martes,342.065,-7.648.699
+2024-05-15,URBANA,052_ZW Puente de Colores,13,MR74,51,3802410,"615,3",False,Laboral,Miércoles,342.065,-7.648.699
+2024-05-16,URBANA,052_ZW Puente de Colores,13,MR74,58,1685847,"206,6",False,Laboral,Jueves,342.065,-7.648.699
+2024-05-17,URBANA,052_ZW Puente de Colores,13,MR74,50,1954896,188,False,Laboral,Viernes,342.065,-7.648.699
+2024-05-18,URBANA,052_ZW Puente de Colores,13,MR74,50,2286211,"208,3",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-05-18,URBANA,052_ZW Puente de Colores,13,MR74,16,74910,"6,8",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-05-19,URBANA,052_ZW Puente de Colores,13,MR74,49,1924758,"164,6",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-05-20,URBANA,052_ZW Puente de Colores,13,MR74,58,979801,"139,2",False,Laboral,Lunes,342.065,-7.648.699
+2024-05-21,URBANA,052_ZW Puente de Colores,13,MR74,68,8966,"1,2",False,Laboral,Martes,342.065,-7.648.699
+2024-05-22,URBANA,052_ZW Puente de Colores,13,MR74,41,12140,"4,7",False,Laboral,Miércoles,342.065,-7.648.699
+2024-05-23,URBANA,052_ZW Puente de Colores,13,MR74,39,9675,"1,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-05-24,URBANA,052_ZW Puente de Colores,13,MR74,64,8957,"1,9",False,Laboral,Viernes,342.065,-7.648.699
+2024-05-25,URBANA,052_ZW Puente de Colores,13,MR74,50,8975,"1,3",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-05-26,URBANA,052_ZW Puente de Colores,13,MR74,50,93134,"13,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-05-27,URBANA,052_ZW Puente de Colores,13,MR74,77,89043,"10,5",False,Laboral,Lunes,342.065,-7.648.699
+2024-05-28,URBANA,052_ZW Puente de Colores,13,MR74,76,20597,"2,8",False,Laboral,Martes,342.065,-7.648.699
+2024-05-29,URBANA,052_ZW Puente de Colores,13,MR74,62,17649,"3,5",False,Laboral,Miércoles,342.065,-7.648.699
+2024-05-30,URBANA,052_ZW Puente de Colores,13,MR74,74,12237,1,False,Laboral,Jueves,342.065,-7.648.699
+2024-05-31,URBANA,052_ZW Puente de Colores,13,MR74,62,7785,"0,8",False,Laboral,Viernes,342.065,-7.648.699
+2024-06-01,URBANA,052_ZW Puente de Colores,13,MR74,49,9015,"0,9",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-06-02,URBANA,052_ZW Puente de Colores,13,MR74,56,24472,"2,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-06-03,URBANA,052_ZW Puente de Colores,13,MR74,50,11408,"1,6",True,Festivo,Lunes,342.065,-7.648.699
+2024-06-04,URBANA,052_ZW Puente de Colores,13,MR74,60,15040,"3,3",False,Laboral,Martes,342.065,-7.648.699
+2024-06-05,URBANA,052_ZW Puente de Colores,13,MR74,66,11126,"3,9",False,Laboral,Miércoles,342.065,-7.648.699
+2024-06-06,URBANA,052_ZW Puente de Colores,13,MR74,59,10717,"1,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-06-07,URBANA,052_ZW Puente de Colores,13,MR74,60,13341,"2,8",False,Laboral,Viernes,342.065,-7.648.699
+2024-06-08,URBANA,052_ZW Puente de Colores,13,MR74,59,19438,"6,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-06-09,URBANA,052_ZW Puente de Colores,13,MR74,52,12845,"4,4",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-06-10,URBANA,052_ZW Puente de Colores,13,MR74,46,8141,"1,5",True,Festivo,Lunes,342.065,-7.648.699
+2024-06-11,URBANA,052_ZW Puente de Colores,13,MR74,59,320257,"51,1",False,Laboral,Martes,342.065,-7.648.699
+2024-06-12,URBANA,052_ZW Puente de Colores,13,MR74,42,1407510,"189,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-06-13,URBANA,052_ZW Puente de Colores,13,MR74,40,966583,18818344100,False,Laboral,Jueves,342.065,-7.648.699
+2024-06-14,URBANA,052_ZW Puente de Colores,13,MR74,36,708647,21299110300,False,Laboral,Viernes,342.065,-7.648.699
+2024-06-14,URBANA,052_ZW Puente de Colores,13,MR74,14,5727,172130800,False,Laboral,Viernes,342.065,-7.648.699
+2024-06-15,URBANA,052_ZW Puente de Colores,13,MR74,47,1711861,30711228800,False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-06-16,URBANA,052_ZW Puente de Colores,13,MR74,47,645321,11571833500,False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-06-17,URBANA,052_ZW Puente de Colores,13,MR74,40,268653,43,False,Laboral,Lunes,342.065,-7.648.699
+2024-06-17,URBANA,052_ZW Puente de Colores,13,MR74,3,45,0,False,Laboral,Lunes,342.065,-7.648.699
+2024-06-18,URBANA,052_ZW Puente de Colores,13,MR74,29,1147413,"181,2",False,Laboral,Martes,342.065,-7.648.699
+2024-06-19,URBANA,052_ZW Puente de Colores,13,MR74,32,1768263,"250,8",False,Laboral,Miércoles,342.065,-7.648.699
+2024-06-20,URBANA,052_ZW Puente de Colores,13,MR74,46,777652,"155,7",False,Laboral,Jueves,342.065,-7.648.699
+2024-06-20,URBANA,052_ZW Puente de Colores,13,MR74,55,1045083,"209,2",False,Laboral,Jueves,342.065,-7.648.699
+2024-06-21,URBANA,052_ZW Puente de Colores,13,MR74,52,258237,"44,4",False,Laboral,Viernes,342.065,-7.648.699
+2024-06-21,URBANA,052_ZW Puente de Colores,13,MR74,56,503506,"86,5",False,Laboral,Viernes,342.065,-7.648.699
+2024-06-22,URBANA,052_ZW Puente de Colores,13,MR74,59,206346,39,False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-06-22,URBANA,052_ZW Puente de Colores,13,MR74,57,20496,"3,9",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-06-23,URBANA,052_ZW Puente de Colores,13,MR74,39,1022893,"401,5",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-06-23,URBANA,052_ZW Puente de Colores,13,MR74,38,73728,"28,9",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-06-24,URBANA,052_ZW Puente de Colores,13,MR74,49,210065,"40,2",False,Laboral,Lunes,342.065,-7.648.699
+2024-06-24,URBANA,052_ZW Puente de Colores,13,MR74,59,23416,"4,5",False,Laboral,Lunes,342.065,-7.648.699
+2024-06-25,URBANA,052_ZW Puente de Colores,13,MR74,54,150872,"37,4",False,Laboral,Martes,342.065,-7.648.699
+2024-06-25,URBANA,052_ZW Puente de Colores,13,MR74,68,30378,"7,5",False,Laboral,Martes,342.065,-7.648.699
+2024-06-26,URBANA,052_ZW Puente de Colores,13,MR74,48,273251,"70,6",False,Laboral,Miércoles,342.065,-7.648.699
+2024-06-26,URBANA,052_ZW Puente de Colores,13,MR74,65,119896,31,False,Laboral,Miércoles,342.065,-7.648.699
+2024-06-27,URBANA,052_ZW Puente de Colores,13,MR74,60,589336,"175,4",False,Laboral,Jueves,342.065,-7.648.699
+2024-06-27,URBANA,052_ZW Puente de Colores,13,MR74,66,6288,"1,9",False,Laboral,Jueves,342.065,-7.648.699
+2024-06-28,URBANA,052_ZW Puente de Colores,13,MR74,51,1198845,"206,2",False,Laboral,Viernes,342.065,-7.648.699
+2024-06-28,URBANA,052_ZW Puente de Colores,13,MR74,60,275914,"47,5",False,Laboral,Viernes,342.065,-7.648.699
+2024-06-29,URBANA,052_ZW Puente de Colores,13,MR74,62,592689,"100,5",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-06-29,URBANA,052_ZW Puente de Colores,13,MR74,56,466955,"79,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-06-30,URBANA,052_ZW Puente de Colores,13,MR74,49,1341372,"288,1",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-06-30,URBANA,052_ZW Puente de Colores,13,MR74,52,38819,"8,3",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-01,URBANA,052_ZW Puente de Colores,13,MR74,41,532919,"74,04",True,Festivo,Lunes,342.065,-7.648.699
+2024-07-01,URBANA,052_ZW Puente de Colores,13,MR74,49,107904,"14,99",True,Festivo,Lunes,342.065,-7.648.699
+2024-07-02,URBANA,052_ZW Puente de Colores,13,MR74,57,1281356,"138,01",False,Laboral,Martes,342.065,-7.648.699
+2024-07-02,URBANA,052_ZW Puente de Colores,13,MR74,51,365586,"39,38",False,Laboral,Martes,342.065,-7.648.699
+2024-07-03,URBANA,052_ZW Puente de Colores,13,MR74,46,221438,"26,34",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-03,URBANA,052_ZW Puente de Colores,13,MR74,47,1036641,"123,29",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-04,URBANA,052_ZW Puente de Colores,13,MR74,47,2725531,"343,47",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-04,URBANA,052_ZW Puente de Colores,13,MR74,55,1673911,"210,95",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-05,URBANA,052_ZW Puente de Colores,13,MR74,43,1666241,"195,57",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-05,URBANA,052_ZW Puente de Colores,13,MR74,37,497256,"58,36",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-06,URBANA,052_ZW Puente de Colores,13,MR74,66,2877775,"341,87",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-07-06,URBANA,052_ZW Puente de Colores,13,MR74,66,696822,"82,78",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-07-07,URBANA,052_ZW Puente de Colores,13,MR74,55,967973,"109,72",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-07,URBANA,052_ZW Puente de Colores,13,MR74,49,848673,"96,19",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-08,URBANA,052_ZW Puente de Colores,13,MR74,55,1822388,"328,01",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-08,URBANA,052_ZW Puente de Colores,13,MR74,50,19916,"3,58",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-09,URBANA,052_ZW Puente de Colores,13,MR74,66,2183487,376,False,Laboral,Martes,342.065,-7.648.699
+2024-07-09,URBANA,052_ZW Puente de Colores,13,MR74,54,118275,"20,37",False,Laboral,Martes,342.065,-7.648.699
+2024-07-10,URBANA,052_ZW Puente de Colores,13,MR74,56,1961859,"284,1",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-10,URBANA,052_ZW Puente de Colores,13,MR74,50,18415,"2,67",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-11,URBANA,052_ZW Puente de Colores,13,MR74,48,20651,"2,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-11,URBANA,052_ZW Puente de Colores,13,MR74,40,15570,"2,11",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-12,URBANA,052_ZW Puente de Colores,13,MR74,67,25925,"4,09",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-12,URBANA,052_ZW Puente de Colores,13,MR74,67,11832,"1,87",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-13,URBANA,052_ZW Puente de Colores,13,MR74,63,23646,"3,36",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-07-13,URBANA,052_ZW Puente de Colores,13,MR74,51,5655,"0,8",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-07-14,URBANA,052_ZW Puente de Colores,13,MR74,55,11282,"1,77",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-14,URBANA,052_ZW Puente de Colores,13,MR74,42,11768,"1,85",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-15,URBANA,052_ZW Puente de Colores,13,MR74,57,24125,"4,32",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-15,URBANA,052_ZW Puente de Colores,13,MR74,49,14718,"2,63",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-16,URBANA,052_ZW Puente de Colores,13,MR74,55,9236,"1,47",False,Laboral,Martes,342.065,-7.648.699
+2024-07-16,URBANA,052_ZW Puente de Colores,13,MR74,43,4193,"0,67",False,Laboral,Martes,342.065,-7.648.699
+2024-07-17,URBANA,052_ZW Puente de Colores,13,MR74,41,9935,"2,2",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-17,URBANA,052_ZW Puente de Colores,13,MR74,32,6551,"1,45",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-18,URBANA,052_ZW Puente de Colores,13,MR74,52,9829,"1,65",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-18,URBANA,052_ZW Puente de Colores,13,MR74,42,4170,"0,7",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-19,URBANA,052_ZW Puente de Colores,13,MR74,48,7375,"1,03",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-19,URBANA,052_ZW Puente de Colores,13,MR74,42,3890,"0,54",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-20,URBANA,052_ZW Puente de Colores,13,MR74,54,23781,"3,05",True,Festivo,Sábado,342.065,-7.648.699
+2024-07-20,URBANA,052_ZW Puente de Colores,13,MR74,55,7076,"0,91",True,Festivo,Sábado,342.065,-7.648.699
+2024-07-21,URBANA,052_ZW Puente de Colores,13,MR74,43,14139,"2,16",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-21,URBANA,052_ZW Puente de Colores,13,MR74,31,8434,"1,29",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-22,URBANA,052_ZW Puente de Colores,13,MR74,75,19753,"2,84",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-22,URBANA,052_ZW Puente de Colores,13,MR74,71,3624,"0,52",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-23,URBANA,052_ZW Puente de Colores,13,MR74,59,1414130,"204,15",False,Laboral,Martes,342.065,-7.648.699
+2024-07-23,URBANA,052_ZW Puente de Colores,13,MR74,59,68666,"9,91",False,Laboral,Martes,342.065,-7.648.699
+2024-07-24,URBANA,052_ZW Puente de Colores,13,MR74,64,3147776,498,False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-24,URBANA,052_ZW Puente de Colores,13,MR74,72,56755,"8,98",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-25,URBANA,052_ZW Puente de Colores,13,MR74,65,5575866,"881,94",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-25,URBANA,052_ZW Puente de Colores,13,MR74,76,562570,"88,98",False,Laboral,Jueves,342.065,-7.648.699
+2024-07-26,URBANA,052_ZW Puente de Colores,13,MR74,55,1776165,"233,94",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-26,URBANA,052_ZW Puente de Colores,13,MR74,61,136073,"17,92",False,Laboral,Viernes,342.065,-7.648.699
+2024-07-27,URBANA,052_ZW Puente de Colores,13,MR74,58,854935,"146,22",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-07-27,URBANA,052_ZW Puente de Colores,13,MR74,50,15488,"2,65",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-07-28,URBANA,052_ZW Puente de Colores,13,MR74,41,762002,"161,25",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-28,URBANA,052_ZW Puente de Colores,13,MR74,47,272453,"57,65",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-07-29,URBANA,052_ZW Puente de Colores,13,MR74,59,778160,"124,78",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-29,URBANA,052_ZW Puente de Colores,13,MR74,71,1664762,"266,95",False,Laboral,Lunes,342.065,-7.648.699
+2024-07-30,URBANA,052_ZW Puente de Colores,13,MR74,60,810956,"118,51",False,Laboral,Martes,342.065,-7.648.699
+2024-07-30,URBANA,052_ZW Puente de Colores,13,MR74,81,203121,"29,68",False,Laboral,Martes,342.065,-7.648.699
+2024-07-31,URBANA,052_ZW Puente de Colores,13,MR74,56,470640,"78,17",False,Laboral,Miércoles,342.065,-7.648.699
+2024-07-31,URBANA,052_ZW Puente de Colores,13,MR74,75,39291,"6,53",False,Laboral,Miércoles,342.065,-7.648.699
+2024-08-01,URBANA,052_ZW Puente de Colores,13,MR74,56,245001,"36,56",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-01,URBANA,052_ZW Puente de Colores,13,MR74,82,1191758,"177,84",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-02,URBANA,052_ZW Puente de Colores,13,MR74,58,8580,"1,43",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-02,URBANA,052_ZW Puente de Colores,13,MR74,72,5773,"0,96",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-03,URBANA,052_ZW Puente de Colores,13,MR74,42,10884,"2,22",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-03,URBANA,052_ZW Puente de Colores,13,MR74,65,10769,"2,19",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-04,URBANA,052_ZW Puente de Colores,13,MR74,41,9892,"1,58",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-04,URBANA,052_ZW Puente de Colores,13,MR74,53,11136,"1,78",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-05,URBANA,052_ZW Puente de Colores,13,MR74,53,357247,"51,62",False,Laboral,Lunes,342.065,-7.648.699
+2024-08-05,URBANA,052_ZW Puente de Colores,13,MR74,64,9742,"1,41",False,Laboral,Lunes,342.065,-7.648.699
+2024-08-06,URBANA,052_ZW Puente de Colores,13,MR74,60,1099708,"105,87",False,Laboral,Martes,342.065,-7.648.699
+2024-08-06,URBANA,052_ZW Puente de Colores,13,MR74,69,34265,"3,3",False,Laboral,Martes,342.065,-7.648.699
+2024-08-07,URBANA,052_ZW Puente de Colores,13,MR74,37,936737,"111,43",True,Festivo,Miércoles,342.065,-7.648.699
+2024-08-07,URBANA,052_ZW Puente de Colores,13,MR74,47,1166508,"138,76",True,Festivo,Miércoles,342.065,-7.648.699
+2024-08-08,URBANA,052_ZW Puente de Colores,13,MR74,54,479125,"60,11",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-08,URBANA,052_ZW Puente de Colores,13,MR74,68,46604,"5,85",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-09,URBANA,052_ZW Puente de Colores,13,MR74,51,1172090,"216,31",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-09,URBANA,052_ZW Puente de Colores,13,MR74,72,551142,"101,71",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-10,URBANA,052_ZW Puente de Colores,13,MR74,54,2814046,"532,65",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-10,URBANA,052_ZW Puente de Colores,13,MR74,60,1202469,"227,6",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-11,URBANA,052_ZW Puente de Colores,13,MR74,54,1401100,"243,15",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-11,URBANA,052_ZW Puente de Colores,13,MR74,53,356138,"61,81",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-12,URBANA,052_ZW Puente de Colores,13,MR74,63,102011,"21,87",False,Laboral,Lunes,342.065,-7.648.699
+2024-08-12,URBANA,052_ZW Puente de Colores,13,MR74,73,140669,"30,15",False,Laboral,Lunes,342.065,-7.648.699
+2024-08-13,URBANA,052_ZW Puente de Colores,13,MR74,70,461614,"52,25",False,Laboral,Martes,342.065,-7.648.699
+2024-08-13,URBANA,052_ZW Puente de Colores,13,MR74,73,2464877,279,False,Laboral,Martes,342.065,-7.648.699
+2024-08-14,URBANA,052_ZW Puente de Colores,13,MR74,60,672752,"89,29",False,Laboral,Miércoles,342.065,-7.648.699
+2024-08-14,URBANA,052_ZW Puente de Colores,13,MR74,71,2994848,"397,48",False,Laboral,Miércoles,342.065,-7.648.699
+2024-08-15,URBANA,052_ZW Puente de Colores,13,MR74,71,767983,"115,3",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-15,URBANA,052_ZW Puente de Colores,13,MR74,75,2281388,"342,51",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-16,URBANA,052_ZW Puente de Colores,13,MR74,67,9934,"1,35",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-16,URBANA,052_ZW Puente de Colores,13,MR74,76,393726,"53,65",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-17,URBANA,052_ZW Puente de Colores,13,MR74,52,7036,"1,02",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-17,URBANA,052_ZW Puente de Colores,13,MR74,47,205870,"29,86",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-18,URBANA,052_ZW Puente de Colores,13,MR74,39,3238,"0,49",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-18,URBANA,052_ZW Puente de Colores,13,MR74,47,9109,"1,38",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-19,URBANA,052_ZW Puente de Colores,13,MR74,37,3277,"0,45",True,Festivo,Lunes,342.065,-7.648.699
+2024-08-19,URBANA,052_ZW Puente de Colores,13,MR74,46,6828,"0,94",True,Festivo,Lunes,342.065,-7.648.699
+2024-08-20,URBANA,052_ZW Puente de Colores,13,MR74,69,21417,"5,3",False,Laboral,Martes,342.065,-7.648.699
+2024-08-20,URBANA,052_ZW Puente de Colores,13,MR74,91,10919,"2,7",False,Laboral,Martes,342.065,-7.648.699
+2024-08-21,URBANA,052_ZW Puente de Colores,13,MR74,75,289494,"84,31",False,Laboral,Miércoles,342.065,-7.648.699
+2024-08-21,URBANA,052_ZW Puente de Colores,13,MR74,75,539773,"157,2",False,Laboral,Miércoles,342.065,-7.648.699
+2024-08-22,URBANA,052_ZW Puente de Colores,13,MR74,51,560500,"149,15",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-22,URBANA,052_ZW Puente de Colores,13,MR74,77,1742334,"463,63",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-23,URBANA,052_ZW Puente de Colores,13,MR74,72,232159,"94,59",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-23,URBANA,052_ZW Puente de Colores,13,MR74,86,6991119,"2848,44",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-24,URBANA,052_ZW Puente de Colores,13,MR74,53,455580,"308,76",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-24,URBANA,052_ZW Puente de Colores,13,MR74,49,1278174,"866,26",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-25,URBANA,052_ZW Puente de Colores,13,MR74,40,123994,"118,63",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-25,URBANA,052_ZW Puente de Colores,13,MR74,47,3279947,"3138,18",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-08-26,URBANA,052_ZW Puente de Colores,13,MR74,53,1801760,"2407,57",False,Laboral,Lunes,342.065,-7.648.699
+2024-08-26,URBANA,052_ZW Puente de Colores,13,MR74,67,989069,"1321,62",False,Laboral,Lunes,342.065,-7.648.699
+2024-08-27,URBANA,052_ZW Puente de Colores,13,MR74,46,669733,"718,85",False,Laboral,Martes,342.065,-7.648.699
+2024-08-27,URBANA,052_ZW Puente de Colores,13,MR74,73,1531797,"1644,13",False,Laboral,Martes,342.065,-7.648.699
+2024-08-28,URBANA,052_ZW Puente de Colores,13,MR74,58,28349,"50,3",False,Laboral,Miércoles,342.065,-7.648.699
+2024-08-28,URBANA,052_ZW Puente de Colores,13,MR74,72,10774,"19,12",False,Laboral,Miércoles,342.065,-7.648.699
+2024-08-29,URBANA,052_ZW Puente de Colores,13,MR74,56,19742,"56,4",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-29,URBANA,052_ZW Puente de Colores,13,MR74,77,11873,"33,92",False,Laboral,Jueves,342.065,-7.648.699
+2024-08-30,URBANA,052_ZW Puente de Colores,13,MR74,56,894819,"2155,34",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-30,URBANA,052_ZW Puente de Colores,13,MR74,76,422913,"1018,67",False,Laboral,Viernes,342.065,-7.648.699
+2024-08-31,URBANA,052_ZW Puente de Colores,13,MR74,42,586496,"837,29",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-08-31,URBANA,052_ZW Puente de Colores,13,MR74,49,2979887,"4254,14",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-01,URBANA,052_ZW Puente de Colores,13,MR74,36,212036,"490,73",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-01,URBANA,052_ZW Puente de Colores,13,MR74,40,3544423,"8203,1",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-02,URBANA,052_ZW Puente de Colores,13,MR74,36,251577,"495,96",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-02,URBANA,052_ZW Puente de Colores,13,MR74,57,4403869,"8681,86",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-03,URBANA,052_ZW Puente de Colores,13,MR74,58,17062,"93,49",False,Laboral,Martes,342.065,-7.648.699
+2024-09-03,URBANA,052_ZW Puente de Colores,13,MR74,68,369334,"2023,71",False,Laboral,Martes,342.065,-7.648.699
+2024-09-04,URBANA,052_ZW Puente de Colores,13,MR74,60,5413,"742,38",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-04,URBANA,052_ZW Puente de Colores,13,MR74,54,8168,"1120,22",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-05,URBANA,052_ZW Puente de Colores,13,MR74,76,4528,"5045,13",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-05,URBANA,052_ZW Puente de Colores,13,MR74,49,4447,"4954,87",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-06,URBANA,052_ZW Puente de Colores,13,MR74,53,1103085,"6828,18",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-06,URBANA,052_ZW Puente de Colores,13,MR74,62,512405,"3171,82",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-07,URBANA,052_ZW Puente de Colores,13,MR74,56,3541542,"6609,71",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-07,URBANA,052_ZW Puente de Colores,13,MR74,47,1816544,"3390,29",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-08,URBANA,052_ZW Puente de Colores,13,MR74,38,2092208,"6137,56",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-08,URBANA,052_ZW Puente de Colores,13,MR74,44,1316651,"3862,44",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-09,URBANA,052_ZW Puente de Colores,13,MR74,64,1610826,"5359,41",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-09,URBANA,052_ZW Puente de Colores,13,MR74,88,1394777,"4640,59",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-10,URBANA,052_ZW Puente de Colores,13,MR74,54,1884771,"7079,3",False,Laboral,Martes,342.065,-7.648.699
+2024-09-10,URBANA,052_ZW Puente de Colores,13,MR74,70,777598,"2920,7",False,Laboral,Martes,342.065,-7.648.699
+2024-09-11,URBANA,052_ZW Puente de Colores,13,MR74,62,655333,"5162,55",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-11,URBANA,052_ZW Puente de Colores,13,MR74,58,614065,"4837,45",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-12,URBANA,052_ZW Puente de Colores,13,MR74,66,1389863,"7387,2",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-12,URBANA,052_ZW Puente de Colores,13,MR74,50,491585,"2612,8",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-13,URBANA,052_ZW Puente de Colores,13,MR74,68,1789322,"6238,56",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-13,URBANA,052_ZW Puente de Colores,13,MR74,65,1078845,"3761,44",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-14,URBANA,052_ZW Puente de Colores,13,MR74,44,1904745,"7526,27",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-14,URBANA,052_ZW Puente de Colores,13,MR74,49,626052,"2473,73",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-15,URBANA,052_ZW Puente de Colores,13,MR74,34,2768035,"6208,03",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-15,URBANA,052_ZW Puente de Colores,13,MR74,42,1690761,"3791,97",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-16,URBANA,052_ZW Puente de Colores,13,MR74,48,600915,"6502,33",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-16,URBANA,052_ZW Puente de Colores,13,MR74,67,323238,"3497,67",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-17,URBANA,052_ZW Puente de Colores,13,MR74,65,139581,"8734,02",False,Laboral,Martes,342.065,-7.648.699
+2024-09-17,URBANA,052_ZW Puente de Colores,13,MR74,68,20232,"1265,98",False,Laboral,Martes,342.065,-7.648.699
+2024-09-18,URBANA,052_ZW Puente de Colores,13,MR74,60,6206,"5996,71",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-18,URBANA,052_ZW Puente de Colores,13,MR74,87,4143,"4003,29",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-19,URBANA,052_ZW Puente de Colores,13,MR74,42,3665,"5441,72",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-19,URBANA,052_ZW Puente de Colores,13,MR74,50,3070,"4558,28",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-20,URBANA,052_ZW Puente de Colores,13,MR74,88,16916,"6017,36",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-20,URBANA,052_ZW Puente de Colores,13,MR74,78,11196,"3982,64",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-21,URBANA,052_ZW Puente de Colores,13,MR74,68,13175,"5845,16",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-21,URBANA,052_ZW Puente de Colores,13,MR74,48,9365,"4154,84",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-22,URBANA,052_ZW Puente de Colores,13,MR74,8,2140,"9506,89",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-22,URBANA,052_ZW Puente de Colores,13,MR74,4,111,"493,11",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-09-23,URBANA,052_ZW Puente de Colores,13,MR74,61,1511960,"6419,29",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-23,URBANA,052_ZW Puente de Colores,13,MR74,42,843379,"3580,71",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-24,URBANA,052_ZW Puente de Colores,13,MR74,81,1460283,"6052,69",False,Laboral,Martes,342.065,-7.648.699
+2024-09-24,URBANA,052_ZW Puente de Colores,13,MR74,57,952335,"3947,31",False,Laboral,Martes,342.065,-7.648.699
+2024-09-25,URBANA,052_ZW Puente de Colores,13,MR74,89,1966259,"9057,36",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-25,URBANA,052_ZW Puente de Colores,13,MR74,70,204637,"942,64",False,Laboral,Miércoles,342.065,-7.648.699
+2024-09-26,URBANA,052_ZW Puente de Colores,13,MR74,74,659661,"7480,41",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-26,URBANA,052_ZW Puente de Colores,13,MR74,56,222190,"2519,59",False,Laboral,Jueves,342.065,-7.648.699
+2024-09-27,URBANA,052_ZW Puente de Colores,13,MR74,64,302964,"9568,54",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-27,URBANA,052_ZW Puente de Colores,13,MR74,51,13661,"431,46",False,Laboral,Viernes,342.065,-7.648.699
+2024-09-28,URBANA,052_ZW Puente de Colores,13,MR74,15,314829,"9971,34",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-28,URBANA,052_ZW Puente de Colores,13,MR74,15,905,"28,66",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-09-30,URBANA,052_ZW Puente de Colores,13,MR74,57,165632,"7143,19",False,Laboral,Lunes,342.065,-7.648.699
+2024-09-30,URBANA,052_ZW Puente de Colores,13,MR74,49,66242,"2856,81",False,Laboral,Lunes,342.065,-7.648.699
+2024-10-01,URBANA,052_ZW Puente de Colores,13,MR74,52,269811,"5886,87",False,Laboral,Martes,342.065,-7.648.699
+2024-10-01,URBANA,052_ZW Puente de Colores,13,MR74,67,188516,"4113,13",False,Laboral,Martes,342.065,-7.648.699
+2024-10-02,URBANA,052_ZW Puente de Colores,13,MR74,75,1924584,"8210,79",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-02,URBANA,052_ZW Puente de Colores,13,MR74,63,419386,"1789,21",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-03,URBANA,052_ZW Puente de Colores,13,MR74,17,1161,10000,False,Laboral,Jueves,342.065,-7.648.699
+2024-10-04,URBANA,052_ZW Puente de Colores,13,MR74,64,9602,10000,False,Laboral,Viernes,342.065,-7.648.699
+2024-10-05,URBANA,052_ZW Puente de Colores,13,MR74,60,10794,10000,False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-10-06,URBANA,052_ZW Puente de Colores,13,MR74,27,448280,"8798,46",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-06,URBANA,052_ZW Puente de Colores,13,MR74,54,61218,"1201,54",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-07,URBANA,052_ZW Puente de Colores,13,MR74,35,273688,"9853,65",False,Laboral,Lunes,342.065,-7.648.699
+2024-10-07,URBANA,052_ZW Puente de Colores,13,MR74,34,4065,"146,35",False,Laboral,Lunes,342.065,-7.648.699
+2024-10-08,URBANA,052_ZW Puente de Colores,13,MR74,46,109847,"8646,37",False,Laboral,Martes,342.065,-7.648.699
+2024-10-08,URBANA,052_ZW Puente de Colores,13,MR74,42,17197,"1353,63",False,Laboral,Martes,342.065,-7.648.699
+2024-10-09,URBANA,052_ZW Puente de Colores,13,MR74,58,1485786,"9910,81",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-09,URBANA,052_ZW Puente de Colores,13,MR74,41,13371,"89,19",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-10,URBANA,052_ZW Puente de Colores,13,MR74,56,2409578,"9849,58",False,Laboral,Jueves,342.065,-7.648.699
+2024-10-10,URBANA,052_ZW Puente de Colores,13,MR74,38,36798,"150,42",False,Laboral,Jueves,342.065,-7.648.699
+2024-10-11,URBANA,052_ZW Puente de Colores,13,MR74,72,45672,"9201,76",False,Laboral,Viernes,342.065,-7.648.699
+2024-10-11,URBANA,052_ZW Puente de Colores,13,MR74,50,3962,"798,24",False,Laboral,Viernes,342.065,-7.648.699
+2024-10-12,URBANA,052_ZW Puente de Colores,13,MR74,63,626187,"9918,63",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-10-12,URBANA,052_ZW Puente de Colores,13,MR74,44,5137,"81,37",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-10-13,URBANA,052_ZW Puente de Colores,13,MR74,56,5916,"6399,13",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-13,URBANA,052_ZW Puente de Colores,13,MR74,44,3329,"3600,87",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-14,URBANA,052_ZW Puente de Colores,13,MR74,43,8863,"5080,25",True,Festivo,Lunes,342.065,-7.648.699
+2024-10-14,URBANA,052_ZW Puente de Colores,13,MR74,56,8583,"4919,75",True,Festivo,Lunes,342.065,-7.648.699
+2024-10-15,URBANA,052_ZW Puente de Colores,13,MR74,73,31315,"8098,64",False,Laboral,Martes,342.065,-7.648.699
+2024-10-15,URBANA,052_ZW Puente de Colores,13,MR74,68,7352,"1901,36",False,Laboral,Martes,342.065,-7.648.699
+2024-10-16,URBANA,052_ZW Puente de Colores,13,MR74,86,13917,"7417,65",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-16,URBANA,052_ZW Puente de Colores,13,MR74,69,4845,"2582,35",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-17,URBANA,052_ZW Puente de Colores,13,MR74,74,25110,"6696,54",False,Laboral,Jueves,342.065,-7.648.699
+2024-10-17,URBANA,052_ZW Puente de Colores,13,MR74,71,12387,"3303,46",False,Laboral,Jueves,342.065,-7.648.699
+2024-10-18,URBANA,052_ZW Puente de Colores,13,MR74,56,7739,"7138,64",False,Laboral,Viernes,342.065,-7.648.699
+2024-10-18,URBANA,052_ZW Puente de Colores,13,MR74,56,3102,"2861,36",False,Laboral,Viernes,342.065,-7.648.699
+2024-10-19,URBANA,052_ZW Puente de Colores,13,MR74,35,329698,"9836,8",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-10-19,URBANA,052_ZW Puente de Colores,13,MR74,39,5470,"163,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-10-20,URBANA,052_ZW Puente de Colores,13,MR74,46,38671,"8627,68",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-20,URBANA,052_ZW Puente de Colores,13,MR74,42,6151,"1372,32",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-21,URBANA,052_ZW Puente de Colores,13,MR74,86,12036,"6056,46",False,Laboral,Lunes,342.065,-7.648.699
+2024-10-21,URBANA,052_ZW Puente de Colores,13,MR74,60,7837,"3943,54",False,Laboral,Lunes,342.065,-7.648.699
+2024-10-22,URBANA,052_ZW Puente de Colores,13,MR74,68,6140,"5752,3",False,Laboral,Martes,342.065,-7.648.699
+2024-10-22,URBANA,052_ZW Puente de Colores,13,MR74,57,4534,"4247,7",False,Laboral,Martes,342.065,-7.648.699
+2024-10-23,URBANA,052_ZW Puente de Colores,13,MR74,51,5160,"5136,88",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-23,URBANA,052_ZW Puente de Colores,13,MR74,59,4885,"4863,12",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-24,URBANA,052_ZW Puente de Colores,13,MR74,42,5818,"12,55",False,Laboral,Jueves,342.065,-7.648.699
+2024-10-24,URBANA,052_ZW Puente de Colores,13,MR74,61,16839,"36,33",False,Laboral,Jueves,342.065,-7.648.699
+2024-10-25,URBANA,052_ZW Puente de Colores,13,MR74,53,9574,"2,14",False,Laboral,Viernes,342.065,-7.648.699
+2024-10-25,URBANA,052_ZW Puente de Colores,13,MR74,68,20717,"4,63",False,Laboral,Viernes,342.065,-7.648.699
+2024-10-26,URBANA,052_ZW Puente de Colores,13,MR74,34,16968,"2,2",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-10-26,URBANA,052_ZW Puente de Colores,13,MR74,38,6874,"0,89",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-10-27,URBANA,052_ZW Puente de Colores,13,MR74,28,305989,"30,74",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-27,URBANA,052_ZW Puente de Colores,13,MR74,42,34520,"3,47",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-10-28,URBANA,052_ZW Puente de Colores,13,MR74,46,3601,"0,6",False,Laboral,Lunes,342.065,-7.648.699
+2024-10-28,URBANA,052_ZW Puente de Colores,13,MR74,41,23220,"3,86",False,Laboral,Lunes,342.065,-7.648.699
+2024-10-29,URBANA,052_ZW Puente de Colores,13,MR74,32,197810,"31,2",False,Laboral,Martes,342.065,-7.648.699
+2024-10-29,URBANA,052_ZW Puente de Colores,13,MR74,33,1169511,"184,47",False,Laboral,Martes,342.065,-7.648.699
+2024-10-30,URBANA,052_ZW Puente de Colores,13,MR74,44,555523,"113,39",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-30,URBANA,052_ZW Puente de Colores,13,MR74,61,2872762,"586,38",False,Laboral,Miércoles,342.065,-7.648.699
+2024-10-31,URBANA,052_ZW Puente de Colores,13,MR74,32,1764606,"376,13",False,Laboral,Jueves,342.065,-7.648.699
+2024-10-31,URBANA,052_ZW Puente de Colores,13,MR74,62,3989027,"850,27",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-01,URBANA,052_ZW Puente de Colores,13,MR74,33,2840,"0,51",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-01,URBANA,052_ZW Puente de Colores,13,MR74,49,4830,"0,87",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-02,URBANA,052_ZW Puente de Colores,13,MR74,36,2417,"0,39",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-02,URBANA,052_ZW Puente de Colores,13,MR74,33,4108,"0,66",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-03,URBANA,052_ZW Puente de Colores,13,MR74,20,1521,"0,26",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-03,URBANA,052_ZW Puente de Colores,13,MR74,38,2754,"0,47",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-04,URBANA,052_ZW Puente de Colores,13,MR74,16,4541,"0,68",True,Festivo,Lunes,342.065,-7.648.699
+2024-11-04,URBANA,052_ZW Puente de Colores,13,MR74,25,2521,"0,38",True,Festivo,Lunes,342.065,-7.648.699
+2024-11-05,URBANA,052_ZW Puente de Colores,13,MR74,54,78157,"10,7",False,Laboral,Martes,342.065,-7.648.699
+2024-11-05,URBANA,052_ZW Puente de Colores,13,MR74,73,529569,"72,52",False,Laboral,Martes,342.065,-7.648.699
+2024-11-06,URBANA,052_ZW Puente de Colores,13,MR74,55,10961742,"1750,62",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-06,URBANA,052_ZW Puente de Colores,13,MR74,71,1486828,"237,45",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-07,URBANA,052_ZW Puente de Colores,13,MR74,55,8928629,"1003,95",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-07,URBANA,052_ZW Puente de Colores,13,MR74,72,1626423,"182,88",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-08,URBANA,052_ZW Puente de Colores,13,MR74,32,11344173,"917,33",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-08,URBANA,052_ZW Puente de Colores,13,MR74,49,2305568,"186,44",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-09,URBANA,052_ZW Puente de Colores,13,MR74,37,10890426,"654,04",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-09,URBANA,052_ZW Puente de Colores,13,MR74,48,2428958,"145,87",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-10,URBANA,052_ZW Puente de Colores,13,MR74,40,11489059,"593,08",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-10,URBANA,052_ZW Puente de Colores,13,MR74,56,3189014,"164,62",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-11,URBANA,052_ZW Puente de Colores,13,MR74,47,11975849,"681,91",True,Festivo,Lunes,342.065,-7.648.699
+2024-11-11,URBANA,052_ZW Puente de Colores,13,MR74,42,2748613,"156,51",True,Festivo,Lunes,342.065,-7.648.699
+2024-11-12,URBANA,052_ZW Puente de Colores,13,MR74,67,11557035,"604,61",False,Laboral,Martes,342.065,-7.648.699
+2024-11-12,URBANA,052_ZW Puente de Colores,13,MR74,70,2678529,"140,13",False,Laboral,Martes,342.065,-7.648.699
+2024-11-13,URBANA,052_ZW Puente de Colores,13,MR74,48,668674,"41,27",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-13,URBANA,052_ZW Puente de Colores,13,MR74,72,11190801,"690,74",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-14,URBANA,052_ZW Puente de Colores,13,MR74,63,10041243,"523,06",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-14,URBANA,052_ZW Puente de Colores,13,MR74,75,4748810,"247,37",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-15,URBANA,052_ZW Puente de Colores,13,MR74,61,7509511,"412,24",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-15,URBANA,052_ZW Puente de Colores,13,MR74,87,4792098,"263,07",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-16,URBANA,052_ZW Puente de Colores,13,MR74,50,9174603,"498,27",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-16,URBANA,052_ZW Puente de Colores,13,MR74,56,5478603,"297,54",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-17,URBANA,052_ZW Puente de Colores,13,MR74,43,5111700,"297,55",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-17,URBANA,052_ZW Puente de Colores,13,MR74,49,4901696,"285,32",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-18,URBANA,052_ZW Puente de Colores,13,MR74,63,6703458,"417,03",False,Laboral,Lunes,342.065,-7.648.699
+2024-11-18,URBANA,052_ZW Puente de Colores,13,MR74,77,7045260,"438,3",False,Laboral,Lunes,342.065,-7.648.699
+2024-11-19,URBANA,052_ZW Puente de Colores,13,MR74,60,1606853,"100,58",False,Laboral,Martes,342.065,-7.648.699
+2024-11-19,URBANA,052_ZW Puente de Colores,13,MR74,81,7513934,"470,32",False,Laboral,Martes,342.065,-7.648.699
+2024-11-20,URBANA,052_ZW Puente de Colores,13,MR74,56,11385323,"596,63",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-20,URBANA,052_ZW Puente de Colores,13,MR74,91,2918181,"152,92",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-21,URBANA,052_ZW Puente de Colores,13,MR74,40,3750422,"207,71",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-21,URBANA,052_ZW Puente de Colores,13,MR74,56,7984510,"442,21",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-22,URBANA,052_ZW Puente de Colores,13,MR74,51,6669016,"330,35",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-22,URBANA,052_ZW Puente de Colores,13,MR74,68,6469028,"320,45",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-23,URBANA,052_ZW Puente de Colores,13,MR74,43,10397348,"542,54",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-23,URBANA,052_ZW Puente de Colores,13,MR74,61,1272783,"66,41",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-24,URBANA,052_ZW Puente de Colores,13,MR74,43,8467503,"1143,67",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-24,URBANA,052_ZW Puente de Colores,13,MR74,50,2438028,"329,29",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-11-25,URBANA,052_ZW Puente de Colores,13,MR74,38,3435490,"835,34",False,Laboral,Lunes,342.065,-7.648.699
+2024-11-25,URBANA,052_ZW Puente de Colores,13,MR74,53,682476,"165,94",False,Laboral,Lunes,342.065,-7.648.699
+2024-11-26,URBANA,052_ZW Puente de Colores,13,MR74,50,1443225,"183,26",False,Laboral,Martes,342.065,-7.648.699
+2024-11-26,URBANA,052_ZW Puente de Colores,13,MR74,62,10654341,"1352,89",False,Laboral,Martes,342.065,-7.648.699
+2024-11-27,URBANA,052_ZW Puente de Colores,13,MR74,63,1872640,"96,42",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-27,URBANA,052_ZW Puente de Colores,13,MR74,101,16803911,"865,26",False,Laboral,Miércoles,342.065,-7.648.699
+2024-11-28,URBANA,052_ZW Puente de Colores,13,MR74,47,6696935,"318,06",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-28,URBANA,052_ZW Puente de Colores,13,MR74,69,6565968,"311,84",False,Laboral,Jueves,342.065,-7.648.699
+2024-11-29,URBANA,052_ZW Puente de Colores,13,MR74,58,3964351,"178,38",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-29,URBANA,052_ZW Puente de Colores,13,MR74,64,9225837,"415,12",False,Laboral,Viernes,342.065,-7.648.699
+2024-11-30,URBANA,052_ZW Puente de Colores,13,MR74,50,102231,"4,49",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-11-30,URBANA,052_ZW Puente de Colores,13,MR74,72,14962377,"656,44",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-01,URBANA,052_ZW Puente de Colores,13,MR74,39,132760,"5,49",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-12-01,URBANA,052_ZW Puente de Colores,13,MR74,63,17765511,"735,13",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-12-02,URBANA,052_ZW Puente de Colores,13,MR74,49,653163,"31,3",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-02,URBANA,052_ZW Puente de Colores,13,MR74,77,14748036,"706,8",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-03,URBANA,052_ZW Puente de Colores,13,MR74,56,1968097,"105,41",False,Laboral,Martes,342.065,-7.648.699
+2024-12-03,URBANA,052_ZW Puente de Colores,13,MR74,89,803155,"43,02",False,Laboral,Martes,342.065,-7.648.699
+2024-12-04,URBANA,052_ZW Puente de Colores,13,MR74,50,244868,"10,6",False,Laboral,Miércoles,342.065,-7.648.699
+2024-12-04,URBANA,052_ZW Puente de Colores,13,MR74,57,661076,"28,62",False,Laboral,Miércoles,342.065,-7.648.699
+2024-12-05,URBANA,052_ZW Puente de Colores,13,MR74,43,1032244,"44,99",False,Laboral,Jueves,342.065,-7.648.699
+2024-12-05,URBANA,052_ZW Puente de Colores,13,MR74,41,97959,"4,27",False,Laboral,Jueves,342.065,-7.648.699
+2024-12-06,URBANA,052_ZW Puente de Colores,13,MR74,43,1096431,"48,77",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-06,URBANA,052_ZW Puente de Colores,13,MR74,59,95818,"4,26",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-07,URBANA,052_ZW Puente de Colores,13,MR74,56,677441,"33,02",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-07,URBANA,052_ZW Puente de Colores,13,MR74,47,23206,"1,13",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-08,URBANA,052_ZW Puente de Colores,13,MR74,38,336842,"12,68",True,Festivo,Domingo,342.065,-7.648.699
+2024-12-08,URBANA,052_ZW Puente de Colores,13,MR74,43,664057,"25,01",True,Festivo,Domingo,342.065,-7.648.699
+2024-12-09,URBANA,052_ZW Puente de Colores,13,MR74,53,1492901,"55,35",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-09,URBANA,052_ZW Puente de Colores,13,MR74,44,3471667,"128,72",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-10,URBANA,052_ZW Puente de Colores,13,MR74,50,1955652,"64,58",False,Laboral,Martes,342.065,-7.648.699
+2024-12-10,URBANA,052_ZW Puente de Colores,13,MR74,47,676974,"22,35",False,Laboral,Martes,342.065,-7.648.699
+2024-12-11,URBANA,052_ZW Puente de Colores,13,MR74,48,1008304,"33,44",False,Laboral,Miércoles,342.065,-7.648.699
+2024-12-11,URBANA,052_ZW Puente de Colores,13,MR74,51,1308080,"43,38",False,Laboral,Miércoles,342.065,-7.648.699
+2024-12-12,URBANA,052_ZW Puente de Colores,13,MR74,39,226631,"6,6",False,Laboral,Jueves,342.065,-7.648.699
+2024-12-12,URBANA,052_ZW Puente de Colores,13,MR74,42,255271,"7,44",False,Laboral,Jueves,342.065,-7.648.699
+2024-12-13,URBANA,052_ZW Puente de Colores,13,MR74,41,217231,"6,4",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-13,URBANA,052_ZW Puente de Colores,13,MR74,41,259952,"7,66",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-14,URBANA,052_ZW Puente de Colores,13,MR74,41,241670,"7,96",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-14,URBANA,052_ZW Puente de Colores,13,MR74,49,2491402,"82,02",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-15,URBANA,052_ZW Puente de Colores,13,MR74,40,662681,"22,37",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-12-15,URBANA,052_ZW Puente de Colores,13,MR74,44,3845551,"129,8",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-12-16,URBANA,052_ZW Puente de Colores,13,MR74,47,413490,"12,43",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-16,URBANA,052_ZW Puente de Colores,13,MR74,57,2453455,"73,78",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-17,URBANA,052_ZW Puente de Colores,13,MR74,43,1115315,"36,3",False,Laboral,Martes,342.065,-7.648.699
+2024-12-17,URBANA,052_ZW Puente de Colores,13,MR74,59,2789999,"90,8",False,Laboral,Martes,342.065,-7.648.699
+2024-12-18,URBANA,052_ZW Puente de Colores,13,MR74,42,589279,"18,7",False,Laboral,Miércoles,342.065,-7.648.699
+2024-12-18,URBANA,052_ZW Puente de Colores,13,MR74,52,1718652,"54,5",False,Laboral,Miércoles,342.065,-7.648.699
+2024-12-19,URBANA,052_ZW Puente de Colores,13,MR74,49,664196,"23,4",False,Laboral,Jueves,342.065,-7.648.699
+2024-12-19,URBANA,052_ZW Puente de Colores,13,MR74,48,1248045,"43,9",False,Laboral,Jueves,342.065,-7.648.699
+2024-12-20,URBANA,052_ZW Puente de Colores,13,MR74,57,197609,"6,51",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-20,URBANA,052_ZW Puente de Colores,13,MR74,62,1612039,"53,1",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-21,URBANA,052_ZW Puente de Colores,13,MR74,37,185374,"7,11",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-21,URBANA,052_ZW Puente de Colores,13,MR74,44,1567158,"60,1",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-22,URBANA,052_ZW Puente de Colores,13,MR74,49,87591,"2,73",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-12-22,URBANA,052_ZW Puente de Colores,13,MR74,50,2667184,"83,3",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-12-23,URBANA,052_ZW Puente de Colores,13,MR74,40,249279,"9,94",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-23,URBANA,052_ZW Puente de Colores,13,MR74,46,1338640,"53,4",False,Laboral,Lunes,342.065,-7.648.699
+2024-12-24,URBANA,052_ZW Puente de Colores,13,MR74,39,442950,"18,5",False,Laboral,Martes,342.065,-7.648.699
+2024-12-24,URBANA,052_ZW Puente de Colores,13,MR74,41,1291317,54,False,Laboral,Martes,342.065,-7.648.699
+2024-12-25,URBANA,052_ZW Puente de Colores,13,MR74,40,342474,"12,1",True,Festivo,Miércoles,342.065,-7.648.699
+2024-12-25,URBANA,052_ZW Puente de Colores,13,MR74,44,1591682,"56,3",True,Festivo,Miércoles,342.065,-7.648.699
+2024-12-26,URBANA,052_ZW Puente de Colores,13,MR74,31,846367,"30,9",False,Laboral,Jueves,342.065,-7.648.699
+2024-12-26,URBANA,052_ZW Puente de Colores,13,MR74,32,4226885,155,False,Laboral,Jueves,342.065,-7.648.699
+2024-12-27,URBANA,052_ZW Puente de Colores,13,MR74,37,1017581,"31,2",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-27,URBANA,052_ZW Puente de Colores,13,MR74,33,3181656,"97,6",False,Laboral,Viernes,342.065,-7.648.699
+2024-12-28,URBANA,052_ZW Puente de Colores,13,MR74,28,61675,"2,62",False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-28,URBANA,052_ZW Puente de Colores,13,MR74,30,4198247,178,False,Fin de Semana,Sábado,342.065,-7.648.699
+2024-12-29,URBANA,052_ZW Puente de Colores,13,MR74,21,216866,"6,71",False,Fin de Semana,Domingo,342.065,-7.648.699
+2024-12-29,URBANA,052_ZW Puente de Colores,13,MR74,21,1603759,"49,6",False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-02-11,URBANA,052_ZW Puente de Colores,13,MR74,35,664357,22,False,Laboral,Martes,342.065,-7.648.699
+2025-02-11,URBANA,052_ZW Puente de Colores,13,MR74,35,595848,20,False,Laboral,Martes,342.065,-7.648.699
+2025-02-12,URBANA,052_ZW Puente de Colores,13,MR74,57,1038836,31,False,Laboral,Miércoles,342.065,-7.648.699
+2025-02-12,URBANA,052_ZW Puente de Colores,13,MR74,65,2565437,78,False,Laboral,Miércoles,342.065,-7.648.699
+2025-02-13,URBANA,052_ZW Puente de Colores,13,MR74,53,1238809,58,False,Laboral,Jueves,342.065,-7.648.699
+2025-02-13,URBANA,052_ZW Puente de Colores,13,MR74,59,3855660,181,False,Laboral,Jueves,342.065,-7.648.699
+2025-02-14,URBANA,052_ZW Puente de Colores,13,MR74,61,943660,28,False,Laboral,Viernes,342.065,-7.648.699
+2025-02-14,URBANA,052_ZW Puente de Colores,13,MR74,77,2315551,69,False,Laboral,Viernes,342.065,-7.648.699
+2025-02-15,URBANA,052_ZW Puente de Colores,13,MR74,32,558325,20,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-02-15,URBANA,052_ZW Puente de Colores,13,MR74,37,4045447,146,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-02-16,URBANA,052_ZW Puente de Colores,13,MR74,24,508432,17,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-02-16,URBANA,052_ZW Puente de Colores,13,MR74,34,3121008,103,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-02-17,URBANA,052_ZW Puente de Colores,13,MR74,43,1149790,41,False,Laboral,Lunes,342.065,-7.648.699
+2025-02-17,URBANA,052_ZW Puente de Colores,13,MR74,47,1874322,67,False,Laboral,Lunes,342.065,-7.648.699
+2025-02-18,URBANA,052_ZW Puente de Colores,13,MR74,62,2117081,75,False,Laboral,Martes,342.065,-7.648.699
+2025-02-18,URBANA,052_ZW Puente de Colores,13,MR74,56,909669,32,False,Laboral,Martes,342.065,-7.648.699
+2025-02-19,URBANA,052_ZW Puente de Colores,13,MR74,49,1449779,46,False,Laboral,Miércoles,342.065,-7.648.699
+2025-02-19,URBANA,052_ZW Puente de Colores,13,MR74,61,2648919,84,False,Laboral,Miércoles,342.065,-7.648.699
+2025-02-20,URBANA,052_ZW Puente de Colores,13,MR74,46,971094,28,False,Laboral,Jueves,342.065,-7.648.699
+2025-02-20,URBANA,052_ZW Puente de Colores,13,MR74,59,1778499,50,False,Laboral,Jueves,342.065,-7.648.699
+2025-02-21,URBANA,052_ZW Puente de Colores,13,MR74,46,981235,34,False,Laboral,Viernes,342.065,-7.648.699
+2025-02-21,URBANA,052_ZW Puente de Colores,13,MR74,53,2250407,77,False,Laboral,Viernes,342.065,-7.648.699
+2025-02-22,URBANA,052_ZW Puente de Colores,13,MR74,35,1081133,38,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-02-22,URBANA,052_ZW Puente de Colores,13,MR74,29,6120828,215,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-02-23,URBANA,052_ZW Puente de Colores,13,MR74,32,1171381,34,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-02-23,URBANA,052_ZW Puente de Colores,13,MR74,48,5714380,166,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-02-24,URBANA,052_ZW Puente de Colores,13,MR74,38,1674549,69,False,Laboral,Lunes,342.065,-7.648.699
+2025-02-24,URBANA,052_ZW Puente de Colores,13,MR74,53,7204522,296,False,Laboral,Lunes,342.065,-7.648.699
+2025-02-25,URBANA,052_ZW Puente de Colores,13,MR74,51,2038577,65,False,Laboral,Martes,342.065,-7.648.699
+2025-02-25,URBANA,052_ZW Puente de Colores,13,MR74,66,5138101,165,False,Laboral,Martes,342.065,-7.648.699
+2025-02-26,URBANA,052_ZW Puente de Colores,13,MR74,56,2239390,81,False,Laboral,Miércoles,342.065,-7.648.699
+2025-02-26,URBANA,052_ZW Puente de Colores,13,MR74,59,7303091,264,False,Laboral,Miércoles,342.065,-7.648.699
+2025-02-27,URBANA,052_ZW Puente de Colores,13,MR74,52,1469114,51,False,Laboral,Jueves,342.065,-7.648.699
+2025-02-27,URBANA,052_ZW Puente de Colores,13,MR74,62,6344902,222,False,Laboral,Jueves,342.065,-7.648.699
+2025-02-28,URBANA,052_ZW Puente de Colores,13,MR74,49,2488185,88,False,Laboral,Viernes,342.065,-7.648.699
+2025-02-28,URBANA,052_ZW Puente de Colores,13,MR74,61,3293400,117,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-01,URBANA,052_ZW Puente de Colores,13,MR74,39,1715724,65,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-01,URBANA,052_ZW Puente de Colores,13,MR74,42,4915809,185,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-02,URBANA,052_ZW Puente de Colores,13,MR74,33,2389345,70,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-02,URBANA,052_ZW Puente de Colores,13,MR74,33,2630840,78,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-03,URBANA,052_ZW Puente de Colores,13,MR74,54,1925152,72,False,Laboral,Lunes,342.065,-7.648.699
+2025-03-03,URBANA,052_ZW Puente de Colores,13,MR74,50,1663550,62,False,Laboral,Lunes,342.065,-7.648.699
+2025-03-04,URBANA,052_ZW Puente de Colores,13,MR74,58,2087548,95,False,Laboral,Martes,342.065,-7.648.699
+2025-03-04,URBANA,052_ZW Puente de Colores,13,MR74,56,4577894,207,False,Laboral,Martes,342.065,-7.648.699
+2025-03-05,URBANA,052_ZW Puente de Colores,13,MR74,50,930301,33,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-05,URBANA,052_ZW Puente de Colores,13,MR74,49,2931683,104,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-06,URBANA,052_ZW Puente de Colores,13,MR74,54,1730341,56,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-06,URBANA,052_ZW Puente de Colores,13,MR74,58,2171804,70,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-07,URBANA,052_ZW Puente de Colores,13,MR74,57,1338062,48,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-07,URBANA,052_ZW Puente de Colores,13,MR74,60,983783,35,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-08,URBANA,052_ZW Puente de Colores,13,MR74,29,1075760,31,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-08,URBANA,052_ZW Puente de Colores,13,MR74,33,4074218,118,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-09,URBANA,052_ZW Puente de Colores,13,MR74,42,662556,21,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-09,URBANA,052_ZW Puente de Colores,13,MR74,33,2905509,91,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-10,URBANA,052_ZW Puente de Colores,13,MR74,56,2752991,80,False,Laboral,Lunes,342.065,-7.648.699
+2025-03-10,URBANA,052_ZW Puente de Colores,13,MR74,67,2776737,80,False,Laboral,Lunes,342.065,-7.648.699
+2025-03-11,URBANA,052_ZW Puente de Colores,13,MR74,61,2111970,95,False,Laboral,Martes,342.065,-7.648.699
+2025-03-11,URBANA,052_ZW Puente de Colores,13,MR74,73,3456746,155,False,Laboral,Martes,342.065,-7.648.699
+2025-03-12,URBANA,052_ZW Puente de Colores,13,MR74,51,1287941,44,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-12,URBANA,052_ZW Puente de Colores,13,MR74,67,1856346,63,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-13,URBANA,052_ZW Puente de Colores,13,MR74,46,583948,24,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-13,URBANA,052_ZW Puente de Colores,13,MR74,60,2203669,91,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-14,URBANA,052_ZW Puente de Colores,13,MR74,52,2751045,93,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-14,URBANA,052_ZW Puente de Colores,13,MR74,59,4399496,149,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-15,URBANA,052_ZW Puente de Colores,13,MR74,39,875385,28,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-15,URBANA,052_ZW Puente de Colores,13,MR74,33,3425073,110,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-16,URBANA,052_ZW Puente de Colores,13,MR74,44,437914,14,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-16,URBANA,052_ZW Puente de Colores,13,MR74,55,2511398,81,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-17,URBANA,052_ZW Puente de Colores,13,MR74,44,2914518,100,False,Laboral,Lunes,342.065,-7.648.699
+2025-03-17,URBANA,052_ZW Puente de Colores,13,MR74,63,3340623,115,False,Laboral,Lunes,342.065,-7.648.699
+2025-03-18,URBANA,052_ZW Puente de Colores,13,MR74,39,2938324,89,False,Laboral,Martes,342.065,-7.648.699
+2025-03-18,URBANA,052_ZW Puente de Colores,13,MR74,47,4150175,126,False,Laboral,Martes,342.065,-7.648.699
+2025-03-19,URBANA,052_ZW Puente de Colores,13,MR74,58,2752607,99,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-19,URBANA,052_ZW Puente de Colores,13,MR74,77,1635949,59,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-20,URBANA,052_ZW Puente de Colores,13,MR74,53,3258821,105,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-20,URBANA,052_ZW Puente de Colores,13,MR74,70,3150931,101,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-21,URBANA,052_ZW Puente de Colores,13,MR74,53,2943461,80,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-21,URBANA,052_ZW Puente de Colores,13,MR74,73,9058053,246,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-22,URBANA,052_ZW Puente de Colores,13,MR74,44,2811727,93,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-22,URBANA,052_ZW Puente de Colores,13,MR74,52,5998186,197,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-23,URBANA,052_ZW Puente de Colores,13,MR74,35,1602730,50,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-23,URBANA,052_ZW Puente de Colores,13,MR74,41,5171525,160,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-24,URBANA,052_ZW Puente de Colores,13,MR74,41,1658514,41,True,Festivo,Lunes,342.065,-7.648.699
+2025-03-24,URBANA,052_ZW Puente de Colores,13,MR74,42,4511847,111,True,Festivo,Lunes,342.065,-7.648.699
+2025-03-25,URBANA,052_ZW Puente de Colores,13,MR74,56,3014973,88,False,Laboral,Martes,342.065,-7.648.699
+2025-03-25,URBANA,052_ZW Puente de Colores,13,MR74,70,15453468,449,False,Laboral,Martes,342.065,-7.648.699
+2025-03-26,URBANA,052_ZW Puente de Colores,13,MR74,43,3324865,107,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-26,URBANA,052_ZW Puente de Colores,13,MR74,53,17499480,564,False,Laboral,Miércoles,342.065,-7.648.699
+2025-03-27,URBANA,052_ZW Puente de Colores,13,MR74,49,3361753,93,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-27,URBANA,052_ZW Puente de Colores,13,MR74,70,17597540,487,False,Laboral,Jueves,342.065,-7.648.699
+2025-03-28,URBANA,052_ZW Puente de Colores,13,MR74,56,4013798,166,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-28,URBANA,052_ZW Puente de Colores,13,MR74,71,16263023,674,False,Laboral,Viernes,342.065,-7.648.699
+2025-03-29,URBANA,052_ZW Puente de Colores,13,MR74,44,2163618,68,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-29,URBANA,052_ZW Puente de Colores,13,MR74,59,16801651,526,False,Fin de Semana,Sábado,342.065,-7.648.699
+2025-03-30,URBANA,052_ZW Puente de Colores,13,MR74,35,3226168,92,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-30,URBANA,052_ZW Puente de Colores,13,MR74,41,15232091,436,False,Fin de Semana,Domingo,342.065,-7.648.699
+2025-03-31,URBANA,052_ZW Puente de Colores,13,MR74,43,2619311,87,False,Laboral,Lunes,342.065,-7.648.699
+2025-03-31,URBANA,052_ZW Puente de Colores,13,MR74,54,13054820,434,False,Laboral,Lunes,342.065,-7.648.699
