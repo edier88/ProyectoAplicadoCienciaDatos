@@ -1,0 +1,11 @@
+Escalador para: agrupado_001_ZW Parque Ingenio-test.csv
+Columnas escaladas (3):
+  - PORCENTAJE.USO
+  - NUMERO.CONEXIONES
+  - USAGE.KB
+
+Columnas excluidas:
+  - DIA_SEMANA
+  - LABORAL
+  - FIN_DE_SEMANA
+  - FESTIVO
