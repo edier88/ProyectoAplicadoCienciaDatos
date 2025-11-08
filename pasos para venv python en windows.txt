@@ -1,0 +1,5 @@
+- Pasos para iniciar virtual environment de python en Windows
+
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install pandas
