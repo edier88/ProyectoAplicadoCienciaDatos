@@ -1,0 +1,29 @@
+asumiendo que es dataframe en python:
+df["USAGE_LOG"] = np.log1p(df["USAGE.KB"])
+
+
+
+
+
+Luis Carlos Rodríguez Timaná
+17:48
+asumiendo que es dataframe en python:
+df["USAGE_LOG"] = np.log1p(df["USAGE.KB"])
+
+Luis Carlos Rodríguez Timaná
+17:53
+FECHA
+DIA_SEMANA
+LABORAL
+...
+USAGE.KB
+usage_t-1
+usage_t-7
+df["usage_t-1"] = df["USAGE.KB"].shift(1) df["usage_t-7"] = df["USAGE.KB"].shift(7) df["mean_last_7"] = df["USAGE.KB"].rolling(7).mean()
+
+Luis Carlos Rodríguez Timaná
+17:57
+Para memoria del dia anterior
+usage_t-1
+Para memoria de la semana anterior
+usage_t-7
