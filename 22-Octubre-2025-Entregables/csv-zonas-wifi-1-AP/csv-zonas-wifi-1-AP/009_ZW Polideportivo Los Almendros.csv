@@ -1,0 +1,84 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-11-29,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,19,7766,"0,35",False,Laboral,Viernes,347.067,-7.649.293
+2024-11-30,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,598,"0,03",False,Fin de Semana,Sábado,347.067,-7.649.293
+2024-12-01,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,18,4083,"0,17",False,Fin de Semana,Domingo,347.067,-7.649.293
+2024-12-02,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,12,23389,"1,12",False,Laboral,Lunes,347.067,-7.649.293
+2024-12-03,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,93079,"4,99",False,Laboral,Martes,347.067,-7.649.293
+2024-12-04,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,25,9163,"0,4",False,Laboral,Miércoles,347.067,-7.649.293
+2024-12-05,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,39,49400,"2,15",False,Laboral,Jueves,347.067,-7.649.293
+2024-12-06,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,41701,"1,85",False,Laboral,Viernes,347.067,-7.649.293
+2024-12-07,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,17,6088,"0,3",False,Fin de Semana,Sábado,347.067,-7.649.293
+2024-12-08,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,2356,"0,09",True,Festivo,Domingo,347.067,-7.649.293
+2024-12-09,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,25,968924,"35,93",False,Laboral,Lunes,347.067,-7.649.293
+2024-12-10,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,47379,"1,56",False,Laboral,Martes,347.067,-7.649.293
+2024-12-11,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,17,570,"0,02",False,Laboral,Miércoles,347.067,-7.649.293
+2024-12-12,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,22,16398,"0,48",False,Laboral,Jueves,347.067,-7.649.293
+2024-12-13,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,35,140334,"4,14",False,Laboral,Viernes,347.067,-7.649.293
+2024-12-14,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,37,2235423,"73,59",False,Fin de Semana,Sábado,347.067,-7.649.293
+2024-12-15,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,1728481,"58,34",False,Fin de Semana,Domingo,347.067,-7.649.293
+2024-12-16,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,31,1046221,"31,46",False,Laboral,Lunes,347.067,-7.649.293
+2024-12-17,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,25,680726,"22,2",False,Laboral,Martes,347.067,-7.649.293
+2024-12-18,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,24,4197739,133,False,Laboral,Miércoles,347.067,-7.649.293
+2024-12-19,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,34,1923748,"67,7",False,Laboral,Jueves,347.067,-7.649.293
+2024-12-20,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,29,770694,"25,4",False,Laboral,Viernes,347.067,-7.649.293
+2024-12-21,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,16,130,0,False,Fin de Semana,Sábado,347.067,-7.649.293
+2024-12-22,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,27,525370,"16,4",False,Fin de Semana,Domingo,347.067,-7.649.293
+2024-12-23,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,19,456241,"18,2",False,Laboral,Lunes,347.067,-7.649.293
+2024-12-24,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,9,7413,"0,31",False,Laboral,Martes,347.067,-7.649.293
+2024-12-25,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,12,311364,11,True,Festivo,Miércoles,347.067,-7.649.293
+2024-12-26,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,43,751096,"27,5",False,Laboral,Jueves,347.067,-7.649.293
+2024-12-27,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,583787,"17,9",False,Laboral,Viernes,347.067,-7.649.293
+2024-12-28,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,7,24838,"1,06",False,Fin de Semana,Sábado,347.067,-7.649.293
+2024-12-29,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,13,320213,"9,91",False,Fin de Semana,Domingo,347.067,-7.649.293
+2024-12-30,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,8,130031,"5,32",False,Laboral,Lunes,347.067,-7.649.293
+2024-12-31,RURAL,009_ZW Polideportivo Los Almendros,5,MR76,12,700,"0,04",False,Laboral,Martes,347.067,-7.649.293
+2025-01-01,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,3,30,0,True,Festivo,Miércoles,347.067,-7.649.293
+2025-01-02,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,22,637832,23,False,Laboral,Jueves,347.067,-7.649.293
+2025-01-03,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,17,95206,4,False,Laboral,Viernes,347.067,-7.649.293
+2025-01-04,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,531639,20,False,Fin de Semana,Sábado,347.067,-7.649.293
+2025-01-05,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,644421,20,False,Fin de Semana,Domingo,347.067,-7.649.293
+2025-01-06,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,1365973,37,True,Festivo,Lunes,347.067,-7.649.293
+2025-01-07,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,13,176117,5,False,Laboral,Martes,347.067,-7.649.293
+2025-01-08,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,103050,3,False,Laboral,Miércoles,347.067,-7.649.293
+2025-01-09,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,21,2409444,69,False,Laboral,Jueves,347.067,-7.649.293
+2025-01-10,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,1348821,37,False,Laboral,Viernes,347.067,-7.649.293
+2025-01-11,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,19,336967,10,False,Fin de Semana,Sábado,347.067,-7.649.293
+2025-01-12,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,780568,21,False,Fin de Semana,Domingo,347.067,-7.649.293
+2025-01-13,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,33,582632,19,False,Laboral,Lunes,347.067,-7.649.293
+2025-01-14,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,21,2316434,76,False,Laboral,Martes,347.067,-7.649.293
+2025-01-15,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,18,1476905,51,False,Laboral,Miércoles,347.067,-7.649.293
+2025-01-16,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,18,830523,26,False,Laboral,Jueves,347.067,-7.649.293
+2025-01-17,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,319116,10,False,Laboral,Viernes,347.067,-7.649.293
+2025-01-18,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,21,1385055,46,False,Fin de Semana,Sábado,347.067,-7.649.293
+2025-01-19,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,25,429533,13,False,Fin de Semana,Domingo,347.067,-7.649.293
+2025-01-20,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,801548,25,False,Laboral,Lunes,347.067,-7.649.293
+2025-01-21,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,13,413823,11,False,Laboral,Martes,347.067,-7.649.293
+2025-01-22,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,439086,13,False,Laboral,Miércoles,347.067,-7.649.293
+2025-01-23,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,2312256,58,False,Laboral,Jueves,347.067,-7.649.293
+2025-01-24,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,1,4,0,False,Laboral,Viernes,347.067,-7.649.293
+2025-01-25,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,12,14436,0,False,Fin de Semana,Sábado,347.067,-7.649.293
+2025-01-26,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,17,259211,7,False,Fin de Semana,Domingo,347.067,-7.649.293
+2025-01-27,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,28,635922,17,False,Laboral,Lunes,347.067,-7.649.293
+2025-01-28,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,535701,16,False,Laboral,Martes,347.067,-7.649.293
+2025-01-29,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,29,1159816,32,False,Laboral,Miércoles,347.067,-7.649.293
+2025-01-30,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,1460712,54,False,Laboral,Jueves,347.067,-7.649.293
+2025-01-31,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,653485,35,False,Laboral,Viernes,347.067,-7.649.293
+2025-02-01,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,15,24194,1,False,Fin de Semana,Sábado,347.067,-7.649.293
+2025-02-02,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,19,186188,6,False,Fin de Semana,Domingo,347.067,-7.649.293
+2025-02-03,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,349941,14,False,Laboral,Lunes,347.067,-7.649.293
+2025-02-04,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,1710583,61,False,Laboral,Martes,347.067,-7.649.293
+2025-02-05,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,917810,38,False,Laboral,Miércoles,347.067,-7.649.293
+2025-02-06,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,15,144537,5,False,Laboral,Jueves,347.067,-7.649.293
+2025-02-07,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,17,75839,3,False,Laboral,Viernes,347.067,-7.649.293
+2025-02-08,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,11,238428,9,False,Fin de Semana,Sábado,347.067,-7.649.293
+2025-02-09,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,25,3474343,109,False,Fin de Semana,Domingo,347.067,-7.649.293
+2025-02-10,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,19,712892,27,False,Laboral,Lunes,347.067,-7.649.293
+2025-02-11,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,563448,19,False,Laboral,Martes,347.067,-7.649.293
+2025-02-12,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,23,461995,14,False,Laboral,Miércoles,347.067,-7.649.293
+2025-02-13,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,18,93184,4,False,Laboral,Jueves,347.067,-7.649.293
+2025-02-14,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,38,584835,18,False,Laboral,Viernes,347.067,-7.649.293
+2025-02-15,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,281542,10,False,Fin de Semana,Sábado,347.067,-7.649.293
+2025-02-16,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,145424,5,False,Fin de Semana,Domingo,347.067,-7.649.293
+2025-02-17,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,26,171067,6,False,Laboral,Lunes,347.067,-7.649.293
+2025-02-18,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,20,239982,9,False,Laboral,Martes,347.067,-7.649.293
+2025-02-19,URBANA,009_ZW Polideportivo Los Almendros,5,MR76,11,224353,7,False,Laboral,Miércoles,347.067,-7.649.293

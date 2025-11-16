@@ -1,0 +1,391 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,16075,"1,8",True,Festivo,Lunes,341.847,-7.646.732
+2024-01-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,20,2072,"0,2",False,Laboral,Martes,341.847,-7.646.732
+2024-01-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,13651,"1,1",False,Laboral,Miércoles,341.847,-7.646.732
+2024-01-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,6158,"0,6",False,Laboral,Jueves,341.847,-7.646.732
+2024-01-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,4074981,"375,9",False,Laboral,Viernes,341.847,-7.646.732
+2024-01-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,15,3821653,"498,3",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-01-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,21,4294197,"427,8",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-01-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,22,2004273,"127,1",True,Festivo,Lunes,341.847,-7.646.732
+2024-01-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,22,4222955,"325,9",False,Laboral,Martes,341.847,-7.646.732
+2024-01-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,22,3328566,"275,9",False,Laboral,Miércoles,341.847,-7.646.732
+2024-01-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,20,5315178,494,False,Laboral,Jueves,341.847,-7.646.732
+2024-01-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,4817426,"414,8",False,Laboral,Viernes,341.847,-7.646.732
+2024-01-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,8446813,"938,2",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-01-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,1153347,"145,7",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-01-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,31,47272,"6,8",False,Laboral,Lunes,341.847,-7.646.732
+2024-01-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,295715,"34,6",False,Laboral,Martes,341.847,-7.646.732
+2024-01-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,108727,"10,9",False,Laboral,Miércoles,341.847,-7.646.732
+2024-01-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,191771,16,False,Laboral,Jueves,341.847,-7.646.732
+2024-01-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,608746,"39,7",False,Laboral,Viernes,341.847,-7.646.732
+2024-01-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,3850398,"297,3",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-01-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,11068434,"854,9",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-01-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,5726375,"546,1",False,Laboral,Lunes,341.847,-7.646.732
+2024-01-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,3847303,"356,3",False,Laboral,Martes,341.847,-7.646.732
+2024-01-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,1570628,"125,6",False,Laboral,Miércoles,341.847,-7.646.732
+2024-01-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,668864,"44,7",False,Laboral,Jueves,341.847,-7.646.732
+2024-01-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,24128,"1,8",False,Laboral,Viernes,341.847,-7.646.732
+2024-01-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,11134,"0,9",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-01-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,94786,"9,2",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-01-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,680065,"58,4",False,Laboral,Lunes,341.847,-7.646.732
+2024-01-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,11406,"1,3",False,Laboral,Martes,341.847,-7.646.732
+2024-01-31,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,28142,"2,7",False,Laboral,Miércoles,341.847,-7.646.732
+2024-02-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,6284,"0,5",False,Laboral,Jueves,341.847,-7.646.732
+2024-02-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,20,553596,58,False,Laboral,Viernes,341.847,-7.646.732
+2024-02-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,4384643,"247,1",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-02-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,7110472,"444,6",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-02-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,7764595,"515,8",False,Laboral,Lunes,341.847,-7.646.732
+2024-02-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,516667,"34,6",False,Laboral,Martes,341.847,-7.646.732
+2024-02-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,25,6356,"0,4",False,Laboral,Miércoles,341.847,-7.646.732
+2024-02-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,28,3939114,"289,9",False,Laboral,Jueves,341.847,-7.646.732
+2024-02-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,6171648,"512,9",False,Laboral,Viernes,341.847,-7.646.732
+2024-02-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,7423252,"464,7",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-02-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,5369622,"399,6",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-02-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,3188097,"307,9",False,Laboral,Lunes,341.847,-7.646.732
+2024-02-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,2295849,265,False,Laboral,Martes,341.847,-7.646.732
+2024-02-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,5364,"0,7",False,Laboral,Miércoles,341.847,-7.646.732
+2024-02-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,5880,"0,5",False,Laboral,Jueves,341.847,-7.646.732
+2024-02-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,25855,"2,5",False,Laboral,Viernes,341.847,-7.646.732
+2024-02-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,24,2899,"0,3",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-02-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,54,7135496,"551,3",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-02-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,3846298,"262,5",False,Laboral,Lunes,341.847,-7.646.732
+2024-02-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,1518464,"124,4",False,Laboral,Martes,341.847,-7.646.732
+2024-02-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,403032,"34,9",False,Laboral,Miércoles,341.847,-7.646.732
+2024-02-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,334600,"21,9",False,Laboral,Jueves,341.847,-7.646.732
+2024-02-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,5187710,"364,6",False,Laboral,Viernes,341.847,-7.646.732
+2024-02-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,5382384,"428,6",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-02-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,38,4297098,"244,7",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-02-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,4134362,"371,4",False,Laboral,Lunes,341.847,-7.646.732
+2024-02-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,5079121,"437,1",False,Laboral,Martes,341.847,-7.646.732
+2024-02-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,3908952,"227,9",False,Laboral,Miércoles,341.847,-7.646.732
+2024-02-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,2563987,"323,8",False,Laboral,Jueves,341.847,-7.646.732
+2024-03-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,4244289,"353,7",False,Laboral,Viernes,341.847,-7.646.732
+2024-03-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,6453076,"627,1",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-03-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,6529600,"468,4",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-03-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,44,10411274,"732,2",False,Laboral,Lunes,341.847,-7.646.732
+2024-03-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,31,6687878,"485,2",False,Laboral,Martes,341.847,-7.646.732
+2024-03-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,5173414,"427,5",False,Laboral,Miércoles,341.847,-7.646.732
+2024-03-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,7755026,"725,8",False,Laboral,Jueves,341.847,-7.646.732
+2024-03-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,7486021,"699,9",False,Laboral,Viernes,341.847,-7.646.732
+2024-03-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,5565042,"562,9",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-03-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,9431300,"988,2",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-03-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,38,4266446,"453,9",False,Laboral,Lunes,341.847,-7.646.732
+2024-03-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,3961700,"449,3",False,Laboral,Martes,341.847,-7.646.732
+2024-03-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,28,946276,"127,8",False,Laboral,Miércoles,341.847,-7.646.732
+2024-03-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,38,10595,"1,1",False,Laboral,Jueves,341.847,-7.646.732
+2024-03-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,28896,"2,2",False,Laboral,Viernes,341.847,-7.646.732
+2024-03-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,5319,"0,5",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-03-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,17294,"1,3",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-03-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,991989,"82,6",False,Laboral,Lunes,341.847,-7.646.732
+2024-03-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,21,4037638,"535,7",False,Laboral,Martes,341.847,-7.646.732
+2024-03-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,2337946,"356,7",False,Laboral,Miércoles,341.847,-7.646.732
+2024-03-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,28,2645394,303,False,Laboral,Jueves,341.847,-7.646.732
+2024-03-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,5518737,"565,7",False,Laboral,Viernes,341.847,-7.646.732
+2024-03-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,52,7576849,"971,1",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-03-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,27190,3,True,Festivo,Domingo,341.847,-7.646.732
+2024-03-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,14427,"2,1",True,Festivo,Lunes,341.847,-7.646.732
+2024-03-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,15120,"1,9",False,Laboral,Martes,341.847,-7.646.732
+2024-03-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,10160,"1,3",False,Laboral,Miércoles,341.847,-7.646.732
+2024-03-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,20739,"3,2",True,Festivo,Jueves,341.847,-7.646.732
+2024-03-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,8171,"0,8",True,Festivo,Viernes,341.847,-7.646.732
+2024-03-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,9984,"1,6",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-03-31,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,22,1070591,"140,5",True,Festivo,Domingo,341.847,-7.646.732
+2024-04-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,219462,"20,9",False,Laboral,Lunes,341.847,-7.646.732
+2024-04-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,24,625100,"88,8",False,Laboral,Martes,341.847,-7.646.732
+2024-04-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,3268210,"362,8",False,Laboral,Miércoles,341.847,-7.646.732
+2024-04-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,2831256,"246,3",False,Laboral,Jueves,341.847,-7.646.732
+2024-04-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,3287626,"292,6",False,Laboral,Viernes,341.847,-7.646.732
+2024-04-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,28,5458043,"453,5",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-04-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,28,11789534,"985,7",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-04-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,5019036,"709,1",False,Laboral,Lunes,341.847,-7.646.732
+2024-04-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,5074608,"663,3",False,Laboral,Martes,341.847,-7.646.732
+2024-04-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,38,3190492,"750,6",False,Laboral,Miércoles,341.847,-7.646.732
+2024-04-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,4215224,"954,3",False,Laboral,Jueves,341.847,-7.646.732
+2024-04-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,3847956,"566,7",False,Laboral,Viernes,341.847,-7.646.732
+2024-04-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,14294,"1,7",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-04-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,16180,"2,3",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-04-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,17503,"4,4",False,Laboral,Lunes,341.847,-7.646.732
+2024-04-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,6675,"1,6",False,Laboral,Martes,341.847,-7.646.732
+2024-04-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,8279,"2,2",False,Laboral,Miércoles,341.847,-7.646.732
+2024-04-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,413468,"141,9",False,Laboral,Jueves,341.847,-7.646.732
+2024-04-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,4063430,"1001,8",False,Laboral,Viernes,341.847,-7.646.732
+2024-04-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,2010989,"257,3",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-04-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,31,7067372,"1142,1",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-04-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,3688224,793,False,Laboral,Lunes,341.847,-7.646.732
+2024-04-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,5537506,"301,6",False,Laboral,Martes,341.847,-7.646.732
+2024-04-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,2810510,153,False,Laboral,Miércoles,341.847,-7.646.732
+2024-04-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,2281640,"192,3",False,Laboral,Jueves,341.847,-7.646.732
+2024-04-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,6722334,"670,9",False,Laboral,Viernes,341.847,-7.646.732
+2024-04-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,7086092,"580,8",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-04-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,8822,"1,2",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-04-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,16197,2,False,Laboral,Lunes,341.847,-7.646.732
+2024-04-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,12670313,"2011,2",False,Laboral,Martes,341.847,-7.646.732
+2024-05-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,16235848,"3087,5",True,Festivo,Miércoles,341.847,-7.646.732
+2024-05-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,12531915,"2448,6",False,Laboral,Jueves,341.847,-7.646.732
+2024-05-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,3560939,"777,1",False,Laboral,Viernes,341.847,-7.646.732
+2024-05-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,20020,"2,8",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-05-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,5036332,817,False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-05-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,181967,"38,1",False,Laboral,Lunes,341.847,-7.646.732
+2024-05-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,12099,2,False,Laboral,Martes,341.847,-7.646.732
+2024-05-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,8096,1,False,Laboral,Miércoles,341.847,-7.646.732
+2024-05-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,15138996,"1718,2",False,Laboral,Jueves,341.847,-7.646.732
+2024-05-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,3763155,477,False,Laboral,Viernes,341.847,-7.646.732
+2024-05-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,3177613,"426,4",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-05-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,146369,"35,5",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-05-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,31215,"5,6",True,Festivo,Lunes,341.847,-7.646.732
+2024-05-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,7880,"3,6",False,Laboral,Martes,341.847,-7.646.732
+2024-05-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,14811,"2,4",False,Laboral,Miércoles,341.847,-7.646.732
+2024-05-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,22,4418,"0,5",False,Laboral,Jueves,341.847,-7.646.732
+2024-05-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,4349909,"418,4",False,Laboral,Viernes,341.847,-7.646.732
+2024-05-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,12307904,"1121,2",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-05-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,21476903,"1836,7",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-05-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,4018970,"570,8",False,Laboral,Lunes,341.847,-7.646.732
+2024-05-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,6067670,"781,2",False,Laboral,Martes,341.847,-7.646.732
+2024-05-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,4439825,"1723,5",False,Laboral,Miércoles,341.847,-7.646.732
+2024-05-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,3721130,"700,7",False,Laboral,Jueves,341.847,-7.646.732
+2024-05-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,1690487,"358,2",False,Laboral,Viernes,341.847,-7.646.732
+2024-05-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,11759362,"1650,9",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-05-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,10458355,"1513,5",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-05-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,9161215,"1077,5",False,Laboral,Lunes,341.847,-7.646.732
+2024-05-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,8769560,"1177,5",False,Laboral,Martes,341.847,-7.646.732
+2024-05-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,7509281,"1501,2",False,Laboral,Miércoles,341.847,-7.646.732
+2024-05-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,58,10068716,"841,4",False,Laboral,Jueves,341.847,-7.646.732
+2024-05-31,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,41973,"4,5",False,Laboral,Viernes,341.847,-7.646.732
+2024-06-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,19081,"1,9",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-06-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,63,36812,"3,8",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-06-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,34252,"4,9",True,Festivo,Lunes,341.847,-7.646.732
+2024-06-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,4314359,949,False,Laboral,Martes,341.847,-7.646.732
+2024-06-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,3758040,"1315,7",False,Laboral,Miércoles,341.847,-7.646.732
+2024-06-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,6955632,"1139,5",False,Laboral,Jueves,341.847,-7.646.732
+2024-06-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,4763298,"990,5",False,Laboral,Viernes,341.847,-7.646.732
+2024-06-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,6265892,"1988,7",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-06-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,6642233,"2278,6",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-06-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,4383848,"804,3",True,Festivo,Lunes,341.847,-7.646.732
+2024-06-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,4275601,"682,9",False,Laboral,Martes,341.847,-7.646.732
+2024-06-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,4649388,"626,9",False,Laboral,Miércoles,341.847,-7.646.732
+2024-06-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,5140957,10008897100,False,Laboral,Jueves,341.847,-7.646.732
+2024-06-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,32884,988362200,False,Laboral,Viernes,341.847,-7.646.732
+2024-06-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,4729092,84841132800,False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-06-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,3277121,58765015500,False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-06-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,6177769,"988,6",False,Laboral,Lunes,341.847,-7.646.732
+2024-06-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,3926852,"620,3",False,Laboral,Martes,341.847,-7.646.732
+2024-06-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,7761305,1101,False,Laboral,Miércoles,341.847,-7.646.732
+2024-06-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,13943,"2,8",False,Laboral,Jueves,341.847,-7.646.732
+2024-06-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,62,10921,"1,9",False,Laboral,Viernes,341.847,-7.646.732
+2024-06-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,63,11016,"2,1",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-06-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,59,18600,"7,3",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-06-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,14776,"2,8",False,Laboral,Lunes,341.847,-7.646.732
+2024-06-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,44,9383,"2,3",False,Laboral,Martes,341.847,-7.646.732
+2024-06-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,60,11496,3,False,Laboral,Miércoles,341.847,-7.646.732
+2024-06-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,7459,"2,2",False,Laboral,Jueves,341.847,-7.646.732
+2024-06-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,59,6831,"1,2",False,Laboral,Viernes,341.847,-7.646.732
+2024-06-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,61,8445,"1,4",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-06-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,67,3470148,"745,3",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-07-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,4279102,"594,47",True,Festivo,Lunes,341.847,-7.646.732
+2024-07-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,11393876,"1227,22",False,Laboral,Martes,341.847,-7.646.732
+2024-07-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,3052289,"363,03",False,Laboral,Miércoles,341.847,-7.646.732
+2024-07-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,10900,"1,37",False,Laboral,Jueves,341.847,-7.646.732
+2024-07-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,14879,"1,75",False,Laboral,Viernes,341.847,-7.646.732
+2024-07-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,11069,"1,31",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-07-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,6578,"0,75",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-07-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,13168,"2,37",False,Laboral,Lunes,341.847,-7.646.732
+2024-07-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,126383,"21,76",False,Laboral,Martes,341.847,-7.646.732
+2024-07-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,10537509,"1525,93",False,Laboral,Miércoles,341.847,-7.646.732
+2024-07-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,12330534,"1671,07",False,Laboral,Jueves,341.847,-7.646.732
+2024-07-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,63,42854,"6,76",False,Laboral,Viernes,341.847,-7.646.732
+2024-07-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,97136,"13,79",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-07-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,11783,"1,85",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-07-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,54,3233262,"578,42",False,Laboral,Lunes,341.847,-7.646.732
+2024-07-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,59,5761146,"917,11",False,Laboral,Martes,341.847,-7.646.732
+2024-07-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,57,25524,"5,64",False,Laboral,Miércoles,341.847,-7.646.732
+2024-07-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,20302,"3,41",False,Laboral,Jueves,341.847,-7.646.732
+2024-07-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,7842,"1,09",False,Laboral,Viernes,341.847,-7.646.732
+2024-07-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,52,6369,"0,82",True,Festivo,Sábado,341.847,-7.646.732
+2024-07-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,54,12418,"1,9",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-07-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,1725011,"248,2",False,Laboral,Lunes,341.847,-7.646.732
+2024-07-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,2702443,"390,13",False,Laboral,Martes,341.847,-7.646.732
+2024-07-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,1135803,"179,69",False,Laboral,Miércoles,341.847,-7.646.732
+2024-07-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,4824336,"763,07",False,Laboral,Jueves,341.847,-7.646.732
+2024-07-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,10391,"1,37",False,Laboral,Viernes,341.847,-7.646.732
+2024-07-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,2845221,"486,61",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-07-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,3968368,"839,75",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-07-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,5836515,"935,9",False,Laboral,Lunes,341.847,-7.646.732
+2024-07-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,58,1949097,"284,84",False,Laboral,Martes,341.847,-7.646.732
+2024-07-31,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,19945,"3,31",False,Laboral,Miércoles,341.847,-7.646.732
+2024-08-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,5076540,"757,55",False,Laboral,Jueves,341.847,-7.646.732
+2024-08-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,9193567,"1529,44",False,Laboral,Viernes,341.847,-7.646.732
+2024-08-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,62,3288172,"669,96",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-08-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,61,3700409,"589,98",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-08-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,4093016,"591,42",False,Laboral,Lunes,341.847,-7.646.732
+2024-08-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,62,8858210,"852,82",False,Laboral,Martes,341.847,-7.646.732
+2024-08-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,64,5777554,"687,25",True,Festivo,Miércoles,341.847,-7.646.732
+2024-08-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,25049,"3,14",False,Laboral,Jueves,341.847,-7.646.732
+2024-08-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,44097,"8,14",False,Laboral,Viernes,341.847,-7.646.732
+2024-08-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,64,5106318,"966,53",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-08-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,64,7984335,"1385,64",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-08-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,6105526,"1308,78",False,Laboral,Lunes,341.847,-7.646.732
+2024-08-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,16724,"1,89",False,Laboral,Martes,341.847,-7.646.732
+2024-08-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,12826,"1,7",False,Laboral,Miércoles,341.847,-7.646.732
+2024-08-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,65,16393,"2,46",False,Laboral,Jueves,341.847,-7.646.732
+2024-08-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,57,2047224,"278,93",False,Laboral,Viernes,341.847,-7.646.732
+2024-08-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,63,4333881,"628,58",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-08-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,72,4579586,"692,99",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-08-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,7847862,"1077,3",True,Festivo,Lunes,341.847,-7.646.732
+2024-08-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,3128918,"774,68",False,Laboral,Martes,341.847,-7.646.732
+2024-10-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,4131470,"922,91",False,Laboral,Viernes,341.847,-7.646.732
+2024-10-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,6579200,"851,99",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-10-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,57,11006328,"1105,64",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-10-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,4667782,"775,14",False,Laboral,Lunes,341.847,-7.646.732
+2024-10-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,38,3939569,"621,41",False,Laboral,Martes,341.847,-7.646.732
+2024-10-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,2116734,"432,06",False,Laboral,Miércoles,341.847,-7.646.732
+2024-10-31,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,481140,"102,56",False,Laboral,Jueves,341.847,-7.646.732
+2024-11-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,6745,"1,22",False,Laboral,Viernes,341.847,-7.646.732
+2024-11-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,16187,"2,61",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-11-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,18407,"3,13",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-11-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,5486189,827,True,Festivo,Lunes,341.847,-7.646.732
+2024-11-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,6371743,"872,59",False,Laboral,Martes,341.847,-7.646.732
+2024-11-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,1140583,"182,15",False,Laboral,Miércoles,341.847,-7.646.732
+2024-11-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,4163625,"468,16",False,Laboral,Jueves,341.847,-7.646.732
+2024-11-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,5106825,"412,96",False,Laboral,Viernes,341.847,-7.646.732
+2024-11-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,5608815,"336,84",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-11-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,4347577,"224,43",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-11-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,57,8814781,"501,91",True,Festivo,Lunes,341.847,-7.646.732
+2024-11-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,5340112,"279,37",False,Laboral,Martes,341.847,-7.646.732
+2024-11-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,63,11948987,"737,54",False,Laboral,Miércoles,341.847,-7.646.732
+2024-11-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,72,17570641,"915,28",False,Laboral,Jueves,341.847,-7.646.732
+2024-11-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,8307233,"456,03",False,Laboral,Viernes,341.847,-7.646.732
+2024-11-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,57,14104498,"766,01",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-11-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,62,14035945,"817,01",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-11-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,8443454,"525,28",False,Laboral,Lunes,341.847,-7.646.732
+2024-11-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,7847882,"491,22",False,Laboral,Martes,341.847,-7.646.732
+2024-11-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,16532343,"866,35",False,Laboral,Miércoles,341.847,-7.646.732
+2024-11-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,68,16917513,"936,95",False,Laboral,Jueves,341.847,-7.646.732
+2024-11-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,6252307,"309,71",False,Laboral,Viernes,341.847,-7.646.732
+2024-11-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,60,16592525,"865,81",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-11-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,65,2704933,"365,34",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-11-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,21,2327742,"565,99",False,Laboral,Lunes,341.847,-7.646.732
+2024-11-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,1761976,"223,74",False,Laboral,Martes,341.847,-7.646.732
+2024-11-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,11985529,"617,15",False,Laboral,Miércoles,341.847,-7.646.732
+2024-11-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,4638771,"220,31",False,Laboral,Jueves,341.847,-7.646.732
+2024-11-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,61,10515438,"473,15",False,Laboral,Viernes,341.847,-7.646.732
+2024-11-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,60,4722439,"207,19",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-12-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,65,6562173,"271,54",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-12-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,66,5316379,"254,79",False,Laboral,Lunes,341.847,-7.646.732
+2024-12-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,10487260,"561,7",False,Laboral,Martes,341.847,-7.646.732
+2024-12-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,68,18800763,"814,01",False,Laboral,Miércoles,341.847,-7.646.732
+2024-12-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,60,11008701,"479,85",False,Laboral,Jueves,341.847,-7.646.732
+2024-12-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,14,1257159,"55,91",False,Laboral,Viernes,341.847,-7.646.732
+2024-12-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,5569909,"209,74",True,Festivo,Domingo,341.847,-7.646.732
+2024-12-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,12510691,"463,86",False,Laboral,Lunes,341.847,-7.646.732
+2024-12-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,12611016,"416,42",False,Laboral,Martes,341.847,-7.646.732
+2024-12-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,16017187,"531,22",False,Laboral,Miércoles,341.847,-7.646.732
+2024-12-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,13888189,"404,73",False,Laboral,Jueves,341.847,-7.646.732
+2024-12-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,52,14584706,"429,9",False,Laboral,Viernes,341.847,-7.646.732
+2024-12-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,55,22981352,"756,56",False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-12-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,23081637,"779,1",False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-12-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,62,15538376,"467,24",False,Laboral,Lunes,341.847,-7.646.732
+2024-12-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,52,7191347,234,False,Laboral,Martes,341.847,-7.646.732
+2024-12-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,12918688,409,False,Laboral,Miércoles,341.847,-7.646.732
+2024-12-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,5094969,179,False,Laboral,Jueves,341.847,-7.646.732
+2024-12-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,64,7780056,256,False,Laboral,Viernes,341.847,-7.646.732
+2024-12-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,6904575,265,False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-12-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,54,5228560,163,False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-12-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,2717219,108,False,Laboral,Lunes,341.847,-7.646.732
+2024-12-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,4816237,201,False,Laboral,Martes,341.847,-7.646.732
+2024-12-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,54,6119472,217,True,Festivo,Miércoles,341.847,-7.646.732
+2024-12-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,44,12973093,474,False,Laboral,Jueves,341.847,-7.646.732
+2024-12-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,42,5434462,167,False,Laboral,Viernes,341.847,-7.646.732
+2024-12-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,11232636,477,False,Fin de Semana,Sábado,341.847,-7.646.732
+2024-12-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,8550446,265,False,Fin de Semana,Domingo,341.847,-7.646.732
+2024-12-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,53,7501584,307,False,Laboral,Lunes,341.847,-7.646.732
+2024-12-31,RURAL,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,7740034,417,False,Laboral,Martes,341.847,-7.646.732
+2025-01-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,4641560,316,True,Festivo,Miércoles,341.847,-7.646.732
+2025-01-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,3615195,130,False,Laboral,Jueves,341.847,-7.646.732
+2025-01-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,1056769,39,False,Laboral,Viernes,341.847,-7.646.732
+2025-01-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,2725287,101,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-01-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,9158954,280,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-01-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,38,4413330,118,True,Festivo,Lunes,341.847,-7.646.732
+2025-01-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,52,6707922,202,False,Laboral,Martes,341.847,-7.646.732
+2025-01-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,11393486,330,False,Laboral,Miércoles,341.847,-7.646.732
+2025-01-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,10919280,313,False,Laboral,Jueves,341.847,-7.646.732
+2025-01-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,4675776,129,False,Laboral,Viernes,341.847,-7.646.732
+2025-01-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,2767952,81,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-01-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,58,5688041,152,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-01-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,56,12672756,422,False,Laboral,Lunes,341.847,-7.646.732
+2025-01-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,52,10059952,332,False,Laboral,Martes,341.847,-7.646.732
+2025-01-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,47,10980442,380,False,Laboral,Miércoles,341.847,-7.646.732
+2025-01-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,51,16036001,510,False,Laboral,Jueves,341.847,-7.646.732
+2025-01-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,8832558,290,False,Laboral,Viernes,341.847,-7.646.732
+2025-01-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,13109820,433,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-01-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,59,16973249,524,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-01-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,44,8588023,266,False,Laboral,Lunes,341.847,-7.646.732
+2025-01-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,9404740,261,False,Laboral,Martes,341.847,-7.646.732
+2025-01-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,54,8380469,250,False,Laboral,Miércoles,341.847,-7.646.732
+2025-01-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,38,10581423,264,False,Laboral,Jueves,341.847,-7.646.732
+2025-01-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,41,2210575,66,False,Laboral,Viernes,341.847,-7.646.732
+2025-01-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,43,14202635,382,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-01-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,12357160,314,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-01-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,14602906,385,False,Laboral,Lunes,341.847,-7.646.732
+2025-01-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,31,11194400,340,False,Laboral,Martes,341.847,-7.646.732
+2025-01-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,8362313,231,False,Laboral,Miércoles,341.847,-7.646.732
+2025-01-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,3239056,119,False,Laboral,Jueves,341.847,-7.646.732
+2025-01-31,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,2577174,140,False,Laboral,Viernes,341.847,-7.646.732
+2025-02-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,1377056,49,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-02-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,44,13476989,398,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-02-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,25,6801541,263,False,Laboral,Lunes,341.847,-7.646.732
+2025-02-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,8057591,286,False,Laboral,Martes,341.847,-7.646.732
+2025-02-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,7547746,311,False,Laboral,Miércoles,341.847,-7.646.732
+2025-02-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,9717778,359,False,Laboral,Jueves,341.847,-7.646.732
+2025-02-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,10024908,342,False,Laboral,Viernes,341.847,-7.646.732
+2025-02-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,37,5117200,191,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-02-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,12419172,391,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-02-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,8244312,313,False,Laboral,Lunes,341.847,-7.646.732
+2025-02-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,16354014,551,False,Laboral,Martes,341.847,-7.646.732
+2025-02-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,32,8362435,254,False,Laboral,Miércoles,341.847,-7.646.732
+2025-02-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,3895168,183,False,Laboral,Jueves,341.847,-7.646.732
+2025-02-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,4628552,139,False,Laboral,Viernes,341.847,-7.646.732
+2025-02-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,46,4259233,154,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-02-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,5741680,189,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-02-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,31,10778383,383,False,Laboral,Lunes,341.847,-7.646.732
+2025-02-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,13810864,492,False,Laboral,Martes,341.847,-7.646.732
+2025-02-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,48,11791495,376,False,Laboral,Miércoles,341.847,-7.646.732
+2025-02-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,14169445,402,False,Laboral,Jueves,341.847,-7.646.732
+2025-02-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,36,12017923,412,False,Laboral,Viernes,341.847,-7.646.732
+2025-02-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,49,9738362,343,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-02-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,50,18547082,540,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-02-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,10731350,442,False,Laboral,Lunes,341.847,-7.646.732
+2025-02-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,6890029,221,False,Laboral,Martes,341.847,-7.646.732
+2025-02-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,31,15608193,564,False,Laboral,Miércoles,341.847,-7.646.732
+2025-02-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,15008542,524,False,Laboral,Jueves,341.847,-7.646.732
+2025-02-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,7840347,278,False,Laboral,Viernes,341.847,-7.646.732
+2025-03-01,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,34,4646758,175,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-03-02,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,40,10266251,303,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-03-03,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,3893177,146,False,Laboral,Lunes,341.847,-7.646.732
+2025-03-04,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,3362043,152,False,Laboral,Martes,341.847,-7.646.732
+2025-03-05,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,28,6931055,245,False,Laboral,Miércoles,341.847,-7.646.732
+2025-03-06,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,8582264,276,False,Laboral,Jueves,341.847,-7.646.732
+2025-03-07,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,24,17888088,643,False,Laboral,Viernes,341.847,-7.646.732
+2025-03-08,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,11341303,329,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-03-09,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,39,12519831,391,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-03-10,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,4608149,133,False,Laboral,Lunes,341.847,-7.646.732
+2025-03-11,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,19,1114570,50,False,Laboral,Martes,341.847,-7.646.732
+2025-03-12,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,30,2315952,78,False,Laboral,Miércoles,341.847,-7.646.732
+2025-03-13,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,21,1901561,78,False,Laboral,Jueves,341.847,-7.646.732
+2025-03-14,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,25,2790916,94,False,Laboral,Viernes,341.847,-7.646.732
+2025-03-15,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,2904103,93,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-03-16,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,25,6783370,219,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-03-17,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,31,6310305,216,False,Laboral,Lunes,341.847,-7.646.732
+2025-03-18,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,25,4505229,136,False,Laboral,Martes,341.847,-7.646.732
+2025-03-19,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,24,3896352,140,False,Laboral,Miércoles,341.847,-7.646.732
+2025-03-20,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,4621084,149,False,Laboral,Jueves,341.847,-7.646.732
+2025-03-21,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,28,10731781,291,False,Laboral,Viernes,341.847,-7.646.732
+2025-03-22,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,7524111,248,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-03-23,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,29,3743345,116,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-03-24,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,27,5502926,136,True,Festivo,Lunes,341.847,-7.646.732
+2025-03-25,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,35,2429498,71,False,Laboral,Martes,341.847,-7.646.732
+2025-03-26,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,26,2560287,83,False,Laboral,Miércoles,341.847,-7.646.732
+2025-03-27,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,7162143,198,False,Laboral,Jueves,341.847,-7.646.732
+2025-03-28,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,18,3867687,160,False,Laboral,Viernes,341.847,-7.646.732
+2025-03-29,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,33,4815456,151,False,Fin de Semana,Sábado,341.847,-7.646.732
+2025-03-30,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,25,4047040,116,False,Fin de Semana,Domingo,341.847,-7.646.732
+2025-03-31,URBANA,038_ZW Parque Sector Amarillo Skate Park,21,MR76,23,2149875,71,False,Laboral,Lunes,341.847,-7.646.732

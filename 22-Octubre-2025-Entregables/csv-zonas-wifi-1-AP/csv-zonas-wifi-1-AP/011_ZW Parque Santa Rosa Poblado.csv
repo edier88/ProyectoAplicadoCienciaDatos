@@ -1,0 +1,316 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,35,1077463,"123,3",True,Festivo,Lunes,342.244,-7.648.789
+2024-01-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,28,2411912,"286,5",False,Laboral,Martes,342.244,-7.648.789
+2024-01-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,36,5705234,"470,8",False,Laboral,Miércoles,342.244,-7.648.789
+2024-01-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,29,1464423,"138,6",False,Laboral,Jueves,342.244,-7.648.789
+2024-01-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,300380,"27,7",False,Laboral,Viernes,342.244,-7.648.789
+2024-01-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,37,137726,18,False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-01-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,39,71545,"7,1",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-01-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,31,2375492,"150,7",True,Festivo,Lunes,342.244,-7.648.789
+2024-01-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,32,7102,"0,5",False,Laboral,Martes,342.244,-7.648.789
+2024-01-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,24431,2,False,Laboral,Miércoles,342.244,-7.648.789
+2024-01-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,27,6640,"0,6",False,Laboral,Jueves,342.244,-7.648.789
+2024-01-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,26,8899,"0,8",False,Laboral,Viernes,342.244,-7.648.789
+2024-01-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,15,6928,"0,8",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-01-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,37,2617,"0,3",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-01-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,22,10406,"1,5",False,Laboral,Lunes,342.244,-7.648.789
+2024-01-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,7319,"0,9",False,Laboral,Martes,342.244,-7.648.789
+2024-01-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,33,5344,"0,5",False,Laboral,Miércoles,342.244,-7.648.789
+2024-01-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,7721,"0,6",False,Laboral,Jueves,342.244,-7.648.789
+2024-01-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,32,4289,"0,3",False,Laboral,Viernes,342.244,-7.648.789
+2024-01-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,26,3842,"0,3",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-01-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,33,6843,"0,5",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-01-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,9466,"0,9",False,Laboral,Lunes,342.244,-7.648.789
+2024-01-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,30,6653,"0,6",False,Laboral,Martes,342.244,-7.648.789
+2024-01-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,27,9035,"0,7",False,Laboral,Miércoles,342.244,-7.648.789
+2024-01-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,39,11768,"0,8",False,Laboral,Jueves,342.244,-7.648.789
+2024-01-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,27,3737,"0,3",False,Laboral,Viernes,342.244,-7.648.789
+2024-01-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,40,7157,"0,6",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-01-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,3316,"0,3",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-01-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,47,13429,"1,2",False,Laboral,Lunes,342.244,-7.648.789
+2024-01-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,80,12614,"1,4",False,Laboral,Martes,342.244,-7.648.789
+2024-01-31,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,60,37878,"3,6",False,Laboral,Miércoles,342.244,-7.648.789
+2024-02-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,82,13511,1,False,Laboral,Jueves,342.244,-7.648.789
+2024-02-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,20,1529,"0,2",False,Laboral,Viernes,342.244,-7.648.789
+2024-02-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,59,12618,"0,7",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-02-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,31,7260,"0,5",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-02-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,61,9426,"0,6",False,Laboral,Lunes,342.244,-7.648.789
+2024-02-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,56,133715,"8,9",False,Laboral,Martes,342.244,-7.648.789
+2024-02-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,63,2755192,"166,9",False,Laboral,Miércoles,342.244,-7.648.789
+2024-02-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,24,159411,"11,7",False,Laboral,Jueves,342.244,-7.648.789
+2024-02-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,89,8064616,"670,2",False,Laboral,Viernes,342.244,-7.648.789
+2024-02-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,74,3559912,"222,9",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-02-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,37,14592,"1,1",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-02-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,105,3082315,"297,7",False,Laboral,Lunes,342.244,-7.648.789
+2024-02-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,108,4618407,"533,2",False,Laboral,Martes,342.244,-7.648.789
+2024-02-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,132,1507881,"199,6",False,Laboral,Miércoles,342.244,-7.648.789
+2024-02-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,122,68562,"5,9",False,Laboral,Jueves,342.244,-7.648.789
+2024-02-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,113,1196599,"113,5",False,Laboral,Viernes,342.244,-7.648.789
+2024-02-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,83,56660,"5,4",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-02-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,27,908,"0,1",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-02-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,117,8798077,"600,3",False,Laboral,Lunes,342.244,-7.648.789
+2024-02-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,108,2057565,"168,5",False,Laboral,Martes,342.244,-7.648.789
+2024-02-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,118,1633113,"141,6",False,Laboral,Miércoles,342.244,-7.648.789
+2024-02-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,119,1996056,"130,4",False,Laboral,Jueves,342.244,-7.648.789
+2024-02-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,95,373605,"26,3",False,Laboral,Viernes,342.244,-7.648.789
+2024-02-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,5,4579,"0,4",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-02-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,6528586,"371,7",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-02-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,108,5656949,"508,2",False,Laboral,Lunes,342.244,-7.648.789
+2024-02-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,124,4280246,"368,4",False,Laboral,Martes,342.244,-7.648.789
+2024-02-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,103,2463889,"143,7",False,Laboral,Miércoles,342.244,-7.648.789
+2024-02-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,129,192555,"24,3",False,Laboral,Jueves,342.244,-7.648.789
+2024-03-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,108,36664,"3,1",False,Laboral,Viernes,342.244,-7.648.789
+2024-03-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,69,11982,"1,2",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-03-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,43,205493,"14,7",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-03-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,93,627795,"44,2",False,Laboral,Lunes,342.244,-7.648.789
+2024-03-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,106,259308,"18,8",False,Laboral,Martes,342.244,-7.648.789
+2024-03-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,107,1523849,"125,9",False,Laboral,Miércoles,342.244,-7.648.789
+2024-03-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,115,8651061,"809,7",False,Laboral,Jueves,342.244,-7.648.789
+2024-03-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,63,17722,"1,7",False,Laboral,Viernes,342.244,-7.648.789
+2024-03-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,78,13477,"1,4",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-03-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,35,1352053,"141,7",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-03-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,128,1395173,"148,4",False,Laboral,Lunes,342.244,-7.648.789
+2024-03-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,119,85402,"9,7",False,Laboral,Martes,342.244,-7.648.789
+2024-03-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,106,37253,5,False,Laboral,Miércoles,342.244,-7.648.789
+2024-03-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,55,7222,"0,7",False,Laboral,Jueves,342.244,-7.648.789
+2024-03-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,106,16320,"1,3",False,Laboral,Viernes,342.244,-7.648.789
+2024-03-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,73,2386127,211,False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-03-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,35,2218983,"171,4",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-03-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,91,2098160,"174,8",False,Laboral,Lunes,342.244,-7.648.789
+2024-03-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,111,582740,"77,3",False,Laboral,Martes,342.244,-7.648.789
+2024-03-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,117,2660649,"405,9",False,Laboral,Miércoles,342.244,-7.648.789
+2024-03-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,138,187427,"21,5",False,Laboral,Jueves,342.244,-7.648.789
+2024-03-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,101,15995,"1,6",False,Laboral,Viernes,342.244,-7.648.789
+2024-03-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,55,4571,"0,6",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-03-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,30,4156,"0,5",True,Festivo,Domingo,342.244,-7.648.789
+2024-03-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,29,141875,"20,2",True,Festivo,Lunes,342.244,-7.648.789
+2024-03-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,47,4727,"0,6",False,Laboral,Martes,342.244,-7.648.789
+2024-03-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,40,1681,"0,2",False,Laboral,Miércoles,342.244,-7.648.789
+2024-03-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,22,2042,"0,3",True,Festivo,Jueves,342.244,-7.648.789
+2024-03-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,37,6039,"0,6",True,Festivo,Viernes,342.244,-7.648.789
+2024-03-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,44,6470,1,False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-03-31,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,28,6591,"0,9",True,Festivo,Domingo,342.244,-7.648.789
+2024-04-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,30,884,"0,1",False,Laboral,Lunes,342.244,-7.648.789
+2024-04-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,122,370074,"52,6",False,Laboral,Martes,342.244,-7.648.789
+2024-04-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,108,355434,"39,5",False,Laboral,Miércoles,342.244,-7.648.789
+2024-04-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,118,167485,"14,6",False,Laboral,Jueves,342.244,-7.648.789
+2024-04-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,101,81267,"7,2",False,Laboral,Viernes,342.244,-7.648.789
+2024-04-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,68,11908,1,False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-04-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,36406,3,False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-04-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,64,17749,"2,5",False,Laboral,Lunes,342.244,-7.648.789
+2024-04-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,24182,"3,2",False,Laboral,Martes,342.244,-7.648.789
+2024-04-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,99,424192,"99,8",False,Laboral,Miércoles,342.244,-7.648.789
+2024-04-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,101,17718,4,False,Laboral,Jueves,342.244,-7.648.789
+2024-04-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,91,14839,"2,2",False,Laboral,Viernes,342.244,-7.648.789
+2024-04-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,64,5589110,"656,9",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-04-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,31,1119184,"162,3",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-04-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,46,2840998,"709,8",False,Laboral,Lunes,342.244,-7.648.789
+2024-04-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,116,7057686,"1661,7",False,Laboral,Martes,342.244,-7.648.789
+2024-04-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,104,15707,"4,2",False,Laboral,Miércoles,342.244,-7.648.789
+2024-04-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,95,55653,"19,1",False,Laboral,Jueves,342.244,-7.648.789
+2024-04-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,67,9512,"2,3",False,Laboral,Viernes,342.244,-7.648.789
+2024-04-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,67,40066,"5,1",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-04-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,44,16029,"2,6",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-04-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,89,13016,"2,8",False,Laboral,Lunes,342.244,-7.648.789
+2024-04-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,92,2953845,"160,9",False,Laboral,Martes,342.244,-7.648.789
+2024-04-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,94,2147656,"116,9",False,Laboral,Miércoles,342.244,-7.648.789
+2024-04-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,97,80814,"6,8",False,Laboral,Jueves,342.244,-7.648.789
+2024-04-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,75,6627,"0,7",False,Laboral,Viernes,342.244,-7.648.789
+2024-04-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,2154,"0,2",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-04-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,25,189933,"25,7",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-04-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,72,2655643,"331,7",False,Laboral,Lunes,342.244,-7.648.789
+2024-04-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,122,3973788,"630,8",False,Laboral,Martes,342.244,-7.648.789
+2024-05-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,44,344762,"65,6",True,Festivo,Miércoles,342.244,-7.648.789
+2024-05-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,103,444741,"86,9",False,Laboral,Jueves,342.244,-7.648.789
+2024-05-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,88,12552,"2,7",False,Laboral,Viernes,342.244,-7.648.789
+2024-05-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,58,6603,"0,9",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-05-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,2546,"0,4",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-05-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,71,8618,"1,8",False,Laboral,Lunes,342.244,-7.648.789
+2024-05-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,136,78702,13,False,Laboral,Martes,342.244,-7.648.789
+2024-05-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,110,25428,"3,2",False,Laboral,Miércoles,342.244,-7.648.789
+2024-05-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,57,10782,"1,2",False,Laboral,Jueves,342.244,-7.648.789
+2024-05-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,73,11149,"1,4",False,Laboral,Viernes,342.244,-7.648.789
+2024-05-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,54,3862,"0,5",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-05-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,57,28302,"6,9",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-05-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,3710,"0,7",True,Festivo,Lunes,342.244,-7.648.789
+2024-05-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,89,10509,"4,8",False,Laboral,Martes,342.244,-7.648.789
+2024-05-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,13083,"2,1",False,Laboral,Miércoles,342.244,-7.648.789
+2024-05-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,98,10829,"1,3",False,Laboral,Jueves,342.244,-7.648.789
+2024-05-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,46027,"4,4",False,Laboral,Viernes,342.244,-7.648.789
+2024-05-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,54,9316,"0,8",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-05-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,39,3375,"0,3",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-05-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,58,7549,"1,1",False,Laboral,Lunes,342.244,-7.648.789
+2024-05-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,88,23970,"3,1",False,Laboral,Martes,342.244,-7.648.789
+2024-05-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,82,7711,3,False,Laboral,Miércoles,342.244,-7.648.789
+2024-05-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,58,3346,"0,6",False,Laboral,Jueves,342.244,-7.648.789
+2024-05-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,52,16127,"3,4",False,Laboral,Viernes,342.244,-7.648.789
+2024-05-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,252256,"35,4",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-05-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,24,471,"0,1",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-05-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,76,9942,"1,2",False,Laboral,Lunes,342.244,-7.648.789
+2024-05-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,91,27544,"3,7",False,Laboral,Martes,342.244,-7.648.789
+2024-05-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,81,18361,"3,7",False,Laboral,Miércoles,342.244,-7.648.789
+2024-05-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,108,23273,"1,9",False,Laboral,Jueves,342.244,-7.648.789
+2024-05-31,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,80,9254,1,False,Laboral,Viernes,342.244,-7.648.789
+2024-06-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,54,6754,"0,7",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-06-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,42,3503,"0,4",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-06-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,23,3619,"0,5",True,Festivo,Lunes,342.244,-7.648.789
+2024-06-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,105,24909,"5,5",False,Laboral,Martes,342.244,-7.648.789
+2024-06-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,91,14594,"5,1",False,Laboral,Miércoles,342.244,-7.648.789
+2024-06-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,105,13205,"2,2",False,Laboral,Jueves,342.244,-7.648.789
+2024-06-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,101,18958,"3,9",False,Laboral,Viernes,342.244,-7.648.789
+2024-06-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,46,8729,"2,8",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-06-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,29,9216,"3,2",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-06-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,8005,"1,5",True,Festivo,Lunes,342.244,-7.648.789
+2024-06-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,96,378115,"60,4",False,Laboral,Martes,342.244,-7.648.789
+2024-06-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,36,4643,"0,6",False,Laboral,Miércoles,342.244,-7.648.789
+2024-06-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,37,3146,61249300,False,Laboral,Jueves,342.244,-7.648.789
+2024-06-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,35,1964,590300,False,Laboral,Viernes,342.244,-7.648.789
+2024-06-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,25,3174,56942400,False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-06-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,33,2792,50065900,False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-06-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,26,8696,"1,4",False,Laboral,Lunes,342.244,-7.648.789
+2024-06-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,32,4829,"0,8",False,Laboral,Martes,342.244,-7.648.789
+2024-06-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,33,3084,"0,4",False,Laboral,Miércoles,342.244,-7.648.789
+2024-06-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,35,2420,"0,5",False,Laboral,Jueves,342.244,-7.648.789
+2024-06-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,10884,"1,9",False,Laboral,Viernes,342.244,-7.648.789
+2024-06-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,53,4903,"0,9",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-06-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,3,194,"0,1",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-06-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,75,280426,"69,5",False,Laboral,Martes,342.244,-7.648.789
+2024-06-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,91,1858201,"479,9",False,Laboral,Miércoles,342.244,-7.648.789
+2024-06-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,104,28553,"8,5",False,Laboral,Jueves,342.244,-7.648.789
+2024-06-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,103,32024,"5,5",False,Laboral,Viernes,342.244,-7.648.789
+2024-06-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,56,11917,2,False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-06-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,23,179328,"38,5",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-07-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,31,330544,"45,92",True,Festivo,Lunes,342.244,-7.648.789
+2024-07-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,3,25576,"2,75",False,Laboral,Martes,342.244,-7.648.789
+2024-07-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,29,43762,"5,2",False,Laboral,Miércoles,342.244,-7.648.789
+2024-07-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,27,1500505,"189,09",False,Laboral,Jueves,342.244,-7.648.789
+2024-07-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,1935766,"227,2",False,Laboral,Viernes,342.244,-7.648.789
+2024-07-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,64,1238987,"147,19",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-07-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,37,121290,"13,75",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-07-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,10711,"1,93",False,Laboral,Lunes,342.244,-7.648.789
+2024-07-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,37,5104,"0,88",False,Laboral,Martes,342.244,-7.648.789
+2024-07-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,312600,"45,27",False,Laboral,Miércoles,342.244,-7.648.789
+2024-07-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,53,151909,"20,59",False,Laboral,Jueves,342.244,-7.648.789
+2024-07-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,19878,"3,13",False,Laboral,Viernes,342.244,-7.648.789
+2024-07-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,36,41301,"5,86",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-07-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,38,12202,"1,92",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-07-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,32,8136,"1,46",False,Laboral,Lunes,342.244,-7.648.789
+2024-07-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,29,270658,"43,09",False,Laboral,Martes,342.244,-7.648.789
+2024-07-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,39,2581,"0,57",False,Laboral,Miércoles,342.244,-7.648.789
+2024-07-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,43,12689,"2,13",False,Laboral,Jueves,342.244,-7.648.789
+2024-07-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,48,12520,"1,74",False,Laboral,Viernes,342.244,-7.648.789
+2024-07-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,56,3977,"0,51",True,Festivo,Sábado,342.244,-7.648.789
+2024-07-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,46,4069,"0,62",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-07-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,92,39226,"5,64",False,Laboral,Lunes,342.244,-7.648.789
+2024-07-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,95,34646,5,False,Laboral,Martes,342.244,-7.648.789
+2024-07-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,99,297357,"47,04",False,Laboral,Miércoles,342.244,-7.648.789
+2024-07-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,118,616859,"97,57",False,Laboral,Jueves,342.244,-7.648.789
+2024-07-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,98,118861,"15,66",False,Laboral,Viernes,342.244,-7.648.789
+2024-07-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,62,50187,"8,58",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-07-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,2250,"0,48",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-07-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,81,15729,"2,52",False,Laboral,Lunes,342.244,-7.648.789
+2024-07-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,107,27482,"4,02",False,Laboral,Martes,342.244,-7.648.789
+2024-07-31,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,113,11982,"1,99",False,Laboral,Miércoles,342.244,-7.648.789
+2024-08-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,109,25052,"3,74",False,Laboral,Jueves,342.244,-7.648.789
+2024-08-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,83,120571,"20,06",False,Laboral,Viernes,342.244,-7.648.789
+2024-08-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,72,7401,"1,51",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-08-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,50,3941,"0,63",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-08-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,88,17567,"2,54",False,Laboral,Lunes,342.244,-7.648.789
+2024-08-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,120,492517,"47,42",False,Laboral,Martes,342.244,-7.648.789
+2024-08-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,42,63025,"7,5",True,Festivo,Miércoles,342.244,-7.648.789
+2024-08-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,100,37795,"4,74",False,Laboral,Jueves,342.244,-7.648.789
+2024-08-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,101,46050,"8,5",False,Laboral,Viernes,342.244,-7.648.789
+2024-08-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,48,3935,"0,74",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-08-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,39,275237,"47,77",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-08-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,40,2650321,"568,12",False,Laboral,Lunes,342.244,-7.648.789
+2024-08-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,116,4669054,"528,48",False,Laboral,Martes,342.244,-7.648.789
+2024-08-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,97,1477795,"196,14",False,Laboral,Miércoles,342.244,-7.648.789
+2024-08-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,103,639630,"96,03",False,Laboral,Jueves,342.244,-7.648.789
+2024-08-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,83,11371,"1,55",False,Laboral,Viernes,342.244,-7.648.789
+2024-08-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,63,9353,"1,36",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-08-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,4108,"0,62",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-08-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,44,5689,"0,78",True,Festivo,Lunes,342.244,-7.648.789
+2024-08-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,66,12396,"3,07",False,Laboral,Martes,342.244,-7.648.789
+2024-08-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,69,19252,"5,61",False,Laboral,Miércoles,342.244,-7.648.789
+2024-10-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,51,60492,"13,51",False,Laboral,Viernes,342.244,-7.648.789
+2024-10-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,48,105378,"13,65",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-10-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,32,1991737,"200,08",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-10-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,89,730895,"121,37",False,Laboral,Lunes,342.244,-7.648.789
+2024-10-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,32,2743282,"432,72",False,Laboral,Martes,342.244,-7.648.789
+2024-10-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,76,2047855,418,False,Laboral,Miércoles,342.244,-7.648.789
+2024-10-31,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,63,669567,"142,72",False,Laboral,Jueves,342.244,-7.648.789
+2024-11-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,92,19968,"3,61",False,Laboral,Viernes,342.244,-7.648.789
+2024-11-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,39,7535,"1,21",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-11-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,30,9250,"1,57",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-11-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,28,8034,"1,21",True,Festivo,Lunes,342.244,-7.648.789
+2024-11-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,98,521553,"71,42",False,Laboral,Martes,342.244,-7.648.789
+2024-11-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,80,1670536,"266,79",False,Laboral,Miércoles,342.244,-7.648.789
+2024-11-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,101,1361708,"153,11",False,Laboral,Jueves,342.244,-7.648.789
+2024-11-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,87,336524,"27,21",False,Laboral,Viernes,342.244,-7.648.789
+2024-11-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,57,2683842,"161,18",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-11-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,30,123485,"6,37",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-11-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,34,9461,"0,54",True,Festivo,Lunes,342.244,-7.648.789
+2024-11-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,109,2412794,"126,23",False,Laboral,Martes,342.244,-7.648.789
+2024-11-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,106,4983695,"307,61",False,Laboral,Miércoles,342.244,-7.648.789
+2024-11-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,125,3508240,"182,75",False,Laboral,Jueves,342.244,-7.648.789
+2024-11-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,101,4621305,"253,69",False,Laboral,Viernes,342.244,-7.648.789
+2024-11-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,65,212243,"11,53",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-11-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,57,4580014,"266,6",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-11-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,89,970865,"60,4",False,Laboral,Lunes,342.244,-7.648.789
+2024-11-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,93,1884659,"117,97",False,Laboral,Martes,342.244,-7.648.789
+2024-11-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,96,1906440,"99,9",False,Laboral,Miércoles,342.244,-7.648.789
+2024-11-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,53,844229,"46,76",False,Laboral,Jueves,342.244,-7.648.789
+2024-11-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,55,3023501,"149,77",False,Laboral,Viernes,342.244,-7.648.789
+2024-11-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,57,1806929,"94,29",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-11-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,74,3282244,"443,32",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-11-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,93,926929,"225,38",False,Laboral,Lunes,342.244,-7.648.789
+2024-11-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,33,390544,"49,59",False,Laboral,Martes,342.244,-7.648.789
+2024-11-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,90,5030812,"259,04",False,Laboral,Miércoles,342.244,-7.648.789
+2024-11-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,76,4645491,"220,63",False,Laboral,Jueves,342.244,-7.648.789
+2024-11-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,49,3080673,"138,62",False,Laboral,Viernes,342.244,-7.648.789
+2024-11-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,56,826669,"36,27",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-12-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,53,4783407,"197,94",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-12-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,71,4884667,"234,1",False,Laboral,Lunes,342.244,-7.648.789
+2024-12-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,58,3792580,"203,13",False,Laboral,Martes,342.244,-7.648.789
+2024-12-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,59,2558254,"110,76",False,Laboral,Miércoles,342.244,-7.648.789
+2024-12-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,69,127308,"5,55",False,Laboral,Jueves,342.244,-7.648.789
+2024-12-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,85,242597,"10,79",False,Laboral,Viernes,342.244,-7.648.789
+2024-12-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,63,2798412,"136,41",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-12-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,70,6570584,"247,42",True,Festivo,Domingo,342.244,-7.648.789
+2024-12-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,58,5220980,"193,58",False,Laboral,Lunes,342.244,-7.648.789
+2024-12-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,73,4372433,"144,38",False,Laboral,Martes,342.244,-7.648.789
+2024-12-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,58,5007652,"166,08",False,Laboral,Miércoles,342.244,-7.648.789
+2024-12-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,61,2603022,"75,86",False,Laboral,Jueves,342.244,-7.648.789
+2024-12-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,58,2348802,"69,23",False,Laboral,Viernes,342.244,-7.648.789
+2024-12-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,69,5490952,"180,76",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-12-15,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,42,759938,"25,65",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-12-16,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,63,6800458,"204,49",False,Laboral,Lunes,342.244,-7.648.789
+2024-12-17,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,57,4506296,147,False,Laboral,Martes,342.244,-7.648.789
+2024-12-18,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,66,6203190,197,False,Laboral,Miércoles,342.244,-7.648.789
+2024-12-19,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,41,269927,"9,49",False,Laboral,Jueves,342.244,-7.648.789
+2024-12-20,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,32,323593,"10,7",False,Laboral,Viernes,342.244,-7.648.789
+2024-12-21,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,54,549340,"21,1",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-12-22,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,64,3068643,"95,8",False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-12-23,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,51,2488340,"99,3",False,Laboral,Lunes,342.244,-7.648.789
+2024-12-24,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,52,3069633,128,False,Laboral,Martes,342.244,-7.648.789
+2024-12-25,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,36,1245058,"44,1",True,Festivo,Miércoles,342.244,-7.648.789
+2024-12-26,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,44,2820461,103,False,Laboral,Jueves,342.244,-7.648.789
+2024-12-27,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,42,4984432,153,False,Laboral,Viernes,342.244,-7.648.789
+2024-12-28,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,36,1855951,"78,9",False,Fin de Semana,Sábado,342.244,-7.648.789
+2024-12-29,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,52,8366943,259,False,Fin de Semana,Domingo,342.244,-7.648.789
+2024-12-30,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,50,2484199,102,False,Laboral,Lunes,342.244,-7.648.789
+2024-12-31,RURAL,011_ZW Parque Santa Rosa Poblado,13,MR76,65,7742230,417,False,Laboral,Martes,342.244,-7.648.789
+2025-01-01,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,59,6228473,424,True,Festivo,Miércoles,342.244,-7.648.789
+2025-01-02,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,42,5450990,196,False,Laboral,Jueves,342.244,-7.648.789
+2025-01-03,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,50,7741558,289,False,Laboral,Viernes,342.244,-7.648.789
+2025-01-04,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,44,5183165,192,False,Fin de Semana,Sábado,342.244,-7.648.789
+2025-01-05,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,51,9403539,287,False,Fin de Semana,Domingo,342.244,-7.648.789
+2025-01-06,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,54,7541085,202,True,Festivo,Lunes,342.244,-7.648.789
+2025-01-07,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,64,5943052,179,False,Laboral,Martes,342.244,-7.648.789
+2025-01-08,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,63,6773728,196,False,Laboral,Miércoles,342.244,-7.648.789
+2025-01-09,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,55,6667348,191,False,Laboral,Jueves,342.244,-7.648.789
+2025-01-10,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,56,6426588,178,False,Laboral,Viernes,342.244,-7.648.789
+2025-01-11,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,60,11558753,339,False,Fin de Semana,Sábado,342.244,-7.648.789
+2025-01-12,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,55,8035935,215,False,Fin de Semana,Domingo,342.244,-7.648.789
+2025-01-13,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,62,7764884,258,False,Laboral,Lunes,342.244,-7.648.789
+2025-01-14,URBANA,011_ZW Parque Santa Rosa Poblado,13,MR76,33,1286826,42,False,Laboral,Martes,342.244,-7.648.789

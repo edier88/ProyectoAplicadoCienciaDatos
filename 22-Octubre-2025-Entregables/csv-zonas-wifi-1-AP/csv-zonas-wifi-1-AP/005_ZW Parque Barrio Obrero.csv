@@ -1,0 +1,379 @@
+FECHA.CONEXION,AREA,NOMBRE.ZONA,COMUNA,MODEL,NUMERO.CONEXIONES,USAGE.KB,PORCENTAJE.USO,es_festivo,tipo_dia,dia_semana,LATITUD,LONGITUD
+2024-01-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,131,1791964,205,True,Festivo,Lunes,344.941,-7.652.065
+2024-01-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,128,202038,24,False,Laboral,Martes,344.941,-7.652.065
+2024-01-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,113,8741023,"721,3",False,Laboral,Miércoles,344.941,-7.652.065
+2024-01-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,97,6399371,"605,7",False,Laboral,Jueves,344.941,-7.652.065
+2024-01-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,103,3266920,"301,3",False,Laboral,Viernes,344.941,-7.652.065
+2024-01-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,108,348765,"45,5",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-01-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,134,53892,"5,4",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-01-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,100,29271,"1,9",True,Festivo,Lunes,344.941,-7.652.065
+2024-01-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,170,20505,"1,6",False,Laboral,Martes,344.941,-7.652.065
+2024-01-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,153,6868181,"569,3",False,Laboral,Miércoles,344.941,-7.652.065
+2024-01-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,127,6041595,"561,5",False,Laboral,Jueves,344.941,-7.652.065
+2024-01-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,132,5804157,"499,7",False,Laboral,Viernes,344.941,-7.652.065
+2024-01-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,116,6237261,"692,8",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-01-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,133,2053361,"259,5",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-01-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,141,82520,"11,9",False,Laboral,Lunes,344.941,-7.652.065
+2024-01-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,140,7202093,842,False,Laboral,Martes,344.941,-7.652.065
+2024-01-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,140,2917130,"291,7",False,Laboral,Miércoles,344.941,-7.652.065
+2024-01-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,145,3969361,"330,9",False,Laboral,Jueves,344.941,-7.652.065
+2024-01-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,132,4405577,287,False,Laboral,Viernes,344.941,-7.652.065
+2024-01-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,140,6923802,"534,7",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-01-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,123,8860849,"684,4",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-01-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,167,4918895,"469,1",False,Laboral,Lunes,344.941,-7.652.065
+2024-01-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,129,3155868,"292,2",False,Laboral,Martes,344.941,-7.652.065
+2024-01-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,147,2321181,"185,6",False,Laboral,Miércoles,344.941,-7.652.065
+2024-01-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,127,2576728,"172,4",False,Laboral,Jueves,344.941,-7.652.065
+2024-01-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,145,349959,"25,4",False,Laboral,Viernes,344.941,-7.652.065
+2024-01-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,131,8569222,"690,4",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-01-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,122,7558478,"735,3",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-01-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,161,6631707,"569,8",False,Laboral,Lunes,344.941,-7.652.065
+2024-01-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,118,3245953,"358,6",False,Laboral,Martes,344.941,-7.652.065
+2024-01-31,URBANA,005_ZW Parque Barrio Obrero,9,MR76,176,13676847,"1309,5",False,Laboral,Miércoles,344.941,-7.652.065
+2024-02-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,222,12492872,"898,1",False,Laboral,Jueves,344.941,-7.652.065
+2024-02-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,131,3745540,"392,1",False,Laboral,Viernes,344.941,-7.652.065
+2024-02-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,157,8534076,481,False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-02-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,118,6479088,"405,1",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-02-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,142,2371068,"157,5",False,Laboral,Lunes,344.941,-7.652.065
+2024-02-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,144,9491794,"635,2",False,Laboral,Martes,344.941,-7.652.065
+2024-02-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,143,3802314,"230,3",False,Laboral,Miércoles,344.941,-7.652.065
+2024-02-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,169,4779177,"351,7",False,Laboral,Jueves,344.941,-7.652.065
+2024-02-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,186,1056536,"87,8",False,Laboral,Viernes,344.941,-7.652.065
+2024-02-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,177,3282005,"205,5",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-02-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,132,6410126,477,False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-02-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,153,6087215,"587,9",False,Laboral,Lunes,344.941,-7.652.065
+2024-02-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,195,422667,"48,8",False,Laboral,Martes,344.941,-7.652.065
+2024-02-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,181,424589,"56,2",False,Laboral,Miércoles,344.941,-7.652.065
+2024-02-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,158,3173314,"271,7",False,Laboral,Jueves,344.941,-7.652.065
+2024-02-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,180,761698,"72,2",False,Laboral,Viernes,344.941,-7.652.065
+2024-02-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,205,303207,"28,7",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-02-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,153,36958,"2,9",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-02-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,146,1815346,"123,9",False,Laboral,Lunes,344.941,-7.652.065
+2024-02-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,135,5264471,"431,1",False,Laboral,Martes,344.941,-7.652.065
+2024-02-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,129,5683935,"492,7",False,Laboral,Miércoles,344.941,-7.652.065
+2024-02-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,159,5104954,"333,5",False,Laboral,Jueves,344.941,-7.652.065
+2024-02-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,164,4081122,"286,9",False,Laboral,Viernes,344.941,-7.652.065
+2024-02-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,167,11855865,944,False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-02-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,148,17581395,1001,False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-02-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,168,9254210,"831,3",False,Laboral,Lunes,344.941,-7.652.065
+2024-02-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,159,89255,"7,7",False,Laboral,Martes,344.941,-7.652.065
+2024-02-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,168,24500,"1,4",False,Laboral,Miércoles,344.941,-7.652.065
+2024-02-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,173,14178,"1,8",False,Laboral,Jueves,344.941,-7.652.065
+2024-03-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,149,13911,"1,2",False,Laboral,Viernes,344.941,-7.652.065
+2024-03-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,145,2897221,"281,5",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-03-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,138,9180500,"658,6",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-03-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,160,8281757,"582,5",False,Laboral,Lunes,344.941,-7.652.065
+2024-03-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,149,12862089,"933,2",False,Laboral,Martes,344.941,-7.652.065
+2024-03-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,161,4361678,"360,4",False,Laboral,Miércoles,344.941,-7.652.065
+2024-03-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,149,4548107,"425,7",False,Laboral,Jueves,344.941,-7.652.065
+2024-03-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,179,9790633,"915,3",False,Laboral,Viernes,344.941,-7.652.065
+2024-03-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,229,7991532,"808,4",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-03-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,161,2220102,"232,6",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-03-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,210,217224,"23,1",False,Laboral,Lunes,344.941,-7.652.065
+2024-03-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,182,19394,"2,2",False,Laboral,Martes,344.941,-7.652.065
+2024-03-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,162,12591,"1,7",False,Laboral,Miércoles,344.941,-7.652.065
+2024-03-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,162,265707,"27,4",False,Laboral,Jueves,344.941,-7.652.065
+2024-03-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,151,2383323,"182,9",False,Laboral,Viernes,344.941,-7.652.065
+2024-03-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,173,4430547,"391,8",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-03-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,130,7398604,"571,4",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-03-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,192,5389458,"448,9",False,Laboral,Lunes,344.941,-7.652.065
+2024-03-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,149,4512712,"598,7",False,Laboral,Martes,344.941,-7.652.065
+2024-03-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,149,17987,"2,7",False,Laboral,Miércoles,344.941,-7.652.065
+2024-03-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,151,4067423,"465,8",False,Laboral,Jueves,344.941,-7.652.065
+2024-03-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,177,41215,"4,2",False,Laboral,Viernes,344.941,-7.652.065
+2024-03-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,186,38439,"4,9",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-03-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,141,318272,35,True,Festivo,Domingo,344.941,-7.652.065
+2024-03-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,122,12883677,1836,True,Festivo,Lunes,344.941,-7.652.065
+2024-03-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,145,2495473,"320,5",False,Laboral,Martes,344.941,-7.652.065
+2024-03-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,181,19857,"2,5",False,Laboral,Miércoles,344.941,-7.652.065
+2024-03-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,169,60230,"9,4",True,Festivo,Jueves,344.941,-7.652.065
+2024-03-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,159,84047,"8,5",True,Festivo,Viernes,344.941,-7.652.065
+2024-03-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,176,29791,"4,8",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-03-31,URBANA,005_ZW Parque Barrio Obrero,9,MR76,141,256761,"33,7",True,Festivo,Domingo,344.941,-7.652.065
+2024-04-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,145,5797843,"552,7",False,Laboral,Lunes,344.941,-7.652.065
+2024-04-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,96,4375235,"621,8",False,Laboral,Martes,344.941,-7.652.065
+2024-04-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,187,84807,"9,4",False,Laboral,Miércoles,344.941,-7.652.065
+2024-04-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,147,4123611,"358,7",False,Laboral,Jueves,344.941,-7.652.065
+2024-04-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,130,5594364,"497,9",False,Laboral,Viernes,344.941,-7.652.065
+2024-04-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,144,4431911,"368,2",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-04-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,113,6338402,"529,9",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-04-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,160,1152335,"162,8",False,Laboral,Lunes,344.941,-7.652.065
+2024-04-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,144,15445,2,False,Laboral,Martes,344.941,-7.652.065
+2024-04-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,174,30963,"7,3",False,Laboral,Miércoles,344.941,-7.652.065
+2024-04-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,164,59426,"13,5",False,Laboral,Jueves,344.941,-7.652.065
+2024-04-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,169,6799361,"1001,4",False,Laboral,Viernes,344.941,-7.652.065
+2024-04-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,185,504794,"59,3",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-04-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,145,28336,"4,1",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-04-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,184,2339273,"584,4",False,Laboral,Lunes,344.941,-7.652.065
+2024-04-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,151,9439120,"2222,4",False,Laboral,Martes,344.941,-7.652.065
+2024-04-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,157,7603060,"2038,5",False,Laboral,Miércoles,344.941,-7.652.065
+2024-04-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,139,36099,"12,4",False,Laboral,Jueves,344.941,-7.652.065
+2024-04-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,123,91537,"22,6",False,Laboral,Viernes,344.941,-7.652.065
+2024-04-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,210,1902697,"243,5",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-04-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,116,269156,"43,5",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-04-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,135,13908,3,False,Laboral,Lunes,344.941,-7.652.065
+2024-04-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,146,3494630,"190,4",False,Laboral,Martes,344.941,-7.652.065
+2024-04-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,131,4112469,"223,9",False,Laboral,Miércoles,344.941,-7.652.065
+2024-04-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,119,1318079,"111,1",False,Laboral,Jueves,344.941,-7.652.065
+2024-04-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,140,1740374,"173,7",False,Laboral,Viernes,344.941,-7.652.065
+2024-04-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,174,9241799,"757,5",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-04-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,101,469663,"63,6",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-04-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,143,2960844,"369,8",False,Laboral,Lunes,344.941,-7.652.065
+2024-04-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,164,784581,"124,5",False,Laboral,Martes,344.941,-7.652.065
+2024-05-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,223,21327,"4,1",True,Festivo,Miércoles,344.941,-7.652.065
+2024-05-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,128,15853,"3,1",False,Laboral,Jueves,344.941,-7.652.065
+2024-05-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,135,353713,"77,2",False,Laboral,Viernes,344.941,-7.652.065
+2024-05-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,160,3912421,"541,9",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-05-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,144,459687,"74,6",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-05-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,140,21680,"4,5",False,Laboral,Lunes,344.941,-7.652.065
+2024-05-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,143,710267,"117,1",False,Laboral,Martes,344.941,-7.652.065
+2024-05-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,119,986987,"124,6",False,Laboral,Miércoles,344.941,-7.652.065
+2024-05-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,126,6137207,"696,5",False,Laboral,Jueves,344.941,-7.652.065
+2024-05-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,159,8766643,"1111,1",False,Laboral,Viernes,344.941,-7.652.065
+2024-05-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,174,2081086,"279,3",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-05-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,122,4256519,"1031,9",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-05-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,119,1499591,268,True,Festivo,Lunes,344.941,-7.652.065
+2024-05-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,142,587637,271,False,Laboral,Martes,344.941,-7.652.065
+2024-05-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,120,3097848,"501,3",False,Laboral,Miércoles,344.941,-7.652.065
+2024-05-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,155,2667479,"326,8",False,Laboral,Jueves,344.941,-7.652.065
+2024-05-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,162,3329221,"320,2",False,Laboral,Viernes,344.941,-7.652.065
+2024-05-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,176,6083773,"554,2",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-05-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,119,533147,"45,6",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-05-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,134,1356348,"192,7",False,Laboral,Lunes,344.941,-7.652.065
+2024-05-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,149,8149259,"1049,2",False,Laboral,Martes,344.941,-7.652.065
+2024-05-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,132,312390,"121,3",False,Laboral,Miércoles,344.941,-7.652.065
+2024-05-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,136,20065,"3,8",False,Laboral,Jueves,344.941,-7.652.065
+2024-05-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,143,22823,"4,8",False,Laboral,Viernes,344.941,-7.652.065
+2024-05-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,154,27827,"3,9",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-05-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,93,239217,"34,6",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-05-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,135,8146907,"958,2",False,Laboral,Lunes,344.941,-7.652.065
+2024-05-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,172,1164930,"156,4",False,Laboral,Martes,344.941,-7.652.065
+2024-05-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,105,7284,"1,5",False,Laboral,Miércoles,344.941,-7.652.065
+2024-05-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,130,17437,"1,5",False,Laboral,Jueves,344.941,-7.652.065
+2024-05-31,URBANA,005_ZW Parque Barrio Obrero,9,MR76,122,906992,"97,6",False,Laboral,Viernes,344.941,-7.652.065
+2024-06-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,173,4787376,"478,2",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-06-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,123,17776676,"1813,6",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-06-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,103,6728220,"971,2",True,Festivo,Lunes,344.941,-7.652.065
+2024-06-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,146,4881490,"1073,7",False,Laboral,Martes,344.941,-7.652.065
+2024-06-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,94,12490,"4,4",False,Laboral,Miércoles,344.941,-7.652.065
+2024-06-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,139,2932241,"480,4",False,Laboral,Jueves,344.941,-7.652.065
+2024-06-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,159,2621543,"545,1",False,Laboral,Viernes,344.941,-7.652.065
+2024-06-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,181,25002,"7,9",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-06-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,136,46602,16,False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-06-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,115,4995056,"916,5",True,Festivo,Lunes,344.941,-7.652.065
+2024-06-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,194,2543685,"406,3",False,Laboral,Martes,344.941,-7.652.065
+2024-06-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,108,19585,"2,6",False,Laboral,Miércoles,344.941,-7.652.065
+2024-06-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,166,49301,959838100,False,Laboral,Jueves,344.941,-7.652.065
+2024-06-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,143,4776279,1435559500,False,Laboral,Viernes,344.941,-7.652.065
+2024-06-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,123,34152,612695700,False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-06-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,99,4761389,85380765100,False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-06-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,143,1172440,"187,6",False,Laboral,Lunes,344.941,-7.652.065
+2024-06-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,90,9203,"1,5",False,Laboral,Martes,344.941,-7.652.065
+2024-06-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,126,25154,"3,6",False,Laboral,Miércoles,344.941,-7.652.065
+2024-06-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,202,6820859,"1365,4",False,Laboral,Jueves,344.941,-7.652.065
+2024-06-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,241,6533599,"1122,5",False,Laboral,Viernes,344.941,-7.652.065
+2024-06-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,271,2850949,"539,4",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-06-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,174,21113,"8,3",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-06-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,176,13423,"2,6",False,Laboral,Lunes,344.941,-7.652.065
+2024-06-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,229,28968,"7,2",False,Laboral,Martes,344.941,-7.652.065
+2024-06-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,205,17878,"4,6",False,Laboral,Miércoles,344.941,-7.652.065
+2024-06-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,232,39085,"11,6",False,Laboral,Jueves,344.941,-7.652.065
+2024-06-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,253,14761,"2,5",False,Laboral,Viernes,344.941,-7.652.065
+2024-06-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,232,17870,3,False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-06-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,166,1914529,"411,2",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-07-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,161,3229306,"448,63",True,Festivo,Lunes,344.941,-7.652.065
+2024-07-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,202,2241634,"241,44",False,Laboral,Martes,344.941,-7.652.065
+2024-07-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,183,6954464,"827,14",False,Laboral,Miércoles,344.941,-7.652.065
+2024-07-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,220,707328,"89,14",False,Laboral,Jueves,344.941,-7.652.065
+2024-07-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,194,2661989,"312,44",False,Laboral,Viernes,344.941,-7.652.065
+2024-07-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,223,5039451,"598,66",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-07-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,167,40758,"4,62",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-07-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,209,23828,"4,29",False,Laboral,Lunes,344.941,-7.652.065
+2024-07-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,213,23029,"3,97",False,Laboral,Martes,344.941,-7.652.065
+2024-07-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,188,13477,"1,95",False,Laboral,Miércoles,344.941,-7.652.065
+2024-07-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,197,3392697,"459,79",False,Laboral,Jueves,344.941,-7.652.065
+2024-07-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,95,1212945,"191,27",False,Laboral,Viernes,344.941,-7.652.065
+2024-07-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,227,8878742,"1260,29",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-07-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,217,9124053,"1434,83",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-07-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,217,578715,"103,53",False,Laboral,Lunes,344.941,-7.652.065
+2024-07-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,254,32963,"5,25",False,Laboral,Martes,344.941,-7.652.065
+2024-07-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,245,23778,"5,25",False,Laboral,Miércoles,344.941,-7.652.065
+2024-07-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,174,17675,"2,97",False,Laboral,Jueves,344.941,-7.652.065
+2024-07-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,252,37276,"5,19",False,Laboral,Viernes,344.941,-7.652.065
+2024-07-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,222,38309,"4,92",True,Festivo,Sábado,344.941,-7.652.065
+2024-07-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,202,20040,"3,06",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-07-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,216,4619539,"664,67",False,Laboral,Lunes,344.941,-7.652.065
+2024-07-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,212,1229319,"177,47",False,Laboral,Martes,344.941,-7.652.065
+2024-07-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,191,24845,"3,93",False,Laboral,Miércoles,344.941,-7.652.065
+2024-07-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,268,2525697,"399,49",False,Laboral,Jueves,344.941,-7.652.065
+2024-07-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,198,4991087,"657,37",False,Laboral,Viernes,344.941,-7.652.065
+2024-07-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,228,3633162,"621,37",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-07-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,164,26564,"5,62",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-07-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,235,26215,"4,2",False,Laboral,Lunes,344.941,-7.652.065
+2024-07-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,208,17644,"2,58",False,Laboral,Martes,344.941,-7.652.065
+2024-07-31,URBANA,005_ZW Parque Barrio Obrero,9,MR76,230,18545,"3,08",False,Laboral,Miércoles,344.941,-7.652.065
+2024-08-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,247,28190,"4,21",False,Laboral,Jueves,344.941,-7.652.065
+2024-08-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,241,37217,"6,19",False,Laboral,Viernes,344.941,-7.652.065
+2024-08-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,237,20843,"4,25",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-08-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,191,1216131,"193,9",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-08-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,199,2076874,"300,1",False,Laboral,Lunes,344.941,-7.652.065
+2024-08-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,175,2127869,"204,86",False,Laboral,Martes,344.941,-7.652.065
+2024-08-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,166,3935540,"468,14",True,Festivo,Miércoles,344.941,-7.652.065
+2024-08-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,252,2788113,"349,8",False,Laboral,Jueves,344.941,-7.652.065
+2024-08-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,255,6781892,"1251,61",False,Laboral,Viernes,344.941,-7.652.065
+2024-08-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,258,66012,"12,49",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-08-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,154,27720,"4,81",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-08-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,230,20754,"4,45",False,Laboral,Lunes,344.941,-7.652.065
+2024-08-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,213,25428,"2,88",False,Laboral,Martes,344.941,-7.652.065
+2024-08-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,241,21545,"2,86",False,Laboral,Miércoles,344.941,-7.652.065
+2024-08-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,212,21006,"3,15",False,Laboral,Jueves,344.941,-7.652.065
+2024-08-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,241,1664768,"226,82",False,Laboral,Viernes,344.941,-7.652.065
+2024-08-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,250,1169259,"169,59",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-08-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,193,22871,"3,46",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-08-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,164,14073,"1,93",True,Festivo,Lunes,344.941,-7.652.065
+2024-08-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,226,17335,"4,29",False,Laboral,Martes,344.941,-7.652.065
+2024-08-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,218,21644,"6,3",False,Laboral,Miércoles,344.941,-7.652.065
+2024-08-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,46,1296,"0,34",False,Laboral,Jueves,344.941,-7.652.065
+2024-10-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,138,578827,"1248,87",False,Laboral,Jueves,344.941,-7.652.065
+2024-10-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,130,1420941,"317,42",False,Laboral,Viernes,344.941,-7.652.065
+2024-10-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,130,975332,"126,3",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-10-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,116,2756753,"276,93",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-10-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,128,3049682,"506,44",False,Laboral,Lunes,344.941,-7.652.065
+2024-10-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,119,4433102,"699,26",False,Laboral,Martes,344.941,-7.652.065
+2024-10-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,147,2239709,"457,16",False,Laboral,Miércoles,344.941,-7.652.065
+2024-10-31,URBANA,005_ZW Parque Barrio Obrero,9,MR76,160,3462479,"738,04",False,Laboral,Jueves,344.941,-7.652.065
+2024-11-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,128,4431322,"801,34",False,Laboral,Viernes,344.941,-7.652.065
+2024-11-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,116,2046867,"329,41",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-11-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,75,1690129,"287,31",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-11-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,8,15260,"2,3",True,Festivo,Lunes,344.941,-7.652.065
+2024-11-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,108,495851,"27,46",False,Laboral,Jueves,344.941,-7.652.065
+2024-11-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,195,3151473,"156,11",False,Laboral,Viernes,344.941,-7.652.065
+2024-11-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,192,3351050,"174,86",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-11-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,95,307818,"41,58",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-11-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,32,178029,"43,29",False,Laboral,Lunes,344.941,-7.652.065
+2024-11-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,60,1752542,"222,54",False,Laboral,Martes,344.941,-7.652.065
+2024-11-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,173,1483432,"76,38",False,Laboral,Miércoles,344.941,-7.652.065
+2024-11-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,201,3094319,"146,96",False,Laboral,Jueves,344.941,-7.652.065
+2024-11-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,247,8246062,"371,03",False,Laboral,Viernes,344.941,-7.652.065
+2024-11-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,270,5907183,"259,17",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-12-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,197,4941509,"204,48",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-12-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,232,5315086,"254,73",False,Laboral,Lunes,344.941,-7.652.065
+2024-12-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,222,4213816,"225,69",False,Laboral,Martes,344.941,-7.652.065
+2024-12-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,276,5061250,"219,14",False,Laboral,Miércoles,344.941,-7.652.065
+2024-12-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,237,3179996,"138,61",False,Laboral,Jueves,344.941,-7.652.065
+2024-12-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,217,5631013,"250,45",False,Laboral,Viernes,344.941,-7.652.065
+2024-12-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,341,8225614,"400,95",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-12-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,196,7248375,"272,95",True,Festivo,Domingo,344.941,-7.652.065
+2024-12-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,234,15824842,"586,74",False,Laboral,Lunes,344.941,-7.652.065
+2024-12-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,237,12035435,"397,42",False,Laboral,Martes,344.941,-7.652.065
+2024-12-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,217,12659321,"419,85",False,Laboral,Miércoles,344.941,-7.652.065
+2024-12-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,230,11926919,"347,57",False,Laboral,Jueves,344.941,-7.652.065
+2024-12-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,229,12250551,"361,1",False,Laboral,Viernes,344.941,-7.652.065
+2024-12-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,271,6008263,"197,8",False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-12-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,227,6217959,"209,88",False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-12-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,260,10999905,"330,77",False,Laboral,Lunes,344.941,-7.652.065
+2024-12-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,264,9294147,303,False,Laboral,Martes,344.941,-7.652.065
+2024-12-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,246,15457974,490,False,Laboral,Miércoles,344.941,-7.652.065
+2024-12-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,301,7062091,248,False,Laboral,Jueves,344.941,-7.652.065
+2024-12-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,307,16561743,546,False,Laboral,Viernes,344.941,-7.652.065
+2024-12-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,245,3238588,124,False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-12-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,243,12042551,376,False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-12-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,261,8659151,345,False,Laboral,Lunes,344.941,-7.652.065
+2024-12-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,167,11247632,471,False,Laboral,Martes,344.941,-7.652.065
+2024-12-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,127,5205434,184,True,Festivo,Miércoles,344.941,-7.652.065
+2024-12-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,132,11691037,427,False,Laboral,Jueves,344.941,-7.652.065
+2024-12-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,142,11121897,341,False,Laboral,Viernes,344.941,-7.652.065
+2024-12-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,148,11618128,494,False,Fin de Semana,Sábado,344.941,-7.652.065
+2024-12-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,199,12294699,380,False,Fin de Semana,Domingo,344.941,-7.652.065
+2024-12-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,130,19813563,810,False,Laboral,Lunes,344.941,-7.652.065
+2024-12-31,RURAL,005_ZW Parque Barrio Obrero,9,MR76,186,8506144,458,False,Laboral,Martes,344.941,-7.652.065
+2025-01-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,110,5715521,389,True,Festivo,Miércoles,344.941,-7.652.065
+2025-01-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,117,7977645,287,False,Laboral,Jueves,344.941,-7.652.065
+2025-01-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,156,13213431,494,False,Laboral,Viernes,344.941,-7.652.065
+2025-01-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,163,9718507,361,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-01-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,170,15529103,474,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-01-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,156,14300815,382,True,Festivo,Lunes,344.941,-7.652.065
+2025-01-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,166,22674407,684,False,Laboral,Martes,344.941,-7.652.065
+2025-01-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,128,10881582,315,False,Laboral,Miércoles,344.941,-7.652.065
+2025-01-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,166,17174122,493,False,Laboral,Jueves,344.941,-7.652.065
+2025-01-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,188,13562034,375,False,Laboral,Viernes,344.941,-7.652.065
+2025-01-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,203,16061708,471,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-01-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,188,14813307,396,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-01-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,141,7594688,253,False,Laboral,Lunes,344.941,-7.652.065
+2025-01-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,158,15447424,509,False,Laboral,Martes,344.941,-7.652.065
+2025-01-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,191,12013772,416,False,Laboral,Miércoles,344.941,-7.652.065
+2025-01-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,202,21450739,682,False,Laboral,Jueves,344.941,-7.652.065
+2025-01-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,209,11652396,382,False,Laboral,Viernes,344.941,-7.652.065
+2025-01-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,219,15143306,500,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-01-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,144,13421952,414,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-01-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,140,8653900,268,False,Laboral,Lunes,344.941,-7.652.065
+2025-01-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,173,17585486,488,False,Laboral,Martes,344.941,-7.652.065
+2025-01-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,193,12326538,367,False,Laboral,Miércoles,344.941,-7.652.065
+2025-01-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,195,12437003,310,False,Laboral,Jueves,344.941,-7.652.065
+2025-01-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,216,16191753,486,False,Laboral,Viernes,344.941,-7.652.065
+2025-01-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,234,20678673,557,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-01-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,147,11750039,299,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-01-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,218,17501960,462,False,Laboral,Lunes,344.941,-7.652.065
+2025-01-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,219,19011562,577,False,Laboral,Martes,344.941,-7.652.065
+2025-01-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,243,21897751,604,False,Laboral,Miércoles,344.941,-7.652.065
+2025-01-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,214,11177687,412,False,Laboral,Jueves,344.941,-7.652.065
+2025-01-31,URBANA,005_ZW Parque Barrio Obrero,9,MR76,141,4618169,251,False,Laboral,Viernes,344.941,-7.652.065
+2025-02-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,105,2469937,87,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-02-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,215,27701088,819,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-02-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,191,25963974,1005,False,Laboral,Lunes,344.941,-7.652.065
+2025-02-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,210,20097720,713,False,Laboral,Martes,344.941,-7.652.065
+2025-02-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,194,19432912,801,False,Laboral,Miércoles,344.941,-7.652.065
+2025-02-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,194,12670581,468,False,Laboral,Jueves,344.941,-7.652.065
+2025-02-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,116,5177370,177,False,Laboral,Viernes,344.941,-7.652.065
+2025-02-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,170,10632029,397,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-02-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,159,15296540,482,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-02-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,191,12625855,480,False,Laboral,Lunes,344.941,-7.652.065
+2025-02-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,202,16763585,565,False,Laboral,Martes,344.941,-7.652.065
+2025-02-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,161,9901204,300,False,Laboral,Miércoles,344.941,-7.652.065
+2025-02-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,166,14780180,695,False,Laboral,Jueves,344.941,-7.652.065
+2025-02-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,225,13772909,412,False,Laboral,Viernes,344.941,-7.652.065
+2025-02-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,199,17296610,625,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-02-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,167,13918415,459,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-02-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,138,10240917,364,False,Laboral,Lunes,344.941,-7.652.065
+2025-02-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,186,10180323,362,False,Laboral,Martes,344.941,-7.652.065
+2025-02-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,217,17399346,554,False,Laboral,Miércoles,344.941,-7.652.065
+2025-02-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,206,18817397,534,False,Laboral,Jueves,344.941,-7.652.065
+2025-02-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,220,13466262,462,False,Laboral,Viernes,344.941,-7.652.065
+2025-02-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,233,12210381,430,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-02-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,130,9948473,290,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-02-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,190,15870524,653,False,Laboral,Lunes,344.941,-7.652.065
+2025-02-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,214,23135293,743,False,Laboral,Martes,344.941,-7.652.065
+2025-02-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,208,10475107,378,False,Laboral,Miércoles,344.941,-7.652.065
+2025-02-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,209,15416057,538,False,Laboral,Jueves,344.941,-7.652.065
+2025-02-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,149,8611884,306,False,Laboral,Viernes,344.941,-7.652.065
+2025-03-01,URBANA,005_ZW Parque Barrio Obrero,9,MR76,176,5843366,220,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-03-02,URBANA,005_ZW Parque Barrio Obrero,9,MR76,183,22118837,652,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-03-03,URBANA,005_ZW Parque Barrio Obrero,9,MR76,205,20791689,779,False,Laboral,Lunes,344.941,-7.652.065
+2025-03-04,URBANA,005_ZW Parque Barrio Obrero,9,MR76,172,14802667,670,False,Laboral,Martes,344.941,-7.652.065
+2025-03-05,URBANA,005_ZW Parque Barrio Obrero,9,MR76,197,18255625,646,False,Laboral,Miércoles,344.941,-7.652.065
+2025-03-06,URBANA,005_ZW Parque Barrio Obrero,9,MR76,180,13926550,447,False,Laboral,Jueves,344.941,-7.652.065
+2025-03-07,URBANA,005_ZW Parque Barrio Obrero,9,MR76,138,7557947,272,False,Laboral,Viernes,344.941,-7.652.065
+2025-03-08,URBANA,005_ZW Parque Barrio Obrero,9,MR76,205,16170253,469,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-03-09,URBANA,005_ZW Parque Barrio Obrero,9,MR76,185,15590962,486,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-03-10,URBANA,005_ZW Parque Barrio Obrero,9,MR76,209,16954676,490,False,Laboral,Lunes,344.941,-7.652.065
+2025-03-11,URBANA,005_ZW Parque Barrio Obrero,9,MR76,164,8363469,376,False,Laboral,Martes,344.941,-7.652.065
+2025-03-12,URBANA,005_ZW Parque Barrio Obrero,9,MR76,199,10494856,355,False,Laboral,Miércoles,344.941,-7.652.065
+2025-03-13,URBANA,005_ZW Parque Barrio Obrero,9,MR76,113,2428069,100,False,Laboral,Jueves,344.941,-7.652.065
+2025-03-14,URBANA,005_ZW Parque Barrio Obrero,9,MR76,202,9970728,337,False,Laboral,Viernes,344.941,-7.652.065
+2025-03-15,URBANA,005_ZW Parque Barrio Obrero,9,MR76,237,16942709,545,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-03-16,URBANA,005_ZW Parque Barrio Obrero,9,MR76,182,11522165,372,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-03-17,URBANA,005_ZW Parque Barrio Obrero,9,MR76,170,8947016,307,False,Laboral,Lunes,344.941,-7.652.065
+2025-03-18,URBANA,005_ZW Parque Barrio Obrero,9,MR76,188,21430576,649,False,Laboral,Martes,344.941,-7.652.065
+2025-03-19,URBANA,005_ZW Parque Barrio Obrero,9,MR76,148,3337129,120,False,Laboral,Miércoles,344.941,-7.652.065
+2025-03-20,URBANA,005_ZW Parque Barrio Obrero,9,MR76,201,21862853,704,False,Laboral,Jueves,344.941,-7.652.065
+2025-03-21,URBANA,005_ZW Parque Barrio Obrero,9,MR76,198,18904420,513,False,Laboral,Viernes,344.941,-7.652.065
+2025-03-22,URBANA,005_ZW Parque Barrio Obrero,9,MR76,216,15743387,518,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-03-23,URBANA,005_ZW Parque Barrio Obrero,9,MR76,186,19055572,591,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-03-24,URBANA,005_ZW Parque Barrio Obrero,9,MR76,108,2904173,72,True,Festivo,Lunes,344.941,-7.652.065
+2025-03-25,URBANA,005_ZW Parque Barrio Obrero,9,MR76,210,16176610,470,False,Laboral,Martes,344.941,-7.652.065
+2025-03-26,URBANA,005_ZW Parque Barrio Obrero,9,MR76,192,16828303,543,False,Laboral,Miércoles,344.941,-7.652.065
+2025-03-27,URBANA,005_ZW Parque Barrio Obrero,9,MR76,228,29213259,808,False,Laboral,Jueves,344.941,-7.652.065
+2025-03-28,URBANA,005_ZW Parque Barrio Obrero,9,MR76,168,10716532,444,False,Laboral,Viernes,344.941,-7.652.065
+2025-03-29,URBANA,005_ZW Parque Barrio Obrero,9,MR76,216,27417157,858,False,Fin de Semana,Sábado,344.941,-7.652.065
+2025-03-30,URBANA,005_ZW Parque Barrio Obrero,9,MR76,172,27991566,801,False,Fin de Semana,Domingo,344.941,-7.652.065
+2025-03-31,URBANA,005_ZW Parque Barrio Obrero,9,MR76,209,12026252,400,False,Laboral,Lunes,344.941,-7.652.065
