@@ -1,7 +1,7 @@
 # eliminar_ordenar_columnas_ajusta_columnas.py
 # 24-09-2025
-# 11-10-2025 - se reviso este script y si esta operando normalmente al ejecutar este script se actualiza los csv-zonas-wifi-agrupados-sumados/ 
-# con las columnas eliminadas y ordenadas correctamente y lee la carpeta csv-zonas-wifi-agrupados-sumados/. 
+# 11-10-2025 - se reviso este script y si esta operando normalmente al ejecutar este script se actualiza los csv-zonas-wifi-1AP-todas-las-columnas/ 
+# con las columnas eliminadas y ordenadas correctamente y lee la carpeta csv-zonas-wifi-1AP-todas-las-columnas/. 
 import os
 import pandas as pd
 import glob
@@ -90,7 +90,7 @@ def procesar_csv_en_carpeta(carpeta):
 
 if __name__ == "__main__":
     # Carpeta relativa al script
-    carpeta = os.path.join(os.path.dirname(__file__), "csv-zonas-wifi-agrupados-sumados")
+    carpeta = os.path.join(os.path.dirname(__file__), "csv-zonas-wifi-1AP-todas-las-columnas")
     
     if os.path.exists(carpeta):
         procesar_csv_en_carpeta(carpeta)

@@ -4,3 +4,10 @@ python -m venv .venv
 .\.venv\Scripts\activate
 pip install pandas
 pip install scikit-learn
+pip install holidays
+pip install skforecast
+pip install matplotlib
+
+pip install seaborn
+pip install skforecast[sarimax]
+pip install shap

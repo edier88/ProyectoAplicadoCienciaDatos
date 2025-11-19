@@ -1,0 +1,640 @@
+FECHA_CONEXION,NOMBRE_ZONA,DIA_SEMANA,LABORAL,FIN_DE_SEMANA,FESTIVO,PORCENTAJE_USO,NUMERO_CONEXIONES,USAGE_KB
+2024-01-01,055_ZW Polideportivo Petecuy,0,0,0,1,0.0,1.0,2.0
+2024-01-02,055_ZW Polideportivo Petecuy,1,1,0,0,0.0,1.0,2.0
+2024-01-03,055_ZW Polideportivo Petecuy,2,1,0,0,12.7,5.0,153601.0
+2024-01-04,055_ZW Polideportivo Petecuy,3,1,0,0,49.7,5.0,524867.0
+2024-01-05,055_ZW Polideportivo Petecuy,4,1,0,0,0.6,9.0,6368.0
+2024-01-06,055_ZW Polideportivo Petecuy,5,0,1,0,10.6,7.0,81513.0
+2024-01-07,055_ZW Polideportivo Petecuy,6,0,1,0,89.8,9.0,901716.0
+2024-01-08,055_ZW Polideportivo Petecuy,0,0,0,1,134.4,7.0,2119620.0
+2024-01-09,055_ZW Polideportivo Petecuy,1,1,0,0,13.5,7.0,174360.0
+2024-01-10,055_ZW Polideportivo Petecuy,2,1,0,0,85.7,17.0,1034399.0
+2024-01-11,055_ZW Polideportivo Petecuy,3,1,0,0,23.7,9.0,255389.0
+2024-01-12,055_ZW Polideportivo Petecuy,4,1,0,0,112.0,17.0,1300761.0
+2024-01-13,055_ZW Polideportivo Petecuy,5,0,1,0,201.0,13.0,1809205.0
+2024-01-14,055_ZW Polideportivo Petecuy,6,0,1,0,460.2,10.0,3641697.0
+2024-01-15,055_ZW Polideportivo Petecuy,0,1,0,0,234.2,24.0,1620146.0
+2024-01-16,055_ZW Polideportivo Petecuy,1,1,0,0,26.7,17.0,228399.0
+2024-01-17,055_ZW Polideportivo Petecuy,2,1,0,0,184.9,23.0,1849065.0
+2024-01-18,055_ZW Polideportivo Petecuy,3,1,0,0,183.1,21.0,2196344.0
+2024-01-19,055_ZW Polideportivo Petecuy,4,1,0,0,295.3,27.0,4532702.0
+2024-01-20,055_ZW Polideportivo Petecuy,5,0,1,0,255.3,19.0,3305417.0
+2024-01-21,055_ZW Polideportivo Petecuy,6,0,1,0,250.3,18.0,3240522.0
+2024-01-22,055_ZW Polideportivo Petecuy,0,1,0,0,17.9,16.0,188115.0
+2024-01-23,055_ZW Polideportivo Petecuy,1,1,0,0,0.6,18.0,6787.0
+2024-01-24,055_ZW Polideportivo Petecuy,2,1,0,0,0.3,16.0,3493.0
+2024-01-25,055_ZW Polideportivo Petecuy,3,1,0,0,6.0,26.0,89470.0
+2024-01-26,055_ZW Polideportivo Petecuy,4,1,0,0,0.2,17.0,3318.0
+2024-01-27,055_ZW Polideportivo Petecuy,5,0,1,0,0.1,16.0,1514.0
+2024-01-28,055_ZW Polideportivo Petecuy,6,0,1,0,1.6,13.0,16898.0
+2024-01-29,055_ZW Polideportivo Petecuy,0,1,0,0,33.6,20.0,391150.0
+2024-01-30,055_ZW Polideportivo Petecuy,1,1,0,0,0.4,30.0,3282.0
+2024-01-31,055_ZW Polideportivo Petecuy,2,1,0,0,0.9,26.0,9760.0
+2024-02-01,055_ZW Polideportivo Petecuy,3,1,0,0,0.2,20.0,2569.0
+2024-02-02,055_ZW Polideportivo Petecuy,4,1,0,0,0.3,14.0,2884.0
+2024-02-03,055_ZW Polideportivo Petecuy,5,0,1,0,0.0,12.0,839.0
+2024-02-04,055_ZW Polideportivo Petecuy,6,0,1,0,0.1,10.0,921.0
+2024-02-05,055_ZW Polideportivo Petecuy,0,1,0,0,0.2,13.0,2569.0
+2024-02-06,055_ZW Polideportivo Petecuy,1,1,0,0,0.3,21.0,4414.0
+2024-02-07,055_ZW Polideportivo Petecuy,2,1,0,0,0.2,19.0,3411.0
+2024-02-08,055_ZW Polideportivo Petecuy,3,1,0,0,0.2,18.0,2431.0
+2024-02-09,055_ZW Polideportivo Petecuy,4,1,0,0,0.3,22.0,3176.0
+2024-02-10,055_ZW Polideportivo Petecuy,5,0,1,0,0.2,19.0,2426.0
+2024-02-11,055_ZW Polideportivo Petecuy,6,0,1,0,0.1,22.0,1859.0
+2024-02-12,055_ZW Polideportivo Petecuy,0,1,0,0,0.2,20.0,2466.0
+2024-02-13,055_ZW Polideportivo Petecuy,1,1,0,0,0.1,19.0,1261.0
+2024-02-14,055_ZW Polideportivo Petecuy,2,1,0,0,0.2,17.0,1348.0
+2024-02-15,055_ZW Polideportivo Petecuy,3,1,0,0,0.2,17.0,2001.0
+2024-02-16,055_ZW Polideportivo Petecuy,4,1,0,0,0.1,20.0,1395.0
+2024-02-17,055_ZW Polideportivo Petecuy,5,0,1,0,1.1,22.0,11340.0
+2024-02-18,055_ZW Polideportivo Petecuy,6,0,1,0,0.2,20.0,2903.0
+2024-02-19,055_ZW Polideportivo Petecuy,0,1,0,0,1.4,26.0,21155.0
+2024-02-20,055_ZW Polideportivo Petecuy,1,1,0,0,6.1,26.0,74930.0
+2024-02-21,055_ZW Polideportivo Petecuy,2,1,0,0,0.3,21.0,3185.0
+2024-02-22,055_ZW Polideportivo Petecuy,3,1,0,0,0.1,24.0,2146.0
+2024-02-23,055_ZW Polideportivo Petecuy,4,1,0,0,0.6,25.0,8024.0
+2024-02-24,055_ZW Polideportivo Petecuy,5,0,1,0,0.2,21.0,2446.0
+2024-02-25,055_ZW Polideportivo Petecuy,6,0,1,0,0.5,14.0,8273.0
+2024-02-26,055_ZW Polideportivo Petecuy,0,1,0,0,0.0,13.0,137.0
+2024-02-27,055_ZW Polideportivo Petecuy,1,1,0,0,0.5,30.0,5461.0
+2024-02-28,055_ZW Polideportivo Petecuy,2,1,0,0,0.1,17.0,2233.0
+2024-02-29,055_ZW Polideportivo Petecuy,3,1,0,0,0.3,25.0,2095.0
+2024-03-01,055_ZW Polideportivo Petecuy,4,1,0,0,0.1,18.0,1331.0
+2024-03-02,055_ZW Polideportivo Petecuy,5,0,1,0,0.3,19.0,2860.0
+2024-03-03,055_ZW Polideportivo Petecuy,6,0,1,0,0.2,21.0,3196.0
+2024-03-04,055_ZW Polideportivo Petecuy,0,1,0,0,0.1,19.0,1100.0
+2024-03-05,055_ZW Polideportivo Petecuy,1,1,0,0,0.0,12.0,493.0
+2024-03-06,055_ZW Polideportivo Petecuy,2,1,0,0,0.6,16.0,7015.0
+2024-03-07,055_ZW Polideportivo Petecuy,3,1,0,0,0.6,31.0,6588.0
+2024-03-08,055_ZW Polideportivo Petecuy,4,1,0,0,0.4,35.0,4185.0
+2024-03-09,055_ZW Polideportivo Petecuy,5,0,1,0,2.2,27.0,21275.0
+2024-03-10,055_ZW Polideportivo Petecuy,6,0,1,0,0.3,14.0,2562.0
+2024-03-11,055_ZW Polideportivo Petecuy,0,1,0,0,0.2,24.0,1440.0
+2024-03-12,055_ZW Polideportivo Petecuy,1,1,0,0,22.2,19.0,195657.0
+2024-03-13,055_ZW Polideportivo Petecuy,2,1,0,0,0.7,22.0,4846.0
+2024-03-14,055_ZW Polideportivo Petecuy,3,1,0,0,0.1,19.0,1351.0
+2024-03-15,055_ZW Polideportivo Petecuy,4,1,0,0,0.5,20.0,6329.0
+2024-03-16,055_ZW Polideportivo Petecuy,5,0,1,0,0.3,25.0,3793.0
+2024-03-17,055_ZW Polideportivo Petecuy,6,0,1,0,21.7,19.0,280913.0
+2024-03-18,055_ZW Polideportivo Petecuy,0,1,0,0,1.3,14.0,15041.0
+2024-03-19,055_ZW Polideportivo Petecuy,1,1,0,0,57.2,20.0,431279.0
+2024-03-20,055_ZW Polideportivo Petecuy,2,1,0,0,0.5,18.0,3427.0
+2024-03-21,055_ZW Polideportivo Petecuy,3,1,0,0,21.9,24.0,191558.0
+2024-03-22,055_ZW Polideportivo Petecuy,4,1,0,0,17.3,21.0,168728.0
+2024-03-23,055_ZW Polideportivo Petecuy,5,0,1,0,57.0,15.0,444521.0
+2024-03-24,055_ZW Polideportivo Petecuy,6,0,1,0,0.3,36.0,2772.0
+2024-03-25,055_ZW Polideportivo Petecuy,0,0,0,1,0.1,13.0,570.0
+2024-03-26,055_ZW Polideportivo Petecuy,1,1,0,0,1.3,24.0,10201.0
+2024-03-27,055_ZW Polideportivo Petecuy,2,1,0,0,2.5,28.0,20176.0
+2024-03-28,055_ZW Polideportivo Petecuy,3,0,0,1,1.2,22.0,7920.0
+2024-03-29,055_ZW Polideportivo Petecuy,4,0,0,1,41.3,11.0,409744.0
+2024-03-30,055_ZW Polideportivo Petecuy,5,0,1,0,18.1,24.0,112626.0
+2024-03-31,055_ZW Polideportivo Petecuy,6,0,1,0,28.7,18.0,218838.0
+2024-04-01,055_ZW Polideportivo Petecuy,0,1,0,0,15.3,33.0,160399.0
+2024-04-02,055_ZW Polideportivo Petecuy,1,1,0,0,5.3,16.0,37144.0
+2024-04-03,055_ZW Polideportivo Petecuy,2,1,0,0,195.7,33.0,1763461.0
+2024-04-04,055_ZW Polideportivo Petecuy,3,1,0,0,52.7,29.0,605362.0
+2024-04-05,055_ZW Polideportivo Petecuy,4,1,0,0,38.0,32.0,427560.0
+2024-04-06,055_ZW Polideportivo Petecuy,5,0,1,0,1.7,27.0,20667.0
+2024-04-07,055_ZW Polideportivo Petecuy,6,0,1,0,50.3,17.0,602222.0
+2024-04-08,055_ZW Polideportivo Petecuy,0,1,0,0,77.1,25.0,545654.0
+2024-04-09,055_ZW Polideportivo Petecuy,1,1,0,0,50.9,20.0,389672.0
+2024-04-10,055_ZW Polideportivo Petecuy,2,1,0,0,176.8,24.0,751332.0
+2024-04-11,055_ZW Polideportivo Petecuy,3,1,0,0,21.0,23.0,92940.0
+2024-04-12,055_ZW Polideportivo Petecuy,4,1,0,0,32.3,25.0,219442.0
+2024-04-13,055_ZW Polideportivo Petecuy,5,0,1,0,201.1,20.0,1710711.0
+2024-04-14,055_ZW Polideportivo Petecuy,6,0,1,0,44.5,27.0,306983.0
+2024-04-15,055_ZW Polideportivo Petecuy,0,1,0,0,1.0,31.0,4016.0
+2024-04-16,055_ZW Polideportivo Petecuy,1,1,0,0,0.8,25.0,3457.0
+2024-04-17,055_ZW Polideportivo Petecuy,2,1,0,0,0.8,31.0,2840.0
+2024-04-18,055_ZW Polideportivo Petecuy,3,1,0,0,1.1,26.0,3305.0
+2024-04-19,055_ZW Polideportivo Petecuy,4,1,0,0,1.4,37.0,5699.0
+2024-04-20,055_ZW Polideportivo Petecuy,5,0,1,0,18.3,32.0,142851.0
+2024-04-21,055_ZW Polideportivo Petecuy,6,0,1,0,14.9,33.0,92103.0
+2024-04-22,055_ZW Polideportivo Petecuy,0,1,0,0,0.4,18.0,1992.0
+2024-04-23,055_ZW Polideportivo Petecuy,1,1,0,0,7.4,26.0,135491.0
+2024-04-24,055_ZW Polideportivo Petecuy,2,1,0,0,146.9,28.0,2697886.0
+2024-04-25,055_ZW Polideportivo Petecuy,3,1,0,0,30.5,29.0,362003.0
+2024-04-26,055_ZW Polideportivo Petecuy,4,1,0,0,6.1,22.0,60919.0
+2024-04-27,055_ZW Polideportivo Petecuy,5,0,1,0,23.5,40.0,287005.0
+2024-04-28,055_ZW Polideportivo Petecuy,6,0,1,0,0.9,24.0,6424.0
+2024-04-29,055_ZW Polideportivo Petecuy,0,1,0,0,0.6,30.0,4967.0
+2024-04-30,055_ZW Polideportivo Petecuy,1,1,0,0,0.6,24.0,3942.0
+2024-05-01,055_ZW Polideportivo Petecuy,2,0,0,1,1.1,21.0,5864.0
+2024-05-02,055_ZW Polideportivo Petecuy,3,1,0,0,0.5,25.0,2525.0
+2024-05-03,055_ZW Polideportivo Petecuy,4,1,0,0,1.5,15.0,7028.0
+2024-05-04,055_ZW Polideportivo Petecuy,5,0,1,0,0.9,36.0,6584.0
+2024-05-05,055_ZW Polideportivo Petecuy,6,0,1,0,0.4,23.0,2573.0
+2024-05-06,055_ZW Polideportivo Petecuy,0,1,0,0,0.7,30.0,3337.0
+2024-05-07,055_ZW Polideportivo Petecuy,1,1,0,0,4.7,21.0,28474.0
+2024-05-08,055_ZW Polideportivo Petecuy,2,1,0,0,10.9,29.0,86601.0
+2024-05-09,055_ZW Polideportivo Petecuy,3,1,0,0,17.7,24.0,156339.0
+2024-05-10,055_ZW Polideportivo Petecuy,4,1,0,0,0.8,24.0,6079.0
+2024-05-11,055_ZW Polideportivo Petecuy,5,0,1,0,5.8,33.0,42848.0
+2024-05-12,055_ZW Polideportivo Petecuy,6,0,1,0,0.6,14.0,2481.0
+2024-05-13,055_ZW Polideportivo Petecuy,0,0,0,1,0.9,15.0,4787.0
+2024-05-14,055_ZW Polideportivo Petecuy,1,1,0,0,9.4,23.0,20274.0
+2024-05-15,055_ZW Polideportivo Petecuy,2,1,0,0,0.5,24.0,3107.0
+2024-05-16,055_ZW Polideportivo Petecuy,3,1,0,0,0.3,25.0,2469.0
+2024-05-17,055_ZW Polideportivo Petecuy,4,1,0,0,0.6,36.0,5998.0
+2024-05-18,055_ZW Polideportivo Petecuy,5,0,1,0,0.8,42.0,8625.0
+2024-05-19,055_ZW Polideportivo Petecuy,6,0,1,0,4.4,27.0,51001.0
+2024-05-20,055_ZW Polideportivo Petecuy,0,1,0,0,1.3,27.0,8959.0
+2024-05-21,055_ZW Polideportivo Petecuy,1,1,0,0,0.2,22.0,1526.0
+2024-05-22,055_ZW Polideportivo Petecuy,2,1,0,0,2.0,23.0,5221.0
+2024-05-23,055_ZW Polideportivo Petecuy,3,1,0,0,0.8,27.0,4020.0
+2024-05-24,055_ZW Polideportivo Petecuy,4,1,0,0,0.3,22.0,1329.0
+2024-05-25,055_ZW Polideportivo Petecuy,5,0,1,0,0.6,30.0,3981.0
+2024-05-26,055_ZW Polideportivo Petecuy,6,0,1,0,1.6,28.0,11344.0
+2024-05-27,055_ZW Polideportivo Petecuy,0,1,0,0,0.7,27.0,6364.0
+2024-05-28,055_ZW Polideportivo Petecuy,1,1,0,0,1.1,30.0,7886.0
+2024-05-29,055_ZW Polideportivo Petecuy,2,1,0,0,3.4,33.0,17090.0
+2024-05-30,055_ZW Polideportivo Petecuy,3,1,0,0,0.2,26.0,1925.0
+2024-05-31,055_ZW Polideportivo Petecuy,4,1,0,0,0.9,35.0,8668.0
+2024-06-01,055_ZW Polideportivo Petecuy,5,0,1,0,182.4,37.0,1825567.0
+2024-06-02,055_ZW Polideportivo Petecuy,6,0,1,0,186.7,33.0,1830308.0
+2024-06-03,055_ZW Polideportivo Petecuy,0,0,0,1,80.0,27.0,554382.0
+2024-06-04,055_ZW Polideportivo Petecuy,1,1,0,0,146.1,30.0,664228.0
+2024-06-05,055_ZW Polideportivo Petecuy,2,1,0,0,3.0,33.0,8469.0
+2024-06-06,055_ZW Polideportivo Petecuy,3,1,0,0,1.0,34.0,5934.0
+2024-06-07,055_ZW Polideportivo Petecuy,4,1,0,0,11.0,40.0,53089.0
+2024-06-08,055_ZW Polideportivo Petecuy,5,0,1,0,3.6,35.0,11432.0
+2024-06-09,055_ZW Polideportivo Petecuy,6,0,1,0,2.6,35.0,7660.0
+2024-06-10,055_ZW Polideportivo Petecuy,0,0,0,1,1.2,25.0,6575.0
+2024-06-11,055_ZW Polideportivo Petecuy,1,1,0,0,1.0,38.0,6103.0
+2024-06-12,055_ZW Polideportivo Petecuy,2,1,0,0,2.6,52.0,18943.0
+2024-06-13,055_ZW Polideportivo Petecuy,3,1,0,0,6431953.0,38.0,33037.0
+2024-06-14,055_ZW Polideportivo Petecuy,4,1,0,0,2686407.0,42.0,8938.0
+2024-06-15,055_ZW Polideportivo Petecuy,5,0,1,0,243539.0,39.0,13575.0
+2024-06-16,055_ZW Polideportivo Petecuy,6,0,1,0,3152429.0,28.0,17580.0
+2024-06-17,055_ZW Polideportivo Petecuy,0,1,0,0,2.1,28.0,12859.0
+2024-06-18,055_ZW Polideportivo Petecuy,1,1,0,0,3.6,31.0,22578.0
+2024-06-19,055_ZW Polideportivo Petecuy,2,1,0,0,0.6,25.0,4525.0
+2024-06-20,055_ZW Polideportivo Petecuy,3,1,0,0,1.1,32.0,5533.0
+2024-06-21,055_ZW Polideportivo Petecuy,4,1,0,0,3.3,50.0,19086.0
+2024-06-22,055_ZW Polideportivo Petecuy,5,0,1,0,2.8,46.0,14804.0
+2024-06-23,055_ZW Polideportivo Petecuy,6,0,1,0,3.0,48.0,7764.0
+2024-06-24,055_ZW Polideportivo Petecuy,0,1,0,0,1.1,34.0,5667.0
+2024-06-25,055_ZW Polideportivo Petecuy,1,1,0,0,1.2,36.0,4905.0
+2024-06-26,055_ZW Polideportivo Petecuy,2,1,0,0,0.2,22.0,834.0
+2024-06-27,055_ZW Polideportivo Petecuy,3,1,0,0,1.2,35.0,3973.0
+2024-06-28,055_ZW Polideportivo Petecuy,4,1,0,0,0.3,25.0,1926.0
+2024-06-29,055_ZW Polideportivo Petecuy,5,0,1,0,0.5,29.0,3138.0
+2024-06-30,055_ZW Polideportivo Petecuy,6,0,1,0,4.0,46.0,18415.0
+2024-07-01,055_ZW Polideportivo Petecuy,0,0,0,1,0.44,22.0,3162.0
+2024-07-02,055_ZW Polideportivo Petecuy,1,1,0,0,0.7,32.0,6529.0
+2024-07-03,055_ZW Polideportivo Petecuy,2,1,0,0,0.36,43.0,3024.0
+2024-07-04,055_ZW Polideportivo Petecuy,3,1,0,0,0.59,26.0,4716.0
+2024-07-05,055_ZW Polideportivo Petecuy,4,1,0,0,2.08,41.0,17754.0
+2024-07-06,055_ZW Polideportivo Petecuy,5,0,1,0,1.17,51.0,9854.0
+2024-07-07,055_ZW Polideportivo Petecuy,6,0,1,0,0.41,32.0,3652.0
+2024-07-08,055_ZW Polideportivo Petecuy,0,1,0,0,0.76,43.0,4243.0
+2024-07-09,055_ZW Polideportivo Petecuy,1,1,0,0,22.83,44.0,132578.0
+2024-07-10,055_ZW Polideportivo Petecuy,2,1,0,0,36.84,50.0,254380.0
+2024-07-11,055_ZW Polideportivo Petecuy,3,1,0,0,3.11,36.0,22951.0
+2024-07-12,055_ZW Polideportivo Petecuy,4,1,0,0,422.76,32.0,2680969.0
+2024-07-13,055_ZW Polideportivo Petecuy,5,0,1,0,5.54,39.0,39043.0
+2024-07-14,055_ZW Polideportivo Petecuy,6,0,1,0,0.44,34.0,2794.0
+2024-07-15,055_ZW Polideportivo Petecuy,0,1,0,0,0.62,26.0,3463.0
+2024-07-16,055_ZW Polideportivo Petecuy,1,1,0,0,2.12,34.0,13297.0
+2024-07-17,055_ZW Polideportivo Petecuy,2,1,0,0,1.05,36.0,4729.0
+2024-07-18,055_ZW Polideportivo Petecuy,3,1,0,0,0.39,25.0,2296.0
+2024-07-19,055_ZW Polideportivo Petecuy,4,1,0,0,0.87,48.0,6233.0
+2024-07-20,055_ZW Polideportivo Petecuy,5,0,0,1,0.73,43.0,5674.0
+2024-07-21,055_ZW Polideportivo Petecuy,6,0,1,0,1.25,31.0,8191.0
+2024-07-22,055_ZW Polideportivo Petecuy,0,1,0,0,57.53,46.0,399834.0
+2024-07-23,055_ZW Polideportivo Petecuy,1,1,0,0,77.23,35.0,534996.0
+2024-07-24,055_ZW Polideportivo Petecuy,2,1,0,0,152.38,49.0,963167.0
+2024-07-25,055_ZW Polideportivo Petecuy,3,1,0,0,22.69,50.0,143478.0
+2024-07-26,055_ZW Polideportivo Petecuy,4,1,0,0,13.86,44.0,105196.0
+2024-07-27,055_ZW Polideportivo Petecuy,5,0,1,0,0.0,1.0,15.0
+2024-07-28,055_ZW Polideportivo Petecuy,6,0,1,0,2.0,19.0,9460.0
+2024-07-29,055_ZW Polideportivo Petecuy,0,1,0,0,441.99,36.0,2756367.0
+2024-07-30,055_ZW Polideportivo Petecuy,1,1,0,0,4.2,36.0,28713.0
+2024-07-31,055_ZW Polideportivo Petecuy,2,1,0,0,0.51,38.0,3058.0
+2024-08-01,055_ZW Polideportivo Petecuy,3,1,0,0,2.07,28.0,13876.0
+2024-08-02,055_ZW Polideportivo Petecuy,4,1,0,0,46.85,35.0,281649.0
+2024-08-03,055_ZW Polideportivo Petecuy,5,0,1,0,604.14,54.0,2965143.0
+2024-08-04,055_ZW Polideportivo Petecuy,6,0,1,0,0.44,31.0,2763.0
+2024-08-05,055_ZW Polideportivo Petecuy,0,1,0,0,5.76,34.0,39851.0
+2024-08-06,055_ZW Polideportivo Petecuy,1,1,0,0,1.57,34.0,16262.0
+2024-08-07,055_ZW Polideportivo Petecuy,2,0,0,1,0.22,20.0,1853.0
+2024-08-08,055_ZW Polideportivo Petecuy,3,1,0,0,2.52,54.0,20107.0
+2024-08-09,055_ZW Polideportivo Petecuy,4,1,0,0,0.44,36.0,2381.0
+2024-08-10,055_ZW Polideportivo Petecuy,5,0,1,0,1.11,42.0,5871.0
+2024-08-11,055_ZW Polideportivo Petecuy,6,0,1,0,0.21,29.0,1208.0
+2024-08-12,055_ZW Polideportivo Petecuy,0,1,0,0,0.28,35.0,1303.0
+2024-08-13,055_ZW Polideportivo Petecuy,1,1,0,0,0.23,27.0,2061.0
+2024-08-14,055_ZW Polideportivo Petecuy,2,1,0,0,0.43,37.0,3275.0
+2024-08-15,055_ZW Polideportivo Petecuy,3,1,0,0,0.77,44.0,5130.0
+2024-08-16,055_ZW Polideportivo Petecuy,4,1,0,0,0.4,37.0,2921.0
+2024-08-17,055_ZW Polideportivo Petecuy,5,0,1,0,1.65,41.0,11344.0
+2024-08-18,055_ZW Polideportivo Petecuy,6,0,1,0,0.51,25.0,3350.0
+2024-08-19,055_ZW Polideportivo Petecuy,0,0,0,1,0.22,15.0,1581.0
+2024-08-20,055_ZW Polideportivo Petecuy,1,1,0,0,10.05,46.0,40576.0
+2024-08-21,055_ZW Polideportivo Petecuy,2,1,0,0,19.41,46.0,66630.0
+2024-08-22,055_ZW Polideportivo Petecuy,3,1,0,0,59.03,38.0,221844.0
+2024-08-23,055_ZW Polideportivo Petecuy,4,1,0,0,37.12,38.0,91113.0
+2024-08-24,055_ZW Polideportivo Petecuy,5,0,1,0,61.3,34.0,90449.0
+2024-08-25,055_ZW Polideportivo Petecuy,6,0,1,0,1160.27,57.0,1212690.0
+2024-08-26,055_ZW Polideportivo Petecuy,0,1,0,0,25.46,31.0,19054.0
+2024-08-27,055_ZW Polideportivo Petecuy,1,1,0,0,28.57,42.0,26619.0
+2024-08-28,055_ZW Polideportivo Petecuy,2,1,0,0,899.25,53.0,506844.0
+2024-08-29,055_ZW Polideportivo Petecuy,3,1,0,0,3739.56,34.0,1309057.0
+2024-08-30,055_ZW Polideportivo Petecuy,4,1,0,0,1873.51,51.0,777815.0
+2024-08-31,055_ZW Polideportivo Petecuy,5,0,1,0,6.52,49.0,4570.0
+2024-09-01,055_ZW Polideportivo Petecuy,6,0,1,0,29.78,67.0,12868.0
+2024-09-02,055_ZW Polideportivo Petecuy,0,1,0,0,2.38,26.0,1207.0
+2024-09-03,,1,1,0,0,,,
+2024-09-04,,2,1,0,0,,,
+2024-09-05,,3,1,0,0,,,
+2024-09-06,,4,1,0,0,,,
+2024-09-07,,5,0,1,0,,,
+2024-09-08,,6,0,1,0,,,
+2024-09-09,,0,1,0,0,,,
+2024-09-10,,1,1,0,0,,,
+2024-09-11,,2,1,0,0,,,
+2024-09-12,,3,1,0,0,,,
+2024-09-13,,4,1,0,0,,,
+2024-09-14,,5,0,1,0,,,
+2024-09-15,,6,0,1,0,,,
+2024-09-16,,0,1,0,0,,,
+2024-09-17,,1,1,0,0,,,
+2024-09-18,,2,1,0,0,,,
+2024-09-19,,3,1,0,0,,,
+2024-09-20,,4,1,0,0,,,
+2024-09-21,,5,0,1,0,,,
+2024-09-22,,6,0,1,0,,,
+2024-09-23,,0,1,0,0,,,
+2024-09-24,,1,1,0,0,,,
+2024-09-25,,2,1,0,0,,,
+2024-09-26,,3,1,0,0,,,
+2024-09-27,,4,1,0,0,,,
+2024-09-28,,5,0,1,0,,,
+2024-09-29,,6,0,1,0,,,
+2024-09-30,,0,1,0,0,,,
+2024-10-01,,1,1,0,0,,,
+2024-10-02,,2,1,0,0,,,
+2024-10-03,,3,1,0,0,,,
+2024-10-04,,4,1,0,0,,,
+2024-10-05,,5,0,1,0,,,
+2024-10-06,,6,0,1,0,,,
+2024-10-07,,0,1,0,0,,,
+2024-10-08,,1,1,0,0,,,
+2024-10-09,,2,1,0,0,,,
+2024-10-10,,3,1,0,0,,,
+2024-10-11,,4,1,0,0,,,
+2024-10-12,,5,0,1,0,,,
+2024-10-13,,6,0,1,0,,,
+2024-10-14,,0,0,0,1,,,
+2024-10-15,,1,1,0,0,,,
+2024-10-16,,2,1,0,0,,,
+2024-10-17,,3,1,0,0,,,
+2024-10-18,,4,1,0,0,,,
+2024-10-19,,5,0,1,0,,,
+2024-10-20,,6,0,1,0,,,
+2024-10-21,,0,1,0,0,,,
+2024-10-22,,1,1,0,0,,,
+2024-10-23,,2,1,0,0,,,
+2024-10-24,,3,1,0,0,,,
+2024-10-25,055_ZW Polideportivo Petecuy,4,1,0,0,237.46,36.0,1063020.0
+2024-10-26,055_ZW Polideportivo Petecuy,5,0,1,0,180.88,35.0,1396823.0
+2024-10-27,055_ZW Polideportivo Petecuy,6,0,1,0,43.76,34.0,435610.0
+2024-10-28,055_ZW Polideportivo Petecuy,0,1,0,0,20.21,31.0,121708.0
+2024-10-29,055_ZW Polideportivo Petecuy,1,1,0,0,41.02,26.0,260065.0
+2024-10-30,055_ZW Polideportivo Petecuy,2,1,0,0,283.33,50.0,1388099.0
+2024-10-31,055_ZW Polideportivo Petecuy,3,1,0,0,3.16,65.0,14823.0
+2024-11-01,055_ZW Polideportivo Petecuy,4,1,0,0,1.24,57.0,6883.0
+2024-11-02,055_ZW Polideportivo Petecuy,5,0,1,0,1.9,43.0,11822.0
+2024-11-03,055_ZW Polideportivo Petecuy,6,0,1,0,1.06,39.0,6222.0
+2024-11-04,055_ZW Polideportivo Petecuy,0,0,0,1,0.43,26.0,2870.0
+2024-11-05,055_ZW Polideportivo Petecuy,1,1,0,0,57.46,52.0,419566.0
+2024-11-06,055_ZW Polideportivo Petecuy,2,1,0,0,1.37,27.0,8591.0
+2024-11-07,055_ZW Polideportivo Petecuy,3,1,0,0,53.75,34.0,478046.0
+2024-11-08,055_ZW Polideportivo Petecuy,4,1,0,0,142.36,57.0,1760489.0
+2024-11-09,055_ZW Polideportivo Petecuy,5,0,1,0,41.02,56.0,682983.0
+2024-11-10,055_ZW Polideportivo Petecuy,6,0,1,0,2.61,30.0,50566.0
+2024-11-11,055_ZW Polideportivo Petecuy,0,0,0,1,4.96,21.0,87038.0
+2024-11-12,055_ZW Polideportivo Petecuy,1,1,0,0,40.17,54.0,767859.0
+2024-11-13,055_ZW Polideportivo Petecuy,2,1,0,0,80.2,57.0,1299328.0
+2024-11-14,055_ZW Polideportivo Petecuy,3,1,0,0,21.07,51.0,404428.0
+2024-11-15,055_ZW Polideportivo Petecuy,4,1,0,0,180.11,50.0,3281035.0
+2024-11-16,055_ZW Polideportivo Petecuy,5,0,1,0,31.75,63.0,584528.0
+2024-11-17,055_ZW Polideportivo Petecuy,6,0,1,0,104.68,51.0,1798350.0
+2024-11-18,055_ZW Polideportivo Petecuy,0,1,0,0,438.6,55.0,7050069.0
+2024-11-19,055_ZW Polideportivo Petecuy,1,1,0,0,152.09,50.0,2429861.0
+2024-11-20,055_ZW Polideportivo Petecuy,2,1,0,0,118.62,71.0,2263622.0
+2024-11-21,055_ZW Polideportivo Petecuy,3,1,0,0,123.85,65.0,2236307.0
+2024-11-22,055_ZW Polideportivo Petecuy,4,1,0,0,357.62,83.0,7219505.0
+2024-11-23,055_ZW Polideportivo Petecuy,5,0,1,0,381.15,52.0,7304424.0
+2024-11-24,055_ZW Polideportivo Petecuy,6,0,1,0,126.94,38.0,939846.0
+2024-11-25,055_ZW Polideportivo Petecuy,0,1,0,0,674.19,75.0,2772734.0
+2024-11-26,055_ZW Polideportivo Petecuy,1,1,0,0,56.56,22.0,445453.0
+2024-11-27,055_ZW Polideportivo Petecuy,2,1,0,0,158.66,64.0,3081264.0
+2024-11-28,055_ZW Polideportivo Petecuy,3,1,0,0,222.72,60.0,4689422.0
+2024-11-29,055_ZW Polideportivo Petecuy,4,1,0,0,286.71,99.0,6371956.0
+2024-11-30,055_ZW Polideportivo Petecuy,5,0,1,0,54.94,56.0,1252238.0
+2024-12-01,055_ZW Polideportivo Petecuy,6,0,1,0,336.94,44.0,8142606.0
+2024-12-02,055_ZW Polideportivo Petecuy,0,1,0,0,444.99,73.0,9285189.0
+2024-12-03,055_ZW Polideportivo Petecuy,1,1,0,0,367.01,85.0,6852275.0
+2024-12-04,055_ZW Polideportivo Petecuy,2,1,0,0,343.6,84.0,7935984.0
+2024-12-05,055_ZW Polideportivo Petecuy,3,1,0,0,440.3,68.0,10101370.0
+2024-12-06,055_ZW Polideportivo Petecuy,4,1,0,0,649.94,78.0,14612811.0
+2024-12-07,055_ZW Polideportivo Petecuy,5,0,1,0,131.88,62.0,2705461.0
+2024-12-08,055_ZW Polideportivo Petecuy,6,0,0,1,224.28,47.0,5955879.0
+2024-12-09,055_ZW Polideportivo Petecuy,0,1,0,0,265.59,71.0,7163048.0
+2024-12-10,055_ZW Polideportivo Petecuy,1,1,0,0,502.16,69.0,15207454.0
+2024-12-11,055_ZW Polideportivo Petecuy,2,1,0,0,415.86,101.0,12538949.0
+2024-12-12,055_ZW Polideportivo Petecuy,3,1,0,0,385.2,86.0,13218077.0
+2024-12-13,055_ZW Polideportivo Petecuy,4,1,0,0,413.65,89.0,14033472.0
+2024-12-14,055_ZW Polideportivo Petecuy,5,0,1,0,269.53,84.0,8187159.0
+2024-12-15,055_ZW Polideportivo Petecuy,6,0,1,0,307.51,57.0,9110271.0
+2024-12-16,055_ZW Polideportivo Petecuy,0,1,0,0,392.96,104.0,13068049.0
+2024-12-17,055_ZW Polideportivo Petecuy,1,1,0,0,252.0,88.0,7740963.0
+2024-12-18,055_ZW Polideportivo Petecuy,2,1,0,0,526.0,111.0,16609569.0
+2024-12-19,055_ZW Polideportivo Petecuy,3,1,0,0,561.0,86.0,15949122.0
+2024-12-20,055_ZW Polideportivo Petecuy,4,1,0,0,280.0,66.0,8486368.0
+2024-12-21,055_ZW Polideportivo Petecuy,5,0,1,0,273.0,55.0,7115643.0
+2024-12-22,055_ZW Polideportivo Petecuy,6,0,1,0,232.0,70.0,7417561.0
+2024-12-23,055_ZW Polideportivo Petecuy,0,1,0,0,473.0,81.0,11850875.0
+2024-12-24,055_ZW Polideportivo Petecuy,1,1,0,0,494.0,50.0,11816349.0
+2024-12-25,055_ZW Polideportivo Petecuy,2,0,0,1,193.0,43.0,5450862.0
+2024-12-26,055_ZW Polideportivo Petecuy,3,1,0,0,488.0,40.0,13351693.0
+2024-12-27,055_ZW Polideportivo Petecuy,4,1,0,0,324.0,33.0,10563482.0
+2024-12-28,055_ZW Polideportivo Petecuy,5,0,1,0,68.5,32.0,1611763.0
+2024-12-29,055_ZW Polideportivo Petecuy,6,0,1,0,58.2,29.0,1882172.0
+2024-12-30,055_ZW Polideportivo Petecuy,0,1,0,0,263.0,57.0,6433756.0
+2024-12-31,055_ZW Polideportivo Petecuy,1,1,0,0,21.0,37.0,389187.0
+2025-01-01,055_ZW Polideportivo Petecuy,2,0,0,1,50.0,26.0,727255.0
+2025-01-02,055_ZW Polideportivo Petecuy,3,1,0,0,132.0,30.0,3681796.0
+2025-01-03,055_ZW Polideportivo Petecuy,4,1,0,0,148.0,31.0,3956734.0
+2025-01-04,055_ZW Polideportivo Petecuy,5,0,1,0,24.0,33.0,643607.0
+2025-01-05,055_ZW Polideportivo Petecuy,6,0,1,0,4.0,21.0,135289.0
+2025-01-06,055_ZW Polideportivo Petecuy,0,0,0,1,32.0,29.0,1185445.0
+2025-01-07,055_ZW Polideportivo Petecuy,1,1,0,0,162.0,55.0,5357877.0
+2025-01-08,055_ZW Polideportivo Petecuy,2,1,0,0,331.0,58.0,11441627.0
+2025-01-09,055_ZW Polideportivo Petecuy,3,1,0,0,433.0,55.0,15081993.0
+2025-01-10,055_ZW Polideportivo Petecuy,4,1,0,0,298.0,73.0,10779722.0
+2025-01-11,055_ZW Polideportivo Petecuy,5,0,1,0,202.0,40.0,6897204.0
+2025-01-12,055_ZW Polideportivo Petecuy,6,0,1,0,66.0,34.0,2478686.0
+2025-01-13,055_ZW Polideportivo Petecuy,0,1,0,0,290.0,73.0,8701128.0
+2025-01-14,055_ZW Polideportivo Petecuy,1,1,0,0,241.0,64.0,7299641.0
+2025-01-15,055_ZW Polideportivo Petecuy,2,1,0,0,269.0,77.0,7767239.0
+2025-01-16,055_ZW Polideportivo Petecuy,3,1,0,0,278.0,69.0,8731250.0
+2025-01-17,055_ZW Polideportivo Petecuy,4,1,0,0,299.0,71.0,9109272.0
+2025-01-18,055_ZW Polideportivo Petecuy,5,0,1,0,81.0,48.0,2462781.0
+2025-01-19,055_ZW Polideportivo Petecuy,6,0,1,0,220.0,30.0,7148229.0
+2025-01-20,055_ZW Polideportivo Petecuy,0,1,0,0,272.0,65.0,8793724.0
+2025-01-21,055_ZW Polideportivo Petecuy,1,1,0,0,199.0,60.0,7152384.0
+2025-01-22,055_ZW Polideportivo Petecuy,2,1,0,0,388.0,78.0,13031433.0
+2025-01-23,055_ZW Polideportivo Petecuy,3,1,0,0,358.0,71.0,14333403.0
+2025-01-24,055_ZW Polideportivo Petecuy,4,1,0,0,391.0,76.0,13010670.0
+2025-01-25,055_ZW Polideportivo Petecuy,5,0,1,0,109.0,46.0,4041623.0
+2025-01-26,055_ZW Polideportivo Petecuy,6,0,1,0,122.0,32.0,4802675.0
+2025-01-27,055_ZW Polideportivo Petecuy,0,1,0,0,141.0,65.0,5364606.0
+2025-01-28,055_ZW Polideportivo Petecuy,1,1,0,0,302.0,72.0,9940950.0
+2025-01-29,055_ZW Polideportivo Petecuy,2,1,0,0,338.0,72.0,12250049.0
+2025-01-30,055_ZW Polideportivo Petecuy,3,1,0,0,605.0,76.0,16415103.0
+2025-01-31,055_ZW Polideportivo Petecuy,4,1,0,0,76.0,90.0,1407487.0
+2025-02-01,055_ZW Polideportivo Petecuy,5,0,1,0,39.0,55.0,1095493.0
+2025-02-02,055_ZW Polideportivo Petecuy,6,0,1,0,30.0,44.0,1016211.0
+2025-02-03,055_ZW Polideportivo Petecuy,0,1,0,0,269.0,80.0,6958930.0
+2025-02-04,055_ZW Polideportivo Petecuy,1,1,0,0,481.0,68.0,13574912.0
+2025-02-05,055_ZW Polideportivo Petecuy,2,1,0,0,276.0,80.0,6702471.0
+2025-02-06,055_ZW Polideportivo Petecuy,3,1,0,0,316.0,63.0,8551393.0
+2025-02-07,055_ZW Polideportivo Petecuy,4,1,0,0,75.0,59.0,2198828.0
+2025-02-08,055_ZW Polideportivo Petecuy,5,0,1,0,205.0,35.0,5474568.0
+2025-02-09,055_ZW Polideportivo Petecuy,6,0,1,0,75.0,37.0,2375147.0
+2025-02-10,055_ZW Polideportivo Petecuy,0,1,0,0,62.0,59.0,1642963.0
+2025-02-11,055_ZW Polideportivo Petecuy,1,1,0,0,296.0,48.0,8787340.0
+2025-02-12,055_ZW Polideportivo Petecuy,2,1,0,0,200.0,49.0,6608854.0
+2025-02-13,055_ZW Polideportivo Petecuy,3,1,0,0,41.0,44.0,868640.0
+2025-02-14,055_ZW Polideportivo Petecuy,4,1,0,0,139.0,67.0,4645955.0
+2025-02-15,055_ZW Polideportivo Petecuy,5,0,1,0,46.0,51.0,1271647.0
+2025-02-16,055_ZW Polideportivo Petecuy,6,0,1,0,28.0,39.0,844959.0
+2025-02-17,055_ZW Polideportivo Petecuy,0,1,0,0,78.0,44.0,2184045.0
+2025-02-18,055_ZW Polideportivo Petecuy,1,1,0,0,132.0,59.0,3714385.0
+2025-02-19,055_ZW Polideportivo Petecuy,2,1,0,0,139.0,61.0,4360254.0
+2025-02-20,055_ZW Polideportivo Petecuy,3,1,0,0,256.0,66.0,9034665.0
+2025-02-21,055_ZW Polideportivo Petecuy,4,1,0,0,143.0,76.0,4157210.0
+2025-02-22,055_ZW Polideportivo Petecuy,5,0,1,0,3.0,3.0,86665.0
+2025-02-23,,6,0,1,0,,,
+2025-02-24,,0,1,0,0,,,
+2025-02-25,,1,1,0,0,,,
+2025-02-26,,2,1,0,0,,,
+2025-02-27,,3,1,0,0,,,
+2025-02-28,,4,1,0,0,,,
+2025-03-01,,5,0,1,0,,,
+2025-03-02,,6,0,1,0,,,
+2025-03-03,,0,1,0,0,,,
+2025-03-04,,1,1,0,0,,,
+2025-03-05,,2,1,0,0,,,
+2025-03-06,,3,1,0,0,,,
+2025-03-07,,4,1,0,0,,,
+2025-03-08,,5,0,1,0,,,
+2025-03-09,,6,0,1,0,,,
+2025-03-10,,0,1,0,0,,,
+2025-03-11,,1,1,0,0,,,
+2025-03-12,,2,1,0,0,,,
+2025-03-13,,3,1,0,0,,,
+2025-03-14,,4,1,0,0,,,
+2025-03-15,,5,0,1,0,,,
+2025-03-16,,6,0,1,0,,,
+2025-03-17,,0,1,0,0,,,
+2025-03-18,,1,1,0,0,,,
+2025-03-19,,2,1,0,0,,,
+2025-03-20,,3,1,0,0,,,
+2025-03-21,,4,1,0,0,,,
+2025-03-22,,5,0,1,0,,,
+2025-03-23,,6,0,1,0,,,
+2025-03-24,,0,0,0,1,,,
+2025-03-25,,1,1,0,0,,,
+2025-03-26,,2,1,0,0,,,
+2025-03-27,,3,1,0,0,,,
+2025-03-28,,4,1,0,0,,,
+2025-03-29,,5,0,1,0,,,
+2025-03-30,,6,0,1,0,,,
+2025-03-31,,0,1,0,0,,,
+2025-04-01,,1,1,0,0,,,
+2025-04-02,,2,1,0,0,,,
+2025-04-03,,3,1,0,0,,,
+2025-04-04,,4,1,0,0,,,
+2025-04-05,,5,0,1,0,,,
+2025-04-06,,6,0,1,0,,,
+2025-04-07,,0,1,0,0,,,
+2025-04-08,,1,1,0,0,,,
+2025-04-09,,2,1,0,0,,,
+2025-04-10,,3,1,0,0,,,
+2025-04-11,,4,1,0,0,,,
+2025-04-12,,5,0,1,0,,,
+2025-04-13,,6,0,1,0,,,
+2025-04-14,,0,1,0,0,,,
+2025-04-15,,1,1,0,0,,,
+2025-04-16,,2,1,0,0,,,
+2025-04-17,,3,0,0,1,,,
+2025-04-18,,4,0,0,1,,,
+2025-04-19,,5,0,1,0,,,
+2025-04-20,,6,0,1,0,,,
+2025-04-21,,0,1,0,0,,,
+2025-04-22,,1,1,0,0,,,
+2025-04-23,,2,1,0,0,,,
+2025-04-24,,3,1,0,0,,,
+2025-04-25,,4,1,0,0,,,
+2025-04-26,,5,0,1,0,,,
+2025-04-27,,6,0,1,0,,,
+2025-04-28,,0,1,0,0,,,
+2025-04-29,,1,1,0,0,,,
+2025-04-30,,2,1,0,0,,,
+2025-05-01,,3,0,0,1,,,
+2025-05-02,055_ZW Polideportivo Petecuy,4,1,0,0,42.0,29.0,1001365.0
+2025-05-03,055_ZW Polideportivo Petecuy,5,0,1,0,39.0,22.0,990883.0
+2025-05-04,055_ZW Polideportivo Petecuy,6,0,1,0,5.0,25.0,169834.0
+2025-05-05,055_ZW Polideportivo Petecuy,0,1,0,0,29.0,33.0,757054.0
+2025-05-06,055_ZW Polideportivo Petecuy,1,1,0,0,30.0,33.0,962709.0
+2025-05-07,055_ZW Polideportivo Petecuy,2,1,0,0,27.0,36.0,723585.0
+2025-05-08,055_ZW Polideportivo Petecuy,3,1,0,0,46.0,31.0,1181110.0
+2025-05-09,055_ZW Polideportivo Petecuy,4,1,0,0,75.0,31.0,2457109.0
+2025-05-10,055_ZW Polideportivo Petecuy,5,0,1,0,16.0,27.0,449163.0
+2025-05-11,055_ZW Polideportivo Petecuy,6,0,1,0,0.0,20.0,2479.0
+2025-05-12,055_ZW Polideportivo Petecuy,0,1,0,0,84.0,29.0,2591766.0
+2025-05-13,055_ZW Polideportivo Petecuy,1,1,0,0,16.0,44.0,555347.0
+2025-05-14,055_ZW Polideportivo Petecuy,2,1,0,0,58.0,38.0,1842997.0
+2025-05-15,055_ZW Polideportivo Petecuy,3,1,0,0,22.0,21.0,507505.0
+2025-05-16,055_ZW Polideportivo Petecuy,4,1,0,0,39.0,35.0,1013722.0
+2025-05-17,055_ZW Polideportivo Petecuy,5,0,1,0,67.0,41.0,1616430.0
+2025-05-18,055_ZW Polideportivo Petecuy,6,0,1,0,10.0,29.0,312217.0
+2025-05-19,055_ZW Polideportivo Petecuy,0,1,0,0,34.0,23.0,936534.0
+2025-05-20,055_ZW Polideportivo Petecuy,1,1,0,0,18.0,31.0,532746.0
+2025-05-21,055_ZW Polideportivo Petecuy,2,1,0,0,61.0,44.0,1731808.0
+2025-05-22,055_ZW Polideportivo Petecuy,3,1,0,0,21.0,26.0,560766.0
+2025-05-23,055_ZW Polideportivo Petecuy,4,1,0,0,51.0,40.0,1567131.0
+2025-05-24,055_ZW Polideportivo Petecuy,5,0,1,0,85.0,33.0,2448187.0
+2025-05-25,055_ZW Polideportivo Petecuy,6,0,1,0,34.0,33.0,1035044.0
+2025-05-26,055_ZW Polideportivo Petecuy,0,1,0,0,127.0,32.0,2693728.0
+2025-05-27,055_ZW Polideportivo Petecuy,1,1,0,0,68.0,43.0,1918482.0
+2025-05-28,055_ZW Polideportivo Petecuy,2,1,0,0,103.0,53.0,3406119.0
+2025-05-29,055_ZW Polideportivo Petecuy,3,1,0,0,55.0,43.0,1669088.0
+2025-05-30,055_ZW Polideportivo Petecuy,4,1,0,0,167.0,52.0,4368626.0
+2025-05-31,055_ZW Polideportivo Petecuy,5,0,1,0,27.0,32.0,842018.0
+2025-06-01,055_ZW Polideportivo Petecuy,6,0,1,0,245.0,95.0,5156708.0
+2025-06-02,055_ZW Polideportivo Petecuy,0,0,0,1,15.0,30.0,344462.0
+2025-06-03,055_ZW Polideportivo Petecuy,1,1,0,0,22.0,38.0,578491.0
+2025-06-04,055_ZW Polideportivo Petecuy,2,1,0,0,10.0,42.0,281754.0
+2025-06-05,055_ZW Polideportivo Petecuy,3,1,0,0,4.0,29.0,98194.0
+2025-06-06,055_ZW Polideportivo Petecuy,4,1,0,0,105.0,35.0,3067709.0
+2025-06-07,055_ZW Polideportivo Petecuy,5,0,1,0,102.0,42.0,3842837.0
+2025-06-08,055_ZW Polideportivo Petecuy,6,0,1,0,100.0,39.0,3793753.0
+2025-06-09,055_ZW Polideportivo Petecuy,0,1,0,0,70.0,38.0,1527514.0
+2025-06-10,055_ZW Polideportivo Petecuy,1,1,0,0,8.0,14.0,144395.0
+2025-06-11,055_ZW Polideportivo Petecuy,2,1,0,0,157.0,33.0,3889708.0
+2025-06-12,055_ZW Polideportivo Petecuy,3,1,0,0,41.0,42.0,796285.0
+2025-06-13,055_ZW Polideportivo Petecuy,4,1,0,0,171.0,46.0,4627641.0
+2025-06-14,055_ZW Polideportivo Petecuy,5,0,1,0,88.0,43.0,2846409.0
+2025-06-15,055_ZW Polideportivo Petecuy,6,0,1,0,119.0,33.0,3896946.0
+2025-06-16,055_ZW Polideportivo Petecuy,0,1,0,0,46.0,37.0,1425059.0
+2025-06-17,055_ZW Polideportivo Petecuy,1,1,0,0,127.0,49.0,3934921.0
+2025-06-18,055_ZW Polideportivo Petecuy,2,1,0,0,28.0,54.0,966010.0
+2025-06-19,055_ZW Polideportivo Petecuy,3,1,0,0,38.0,42.0,1235980.0
+2025-06-20,055_ZW Polideportivo Petecuy,4,1,0,0,65.0,60.0,2370400.0
+2025-06-21,055_ZW Polideportivo Petecuy,5,0,1,0,26.0,51.0,865429.0
+2025-06-22,055_ZW Polideportivo Petecuy,6,0,1,0,37.0,38.0,1010857.0
+2025-06-23,055_ZW Polideportivo Petecuy,0,0,0,1,20.0,25.0,761663.0
+2025-06-24,055_ZW Polideportivo Petecuy,1,1,0,0,22.0,42.0,788892.0
+2025-06-25,055_ZW Polideportivo Petecuy,2,1,0,0,145.0,57.0,4877481.0
+2025-06-26,055_ZW Polideportivo Petecuy,3,1,0,0,121.0,57.0,3685760.0
+2025-06-27,055_ZW Polideportivo Petecuy,4,1,0,0,72.0,44.0,2467361.0
+2025-06-28,055_ZW Polideportivo Petecuy,5,0,1,0,45.0,40.0,1491829.0
+2025-06-29,055_ZW Polideportivo Petecuy,6,0,1,0,83.0,51.0,2891429.0
+2025-06-30,055_ZW Polideportivo Petecuy,0,0,0,1,16.0,25.0,511150.0
+2025-07-01,055_ZW Polideportivo Petecuy,1,1,0,0,88.34,39.0,3137529.0
+2025-07-02,055_ZW Polideportivo Petecuy,2,1,0,0,79.16,47.0,2810736.0
+2025-07-03,055_ZW Polideportivo Petecuy,3,1,0,0,49.63,47.0,1629011.0
+2025-07-04,055_ZW Polideportivo Petecuy,4,1,0,0,117.1,43.0,4224912.0
+2025-07-05,055_ZW Polideportivo Petecuy,5,0,1,0,40.19,49.0,1473241.0
+2025-07-06,055_ZW Polideportivo Petecuy,6,0,1,0,80.18,54.0,3099814.0
+2025-07-07,055_ZW Polideportivo Petecuy,0,1,0,0,42.92,56.0,1464197.0
+2025-07-08,055_ZW Polideportivo Petecuy,1,1,0,0,68.13,54.0,2529048.0
+2025-07-09,055_ZW Polideportivo Petecuy,2,1,0,0,58.78,50.0,2010412.0
+2025-07-10,055_ZW Polideportivo Petecuy,3,1,0,0,81.13,68.0,2862849.0
+2025-07-11,055_ZW Polideportivo Petecuy,4,1,0,0,112.04,56.0,3562860.0
+2025-07-12,055_ZW Polideportivo Petecuy,5,0,1,0,90.97,64.0,3706092.0
+2025-07-13,055_ZW Polideportivo Petecuy,6,0,1,0,70.49,52.0,2716735.0
+2025-07-14,055_ZW Polideportivo Petecuy,0,1,0,0,25.1,47.0,927121.0
+2025-07-15,055_ZW Polideportivo Petecuy,1,1,0,0,69.73,40.0,2707690.0
+2025-07-16,055_ZW Polideportivo Petecuy,2,1,0,0,42.49,56.0,1700371.0
+2025-07-17,055_ZW Polideportivo Petecuy,3,1,0,0,82.2,56.0,3046927.0
+2025-07-18,055_ZW Polideportivo Petecuy,4,1,0,0,79.42,58.0,2775358.0
+2025-07-19,055_ZW Polideportivo Petecuy,5,0,1,0,90.49,77.0,3561256.0
+2025-07-20,055_ZW Polideportivo Petecuy,6,0,0,1,21.2,51.0,900963.0
+2025-07-21,055_ZW Polideportivo Petecuy,0,1,0,0,123.27,50.0,4040268.0
+2025-07-22,055_ZW Polideportivo Petecuy,1,1,0,0,152.94,60.0,5728943.0
+2025-07-23,055_ZW Polideportivo Petecuy,2,1,0,0,68.32,57.0,2447670.0
+2025-07-24,055_ZW Polideportivo Petecuy,3,1,0,0,70.49,52.0,2716735.0
+2025-07-25,055_ZW Polideportivo Petecuy,4,1,0,0,95.36,59.0,2980695.0
+2025-07-26,055_ZW Polideportivo Petecuy,5,0,1,0,88.04,54.0,3457377.0
+2025-07-27,055_ZW Polideportivo Petecuy,6,0,1,0,31.31,61.0,1137849.0
+2025-07-28,055_ZW Polideportivo Petecuy,0,1,0,0,44.45,52.0,1496772.0
+2025-07-29,055_ZW Polideportivo Petecuy,1,1,0,0,117.76,47.0,4848675.0
+2025-07-30,055_ZW Polideportivo Petecuy,2,1,0,0,46.98,60.0,1645753.0
+2025-07-31,055_ZW Polideportivo Petecuy,3,1,0,0,73.91,40.0,2664563.0
+2025-08-01,055_ZW Polideportivo Petecuy,4,1,0,0,70.98,58.0,2466365.0
+2025-08-02,055_ZW Polideportivo Petecuy,5,0,1,0,70.31,58.0,2478914.0
+2025-08-03,055_ZW Polideportivo Petecuy,6,0,1,0,23.45,50.0,858272.0
+2025-08-04,055_ZW Polideportivo Petecuy,0,1,0,0,92.51,40.0,2773522.0
+2025-08-05,055_ZW Polideportivo Petecuy,1,1,0,0,29.41,43.0,973543.0
+2025-08-06,055_ZW Polideportivo Petecuy,2,1,0,0,66.95,70.0,2185362.0
+2025-08-07,055_ZW Polideportivo Petecuy,3,0,0,1,107.35,37.0,3157721.0
+2025-08-08,055_ZW Polideportivo Petecuy,4,1,0,0,106.31,68.0,4127882.0
+2025-08-09,055_ZW Polideportivo Petecuy,5,0,1,0,125.07,42.0,4641644.0
+2025-08-10,055_ZW Polideportivo Petecuy,6,0,1,0,81.0,59.0,3366446.0
+2025-08-11,055_ZW Polideportivo Petecuy,0,1,0,0,42.67,44.0,1640758.0
+2025-08-12,055_ZW Polideportivo Petecuy,1,1,0,0,197.91,52.0,8113992.0
+2025-08-13,055_ZW Polideportivo Petecuy,2,1,0,0,218.6,53.0,7222719.0
+2025-08-14,055_ZW Polideportivo Petecuy,3,1,0,0,161.75,59.0,6105284.0
+2025-08-15,055_ZW Polideportivo Petecuy,4,1,0,0,120.23,57.0,4013825.0
+2025-08-16,055_ZW Polideportivo Petecuy,5,0,1,0,122.36,59.0,4619088.0
+2025-08-17,055_ZW Polideportivo Petecuy,6,0,1,0,75.5,62.0,2913527.0
+2025-08-18,055_ZW Polideportivo Petecuy,0,0,0,1,61.72,40.0,2383510.0
+2025-08-19,055_ZW Polideportivo Petecuy,1,1,0,0,71.94,61.0,2666253.0
+2025-08-20,055_ZW Polideportivo Petecuy,2,1,0,0,72.19,70.0,2826288.0
+2025-08-21,055_ZW Polideportivo Petecuy,3,1,0,0,35.53,36.0,1447001.0
+2025-08-22,055_ZW Polideportivo Petecuy,4,1,0,0,78.55,68.0,2819825.0
+2025-08-23,055_ZW Polideportivo Petecuy,5,0,1,0,76.21,56.0,2884887.0
+2025-08-24,055_ZW Polideportivo Petecuy,6,0,1,0,88.25,60.0,3704528.0
+2025-08-25,055_ZW Polideportivo Petecuy,0,1,0,0,92.74,48.0,3599189.0
+2025-08-26,055_ZW Polideportivo Petecuy,1,1,0,0,100.31,60.0,4155554.0
+2025-08-27,055_ZW Polideportivo Petecuy,2,1,0,0,94.07,70.0,3298025.0
+2025-08-28,055_ZW Polideportivo Petecuy,3,1,0,0,50.28,44.0,2235047.0
+2025-08-29,055_ZW Polideportivo Petecuy,4,1,0,0,80.53,64.0,3012043.0
+2025-08-30,055_ZW Polideportivo Petecuy,5,0,1,0,69.66,55.0,2924522.0
+2025-08-31,055_ZW Polideportivo Petecuy,6,0,1,0,134.88,53.0,5345924.0
+2025-09-01,055_ZW Polideportivo Petecuy,0,1,0,0,103.91,65.0,3374564.0
+2025-09-02,055_ZW Polideportivo Petecuy,1,1,0,0,125.93,56.0,4603325.0
+2025-09-03,055_ZW Polideportivo Petecuy,2,1,0,0,43.67,57.0,1664698.0
+2025-09-04,055_ZW Polideportivo Petecuy,3,1,0,0,103.07,51.0,4533125.0
+2025-09-05,055_ZW Polideportivo Petecuy,4,1,0,0,98.34,59.0,3886950.0
+2025-09-06,055_ZW Polideportivo Petecuy,5,0,1,0,208.64,75.0,8609153.0
+2025-09-07,055_ZW Polideportivo Petecuy,6,0,1,0,135.77,69.0,6353037.0
+2025-09-08,055_ZW Polideportivo Petecuy,0,1,0,0,60.68,69.0,2710105.0
+2025-09-09,055_ZW Polideportivo Petecuy,1,1,0,0,100.06,54.0,4426650.0
+2025-09-10,055_ZW Polideportivo Petecuy,2,1,0,0,103.96,72.0,4505563.0
+2025-09-11,055_ZW Polideportivo Petecuy,3,1,0,0,93.9,46.0,4054223.0
+2025-09-12,055_ZW Polideportivo Petecuy,4,1,0,0,122.86,78.0,5751431.0
+2025-09-13,055_ZW Polideportivo Petecuy,5,0,1,0,172.08,78.0,7942817.0
+2025-09-14,055_ZW Polideportivo Petecuy,6,0,1,0,263.62,58.0,13172977.0
+2025-09-15,055_ZW Polideportivo Petecuy,0,1,0,0,114.57,63.0,5575509.0
+2025-09-16,055_ZW Polideportivo Petecuy,1,1,0,0,50.65,51.0,2477111.0
+2025-09-17,055_ZW Polideportivo Petecuy,2,1,0,0,44.05,64.0,1751027.0
+2025-09-18,055_ZW Polideportivo Petecuy,3,1,0,0,95.21,56.0,3701037.0
+2025-09-19,055_ZW Polideportivo Petecuy,4,1,0,0,139.7,78.0,6126720.0
+2025-09-20,055_ZW Polideportivo Petecuy,5,0,1,0,48.94,51.0,1720065.0
+2025-09-21,055_ZW Polideportivo Petecuy,6,0,1,0,49.83,49.0,2207106.0
+2025-09-22,055_ZW Polideportivo Petecuy,0,1,0,0,211.64,49.0,9123448.0
+2025-09-23,055_ZW Polideportivo Petecuy,1,1,0,0,67.55,57.0,3470352.0
+2025-09-24,055_ZW Polideportivo Petecuy,2,1,0,0,124.71,83.0,5225048.0
+2025-09-25,055_ZW Polideportivo Petecuy,3,1,0,0,253.62,61.0,9888402.0
+2025-09-26,055_ZW Polideportivo Petecuy,4,1,0,0,80.99,72.0,3521358.0
+2025-09-27,055_ZW Polideportivo Petecuy,5,0,1,0,79.51,73.0,3415718.0
+2025-09-28,055_ZW Polideportivo Petecuy,6,0,1,0,63.07,55.0,2505339.0
+2025-09-29,055_ZW Polideportivo Petecuy,0,1,0,0,157.3,56.0,6654647.0
+2025-09-30,055_ZW Polideportivo Petecuy,1,1,0,0,111.38,61.0,4579040.0

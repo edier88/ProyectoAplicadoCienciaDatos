@@ -1,0 +1,629 @@
+FECHA_CONEXION,NOMBRE_ZONA,DIA_SEMANA,LABORAL,FIN_DE_SEMANA,FESTIVO,PORCENTAJE_USO,NUMERO_CONEXIONES,USAGE_KB
+2024-01-01,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,47.4,25.0,414658.0
+2024-01-02,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,4.0,29.0,33300.0
+2024-01-03,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,5.7,20.0,68976.0
+2024-01-04,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,68.7,21.0,725396.0
+2024-01-05,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,0.6,29.0,6700.0
+2024-01-06,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.5,31.0,11416.0
+2024-01-07,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,0.8,37.0,7904.0
+2024-01-08,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,0.9,26.0,14521.0
+2024-01-09,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,0.5,24.0,6561.0
+2024-01-10,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,0.4,24.0,5136.0
+2024-01-11,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,0.4,27.0,3954.0
+2024-01-12,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,0.5,30.0,6302.0
+2024-01-13,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,3.0,33.0,26989.0
+2024-01-14,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1.8,35.0,14552.0
+2024-01-15,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,2.5,30.0,17240.0
+2024-01-16,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1.2,33.0,10458.0
+2024-01-17,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,2.0,22.0,19597.0
+2024-01-18,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,0.9,29.0,10543.0
+2024-01-19,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,16.4,23.0,251021.0
+2024-01-20,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.1,29.0,14291.0
+2024-01-21,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,2.1,27.0,27277.0
+2024-01-22,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1.9,28.0,20056.0
+2024-01-23,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1.5,29.0,16281.0
+2024-01-24,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,0.5,34.0,6838.0
+2024-01-25,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1.1,25.0,16600.0
+2024-01-26,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,0.3,32.0,4196.0
+2024-01-27,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.1,37.0,13591.0
+2024-01-28,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,2.7,37.0,27721.0
+2024-01-29,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,3.3,37.0,38364.0
+2024-01-30,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,5.1,36.0,45935.0
+2024-01-31,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1.5,38.0,15854.0
+2024-02-01,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1.1,33.0,14618.0
+2024-02-02,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,4.0,29.0,38238.0
+2024-02-03,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,0.4,20.0,6381.0
+2024-02-04,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,0.9,31.0,14110.0
+2024-02-05,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,6.1,23.0,91196.0
+2024-02-06,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,36.6,31.0,546466.0
+2024-02-07,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,565.6,40.0,9336735.0
+2024-02-08,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,0.5,26.0,7147.0
+2024-02-09,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,0.6,23.0,6981.0
+2024-02-10,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,0.6,30.0,9036.0
+2024-02-11,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,0.7,23.0,8910.0
+2024-02-12,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1.4,30.0,14058.0
+2024-02-13,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,2.4,36.0,20686.0
+2024-02-14,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,3.6,37.0,26929.0
+2024-02-15,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1.0,26.0,11729.0
+2024-02-16,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1.1,30.0,11746.0
+2024-02-17,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.0,29.0,10379.0
+2024-02-18,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1.9,32.0,25237.0
+2024-02-19,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,0.4,27.0,6195.0
+2024-02-20,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,0.9,23.0,11233.0
+2024-02-21,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,255.7,32.0,2950136.0
+2024-02-22,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,274.6,30.0,4202479.0
+2024-02-23,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,630.7,27.0,8972380.0
+2024-02-24,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,72.9,25.0,915580.0
+2024-02-25,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1.0,25.0,18017.0
+2024-02-26,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,9.1,19.0,101809.0
+2024-02-27,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,0.6,27.0,7492.0
+2024-02-28,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,0.6,28.0,11009.0
+2024-02-29,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,0.9,24.0,7139.0
+2024-03-01,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,79.9,22.0,959114.0
+2024-03-02,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,31.9,19.0,328318.0
+2024-03-03,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,247.8,17.0,3454187.0
+2024-03-04,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,542.4,34.0,7712251.0
+2024-03-05,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,855.6,38.0,11792526.0
+2024-03-06,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1571.7,31.0,19021236.0
+2024-03-07,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,758.0,33.0,8098590.0
+2024-03-08,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,233.2,33.0,2494118.0
+2024-03-09,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,23.8,4.0,235523.0
+2024-03-10,,6,0,1,0,,,
+2024-03-11,,0,1,0,0,,,
+2024-03-12,,1,1,0,0,,,
+2024-03-13,,2,1,0,0,,,
+2024-03-14,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,488.9,19.0,4743008.0
+2024-03-15,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1189.5,36.0,15496957.0
+2024-03-16,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1687.8,44.0,19086913.0
+2024-03-17,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,22.8,39.0,295751.0
+2024-03-18,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1.0,34.0,11885.0
+2024-03-19,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1.2,29.0,9156.0
+2024-03-20,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1.3,33.0,8351.0
+2024-03-21,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,2.2,27.0,18981.0
+2024-03-22,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,2.4,32.0,23604.0
+2024-03-23,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.6,39.0,12661.0
+2024-03-24,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,7.7,38.0,70453.0
+2024-03-25,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,6.2,34.0,43641.0
+2024-03-26,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,2.4,38.0,18458.0
+2024-03-27,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,2.2,37.0,17839.0
+2024-03-28,017_ZW Conjunto Habitacional Rio Cauca,3,0,0,1,3.5,40.0,22041.0
+2024-03-29,017_ZW Conjunto Habitacional Rio Cauca,4,0,0,1,3.0,35.0,29317.0
+2024-03-30,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,2.3,41.0,14222.0
+2024-03-31,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,853.6,36.0,6502068.0
+2024-04-01,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,957.3,31.0,10042434.0
+2024-04-02,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,2.1,20.0,14802.0
+2024-04-03,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1.6,31.0,14191.0
+2024-04-04,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,84.9,39.0,975897.0
+2024-04-05,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,51.8,33.0,582240.0
+2024-04-06,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,69.5,31.0,836138.0
+2024-04-07,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,16.0,32.0,191672.0
+2024-04-08,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,196.2,34.0,1388903.0
+2024-04-09,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,2.3,35.0,17902.0
+2024-04-10,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,36.8,32.0,156576.0
+2024-04-11,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,8.8,37.0,38747.0
+2024-04-12,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,63.9,37.0,434066.0
+2024-04-13,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,2.6,31.0,22484.0
+2024-04-14,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1.4,26.0,9493.0
+2024-04-15,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,78.7,27.0,315088.0
+2024-04-16,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,148.2,31.0,629601.0
+2024-04-17,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,155.9,25.0,581612.0
+2024-04-18,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,180.8,21.0,526804.0
+2024-04-19,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,318.3,25.0,1291283.0
+2024-04-20,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,90.2,36.0,704871.0
+2024-04-21,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,35.6,37.0,220602.0
+2024-04-22,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,73.4,35.0,341412.0
+2024-04-23,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,397.1,29.0,7289420.0
+2024-04-24,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,200.5,28.0,3682781.0
+2024-04-25,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,11.7,43.0,138950.0
+2024-04-26,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,2.9,31.0,28572.0
+2024-04-27,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,17.1,41.0,208658.0
+2024-04-28,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,12.1,43.0,89318.0
+2024-04-29,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,42.4,29.0,339688.0
+2024-04-30,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,18.2,41.0,114639.0
+2024-05-01,017_ZW Conjunto Habitacional Rio Cauca,2,0,0,1,7.9,36.0,41588.0
+2024-05-02,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,5.1,29.0,25939.0
+2024-05-03,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,170.2,36.0,779663.0
+2024-05-04,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,19.6,32.0,141599.0
+2024-05-05,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,192.3,22.0,1185517.0
+2024-05-06,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,210.7,32.0,1006705.0
+2024-05-07,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,315.6,36.0,1913356.0
+2024-05-08,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1.8,32.0,13895.0
+2024-05-09,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,3.0,32.0,26442.0
+2024-05-10,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,7.9,29.0,62504.0
+2024-05-11,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,19.4,31.0,144365.0
+2024-05-12,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,70.9,14.0,292600.0
+2024-05-13,,0,0,0,1,,,
+2024-05-14,,1,1,0,0,,,
+2024-05-15,,2,1,0,0,,,
+2024-05-16,,3,1,0,0,,,
+2024-05-17,,4,1,0,0,,,
+2024-05-18,,5,0,1,0,,,
+2024-05-19,,6,0,1,0,,,
+2024-05-20,,0,1,0,0,,,
+2024-05-21,,1,1,0,0,,,
+2024-05-22,,2,1,0,0,,,
+2024-05-23,,3,1,0,0,,,
+2024-05-24,,4,1,0,0,,,
+2024-05-25,,5,0,1,0,,,
+2024-05-26,,6,0,1,0,,,
+2024-05-27,,0,1,0,0,,,
+2024-05-28,,1,1,0,0,,,
+2024-05-29,,2,1,0,0,,,
+2024-05-30,,3,1,0,0,,,
+2024-05-31,,4,1,0,0,,,
+2024-06-01,,5,0,1,0,,,
+2024-06-02,,6,0,1,0,,,
+2024-06-03,,0,0,0,1,,,
+2024-06-04,,1,1,0,0,,,
+2024-06-05,,2,1,0,0,,,
+2024-06-06,,3,1,0,0,,,
+2024-06-07,,4,1,0,0,,,
+2024-06-08,,5,0,1,0,,,
+2024-06-09,,6,0,1,0,,,
+2024-06-10,,0,0,0,1,,,
+2024-06-11,,1,1,0,0,,,
+2024-06-12,,2,1,0,0,,,
+2024-06-13,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,172639441.0,33.0,886743.0
+2024-06-14,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,53452532.0,27.0,177843.0
+2024-06-15,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,8838448.0,26.0,49266.0
+2024-06-16,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1702813.0,28.0,9496.0
+2024-06-17,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,151.2,27.0,944854.0
+2024-06-18,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,789.6,28.0,4998557.0
+2024-06-19,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,865.3,26.0,6099953.0
+2024-06-20,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,952.9,23.0,4760125.0
+2024-06-21,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,170.1,32.0,990023.0
+2024-06-22,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,4.3,37.0,22667.0
+2024-06-23,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,5.8,27.0,14658.0
+2024-06-24,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1.4,35.0,7504.0
+2024-06-25,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,3.5,29.0,14000.0
+2024-06-26,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,4.6,32.0,17728.0
+2024-06-27,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,6.8,32.0,22774.0
+2024-06-28,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,2.3,47.0,13304.0
+2024-06-29,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,2.0,36.0,11657.0
+2024-06-30,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,8.2,30.0,37949.0
+2024-07-01,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,8.51,35.0,61239.0
+2024-07-02,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,29.29,31.0,271959.0
+2024-07-03,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,18.19,24.0,152972.0
+2024-07-04,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1109.25,23.0,8802217.0
+2024-07-05,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,182.4,34.0,1554024.0
+2024-07-06,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.56,35.0,13132.0
+2024-07-07,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,0.99,30.0,8694.0
+2024-07-08,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1.53,32.0,8498.0
+2024-07-09,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1.88,33.0,10926.0
+2024-07-10,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,3.41,36.0,23536.0
+2024-07-11,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1.63,31.0,12006.0
+2024-07-12,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1.55,28.0,9801.0
+2024-07-13,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.32,30.0,9327.0
+2024-07-14,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,3.51,30.0,22313.0
+2024-07-15,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,3.26,40.0,18208.0
+2024-07-16,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,3.86,41.0,24253.0
+2024-07-17,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,4.86,36.0,21988.0
+2024-07-18,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1.75,28.0,10424.0
+2024-07-19,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1.76,23.0,12628.0
+2024-07-20,017_ZW Conjunto Habitacional Rio Cauca,5,0,0,1,149.96,31.0,1167942.0
+2024-07-21,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,748.58,38.0,4900231.0
+2024-07-22,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,10.87,34.0,75565.0
+2024-07-23,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,66.54,33.0,460895.0
+2024-07-24,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,298.25,38.0,1885209.0
+2024-07-25,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,0.82,29.0,5192.0
+2024-07-26,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,0.59,26.0,4468.0
+2024-07-27,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1.32,36.0,7733.0
+2024-07-28,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,441.43,52.0,2086041.0
+2024-07-29,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,910.72,40.0,5679497.0
+2024-07-30,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,221.81,34.0,1517784.0
+2024-07-31,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,780.43,31.0,4698503.0
+2024-08-01,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,3.19,31.0,21359.0
+2024-08-02,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1.08,25.0,6499.0
+2024-08-03,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,3.25,43.0,15945.0
+2024-08-04,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,2.73,43.0,17101.0
+2024-08-05,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,2.49,38.0,17260.0
+2024-08-06,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1.26,42.0,13066.0
+2024-08-07,017_ZW Conjunto Habitacional Rio Cauca,2,0,0,1,4.06,55.0,34109.0
+2024-08-08,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1.64,37.0,13041.0
+2024-08-09,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,5.36,38.0,29032.0
+2024-08-10,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,3.29,46.0,17371.0
+2024-08-11,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1.36,46.0,7815.0
+2024-08-12,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,2.36,35.0,11024.0
+2024-08-13,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,2.49,41.0,22016.0
+2024-08-14,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,4.0,44.0,30136.0
+2024-08-15,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,4.29,41.0,28573.0
+2024-08-16,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,3.46,37.0,25362.0
+2024-08-17,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,3.64,42.0,25070.0
+2024-08-18,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1.42,37.0,9359.0
+2024-08-19,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,4.58,37.0,33345.0
+2024-08-20,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,9.77,41.0,39459.0
+2024-08-21,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,7.08,33.0,24324.0
+2024-08-22,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,6.34,26.0,23823.0
+2024-08-23,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,9.82,38.0,24111.0
+2024-08-24,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,8.16,28.0,12037.0
+2024-08-25,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,25.03,34.0,26163.0
+2024-08-26,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,29.24,36.0,21883.0
+2024-08-27,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,28.93,38.0,26951.0
+2024-08-28,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,89.81,39.0,50621.0
+2024-08-29,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,46.22,24.0,16180.0
+2024-08-30,,4,1,0,0,,,
+2024-08-31,,5,0,1,0,,,
+2024-09-01,,6,0,1,0,,,
+2024-09-02,,0,1,0,0,,,
+2024-09-03,,1,1,0,0,,,
+2024-09-04,,2,1,0,0,,,
+2024-09-05,,3,1,0,0,,,
+2024-09-06,,4,1,0,0,,,
+2024-09-07,,5,0,1,0,,,
+2024-09-08,,6,0,1,0,,,
+2024-09-09,,0,1,0,0,,,
+2024-09-10,,1,1,0,0,,,
+2024-09-11,,2,1,0,0,,,
+2024-09-12,,3,1,0,0,,,
+2024-09-13,,4,1,0,0,,,
+2024-09-14,,5,0,1,0,,,
+2024-09-15,,6,0,1,0,,,
+2024-09-16,,0,1,0,0,,,
+2024-09-17,,1,1,0,0,,,
+2024-09-18,,2,1,0,0,,,
+2024-09-19,,3,1,0,0,,,
+2024-09-20,,4,1,0,0,,,
+2024-09-21,,5,0,1,0,,,
+2024-09-22,,6,0,1,0,,,
+2024-09-23,,0,1,0,0,,,
+2024-09-24,,1,1,0,0,,,
+2024-09-25,,2,1,0,0,,,
+2024-09-26,,3,1,0,0,,,
+2024-09-27,,4,1,0,0,,,
+2024-09-28,,5,0,1,0,,,
+2024-09-29,,6,0,1,0,,,
+2024-09-30,,0,1,0,0,,,
+2024-10-01,,1,1,0,0,,,
+2024-10-02,,2,1,0,0,,,
+2024-10-03,,3,1,0,0,,,
+2024-10-04,,4,1,0,0,,,
+2024-10-05,,5,0,1,0,,,
+2024-10-06,,6,0,1,0,,,
+2024-10-07,,0,1,0,0,,,
+2024-10-08,,1,1,0,0,,,
+2024-10-09,,2,1,0,0,,,
+2024-10-10,,3,1,0,0,,,
+2024-10-11,,4,1,0,0,,,
+2024-10-12,,5,0,1,0,,,
+2024-10-13,,6,0,1,0,,,
+2024-10-14,,0,0,0,1,,,
+2024-10-15,,1,1,0,0,,,
+2024-10-16,,2,1,0,0,,,
+2024-10-17,,3,1,0,0,,,
+2024-10-18,,4,1,0,0,,,
+2024-10-19,,5,0,1,0,,,
+2024-10-20,,6,0,1,0,,,
+2024-10-21,,0,1,0,0,,,
+2024-10-22,,1,1,0,0,,,
+2024-10-23,,2,1,0,0,,,
+2024-10-24,,3,1,0,0,,,
+2024-10-25,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,3.37,25.0,15099.0
+2024-10-26,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,0.99,22.0,7679.0
+2024-10-27,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,0.8,25.0,7943.0
+2024-10-28,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,632.67,32.0,3809862.0
+2024-10-29,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,3.0,30.0,19021.0
+2024-10-30,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,2.48,31.0,12164.0
+2024-10-31,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1.85,22.0,8674.0
+2024-11-01,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1.67,22.0,9245.0
+2024-11-02,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,2.08,27.0,12953.0
+2024-11-03,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,3.59,26.0,21094.0
+2024-11-04,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,2.38,21.0,15806.0
+2024-11-05,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,618.06,34.0,4513115.0
+2024-11-06,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,821.87,17.0,5146234.0
+2024-11-07,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,47.93,31.0,426285.0
+2024-11-08,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,336.1,33.0,4156374.0
+2024-11-09,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,561.82,46.0,9354856.0
+2024-11-10,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,589.96,38.0,11428540.0
+2024-11-11,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,723.88,42.0,12712978.0
+2024-11-12,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,551.83,38.0,10548167.0
+2024-11-13,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,303.76,41.0,4921206.0
+2024-11-14,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,201.31,44.0,3864469.0
+2024-11-15,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,266.18,46.0,4848854.0
+2024-11-16,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,189.03,47.0,3480631.0
+2024-11-17,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,270.68,48.0,4650115.0
+2024-11-18,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,697.17,36.0,11206463.0
+2024-11-19,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,274.85,37.0,4391010.0
+2024-11-20,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,228.59,39.0,4362194.0
+2024-11-21,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,499.07,40.0,9011231.0
+2024-11-22,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,636.91,44.0,12857743.0
+2024-11-23,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,742.51,47.0,14229666.0
+2024-11-24,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,526.6,46.0,3898821.0
+2024-11-25,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,399.42,33.0,1642704.0
+2024-11-26,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,262.18,25.0,2064735.0
+2024-11-27,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,454.34,42.0,8823632.0
+2024-11-28,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,528.7,48.0,11132093.0
+2024-11-29,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,578.59,43.0,12858883.0
+2024-11-30,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,333.1,49.0,7592456.0
+2024-12-01,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,476.24,52.0,11509048.0
+2024-12-02,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1005.43,53.0,20979143.0
+2024-12-03,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,765.77,54.0,14297472.0
+2024-12-04,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,912.4,49.0,21073215.0
+2024-12-05,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1103.2,52.0,25309490.0
+2024-12-06,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1128.7,52.0,25377148.0
+2024-12-07,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,925.92,55.0,18995441.0
+2024-12-08,017_ZW Conjunto Habitacional Rio Cauca,6,0,0,1,796.19,67.0,21143660.0
+2024-12-09,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,743.11,56.0,20042166.0
+2024-12-10,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,828.83,56.0,25100461.0
+2024-12-11,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,853.46,64.0,25733486.0
+2024-12-12,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,840.05,63.0,28826140.0
+2024-12-13,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,798.96,60.0,27105625.0
+2024-12-14,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1138.9,63.0,34595593.0
+2024-12-15,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1096.17,77.0,32475264.0
+2024-12-16,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,941.66,67.0,31315683.0
+2024-12-17,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,683.0,69.0,20989474.0
+2024-12-18,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,848.0,71.0,26755124.0
+2024-12-19,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,850.0,66.0,24181128.0
+2024-12-20,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,928.0,71.0,28166765.0
+2024-12-21,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,910.0,75.0,23729410.0
+2024-12-22,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,954.0,81.0,30572598.0
+2024-12-23,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1240.0,72.0,31037792.0
+2024-12-24,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1190.0,72.0,28345662.0
+2024-12-25,017_ZW Conjunto Habitacional Rio Cauca,2,0,0,1,931.0,76.0,26292664.0
+2024-12-26,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1020.0,73.0,27775747.0
+2024-12-27,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,762.0,70.0,24830755.0
+2024-12-28,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,591.0,52.0,13903449.0
+2024-12-29,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,626.0,51.0,20234761.0
+2024-12-30,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,521.0,59.0,12750442.0
+2024-12-31,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,980.0,68.0,18200180.0
+2025-01-01,017_ZW Conjunto Habitacional Rio Cauca,2,0,0,1,1284.0,69.0,18844157.0
+2025-01-02,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,616.0,59.0,17151656.0
+2025-01-03,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,525.0,56.0,14054038.0
+2025-01-04,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,808.0,55.0,21779561.0
+2025-01-05,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1130.0,66.0,36995487.0
+2025-01-06,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,789.0,77.0,29511874.0
+2025-01-07,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,592.0,74.0,19598113.0
+2025-01-08,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,557.0,88.0,19239013.0
+2025-01-09,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,518.0,83.0,18074822.0
+2025-01-10,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,522.0,70.0,18873003.0
+2025-01-11,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,670.0,94.0,22870536.0
+2025-01-12,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,609.0,72.0,22798526.0
+2025-01-13,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,521.0,67.0,15646993.0
+2025-01-14,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,681.0,72.0,20647090.0
+2025-01-15,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,421.0,59.0,12145507.0
+2025-01-16,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,479.0,60.0,15072202.0
+2025-01-17,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,832.0,67.0,25356865.0
+2025-01-18,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1011.0,81.0,30644880.0
+2025-01-19,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,506.0,70.0,16417269.0
+2025-01-20,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,703.0,67.0,22722943.0
+2025-01-21,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,715.0,84.0,25756960.0
+2025-01-22,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,639.0,87.0,21427243.0
+2025-01-23,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,841.0,77.0,33704154.0
+2025-01-24,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,948.0,86.0,31587546.0
+2025-01-25,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,507.0,80.0,18827462.0
+2025-01-26,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,861.0,80.0,33862736.0
+2025-01-27,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,585.0,69.0,22174801.0
+2025-01-28,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,518.0,81.0,17089844.0
+2025-01-29,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,666.0,77.0,24146417.0
+2025-01-30,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,652.0,85.0,17706501.0
+2025-01-31,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,339.0,80.0,6246617.0
+2025-02-01,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,519.0,80.0,14697494.0
+2025-02-02,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,698.0,89.0,23608532.0
+2025-02-03,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,822.0,72.0,21224777.0
+2025-02-04,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,816.0,74.0,23009109.0
+2025-02-05,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,350.0,38.0,8497880.0
+2025-02-06,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,860.0,65.0,23296378.0
+2025-02-07,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,813.0,66.0,23828721.0
+2025-02-08,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1028.0,66.0,27492395.0
+2025-02-09,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,726.0,90.0,23049004.0
+2025-02-10,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,868.0,71.0,22843302.0
+2025-02-11,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,804.0,73.0,23865698.0
+2025-02-12,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,897.0,83.0,29570286.0
+2025-02-13,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,812.0,59.0,17280111.0
+2025-02-14,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,597.0,76.0,19943628.0
+2025-02-15,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,566.0,73.0,15678527.0
+2025-02-16,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,527.0,70.0,15992033.0
+2025-02-17,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,773.0,69.0,21775314.0
+2025-02-18,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,718.0,74.0,20173169.0
+2025-02-19,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,861.0,74.0,27039454.0
+2025-02-20,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,567.0,72.0,19985673.0
+2025-02-21,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,519.0,69.0,15120387.0
+2025-02-22,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,806.0,89.0,22906365.0
+2025-02-23,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,338.0,75.0,11622225.0
+2025-02-24,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,590.0,67.0,14335309.0
+2025-02-25,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,689.0,65.0,21447000.0
+2025-02-26,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,443.0,67.0,12254195.0
+2025-02-27,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,530.0,65.0,15188580.0
+2025-02-28,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,873.0,72.0,24617865.0
+2025-03-01,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,520.0,71.0,13814182.0
+2025-03-02,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,525.0,72.0,17819039.0
+2025-03-03,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1113.0,70.0,29698188.0
+2025-03-04,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,976.0,57.0,21568570.0
+2025-03-05,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,880.0,70.0,24871872.0
+2025-03-06,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,649.0,86.0,20205923.0
+2025-03-07,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,849.0,71.0,23619715.0
+2025-03-08,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1099.0,87.0,37901971.0
+2025-03-09,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,870.0,78.0,27892852.0
+2025-03-10,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,795.0,81.0,27495548.0
+2025-03-11,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1010.0,72.0,22498219.0
+2025-03-12,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1338.0,78.0,39555306.0
+2025-03-13,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,804.0,63.0,19488998.0
+2025-03-14,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1080.0,75.0,31970002.0
+2025-03-15,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1049.0,83.0,32635782.0
+2025-03-16,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,798.0,87.0,24714160.0
+2025-03-17,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1295.0,83.0,37745821.0
+2025-03-18,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1035.0,74.0,34180095.0
+2025-03-19,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1390.0,80.0,38652948.0
+2025-03-20,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1257.0,78.0,39019453.0
+2025-03-21,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1215.0,69.0,44773641.0
+2025-03-22,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,884.0,74.0,26877002.0
+2025-03-23,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,891.0,88.0,28750257.0
+2025-03-24,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,1067.0,93.0,43186448.0
+2025-03-25,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,1234.0,72.0,42476138.0
+2025-03-26,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1033.0,71.0,32040832.0
+2025-03-27,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1068.0,73.0,38630241.0
+2025-03-28,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1165.0,78.0,28123145.0
+2025-03-29,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,513.0,50.0,16399652.0
+2025-03-30,,6,0,1,0,,,
+2025-03-31,,0,1,0,0,,,
+2025-04-01,,1,1,0,0,,,
+2025-04-02,,2,1,0,0,,,
+2025-04-03,,3,1,0,0,,,
+2025-04-04,,4,1,0,0,,,
+2025-04-05,,5,0,1,0,,,
+2025-04-06,,6,0,1,0,,,
+2025-04-07,,0,1,0,0,,,
+2025-04-08,,1,1,0,0,,,
+2025-04-09,,2,1,0,0,,,
+2025-04-10,,3,1,0,0,,,
+2025-04-11,,4,1,0,0,,,
+2025-04-12,,5,0,1,0,,,
+2025-04-13,,6,0,1,0,,,
+2025-04-14,,0,1,0,0,,,
+2025-04-15,,1,1,0,0,,,
+2025-04-16,,2,1,0,0,,,
+2025-04-17,,3,0,0,1,,,
+2025-04-18,,4,0,0,1,,,
+2025-04-19,,5,0,1,0,,,
+2025-04-20,,6,0,1,0,,,
+2025-04-21,,0,1,0,0,,,
+2025-04-22,,1,1,0,0,,,
+2025-04-23,,2,1,0,0,,,
+2025-04-24,,3,1,0,0,,,
+2025-04-25,,4,1,0,0,,,
+2025-04-26,,5,0,1,0,,,
+2025-04-27,,6,0,1,0,,,
+2025-04-28,,0,1,0,0,,,
+2025-04-29,,1,1,0,0,,,
+2025-04-30,,2,1,0,0,,,
+2025-05-01,,3,0,0,1,,,
+2025-05-02,,4,1,0,0,,,
+2025-05-03,,5,0,1,0,,,
+2025-05-04,,6,0,1,0,,,
+2025-05-05,,0,1,0,0,,,
+2025-05-06,,1,1,0,0,,,
+2025-05-07,,2,1,0,0,,,
+2025-05-08,,3,1,0,0,,,
+2025-05-09,,4,1,0,0,,,
+2025-05-10,,5,0,1,0,,,
+2025-05-11,,6,0,1,0,,,
+2025-05-12,,0,1,0,0,,,
+2025-05-13,,1,1,0,0,,,
+2025-05-14,,2,1,0,0,,,
+2025-05-15,,3,1,0,0,,,
+2025-05-16,,4,1,0,0,,,
+2025-05-17,,5,0,1,0,,,
+2025-05-18,,6,0,1,0,,,
+2025-05-19,,0,1,0,0,,,
+2025-05-20,,1,1,0,0,,,
+2025-05-21,,2,1,0,0,,,
+2025-05-22,,3,1,0,0,,,
+2025-05-23,,4,1,0,0,,,
+2025-05-24,,5,0,1,0,,,
+2025-05-25,,6,0,1,0,,,
+2025-05-26,,0,1,0,0,,,
+2025-05-27,,1,1,0,0,,,
+2025-05-28,,2,1,0,0,,,
+2025-05-29,,3,1,0,0,,,
+2025-05-30,,4,1,0,0,,,
+2025-05-31,,5,0,1,0,,,
+2025-06-01,,6,0,1,0,,,
+2025-06-02,,0,0,0,1,,,
+2025-06-03,,1,1,0,0,,,
+2025-06-04,,2,1,0,0,,,
+2025-06-05,,3,1,0,0,,,
+2025-06-06,,4,1,0,0,,,
+2025-06-07,,5,0,1,0,,,
+2025-06-08,,6,0,1,0,,,
+2025-06-09,,0,1,0,0,,,
+2025-06-10,,1,1,0,0,,,
+2025-06-11,,2,1,0,0,,,
+2025-06-12,,3,1,0,0,,,
+2025-06-13,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,167.0,47.0,4507781.0
+2025-06-14,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,299.0,51.0,9644224.0
+2025-06-15,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,141.0,43.0,4618241.0
+2025-06-16,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,425.0,44.0,13128652.0
+2025-06-17,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,631.0,55.0,19554158.0
+2025-06-18,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,681.0,49.0,23432720.0
+2025-06-19,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,982.0,49.0,31907378.0
+2025-06-20,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,666.0,57.0,24281295.0
+2025-06-21,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1012.0,55.0,33250220.0
+2025-06-22,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1060.0,44.0,28747670.0
+2025-06-23,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,672.0,60.0,25770419.0
+2025-06-24,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,772.0,52.0,28123291.0
+2025-06-25,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,920.0,53.0,30992354.0
+2025-06-26,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,740.0,55.0,22470455.0
+2025-06-27,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,598.0,57.0,20483210.0
+2025-06-28,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,953.0,63.0,31735860.0
+2025-06-29,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,581.0,64.0,20250462.0
+2025-06-30,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,908.0,61.0,29255919.0
+2025-07-01,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,371.23,56.0,13185341.0
+2025-07-02,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,635.39,58.0,22560200.0
+2025-07-03,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,721.9,71.0,23695370.0
+2025-07-04,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,548.41,59.0,19785672.0
+2025-07-05,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,498.8,53.0,18283848.0
+2025-07-06,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,482.73,61.0,18662187.0
+2025-07-07,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,452.47,62.0,15434612.0
+2025-07-08,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,630.32,75.0,23399173.0
+2025-07-09,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,633.62,71.0,21669898.0
+2025-07-10,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,561.7,67.0,19821255.0
+2025-07-11,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,1051.18,60.0,33425999.0
+2025-07-12,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,729.56,66.0,29722966.0
+2025-07-13,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,737.66,78.0,28431260.0
+2025-07-14,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,914.88,67.0,33795068.0
+2025-07-15,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,747.3,67.0,29017413.0
+2025-07-16,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,622.48,69.0,24911817.0
+2025-07-17,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,845.64,66.0,31344412.0
+2025-07-18,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,773.85,65.0,27042158.0
+2025-07-19,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,917.98,81.0,36127094.0
+2025-07-20,017_ZW Conjunto Habitacional Rio Cauca,6,0,0,1,630.61,62.0,26798578.0
+2025-07-21,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,731.45,70.0,23973066.0
+2025-07-22,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,777.69,62.0,29131263.0
+2025-07-23,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,784.96,68.0,28121373.0
+2025-07-24,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,737.66,78.0,28431260.0
+2025-07-25,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,732.78,63.0,22905163.0
+2025-07-26,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,782.98,67.0,30748794.0
+2025-07-27,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,692.15,72.0,25154782.0
+2025-07-28,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,767.51,80.0,25842565.0
+2025-07-29,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,610.72,80.0,25146419.0
+2025-07-30,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,534.87,70.0,18736332.0
+2025-07-31,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,417.51,67.0,15052387.0
+2025-08-01,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,691.6,76.0,24029588.0
+2025-08-02,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,757.2,78.0,26698251.0
+2025-08-03,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,549.3,71.0,20100709.0
+2025-08-04,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,650.21,71.0,19493965.0
+2025-08-05,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,540.92,63.0,17908186.0
+2025-08-06,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,596.33,70.0,19466418.0
+2025-08-07,017_ZW Conjunto Habitacional Rio Cauca,3,0,0,1,603.05,63.0,17738798.0
+2025-08-08,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,505.83,74.0,19641419.0
+2025-08-09,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,614.5,66.0,22805383.0
+2025-08-10,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,673.26,73.0,27982645.0
+2025-08-11,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,792.15,74.0,30460663.0
+2025-08-12,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,871.1,74.0,35714203.0
+2025-08-13,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,800.24,66.0,26441219.0
+2025-08-14,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,688.48,73.0,25987611.0
+2025-08-15,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,730.14,82.0,24374357.0
+2025-08-16,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,866.5,83.0,32711184.0
+2025-08-17,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,772.1,84.0,29793796.0
+2025-08-18,017_ZW Conjunto Habitacional Rio Cauca,0,0,0,1,675.28,76.0,26077734.0
+2025-08-19,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,496.22,77.0,18392157.0
+2025-08-20,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,453.91,74.0,17770580.0
+2025-08-21,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,677.69,84.0,27596436.0
+2025-08-22,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,594.53,80.0,21341831.0
+2025-08-23,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,437.06,73.0,16545463.0
+2025-08-24,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,650.78,81.0,27318787.0
+2025-08-25,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,1114.59,72.0,43257506.0
+2025-08-26,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,546.06,81.0,22622701.0
+2025-08-27,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,1008.86,77.0,35369229.0
+2025-08-28,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,701.57,83.0,31183765.0
+2025-08-29,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,729.5,80.0,27286366.0
+2025-08-30,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1066.64,84.0,44778566.0
+2025-08-31,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,979.49,82.0,38822422.0
+2025-09-01,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,972.34,82.0,31576811.0
+2025-09-02,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,847.62,74.0,30983553.0
+2025-09-03,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,966.66,77.0,36846985.0
+2025-09-04,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,845.07,78.0,37167694.0
+2025-09-05,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,792.6,80.0,31327899.0
+2025-09-06,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,1074.79,81.0,44348869.0
+2025-09-07,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,1098.26,74.0,51392255.0
+2025-09-08,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,904.15,86.0,40378270.0
+2025-09-09,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,803.56,80.0,35548021.0
+2025-09-10,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,840.4,89.0,36424039.0
+2025-09-11,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,1041.27,90.0,44957609.0
+2025-09-12,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,592.69,78.0,27745135.0
+2025-09-13,017_ZW Conjunto Habitacional Rio Cauca,5,0,1,0,683.23,84.0,31537055.0
+2025-09-14,017_ZW Conjunto Habitacional Rio Cauca,6,0,1,0,564.47,84.0,28205980.0
+2025-09-15,017_ZW Conjunto Habitacional Rio Cauca,0,1,0,0,778.95,101.0,37906030.0
+2025-09-16,017_ZW Conjunto Habitacional Rio Cauca,1,1,0,0,803.99,91.0,39322065.0
+2025-09-17,017_ZW Conjunto Habitacional Rio Cauca,2,1,0,0,739.46,96.0,29395583.0
+2025-09-18,017_ZW Conjunto Habitacional Rio Cauca,3,1,0,0,794.18,90.0,30871595.0
+2025-09-19,017_ZW Conjunto Habitacional Rio Cauca,4,1,0,0,112.61,17.0,4938884.0

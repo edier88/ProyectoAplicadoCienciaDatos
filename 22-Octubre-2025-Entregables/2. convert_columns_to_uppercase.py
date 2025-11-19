@@ -22,8 +22,8 @@ def parse_args():
     )
     parser.add_argument(
         "--input", "-i", 
-        default="csv-zonas-wifi-agrupados-sumados",
-        help="Carpeta de entrada con archivos CSV (default: csv-zonas-wifi-agrupados-sumados)"
+        default="csv-zonas-wifi-1AP-todas-las-columnas",
+        help="Carpeta de entrada con archivos CSV (default: csv-zonas-wifi-1AP-todas-las-columnas)"
     )
     parser.add_argument(
         "--backup", "-b",

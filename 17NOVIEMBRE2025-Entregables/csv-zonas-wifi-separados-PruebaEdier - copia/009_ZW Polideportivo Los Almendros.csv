@@ -1,0 +1,307 @@
+FECHA_CONEXION,NOMBRE_ZONA,DIA_SEMANA,LABORAL,FIN_DE_SEMANA,FESTIVO,PORCENTAJE_USO,NUMERO_CONEXIONES,USAGE_KB
+2024-11-29,009_ZW Polideportivo Los Almendros,4,1,0,0,0.35,19.0,7766.0
+2024-11-30,009_ZW Polideportivo Los Almendros,5,0,1,0,0.03,20.0,598.0
+2024-12-01,009_ZW Polideportivo Los Almendros,6,0,1,0,0.17,18.0,4083.0
+2024-12-02,009_ZW Polideportivo Los Almendros,0,1,0,0,1.12,12.0,23389.0
+2024-12-03,009_ZW Polideportivo Los Almendros,1,1,0,0,0.02,22.0,293.0
+2024-12-04,009_ZW Polideportivo Los Almendros,2,1,0,0,2.09,38.0,48209.0
+2024-12-05,009_ZW Polideportivo Los Almendros,3,1,0,0,2.15,39.0,49400.0
+2024-12-06,009_ZW Polideportivo Los Almendros,4,1,0,0,1.85,20.0,41701.0
+2024-12-07,009_ZW Polideportivo Los Almendros,5,0,1,0,0.3,17.0,6088.0
+2024-12-08,009_ZW Polideportivo Los Almendros,6,0,0,1,0.0,13.0,94.0
+2024-12-09,009_ZW Polideportivo Los Almendros,0,1,0,0,5.95,43.0,160589.0
+2024-12-10,009_ZW Polideportivo Los Almendros,1,1,0,0,13.97,40.0,423064.0
+2024-12-11,009_ZW Polideportivo Los Almendros,2,1,0,0,0.02,17.0,570.0
+2024-12-12,009_ZW Polideportivo Los Almendros,3,1,0,0,0.48,22.0,16398.0
+2024-12-13,009_ZW Polideportivo Los Almendros,4,1,0,0,0.48,22.0,16400.0
+2024-12-14,009_ZW Polideportivo Los Almendros,5,0,1,0,73.59,37.0,2235423.0
+2024-12-15,009_ZW Polideportivo Los Almendros,6,0,1,0,58.34,23.0,1728481.0
+2024-12-16,009_ZW Polideportivo Los Almendros,0,1,0,0,65.94,33.0,2192920.0
+2024-12-17,009_ZW Polideportivo Los Almendros,1,1,0,0,22.2,25.0,680726.0
+2024-12-18,009_ZW Polideportivo Los Almendros,2,1,0,0,133.0,24.0,4197739.0
+2024-12-19,009_ZW Polideportivo Los Almendros,3,1,0,0,28.1,27.0,799694.0
+2024-12-20,009_ZW Polideportivo Los Almendros,4,1,0,0,25.4,29.0,770694.0
+2024-12-21,009_ZW Polideportivo Los Almendros,5,0,1,0,0.82,31.0,21415.0
+2024-12-22,009_ZW Polideportivo Los Almendros,6,0,1,0,16.4,27.0,525370.0
+2024-12-23,009_ZW Polideportivo Los Almendros,0,1,0,0,18.2,19.0,456241.0
+2024-12-24,009_ZW Polideportivo Los Almendros,1,1,0,0,0.0,3.0,101.0
+2024-12-25,009_ZW Polideportivo Los Almendros,2,0,0,1,11.0,12.0,311364.0
+2024-12-26,009_ZW Polideportivo Los Almendros,3,1,0,0,67.1,51.0,1835923.0
+2024-12-27,009_ZW Polideportivo Los Almendros,4,1,0,0,17.9,20.0,583787.0
+2024-12-28,009_ZW Polideportivo Los Almendros,5,0,1,0,1.06,7.0,24838.0
+2024-12-29,009_ZW Polideportivo Los Almendros,6,0,1,0,11.3,20.0,365002.0
+2024-12-30,009_ZW Polideportivo Los Almendros,0,1,0,0,5.32,8.0,130031.0
+2024-12-31,009_ZW Polideportivo Los Almendros,1,1,0,0,0.04,12.0,700.0
+2025-01-01,009_ZW Polideportivo Los Almendros,2,0,0,1,0.0,3.0,28.0
+2025-01-02,009_ZW Polideportivo Los Almendros,3,1,0,0,23.0,22.0,637832.0
+2025-01-03,009_ZW Polideportivo Los Almendros,4,1,0,0,12.0,14.0,310776.0
+2025-01-04,009_ZW Polideportivo Los Almendros,5,0,1,0,20.0,20.0,531639.0
+2025-01-05,009_ZW Polideportivo Los Almendros,6,0,1,0,20.0,23.0,644421.0
+2025-01-06,009_ZW Polideportivo Los Almendros,0,0,0,1,36.0,29.0,1331133.0
+2025-01-07,009_ZW Polideportivo Los Almendros,1,1,0,0,5.0,13.0,176117.0
+2025-01-08,009_ZW Polideportivo Los Almendros,2,1,0,0,6.0,16.0,215633.0
+2025-01-09,009_ZW Polideportivo Los Almendros,3,1,0,0,6.0,21.0,199983.0
+2025-01-10,009_ZW Polideportivo Los Almendros,4,1,0,0,37.0,20.0,1348821.0
+2025-01-11,009_ZW Polideportivo Los Almendros,5,0,1,0,30.0,27.0,1011907.0
+2025-01-12,009_ZW Polideportivo Los Almendros,6,0,1,0,30.0,26.0,1119685.0
+2025-01-13,009_ZW Polideportivo Los Almendros,0,1,0,0,19.0,33.0,582632.0
+2025-01-14,009_ZW Polideportivo Los Almendros,1,1,0,0,24.0,23.0,717337.0
+2025-01-15,009_ZW Polideportivo Los Almendros,2,1,0,0,51.0,18.0,1476905.0
+2025-01-16,009_ZW Polideportivo Los Almendros,3,1,0,0,26.0,18.0,830523.0
+2025-01-17,009_ZW Polideportivo Los Almendros,4,1,0,0,55.0,22.0,1667762.0
+2025-01-18,009_ZW Polideportivo Los Almendros,5,0,1,0,46.0,21.0,1385055.0
+2025-01-19,009_ZW Polideportivo Los Almendros,6,0,1,0,27.0,27.0,869227.0
+2025-01-20,009_ZW Polideportivo Los Almendros,0,1,0,0,25.0,26.0,801548.0
+2025-01-21,009_ZW Polideportivo Los Almendros,1,1,0,0,11.0,13.0,413823.0
+2025-01-22,009_ZW Polideportivo Los Almendros,2,1,0,0,13.0,23.0,439086.0
+2025-01-23,009_ZW Polideportivo Los Almendros,3,1,0,0,58.0,23.0,2312256.0
+2025-01-24,009_ZW Polideportivo Los Almendros,4,1,0,0,0.0,1.0,4.0
+2025-01-25,009_ZW Polideportivo Los Almendros,5,0,1,0,0.0,12.0,14436.0
+2025-01-26,009_ZW Polideportivo Los Almendros,6,0,1,0,7.0,17.0,259211.0
+2025-01-27,009_ZW Polideportivo Los Almendros,0,1,0,0,17.0,28.0,635922.0
+2025-01-28,009_ZW Polideportivo Los Almendros,1,1,0,0,28.0,23.0,917956.0
+2025-01-29,009_ZW Polideportivo Los Almendros,2,1,0,0,28.0,35.0,1032577.0
+2025-01-30,009_ZW Polideportivo Los Almendros,3,1,0,0,22.0,16.0,609496.0
+2025-01-31,009_ZW Polideportivo Los Almendros,4,1,0,0,35.0,23.0,653485.0
+2025-02-01,009_ZW Polideportivo Los Almendros,5,0,1,0,1.0,15.0,24194.0
+2025-02-02,009_ZW Polideportivo Los Almendros,6,0,1,0,6.0,19.0,186188.0
+2025-02-03,009_ZW Polideportivo Los Almendros,0,1,0,0,19.0,27.0,488235.0
+2025-02-04,009_ZW Polideportivo Los Almendros,1,1,0,0,61.0,23.0,1710583.0
+2025-02-05,009_ZW Polideportivo Los Almendros,2,1,0,0,38.0,26.0,917810.0
+2025-02-06,009_ZW Polideportivo Los Almendros,3,1,0,0,5.0,15.0,144537.0
+2025-02-07,009_ZW Polideportivo Los Almendros,4,1,0,0,3.0,17.0,75839.0
+2025-02-08,009_ZW Polideportivo Los Almendros,5,0,1,0,9.0,11.0,238428.0
+2025-02-09,009_ZW Polideportivo Los Almendros,6,0,1,0,8.0,22.0,262186.0
+2025-02-10,009_ZW Polideportivo Los Almendros,0,1,0,0,6.0,30.0,158420.0
+2025-02-11,009_ZW Polideportivo Los Almendros,1,1,0,0,19.0,26.0,563448.0
+2025-02-12,009_ZW Polideportivo Los Almendros,2,1,0,0,14.0,23.0,461995.0
+2025-02-13,009_ZW Polideportivo Los Almendros,3,1,0,0,4.0,18.0,93184.0
+2025-02-14,009_ZW Polideportivo Los Almendros,4,1,0,0,18.0,31.0,592805.0
+2025-02-15,009_ZW Polideportivo Los Almendros,5,0,1,0,62.0,24.0,1707741.0
+2025-02-16,009_ZW Polideportivo Los Almendros,6,0,1,0,5.0,20.0,145424.0
+2025-02-17,009_ZW Polideportivo Los Almendros,0,1,0,0,6.0,26.0,171067.0
+2025-02-18,009_ZW Polideportivo Los Almendros,1,1,0,0,9.0,20.0,239982.0
+2025-02-19,009_ZW Polideportivo Los Almendros,2,1,0,0,7.0,11.0,224353.0
+2025-02-20,,3,1,0,0,,,
+2025-02-21,,4,1,0,0,,,
+2025-02-22,,5,0,1,0,,,
+2025-02-23,,6,0,1,0,,,
+2025-02-24,,0,1,0,0,,,
+2025-02-25,,1,1,0,0,,,
+2025-02-26,,2,1,0,0,,,
+2025-02-27,,3,1,0,0,,,
+2025-02-28,,4,1,0,0,,,
+2025-03-01,,5,0,1,0,,,
+2025-03-02,,6,0,1,0,,,
+2025-03-03,,0,1,0,0,,,
+2025-03-04,,1,1,0,0,,,
+2025-03-05,,2,1,0,0,,,
+2025-03-06,,3,1,0,0,,,
+2025-03-07,,4,1,0,0,,,
+2025-03-08,,5,0,1,0,,,
+2025-03-09,,6,0,1,0,,,
+2025-03-10,,0,1,0,0,,,
+2025-03-11,,1,1,0,0,,,
+2025-03-12,,2,1,0,0,,,
+2025-03-13,,3,1,0,0,,,
+2025-03-14,,4,1,0,0,,,
+2025-03-15,,5,0,1,0,,,
+2025-03-16,,6,0,1,0,,,
+2025-03-17,,0,1,0,0,,,
+2025-03-18,,1,1,0,0,,,
+2025-03-19,,2,1,0,0,,,
+2025-03-20,,3,1,0,0,,,
+2025-03-21,,4,1,0,0,,,
+2025-03-22,,5,0,1,0,,,
+2025-03-23,,6,0,1,0,,,
+2025-03-24,,0,0,0,1,,,
+2025-03-25,,1,1,0,0,,,
+2025-03-26,,2,1,0,0,,,
+2025-03-27,,3,1,0,0,,,
+2025-03-28,,4,1,0,0,,,
+2025-03-29,,5,0,1,0,,,
+2025-03-30,,6,0,1,0,,,
+2025-03-31,,0,1,0,0,,,
+2025-04-01,,1,1,0,0,,,
+2025-04-02,,2,1,0,0,,,
+2025-04-03,,3,1,0,0,,,
+2025-04-04,,4,1,0,0,,,
+2025-04-05,,5,0,1,0,,,
+2025-04-06,,6,0,1,0,,,
+2025-04-07,,0,1,0,0,,,
+2025-04-08,,1,1,0,0,,,
+2025-04-09,,2,1,0,0,,,
+2025-04-10,,3,1,0,0,,,
+2025-04-11,,4,1,0,0,,,
+2025-04-12,,5,0,1,0,,,
+2025-04-13,,6,0,1,0,,,
+2025-04-14,,0,1,0,0,,,
+2025-04-15,,1,1,0,0,,,
+2025-04-16,,2,1,0,0,,,
+2025-04-17,,3,0,0,1,,,
+2025-04-18,,4,0,0,1,,,
+2025-04-19,,5,0,1,0,,,
+2025-04-20,,6,0,1,0,,,
+2025-04-21,,0,1,0,0,,,
+2025-04-22,,1,1,0,0,,,
+2025-04-23,,2,1,0,0,,,
+2025-04-24,,3,1,0,0,,,
+2025-04-25,,4,1,0,0,,,
+2025-04-26,,5,0,1,0,,,
+2025-04-27,,6,0,1,0,,,
+2025-04-28,,0,1,0,0,,,
+2025-04-29,,1,1,0,0,,,
+2025-04-30,,2,1,0,0,,,
+2025-05-01,,3,0,0,1,,,
+2025-05-02,,4,1,0,0,,,
+2025-05-03,,5,0,1,0,,,
+2025-05-04,,6,0,1,0,,,
+2025-05-05,,0,1,0,0,,,
+2025-05-06,,1,1,0,0,,,
+2025-05-07,,2,1,0,0,,,
+2025-05-08,,3,1,0,0,,,
+2025-05-09,,4,1,0,0,,,
+2025-05-10,,5,0,1,0,,,
+2025-05-11,,6,0,1,0,,,
+2025-05-12,,0,1,0,0,,,
+2025-05-13,,1,1,0,0,,,
+2025-05-14,,2,1,0,0,,,
+2025-05-15,,3,1,0,0,,,
+2025-05-16,,4,1,0,0,,,
+2025-05-17,,5,0,1,0,,,
+2025-05-18,,6,0,1,0,,,
+2025-05-19,,0,1,0,0,,,
+2025-05-20,,1,1,0,0,,,
+2025-05-21,,2,1,0,0,,,
+2025-05-22,,3,1,0,0,,,
+2025-05-23,,4,1,0,0,,,
+2025-05-24,,5,0,1,0,,,
+2025-05-25,,6,0,1,0,,,
+2025-05-26,,0,1,0,0,,,
+2025-05-27,,1,1,0,0,,,
+2025-05-28,,2,1,0,0,,,
+2025-05-29,,3,1,0,0,,,
+2025-05-30,,4,1,0,0,,,
+2025-05-31,,5,0,1,0,,,
+2025-06-01,,6,0,1,0,,,
+2025-06-02,,0,0,0,1,,,
+2025-06-03,,1,1,0,0,,,
+2025-06-04,,2,1,0,0,,,
+2025-06-05,,3,1,0,0,,,
+2025-06-06,,4,1,0,0,,,
+2025-06-07,,5,0,1,0,,,
+2025-06-08,,6,0,1,0,,,
+2025-06-09,,0,1,0,0,,,
+2025-06-10,,1,1,0,0,,,
+2025-06-11,,2,1,0,0,,,
+2025-06-12,,3,1,0,0,,,
+2025-06-13,,4,1,0,0,,,
+2025-06-14,,5,0,1,0,,,
+2025-06-15,,6,0,1,0,,,
+2025-06-16,,0,1,0,0,,,
+2025-06-17,,1,1,0,0,,,
+2025-06-18,,2,1,0,0,,,
+2025-06-19,,3,1,0,0,,,
+2025-06-20,,4,1,0,0,,,
+2025-06-21,,5,0,1,0,,,
+2025-06-22,,6,0,1,0,,,
+2025-06-23,,0,0,0,1,,,
+2025-06-24,,1,1,0,0,,,
+2025-06-25,009_ZW Polideportivo Los Almendros,2,1,0,0,13.0,24.0,439875.0
+2025-06-26,009_ZW Polideportivo Los Almendros,3,1,0,0,17.0,30.0,528382.0
+2025-06-27,009_ZW Polideportivo Los Almendros,4,1,0,0,54.0,28.0,1855499.0
+2025-06-28,009_ZW Polideportivo Los Almendros,5,0,1,0,7.0,32.0,237236.0
+2025-06-29,009_ZW Polideportivo Los Almendros,6,0,1,0,47.0,29.0,1650752.0
+2025-06-30,009_ZW Polideportivo Los Almendros,0,0,0,1,1.0,15.0,41536.0
+2025-07-01,009_ZW Polideportivo Los Almendros,1,1,0,0,14.02,37.0,497824.0
+2025-07-02,009_ZW Polideportivo Los Almendros,2,1,0,0,50.01,46.0,1775663.0
+2025-07-03,009_ZW Polideportivo Los Almendros,3,1,0,0,10.71,26.0,351680.0
+2025-07-04,009_ZW Polideportivo Los Almendros,4,1,0,0,33.79,47.0,1218985.0
+2025-07-05,009_ZW Polideportivo Los Almendros,5,0,1,0,21.45,37.0,786253.0
+2025-07-06,009_ZW Polideportivo Los Almendros,6,0,1,0,116.23,28.0,4493623.0
+2025-07-07,009_ZW Polideportivo Los Almendros,0,1,0,0,43.22,59.0,1474260.0
+2025-07-08,009_ZW Polideportivo Los Almendros,1,1,0,0,37.11,38.0,1377583.0
+2025-07-09,009_ZW Polideportivo Los Almendros,2,1,0,0,24.03,44.0,821944.0
+2025-07-10,009_ZW Polideportivo Los Almendros,3,1,0,0,68.16,44.0,2405277.0
+2025-07-11,009_ZW Polideportivo Los Almendros,4,1,0,0,76.52,29.0,2433123.0
+2025-07-12,009_ZW Polideportivo Los Almendros,5,0,1,0,36.61,39.0,1491681.0
+2025-07-13,009_ZW Polideportivo Los Almendros,6,0,1,0,31.19,23.0,1201974.0
+2025-07-14,009_ZW Polideportivo Los Almendros,0,1,0,0,17.83,28.0,658466.0
+2025-07-15,,1,1,0,0,,,
+2025-07-16,,2,1,0,0,,,
+2025-07-17,009_ZW Polideportivo Los Almendros,3,1,0,0,62.35,51.0,2311131.0
+2025-07-18,009_ZW Polideportivo Los Almendros,4,1,0,0,41.06,38.0,1434977.0
+2025-07-19,009_ZW Polideportivo Los Almendros,5,0,1,0,53.42,31.0,2102526.0
+2025-07-20,009_ZW Polideportivo Los Almendros,6,0,0,1,56.6,38.0,2405294.0
+2025-07-21,009_ZW Polideportivo Los Almendros,0,1,0,0,19.43,36.0,636662.0
+2025-07-22,009_ZW Polideportivo Los Almendros,1,1,0,0,5.74,20.0,215051.0
+2025-07-23,009_ZW Polideportivo Los Almendros,2,1,0,0,95.7,37.0,3428471.0
+2025-07-24,009_ZW Polideportivo Los Almendros,3,1,0,0,31.19,23.0,1201974.0
+2025-07-25,009_ZW Polideportivo Los Almendros,4,1,0,0,44.99,43.0,1406360.0
+2025-07-26,009_ZW Polideportivo Los Almendros,5,0,1,0,46.54,36.0,1827783.0
+2025-07-27,009_ZW Polideportivo Los Almendros,6,0,1,0,28.66,24.0,1041476.0
+2025-07-28,009_ZW Polideportivo Los Almendros,0,1,0,0,74.11,48.0,2495381.0
+2025-07-29,009_ZW Polideportivo Los Almendros,1,1,0,0,5.0,31.0,206020.0
+2025-07-30,009_ZW Polideportivo Los Almendros,2,1,0,0,141.62,44.0,4961038.0
+2025-07-31,009_ZW Polideportivo Los Almendros,3,1,0,0,39.98,34.0,1441215.0
+2025-08-01,009_ZW Polideportivo Los Almendros,4,1,0,0,5.3,36.0,184144.0
+2025-08-02,009_ZW Polideportivo Los Almendros,5,0,1,0,5.22,36.0,184144.0
+2025-08-03,009_ZW Polideportivo Los Almendros,6,0,1,0,15.35,33.0,561606.0
+2025-08-04,009_ZW Polideportivo Los Almendros,0,1,0,0,20.14,39.0,603853.0
+2025-08-05,009_ZW Polideportivo Los Almendros,1,1,0,0,16.71,43.0,553242.0
+2025-08-06,009_ZW Polideportivo Los Almendros,2,1,0,0,50.09,34.0,1635224.0
+2025-08-07,009_ZW Polideportivo Los Almendros,3,0,0,1,2.63,25.0,77411.0
+2025-08-08,009_ZW Polideportivo Los Almendros,4,1,0,0,19.35,39.0,751285.0
+2025-08-09,009_ZW Polideportivo Los Almendros,5,0,1,0,12.1,22.0,449052.0
+2025-08-10,009_ZW Polideportivo Los Almendros,6,0,1,0,44.54,39.0,1851247.0
+2025-08-11,009_ZW Polideportivo Los Almendros,0,1,0,0,63.4,42.0,2437946.0
+2025-08-12,009_ZW Polideportivo Los Almendros,1,1,0,0,6.6,34.0,270395.0
+2025-08-13,009_ZW Polideportivo Los Almendros,2,1,0,0,12.92,30.0,426980.0
+2025-08-14,009_ZW Polideportivo Los Almendros,3,1,0,0,15.77,34.0,595213.0
+2025-08-15,009_ZW Polideportivo Los Almendros,4,1,0,0,7.72,35.0,257635.0
+2025-08-16,009_ZW Polideportivo Los Almendros,5,0,1,0,42.57,44.0,1606974.0
+2025-08-17,009_ZW Polideportivo Los Almendros,6,0,1,0,49.43,31.0,1907528.0
+2025-08-18,009_ZW Polideportivo Los Almendros,0,0,0,1,25.94,51.0,1001807.0
+2025-08-19,009_ZW Polideportivo Los Almendros,1,1,0,0,4.38,33.0,162215.0
+2025-08-20,009_ZW Polideportivo Los Almendros,2,1,0,0,31.69,42.0,1240681.0
+2025-08-21,009_ZW Polideportivo Los Almendros,3,1,0,0,74.75,23.0,3044045.0
+2025-08-22,009_ZW Polideportivo Los Almendros,4,1,0,0,78.34,53.0,2812087.0
+2025-08-23,009_ZW Polideportivo Los Almendros,5,0,1,0,54.0,39.0,2044175.0
+2025-08-24,009_ZW Polideportivo Los Almendros,6,0,1,0,12.51,30.0,525002.0
+2025-08-25,009_ZW Polideportivo Los Almendros,0,1,0,0,63.68,44.0,2471461.0
+2025-08-26,009_ZW Polideportivo Los Almendros,1,1,0,0,34.69,44.0,1437355.0
+2025-08-27,009_ZW Polideportivo Los Almendros,2,1,0,0,32.49,44.0,1139062.0
+2025-08-28,009_ZW Polideportivo Los Almendros,3,1,0,0,53.51,48.0,2378270.0
+2025-08-29,009_ZW Polideportivo Los Almendros,4,1,0,0,54.36,54.0,2033282.0
+2025-08-30,009_ZW Polideportivo Los Almendros,5,0,1,0,22.96,40.0,964072.0
+2025-08-31,009_ZW Polideportivo Los Almendros,6,0,1,0,21.96,36.0,870452.0
+2025-09-01,009_ZW Polideportivo Los Almendros,0,1,0,0,62.79,32.0,2038955.0
+2025-09-02,009_ZW Polideportivo Los Almendros,1,1,0,0,11.51,31.0,420551.0
+2025-09-03,009_ZW Polideportivo Los Almendros,2,1,0,0,32.47,46.0,1237811.0
+2025-09-04,009_ZW Polideportivo Los Almendros,3,1,0,0,19.87,29.0,874009.0
+2025-09-05,009_ZW Polideportivo Los Almendros,4,1,0,0,40.81,37.0,1613168.0
+2025-09-06,009_ZW Polideportivo Los Almendros,5,0,1,0,7.38,20.0,304541.0
+2025-09-07,009_ZW Polideportivo Los Almendros,6,0,1,0,33.98,30.0,1590179.0
+2025-09-08,009_ZW Polideportivo Los Almendros,0,1,0,0,51.95,49.0,2320195.0
+2025-09-09,009_ZW Polideportivo Los Almendros,1,1,0,0,17.83,31.0,788955.0
+2025-09-10,009_ZW Polideportivo Los Almendros,2,1,0,0,34.93,40.0,1513964.0
+2025-09-11,009_ZW Polideportivo Los Almendros,3,1,0,0,11.03,30.0,476248.0
+2025-09-12,009_ZW Polideportivo Los Almendros,4,1,0,0,74.8,44.0,3501322.0
+2025-09-13,009_ZW Polideportivo Los Almendros,5,0,1,0,15.35,34.0,708338.0
+2025-09-14,009_ZW Polideportivo Los Almendros,6,0,1,0,26.31,32.0,1314824.0
+2025-09-15,009_ZW Polideportivo Los Almendros,0,1,0,0,33.58,33.0,1634159.0
+2025-09-16,009_ZW Polideportivo Los Almendros,1,1,0,0,12.83,30.0,627545.0
+2025-09-17,009_ZW Polideportivo Los Almendros,2,1,0,0,54.82,39.0,2179373.0
+2025-09-18,009_ZW Polideportivo Los Almendros,3,1,0,0,13.1,25.0,509119.0
+2025-09-19,009_ZW Polideportivo Los Almendros,4,1,0,0,25.99,49.0,1139854.0
+2025-09-20,009_ZW Polideportivo Los Almendros,5,0,1,0,2.18,15.0,76710.0
+2025-09-21,009_ZW Polideportivo Los Almendros,6,0,1,0,43.27,31.0,1916448.0
+2025-09-22,009_ZW Polideportivo Los Almendros,0,1,0,0,7.19,27.0,309911.0
+2025-09-23,009_ZW Polideportivo Los Almendros,1,1,0,0,14.74,27.0,757110.0
+2025-09-24,009_ZW Polideportivo Los Almendros,2,1,0,0,12.34,41.0,517027.0
+2025-09-25,009_ZW Polideportivo Los Almendros,3,1,0,0,27.48,30.0,1071297.0
+2025-09-26,009_ZW Polideportivo Los Almendros,4,1,0,0,47.63,25.0,2070955.0
+2025-09-27,009_ZW Polideportivo Los Almendros,5,0,1,0,39.6,26.0,1701136.0
+2025-09-28,009_ZW Polideportivo Los Almendros,6,0,1,0,11.29,13.0,448677.0
+2025-09-29,009_ZW Polideportivo Los Almendros,0,1,0,0,41.38,25.0,1750391.0
+2025-09-30,009_ZW Polideportivo Los Almendros,1,1,0,0,108.83,28.0,4474354.0

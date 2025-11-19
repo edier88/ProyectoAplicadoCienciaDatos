@@ -3,7 +3,7 @@ import pandas as pd
 import glob
 
 # 21-09-2025
-# lee la carpeta csv-zonas-wifi-agrupados-sumados
+# lee la carpeta csv-zonas-wifi-1AP-todas-las-columnas
 
 def procesar_csv_en_carpeta(carpeta):
     """
@@ -22,13 +22,13 @@ def procesar_csv_en_carpeta(carpeta):
     
     # Mapeo para la conversión de dia_semana
     mapeo_dia_semana = {
-        'LUNES': 0,
-        'MARTES': 1,
-        'MIÉRCOLES': 2,
-        'JUEVES': 3,
-        'VIERNES': 4,
-        'SÁBADO': 5,
-        'DOMINGO': 6
+        'Lunes': 0,
+        'Martes': 1,
+        'Miércoles': 2,
+        'Jueves': 3,
+        'Viernes': 4,
+        'Sábado': 5,
+        'Domingo': 6
     }
     
     for archivo in archivos_csv:
@@ -42,9 +42,9 @@ def procesar_csv_en_carpeta(carpeta):
             # 1. One Hot Encoding para 'TIPO_DIA'
             if 'TIPO_DIA' in df.columns:
                 # Crear las tres columnas binarias
-                df['LABORAL'] = (df['TIPO_DIA'] == 'LABORAL').astype(int)
-                df['FIN_DE_SEMANA'] = (df['TIPO_DIA'] == 'FIN DE SEMANA').astype(int)
-                df['FESTIVO'] = (df['TIPO_DIA'] == 'FESTIVO').astype(int)
+                df['LABORAL'] = (df['TIPO_DIA'] == 'Laboral').astype(int)
+                df['FIN_DE_SEMANA'] = (df['TIPO_DIA'] == 'Fin de Semana').astype(int)
+                df['FESTIVO'] = (df['TIPO_DIA'] == 'Festivo').astype(int)
                 
                 # Eliminar la columna original
                 df = df.drop(columns=['TIPO_DIA'])
@@ -82,7 +82,7 @@ def procesar_csv_en_carpeta(carpeta):
 
 if __name__ == "__main__":
     # Carpeta relativa al script
-    carpeta = os.path.join(os.path.dirname(__file__), "csv-zonas-wifi-agrupados-sumados")
+    carpeta = os.path.join(os.path.dirname(__file__), "csv-zonas-wifi-1AP-todas-las-columnas")
     
     if os.path.exists(carpeta):
         procesar_csv_en_carpeta(carpeta)

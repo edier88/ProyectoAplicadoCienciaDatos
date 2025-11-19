@@ -1,0 +1,640 @@
+FECHA_CONEXION,NOMBRE_ZONA,DIA_SEMANA,LABORAL,FIN_DE_SEMANA,FESTIVO,PORCENTAJE_USO,NUMERO_CONEXIONES,USAGE_KB
+2024-01-01,012_ZW Polideportivo Los Naranjos,0,0,0,1,0.2,22.0,2037.0
+2024-01-02,012_ZW Polideportivo Los Naranjos,1,1,0,0,0.3,26.0,2662.0
+2024-01-03,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.1,21.0,1765.0
+2024-01-04,012_ZW Polideportivo Los Naranjos,3,1,0,0,0.7,23.0,7799.0
+2024-01-05,012_ZW Polideportivo Los Naranjos,4,1,0,0,1.0,22.0,10680.0
+2024-01-06,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.0,13.0,366.0
+2024-01-07,012_ZW Polideportivo Los Naranjos,6,0,1,0,15.0,19.0,150496.0
+2024-01-08,012_ZW Polideportivo Los Naranjos,0,0,0,1,190.3,23.0,3000305.0
+2024-01-09,012_ZW Polideportivo Los Naranjos,1,1,0,0,151.9,23.0,1968775.0
+2024-01-10,012_ZW Polideportivo Los Naranjos,2,1,0,0,323.6,23.0,3903613.0
+2024-01-11,012_ZW Polideportivo Los Naranjos,3,1,0,0,602.6,26.0,6483485.0
+2024-01-12,012_ZW Polideportivo Los Naranjos,4,1,0,0,91.8,35.0,1066063.0
+2024-01-13,012_ZW Polideportivo Los Naranjos,5,0,1,0,198.5,26.0,1786891.0
+2024-01-14,012_ZW Polideportivo Los Naranjos,6,0,1,0,3.8,34.0,29985.0
+2024-01-15,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.4,28.0,2957.0
+2024-01-16,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.7,38.0,14124.0
+2024-01-17,012_ZW Polideportivo Los Naranjos,2,1,0,0,1.2,36.0,11769.0
+2024-01-18,012_ZW Polideportivo Los Naranjos,3,1,0,0,32.4,36.0,388692.0
+2024-01-19,012_ZW Polideportivo Los Naranjos,4,1,0,0,138.9,27.0,2131687.0
+2024-01-20,012_ZW Polideportivo Los Naranjos,5,0,1,0,165.9,28.0,2147761.0
+2024-01-21,012_ZW Polideportivo Los Naranjos,6,0,1,0,463.9,40.0,6006829.0
+2024-01-22,012_ZW Polideportivo Los Naranjos,0,1,0,0,378.5,33.0,3968504.0
+2024-01-23,012_ZW Polideportivo Los Naranjos,1,1,0,0,255.2,32.0,2755624.0
+2024-01-24,012_ZW Polideportivo Los Naranjos,2,1,0,0,330.3,30.0,4131553.0
+2024-01-25,012_ZW Polideportivo Los Naranjos,3,1,0,0,106.9,43.0,1597374.0
+2024-01-26,012_ZW Polideportivo Los Naranjos,4,1,0,0,0.3,30.0,4137.0
+2024-01-27,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.8,46.0,9574.0
+2024-01-28,012_ZW Polideportivo Los Naranjos,6,0,1,0,1.6,41.0,16717.0
+2024-01-29,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.5,28.0,5287.0
+2024-01-30,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.2,41.0,10792.0
+2024-01-31,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.4,29.0,4160.0
+2024-02-01,012_ZW Polideportivo Los Naranjos,3,1,0,0,1.0,33.0,14092.0
+2024-02-02,012_ZW Polideportivo Los Naranjos,4,1,0,0,115.1,18.0,1099653.0
+2024-02-03,012_ZW Polideportivo Los Naranjos,5,0,1,0,75.1,30.0,1331711.0
+2024-02-04,012_ZW Polideportivo Los Naranjos,6,0,1,0,22.3,25.0,356203.0
+2024-02-05,012_ZW Polideportivo Los Naranjos,0,1,0,0,9.9,17.0,148529.0
+2024-02-06,012_ZW Polideportivo Los Naranjos,1,1,0,0,92.7,27.0,1385175.0
+2024-02-07,012_ZW Polideportivo Los Naranjos,2,1,0,0,14.0,21.0,230433.0
+2024-02-08,012_ZW Polideportivo Los Naranjos,3,1,0,0,133.4,41.0,1812959.0
+2024-02-09,012_ZW Polideportivo Los Naranjos,4,1,0,0,243.1,43.0,2925617.0
+2024-02-10,012_ZW Polideportivo Los Naranjos,5,0,1,0,432.9,33.0,6914271.0
+2024-02-11,012_ZW Polideportivo Los Naranjos,6,0,1,0,453.7,42.0,6096118.0
+2024-02-12,012_ZW Polideportivo Los Naranjos,0,1,0,0,210.1,27.0,2175515.0
+2024-02-13,012_ZW Polideportivo Los Naranjos,1,1,0,0,393.8,43.0,3410936.0
+2024-02-14,012_ZW Polideportivo Los Naranjos,2,1,0,0,169.5,22.0,1280289.0
+2024-02-15,012_ZW Polideportivo Los Naranjos,3,1,0,0,59.9,37.0,699096.0
+2024-02-16,012_ZW Polideportivo Los Naranjos,4,1,0,0,137.4,35.0,1448382.0
+2024-02-17,012_ZW Polideportivo Los Naranjos,5,0,1,0,53.7,35.0,568044.0
+2024-02-18,012_ZW Polideportivo Los Naranjos,6,0,1,0,0.5,40.0,6238.0
+2024-02-19,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.2,22.0,2433.0
+2024-02-20,012_ZW Polideportivo Los Naranjos,1,1,0,0,0.4,37.0,4707.0
+2024-02-21,012_ZW Polideportivo Los Naranjos,2,1,0,0,1.0,43.0,11695.0
+2024-02-22,012_ZW Polideportivo Los Naranjos,3,1,0,0,0.4,41.0,6428.0
+2024-02-23,012_ZW Polideportivo Los Naranjos,4,1,0,0,0.3,49.0,4887.0
+2024-02-24,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.7,30.0,8938.0
+2024-02-25,012_ZW Polideportivo Los Naranjos,6,0,1,0,0.4,41.0,6455.0
+2024-02-26,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.8,32.0,9366.0
+2024-02-27,012_ZW Polideportivo Los Naranjos,1,1,0,0,339.9,42.0,3949631.0
+2024-02-28,012_ZW Polideportivo Los Naranjos,2,1,0,0,78.0,33.0,1338257.0
+2024-02-29,012_ZW Polideportivo Los Naranjos,3,1,0,0,265.5,38.0,2102310.0
+2024-03-01,012_ZW Polideportivo Los Naranjos,4,1,0,0,15.2,46.0,182845.0
+2024-03-02,012_ZW Polideportivo Los Naranjos,5,0,1,0,59.8,30.0,615887.0
+2024-03-03,012_ZW Polideportivo Los Naranjos,6,0,1,0,63.4,34.0,883118.0
+2024-03-04,012_ZW Polideportivo Los Naranjos,0,1,0,0,143.7,28.0,2043116.0
+2024-03-05,012_ZW Polideportivo Los Naranjos,1,1,0,0,84.1,50.0,1158713.0
+2024-03-06,012_ZW Polideportivo Los Naranjos,2,1,0,0,43.6,20.0,527448.0
+2024-03-07,012_ZW Polideportivo Los Naranjos,3,1,0,0,267.2,37.0,2854812.0
+2024-03-08,012_ZW Polideportivo Los Naranjos,4,1,0,0,294.2,35.0,3146840.0
+2024-03-09,012_ZW Polideportivo Los Naranjos,5,0,1,0,111.3,34.0,1100467.0
+2024-03-10,012_ZW Polideportivo Los Naranjos,6,0,1,0,1.9,55.0,18558.0
+2024-03-11,012_ZW Polideportivo Los Naranjos,0,1,0,0,3.0,29.0,27951.0
+2024-03-12,012_ZW Polideportivo Los Naranjos,1,1,0,0,8.8,47.0,78011.0
+2024-03-13,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.8,26.0,5933.0
+2024-03-14,012_ZW Polideportivo Los Naranjos,3,1,0,0,1.0,43.0,9345.0
+2024-03-15,012_ZW Polideportivo Los Naranjos,4,1,0,0,0.4,42.0,5188.0
+2024-03-16,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.4,41.0,5014.0
+2024-03-17,012_ZW Polideportivo Los Naranjos,6,0,1,0,0.6,35.0,8168.0
+2024-03-18,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.2,29.0,2481.0
+2024-03-19,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.0,32.0,7326.0
+2024-03-20,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.9,22.0,6007.0
+2024-03-21,012_ZW Polideportivo Los Naranjos,3,1,0,0,353.1,29.0,3082924.0
+2024-03-22,012_ZW Polideportivo Los Naranjos,4,1,0,0,210.3,44.0,2051099.0
+2024-03-23,012_ZW Polideportivo Los Naranjos,5,0,1,0,14.0,25.0,109006.0
+2024-03-24,012_ZW Polideportivo Los Naranjos,6,0,1,0,3.4,47.0,30928.0
+2024-03-25,012_ZW Polideportivo Los Naranjos,0,0,0,1,2.7,30.0,18739.0
+2024-03-26,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.8,36.0,14079.0
+2024-03-27,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.2,18.0,1684.0
+2024-03-28,012_ZW Polideportivo Los Naranjos,3,0,0,1,0.3,21.0,1636.0
+2024-03-29,012_ZW Polideportivo Los Naranjos,4,0,0,1,0.2,16.0,1566.0
+2024-03-30,012_ZW Polideportivo Los Naranjos,5,0,1,0,1.8,23.0,11053.0
+2024-03-31,012_ZW Polideportivo Los Naranjos,6,0,1,0,4.6,19.0,35199.0
+2024-04-01,012_ZW Polideportivo Los Naranjos,0,1,0,0,110.2,23.0,1155641.0
+2024-04-02,012_ZW Polideportivo Los Naranjos,1,1,0,0,121.1,24.0,852162.0
+2024-04-03,012_ZW Polideportivo Los Naranjos,2,1,0,0,143.9,20.0,1296137.0
+2024-04-04,012_ZW Polideportivo Los Naranjos,3,1,0,0,50.8,28.0,584200.0
+2024-04-05,012_ZW Polideportivo Los Naranjos,4,1,0,0,242.0,55.0,2719739.0
+2024-04-06,012_ZW Polideportivo Los Naranjos,5,0,1,0,152.5,36.0,1835493.0
+2024-04-07,012_ZW Polideportivo Los Naranjos,6,0,1,0,0.9,55.0,10822.0
+2024-04-08,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.5,29.0,3378.0
+2024-04-09,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.2,39.0,9156.0
+2024-04-10,012_ZW Polideportivo Los Naranjos,2,1,0,0,13.5,39.0,57589.0
+2024-04-11,012_ZW Polideportivo Los Naranjos,3,1,0,0,1.1,37.0,4800.0
+2024-04-12,012_ZW Polideportivo Los Naranjos,4,1,0,0,0.4,36.0,2404.0
+2024-04-13,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.5,25.0,4658.0
+2024-04-14,012_ZW Polideportivo Los Naranjos,6,0,1,0,2.9,52.0,19969.0
+2024-04-15,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.4,19.0,1684.0
+2024-04-16,012_ZW Polideportivo Los Naranjos,1,1,0,0,2.1,35.0,9021.0
+2024-04-17,012_ZW Polideportivo Los Naranjos,2,1,0,0,1.6,30.0,5800.0
+2024-04-18,012_ZW Polideportivo Los Naranjos,3,1,0,0,953.1,33.0,2776396.0
+2024-04-19,012_ZW Polideportivo Los Naranjos,4,1,0,0,441.4,19.0,1790386.0
+2024-04-20,012_ZW Polideportivo Los Naranjos,5,0,1,0,476.7,35.0,3725554.0
+2024-04-21,012_ZW Polideportivo Los Naranjos,6,0,1,0,51.1,30.0,316497.0
+2024-04-22,012_ZW Polideportivo Los Naranjos,0,1,0,0,59.1,17.0,274655.0
+2024-04-23,012_ZW Polideportivo Los Naranjos,1,1,0,0,221.8,43.0,4071185.0
+2024-04-24,012_ZW Polideportivo Los Naranjos,2,1,0,0,23.8,35.0,436253.0
+2024-04-25,012_ZW Polideportivo Los Naranjos,3,1,0,0,429.6,30.0,5097691.0
+2024-04-26,012_ZW Polideportivo Los Naranjos,4,1,0,0,483.2,29.0,4842098.0
+2024-04-27,012_ZW Polideportivo Los Naranjos,5,0,1,0,15.1,10.0,183693.0
+2024-04-28,012_ZW Polideportivo Los Naranjos,6,0,1,0,204.9,41.0,1513598.0
+2024-04-29,012_ZW Polideportivo Los Naranjos,0,1,0,0,684.6,25.0,5481500.0
+2024-04-30,012_ZW Polideportivo Los Naranjos,1,1,0,0,219.5,40.0,1382832.0
+2024-05-01,012_ZW Polideportivo Los Naranjos,2,0,0,1,2.0,42.0,10318.0
+2024-05-02,012_ZW Polideportivo Los Naranjos,3,1,0,0,1.8,37.0,9437.0
+2024-05-03,012_ZW Polideportivo Los Naranjos,4,1,0,0,686.9,34.0,3147340.0
+2024-05-04,012_ZW Polideportivo Los Naranjos,5,0,1,0,448.2,31.0,3235420.0
+2024-05-05,012_ZW Polideportivo Los Naranjos,6,0,1,0,1159.7,41.0,7149192.0
+2024-05-06,012_ZW Polideportivo Los Naranjos,0,1,0,0,220.2,33.0,1052455.0
+2024-05-07,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.5,33.0,9346.0
+2024-05-08,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.3,23.0,2565.0
+2024-05-09,012_ZW Polideportivo Los Naranjos,3,1,0,0,0.5,29.0,4413.0
+2024-05-10,012_ZW Polideportivo Los Naranjos,4,1,0,0,1.2,47.0,9278.0
+2024-05-11,012_ZW Polideportivo Los Naranjos,5,0,1,0,1.2,28.0,8651.0
+2024-05-12,012_ZW Polideportivo Los Naranjos,6,0,1,0,1.2,28.0,5010.0
+2024-05-13,012_ZW Polideportivo Los Naranjos,0,0,0,1,0.6,18.0,3603.0
+2024-05-14,012_ZW Polideportivo Los Naranjos,1,1,0,0,57.3,32.0,124153.0
+2024-05-15,012_ZW Polideportivo Los Naranjos,2,1,0,0,90.1,20.0,556841.0
+2024-05-16,012_ZW Polideportivo Los Naranjos,3,1,0,0,275.4,31.0,2247656.0
+2024-05-17,012_ZW Polideportivo Los Naranjos,4,1,0,0,603.4,42.0,6273203.0
+2024-05-18,012_ZW Polideportivo Los Naranjos,5,0,1,0,323.2,36.0,3547632.0
+2024-05-19,012_ZW Polideportivo Los Naranjos,6,0,1,0,343.9,50.0,4020866.0
+2024-05-20,012_ZW Polideportivo Los Naranjos,0,1,0,0,10.8,24.0,75846.0
+2024-05-21,012_ZW Polideportivo Los Naranjos,1,1,0,0,232.1,32.0,1802994.0
+2024-05-22,012_ZW Polideportivo Los Naranjos,2,1,0,0,832.0,30.0,2143370.0
+2024-05-23,012_ZW Polideportivo Los Naranjos,3,1,0,0,563.2,31.0,2991061.0
+2024-05-24,012_ZW Polideportivo Los Naranjos,4,1,0,0,576.5,42.0,2721203.0
+2024-05-25,012_ZW Polideportivo Los Naranjos,5,0,1,0,237.8,33.0,1693978.0
+2024-05-26,012_ZW Polideportivo Los Naranjos,6,0,1,0,378.3,32.0,2614153.0
+2024-05-27,012_ZW Polideportivo Los Naranjos,0,1,0,0,84.8,34.0,721381.0
+2024-05-28,012_ZW Polideportivo Los Naranjos,1,1,0,0,127.5,42.0,949753.0
+2024-05-29,012_ZW Polideportivo Los Naranjos,2,1,0,0,237.2,18.0,1186397.0
+2024-05-30,012_ZW Polideportivo Los Naranjos,3,1,0,0,118.6,44.0,1419708.0
+2024-05-31,012_ZW Polideportivo Los Naranjos,4,1,0,0,39.5,36.0,367605.0
+2024-06-01,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.9,29.0,9380.0
+2024-06-02,012_ZW Polideportivo Los Naranjos,6,0,1,0,1.6,46.0,16049.0
+2024-06-03,012_ZW Polideportivo Los Naranjos,0,0,0,1,702.8,31.0,4868682.0
+2024-06-04,012_ZW Polideportivo Los Naranjos,1,1,0,0,178.2,32.0,810081.0
+2024-06-05,012_ZW Polideportivo Los Naranjos,2,1,0,0,85.2,25.0,243426.0
+2024-06-06,012_ZW Polideportivo Los Naranjos,3,1,0,0,100.4,25.0,612646.0
+2024-06-07,012_ZW Polideportivo Los Naranjos,4,1,0,0,676.2,41.0,3251975.0
+2024-06-08,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.7,29.0,2222.0
+2024-06-09,012_ZW Polideportivo Los Naranjos,6,0,1,0,3.5,60.0,10093.0
+2024-06-10,012_ZW Polideportivo Los Naranjos,0,0,0,1,70.1,38.0,382031.0
+2024-06-11,012_ZW Polideportivo Los Naranjos,1,1,0,0,75.3,41.0,471572.0
+2024-06-12,012_ZW Polideportivo Los Naranjos,2,1,0,0,130.6,28.0,968217.0
+2024-06-13,012_ZW Polideportivo Los Naranjos,3,1,0,0,122491157.0,33.0,629162.0
+2024-06-14,012_ZW Polideportivo Los Naranjos,4,1,0,0,352467.0,41.0,11727.0
+2024-06-15,012_ZW Polideportivo Los Naranjos,5,0,1,0,307137.0,19.0,1712.0
+2024-06-16,012_ZW Polideportivo Los Naranjos,6,0,1,0,7795.0,20.0,4347.0
+2024-06-17,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.4,24.0,2804.0
+2024-06-18,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.1,42.0,6833.0
+2024-06-19,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.4,31.0,2622.0
+2024-06-20,012_ZW Polideportivo Los Naranjos,3,1,0,0,1.3,37.0,6449.0
+2024-06-21,012_ZW Polideportivo Los Naranjos,4,1,0,0,485.0,49.0,2823255.0
+2024-06-22,012_ZW Polideportivo Los Naranjos,5,0,1,0,1026.9,56.0,5427592.0
+2024-06-23,012_ZW Polideportivo Los Naranjos,6,0,1,0,441.0,53.0,1123683.0
+2024-06-24,012_ZW Polideportivo Los Naranjos,0,1,0,0,14.4,33.0,74931.0
+2024-06-25,012_ZW Polideportivo Los Naranjos,1,1,0,0,2.2,50.0,9053.0
+2024-06-26,012_ZW Polideportivo Los Naranjos,2,1,0,0,15.9,37.0,61422.0
+2024-06-27,012_ZW Polideportivo Los Naranjos,3,1,0,0,816.1,27.0,2742632.0
+2024-06-28,012_ZW Polideportivo Los Naranjos,4,1,0,0,1722.3,54.0,10011979.0
+2024-06-29,012_ZW Polideportivo Los Naranjos,5,0,1,0,577.5,38.0,3405836.0
+2024-06-30,012_ZW Polideportivo Los Naranjos,6,0,1,0,490.2,46.0,2282304.0
+2024-07-01,012_ZW Polideportivo Los Naranjos,0,0,0,1,757.85,36.0,5455135.0
+2024-07-02,012_ZW Polideportivo Los Naranjos,1,1,0,0,347.25,47.0,3223959.0
+2024-07-03,012_ZW Polideportivo Los Naranjos,2,1,0,0,50.3,35.0,422917.0
+2024-07-04,012_ZW Polideportivo Los Naranjos,3,1,0,0,327.19,43.0,2596336.0
+2024-07-05,012_ZW Polideportivo Los Naranjos,4,1,0,0,322.01,33.0,2743508.0
+2024-07-06,012_ZW Polideportivo Los Naranjos,5,0,1,0,25.31,30.0,213035.0
+2024-07-07,012_ZW Polideportivo Los Naranjos,6,0,1,0,240.11,53.0,2118353.0
+2024-07-08,012_ZW Polideportivo Los Naranjos,0,1,0,0,319.44,46.0,1774788.0
+2024-07-09,012_ZW Polideportivo Los Naranjos,1,1,0,0,286.8,51.0,1665478.0
+2024-07-10,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.55,38.0,3769.0
+2024-07-11,012_ZW Polideportivo Los Naranjos,3,1,0,0,1.45,48.0,10665.0
+2024-07-12,012_ZW Polideportivo Los Naranjos,4,1,0,0,2.09,55.0,13265.0
+2024-07-13,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.83,41.0,5837.0
+2024-07-14,012_ZW Polideportivo Los Naranjos,6,0,1,0,2.13,39.0,13562.0
+2024-07-15,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.77,42.0,4291.0
+2024-07-16,012_ZW Polideportivo Los Naranjos,1,1,0,0,127.52,55.0,801069.0
+2024-07-17,012_ZW Polideportivo Los Naranjos,2,1,0,0,189.33,43.0,856781.0
+2024-07-18,012_ZW Polideportivo Los Naranjos,3,1,0,0,390.55,61.0,2327036.0
+2024-07-19,012_ZW Polideportivo Los Naranjos,4,1,0,0,265.87,69.0,1908091.0
+2024-07-20,012_ZW Polideportivo Los Naranjos,5,0,0,1,3.31,86.0,25801.0
+2024-07-21,012_ZW Polideportivo Los Naranjos,6,0,1,0,3.16,73.0,20679.0
+2024-07-22,012_ZW Polideportivo Los Naranjos,0,1,0,0,152.75,51.0,1061642.0
+2024-07-23,012_ZW Polideportivo Los Naranjos,1,1,0,0,179.24,69.0,1241618.0
+2024-07-24,012_ZW Polideportivo Los Naranjos,2,1,0,0,3.41,49.0,21535.0
+2024-07-25,012_ZW Polideportivo Los Naranjos,3,1,0,0,1.69,57.0,10691.0
+2024-07-26,012_ZW Polideportivo Los Naranjos,4,1,0,0,24.1,66.0,182978.0
+2024-07-27,012_ZW Polideportivo Los Naranjos,5,0,1,0,1.19,40.0,6931.0
+2024-07-28,012_ZW Polideportivo Los Naranjos,6,0,1,0,281.89,84.0,1332098.0
+2024-07-29,012_ZW Polideportivo Los Naranjos,0,1,0,0,72.2,33.0,450270.0
+2024-07-30,012_ZW Polideportivo Los Naranjos,1,1,0,0,310.33,48.0,2123511.0
+2024-07-31,012_ZW Polideportivo Los Naranjos,2,1,0,0,407.1,40.0,2450921.0
+2024-08-01,012_ZW Polideportivo Los Naranjos,3,1,0,0,138.95,51.0,931135.0
+2024-08-02,012_ZW Polideportivo Los Naranjos,4,1,0,0,2.03,58.0,12199.0
+2024-08-03,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.63,30.0,3102.0
+2024-08-04,012_ZW Polideportivo Los Naranjos,6,0,1,0,508.43,65.0,3188891.0
+2024-08-05,012_ZW Polideportivo Los Naranjos,0,1,0,0,33.93,25.0,234810.0
+2024-08-06,012_ZW Polideportivo Los Naranjos,1,1,0,0,65.94,40.0,684902.0
+2024-08-07,012_ZW Polideportivo Los Naranjos,2,0,0,1,212.55,37.0,1786883.0
+2024-08-08,012_ZW Polideportivo Los Naranjos,3,1,0,0,174.13,63.0,1387895.0
+2024-08-09,012_ZW Polideportivo Los Naranjos,4,1,0,0,1.62,60.0,8759.0
+2024-08-10,012_ZW Polideportivo Los Naranjos,5,0,1,0,2.7,42.0,14251.0
+2024-08-11,012_ZW Polideportivo Los Naranjos,6,0,1,0,3.58,99.0,20622.0
+2024-08-12,012_ZW Polideportivo Los Naranjos,0,1,0,0,0.73,31.0,3421.0
+2024-08-13,012_ZW Polideportivo Los Naranjos,1,1,0,0,1.87,54.0,16510.0
+2024-08-14,012_ZW Polideportivo Los Naranjos,2,1,0,0,0.42,39.0,3202.0
+2024-08-15,012_ZW Polideportivo Los Naranjos,3,1,0,0,0.67,43.0,4456.0
+2024-08-16,012_ZW Polideportivo Los Naranjos,4,1,0,0,1.56,58.0,11486.0
+2024-08-17,012_ZW Polideportivo Los Naranjos,5,0,1,0,1.94,41.0,13367.0
+2024-08-18,012_ZW Polideportivo Los Naranjos,6,0,1,0,1.76,66.0,11605.0
+2024-08-19,012_ZW Polideportivo Los Naranjos,0,0,0,1,0.45,30.0,3256.0
+2024-08-20,012_ZW Polideportivo Los Naranjos,1,1,0,0,9.08,42.0,36655.0
+2024-08-21,012_ZW Polideportivo Los Naranjos,2,1,0,0,8.45,41.0,29027.0
+2024-08-22,012_ZW Polideportivo Los Naranjos,3,1,0,0,4.47,50.0,16815.0
+2024-08-23,012_ZW Polideportivo Los Naranjos,4,1,0,0,24.17,59.0,59333.0
+2024-08-24,012_ZW Polideportivo Los Naranjos,5,0,1,0,0.03,5.0,44.0
+2024-08-25,,6,0,1,0,,,
+2024-08-26,,0,1,0,0,,,
+2024-08-27,,1,1,0,0,,,
+2024-08-28,,2,1,0,0,,,
+2024-08-29,,3,1,0,0,,,
+2024-08-30,,4,1,0,0,,,
+2024-08-31,,5,0,1,0,,,
+2024-09-01,,6,0,1,0,,,
+2024-09-02,,0,1,0,0,,,
+2024-09-03,,1,1,0,0,,,
+2024-09-04,,2,1,0,0,,,
+2024-09-05,,3,1,0,0,,,
+2024-09-06,,4,1,0,0,,,
+2024-09-07,,5,0,1,0,,,
+2024-09-08,,6,0,1,0,,,
+2024-09-09,,0,1,0,0,,,
+2024-09-10,,1,1,0,0,,,
+2024-09-11,,2,1,0,0,,,
+2024-09-12,,3,1,0,0,,,
+2024-09-13,,4,1,0,0,,,
+2024-09-14,,5,0,1,0,,,
+2024-09-15,,6,0,1,0,,,
+2024-09-16,,0,1,0,0,,,
+2024-09-17,,1,1,0,0,,,
+2024-09-18,,2,1,0,0,,,
+2024-09-19,,3,1,0,0,,,
+2024-09-20,,4,1,0,0,,,
+2024-09-21,,5,0,1,0,,,
+2024-09-22,,6,0,1,0,,,
+2024-09-23,,0,1,0,0,,,
+2024-09-24,,1,1,0,0,,,
+2024-09-25,,2,1,0,0,,,
+2024-09-26,,3,1,0,0,,,
+2024-09-27,,4,1,0,0,,,
+2024-09-28,,5,0,1,0,,,
+2024-09-29,,6,0,1,0,,,
+2024-09-30,,0,1,0,0,,,
+2024-10-01,,1,1,0,0,,,
+2024-10-02,,2,1,0,0,,,
+2024-10-03,,3,1,0,0,,,
+2024-10-04,,4,1,0,0,,,
+2024-10-05,,5,0,1,0,,,
+2024-10-06,,6,0,1,0,,,
+2024-10-07,,0,1,0,0,,,
+2024-10-08,,1,1,0,0,,,
+2024-10-09,,2,1,0,0,,,
+2024-10-10,,3,1,0,0,,,
+2024-10-11,,4,1,0,0,,,
+2024-10-12,,5,0,1,0,,,
+2024-10-13,,6,0,1,0,,,
+2024-10-14,,0,0,0,1,,,
+2024-10-15,,1,1,0,0,,,
+2024-10-16,,2,1,0,0,,,
+2024-10-17,,3,1,0,0,,,
+2024-10-18,,4,1,0,0,,,
+2024-10-19,,5,0,1,0,,,
+2024-10-20,,6,0,1,0,,,
+2024-10-21,,0,1,0,0,,,
+2024-10-22,,1,1,0,0,,,
+2024-10-23,,2,1,0,0,,,
+2024-10-24,,3,1,0,0,,,
+2024-10-25,012_ZW Polideportivo Los Naranjos,4,1,0,0,360.35,37.0,1613160.0
+2024-10-26,012_ZW Polideportivo Los Naranjos,5,0,1,0,184.59,34.0,1425469.0
+2024-10-27,012_ZW Polideportivo Los Naranjos,6,0,1,0,58.16,40.0,578937.0
+2024-10-28,012_ZW Polideportivo Los Naranjos,0,1,0,0,787.35,32.0,4741280.0
+2024-10-29,012_ZW Polideportivo Los Naranjos,1,1,0,0,281.56,29.0,1784994.0
+2024-10-30,012_ZW Polideportivo Los Naranjos,2,1,0,0,95.27,23.0,466755.0
+2024-10-31,012_ZW Polideportivo Los Naranjos,3,1,0,0,27.3,14.0,128069.0
+2024-11-01,012_ZW Polideportivo Los Naranjos,4,1,0,0,282.92,37.0,1564547.0
+2024-11-02,012_ZW Polideportivo Los Naranjos,5,0,1,0,281.9,25.0,1751644.0
+2024-11-03,012_ZW Polideportivo Los Naranjos,6,0,1,0,92.87,30.0,546295.0
+2024-11-04,012_ZW Polideportivo Los Naranjos,0,0,0,1,728.96,27.0,4835852.0
+2024-11-05,012_ZW Polideportivo Los Naranjos,1,1,0,0,120.36,54.0,878914.0
+2024-11-06,012_ZW Polideportivo Los Naranjos,2,1,0,0,38.87,25.0,243364.0
+2024-11-07,012_ZW Polideportivo Los Naranjos,3,1,0,0,220.62,56.0,1962099.0
+2024-11-08,012_ZW Polideportivo Los Naranjos,4,1,0,0,50.44,32.0,623718.0
+2024-11-09,012_ZW Polideportivo Los Naranjos,5,0,1,0,17.26,23.0,287381.0
+2024-11-10,012_ZW Polideportivo Los Naranjos,6,0,1,0,59.48,55.0,1152199.0
+2024-11-11,012_ZW Polideportivo Los Naranjos,0,0,0,1,7.73,27.0,135769.0
+2024-11-12,012_ZW Polideportivo Los Naranjos,1,1,0,0,25.09,41.0,479551.0
+2024-11-13,012_ZW Polideportivo Los Naranjos,2,1,0,0,65.78,38.0,1065731.0
+2024-11-14,012_ZW Polideportivo Los Naranjos,3,1,0,0,93.67,49.0,1798230.0
+2024-11-15,012_ZW Polideportivo Los Naranjos,4,1,0,0,169.02,54.0,3078981.0
+2024-11-16,012_ZW Polideportivo Los Naranjos,5,0,1,0,7.85,37.0,144494.0
+2024-11-17,012_ZW Polideportivo Los Naranjos,6,0,1,0,62.23,27.0,1069060.0
+2024-11-18,012_ZW Polideportivo Los Naranjos,0,1,0,0,51.41,33.0,826403.0
+2024-11-19,012_ZW Polideportivo Los Naranjos,1,1,0,0,18.66,28.0,298152.0
+2024-11-20,012_ZW Polideportivo Los Naranjos,2,1,0,0,83.95,44.0,1601930.0
+2024-11-21,012_ZW Polideportivo Los Naranjos,3,1,0,0,128.81,52.0,2325699.0
+2024-11-22,012_ZW Polideportivo Los Naranjos,4,1,0,0,170.61,58.0,3444155.0
+2024-11-23,012_ZW Polideportivo Los Naranjos,5,0,1,0,90.14,39.0,1727536.0
+2024-11-24,012_ZW Polideportivo Los Naranjos,6,0,1,0,53.12,33.0,393272.0
+2024-11-25,012_ZW Polideportivo Los Naranjos,0,1,0,0,129.92,32.0,534314.0
+2024-11-26,012_ZW Polideportivo Los Naranjos,1,1,0,0,301.83,49.0,2377006.0
+2024-11-27,012_ZW Polideportivo Los Naranjos,2,1,0,0,100.15,47.0,1945064.0
+2024-11-28,012_ZW Polideportivo Los Naranjos,3,1,0,0,252.45,67.0,5315504.0
+2024-11-29,012_ZW Polideportivo Los Naranjos,4,1,0,0,224.16,66.0,4981942.0
+2024-11-30,012_ZW Polideportivo Los Naranjos,5,0,1,0,32.99,31.0,751909.0
+2024-12-01,012_ZW Polideportivo Los Naranjos,6,0,1,0,171.37,62.0,4141351.0
+2024-12-02,012_ZW Polideportivo Los Naranjos,0,1,0,0,3.64,9.0,75892.0
+2024-12-03,,1,1,0,0,,,
+2024-12-04,012_ZW Polideportivo Los Naranjos,2,1,0,0,118.38,31.0,2734057.0
+2024-12-05,012_ZW Polideportivo Los Naranjos,3,1,0,0,105.37,47.0,2417387.0
+2024-12-06,012_ZW Polideportivo Los Naranjos,4,1,0,0,36.15,38.0,812871.0
+2024-12-07,012_ZW Polideportivo Los Naranjos,5,0,1,0,12.18,33.0,249922.0
+2024-12-08,012_ZW Polideportivo Los Naranjos,6,0,0,1,51.6,38.0,1370213.0
+2024-12-09,012_ZW Polideportivo Los Naranjos,0,1,0,0,120.12,39.0,3239737.0
+2024-12-10,012_ZW Polideportivo Los Naranjos,1,1,0,0,75.28,50.0,2279682.0
+2024-12-11,012_ZW Polideportivo Los Naranjos,2,1,0,0,90.41,43.0,2726093.0
+2024-12-12,012_ZW Polideportivo Los Naranjos,3,1,0,0,66.84,49.0,2293758.0
+2024-12-13,012_ZW Polideportivo Los Naranjos,4,1,0,0,70.99,50.0,2408406.0
+2024-12-14,012_ZW Polideportivo Los Naranjos,5,0,1,0,192.47,38.0,5846365.0
+2024-12-15,012_ZW Polideportivo Los Naranjos,6,0,1,0,144.95,35.0,4294306.0
+2024-12-16,012_ZW Polideportivo Los Naranjos,0,1,0,0,109.64,33.0,3646062.0
+2024-12-17,012_ZW Polideportivo Los Naranjos,1,1,0,0,191.0,51.0,5880858.0
+2024-12-18,012_ZW Polideportivo Los Naranjos,2,1,0,0,212.0,48.0,6697974.0
+2024-12-19,012_ZW Polideportivo Los Naranjos,3,1,0,0,159.0,51.0,4521306.0
+2024-12-20,012_ZW Polideportivo Los Naranjos,4,1,0,0,94.0,67.0,2850731.0
+2024-12-21,012_ZW Polideportivo Los Naranjos,5,0,1,0,184.0,40.0,4787681.0
+2024-12-22,012_ZW Polideportivo Los Naranjos,6,0,1,0,146.0,35.0,4675268.0
+2024-12-23,012_ZW Polideportivo Los Naranjos,0,1,0,0,52.8,35.0,1324854.0
+2024-12-24,012_ZW Polideportivo Los Naranjos,1,1,0,0,125.0,25.0,2976683.0
+2024-12-25,012_ZW Polideportivo Los Naranjos,2,0,0,1,81.7,30.0,2309298.0
+2024-12-26,012_ZW Polideportivo Los Naranjos,3,1,0,0,76.3,21.0,2087227.0
+2024-12-27,012_ZW Polideportivo Los Naranjos,4,1,0,0,89.7,25.0,2923624.0
+2024-12-28,012_ZW Polideportivo Los Naranjos,5,0,1,0,47.5,16.0,1117651.0
+2024-12-29,012_ZW Polideportivo Los Naranjos,6,0,1,0,44.3,14.0,1433032.0
+2024-12-30,012_ZW Polideportivo Los Naranjos,0,1,0,0,11.3,16.0,276664.0
+2024-12-31,012_ZW Polideportivo Los Naranjos,1,1,0,0,67.8,18.0,1258617.0
+2025-01-01,012_ZW Polideportivo Los Naranjos,2,0,0,1,1.0,17.0,20614.0
+2025-01-02,012_ZW Polideportivo Los Naranjos,3,1,0,0,6.0,20.0,155116.0
+2025-01-03,012_ZW Polideportivo Los Naranjos,4,1,0,0,16.0,22.0,418072.0
+2025-01-04,012_ZW Polideportivo Los Naranjos,5,0,1,0,45.0,22.0,1205014.0
+2025-01-05,012_ZW Polideportivo Los Naranjos,6,0,1,0,28.0,20.0,929498.0
+2025-01-06,012_ZW Polideportivo Los Naranjos,0,0,0,1,40.0,28.0,1502157.0
+2025-01-07,012_ZW Polideportivo Los Naranjos,1,1,0,0,50.0,33.0,1671744.0
+2025-01-08,012_ZW Polideportivo Los Naranjos,2,1,0,0,74.0,28.0,2575192.0
+2025-01-09,012_ZW Polideportivo Los Naranjos,3,1,0,0,58.0,24.0,2032026.0
+2025-01-10,012_ZW Polideportivo Los Naranjos,4,1,0,0,114.0,35.0,4129420.0
+2025-01-11,012_ZW Polideportivo Los Naranjos,5,0,1,0,44.0,25.0,1510816.0
+2025-01-12,012_ZW Polideportivo Los Naranjos,6,0,1,0,197.0,38.0,7375373.0
+2025-01-13,012_ZW Polideportivo Los Naranjos,0,1,0,0,20.0,35.0,611733.0
+2025-01-14,012_ZW Polideportivo Los Naranjos,1,1,0,0,87.0,37.0,2643457.0
+2025-01-15,012_ZW Polideportivo Los Naranjos,2,1,0,0,46.0,38.0,1330362.0
+2025-01-16,012_ZW Polideportivo Los Naranjos,3,1,0,0,95.0,46.0,2977337.0
+2025-01-17,012_ZW Polideportivo Los Naranjos,4,1,0,0,114.0,58.0,3473862.0
+2025-01-18,012_ZW Polideportivo Los Naranjos,5,0,1,0,161.0,32.0,4865425.0
+2025-01-19,012_ZW Polideportivo Los Naranjos,6,0,1,0,264.0,53.0,8560532.0
+2025-01-20,012_ZW Polideportivo Los Naranjos,0,1,0,0,312.0,41.0,10082036.0
+2025-01-21,012_ZW Polideportivo Los Naranjos,1,1,0,0,298.0,61.0,10744457.0
+2025-01-22,012_ZW Polideportivo Los Naranjos,2,1,0,0,269.0,57.0,9022302.0
+2025-01-23,012_ZW Polideportivo Los Naranjos,3,1,0,0,296.0,60.0,11855856.0
+2025-01-24,012_ZW Polideportivo Los Naranjos,4,1,0,0,148.0,54.0,4916200.0
+2025-01-25,012_ZW Polideportivo Los Naranjos,5,0,1,0,208.0,52.0,7742352.0
+2025-01-26,012_ZW Polideportivo Los Naranjos,6,0,1,0,196.0,41.0,7722599.0
+2025-01-27,012_ZW Polideportivo Los Naranjos,0,1,0,0,291.0,29.0,11033683.0
+2025-01-28,012_ZW Polideportivo Los Naranjos,1,1,0,0,74.0,55.0,2443738.0
+2025-01-29,012_ZW Polideportivo Los Naranjos,2,1,0,0,57.0,40.0,2063403.0
+2025-01-30,012_ZW Polideportivo Los Naranjos,3,1,0,0,94.0,52.0,2550507.0
+2025-01-31,012_ZW Polideportivo Los Naranjos,4,1,0,0,124.0,43.0,2291167.0
+2025-02-01,012_ZW Polideportivo Los Naranjos,5,0,1,0,28.0,30.0,801359.0
+2025-02-02,012_ZW Polideportivo Los Naranjos,6,0,1,0,109.0,54.0,3686984.0
+2025-02-03,012_ZW Polideportivo Los Naranjos,0,1,0,0,12.0,19.0,300788.0
+2025-02-04,012_ZW Polideportivo Los Naranjos,1,1,0,0,102.0,37.0,2876024.0
+2025-02-05,012_ZW Polideportivo Los Naranjos,2,1,0,0,35.0,44.0,839930.0
+2025-02-06,012_ZW Polideportivo Los Naranjos,3,1,0,0,80.0,39.0,2162816.0
+2025-02-07,012_ZW Polideportivo Los Naranjos,4,1,0,0,41.0,26.0,1193922.0
+2025-02-08,012_ZW Polideportivo Los Naranjos,5,0,1,0,83.0,40.0,2228528.0
+2025-02-09,012_ZW Polideportivo Los Naranjos,6,0,1,0,100.0,44.0,3168825.0
+2025-02-10,012_ZW Polideportivo Los Naranjos,0,1,0,0,23.0,18.0,602125.0
+2025-02-11,012_ZW Polideportivo Los Naranjos,1,1,0,0,154.0,51.0,4578005.0
+2025-02-12,012_ZW Polideportivo Los Naranjos,2,1,0,0,20.0,30.0,653367.0
+2025-02-13,012_ZW Polideportivo Los Naranjos,3,1,0,0,22.0,29.0,460235.0
+2025-02-14,012_ZW Polideportivo Los Naranjos,4,1,0,0,120.0,40.0,3999567.0
+2025-02-15,012_ZW Polideportivo Los Naranjos,5,0,1,0,25.0,23.0,681808.0
+2025-02-16,012_ZW Polideportivo Los Naranjos,6,0,1,0,89.0,27.0,2693650.0
+2025-02-17,012_ZW Polideportivo Los Naranjos,0,1,0,0,36.0,31.0,1022766.0
+2025-02-18,012_ZW Polideportivo Los Naranjos,1,1,0,0,66.0,48.0,1861972.0
+2025-02-19,012_ZW Polideportivo Los Naranjos,2,1,0,0,52.0,33.0,1634593.0
+2025-02-20,012_ZW Polideportivo Los Naranjos,3,1,0,0,47.0,38.0,1648971.0
+2025-02-21,012_ZW Polideportivo Los Naranjos,4,1,0,0,57.0,42.0,1673627.0
+2025-02-22,012_ZW Polideportivo Los Naranjos,5,0,1,0,119.0,59.0,3385467.0
+2025-02-23,012_ZW Polideportivo Los Naranjos,6,0,1,0,71.0,37.0,2444756.0
+2025-02-24,012_ZW Polideportivo Los Naranjos,0,1,0,0,46.0,27.0,1124098.0
+2025-02-25,012_ZW Polideportivo Los Naranjos,1,1,0,0,192.0,42.0,5967563.0
+2025-02-26,012_ZW Polideportivo Los Naranjos,2,1,0,0,186.0,21.0,5143704.0
+2025-02-27,012_ZW Polideportivo Los Naranjos,3,1,0,0,110.0,36.0,3150418.0
+2025-02-28,012_ZW Polideportivo Los Naranjos,4,1,0,0,158.0,43.0,4454728.0
+2025-03-01,012_ZW Polideportivo Los Naranjos,5,0,1,0,129.0,37.0,3430555.0
+2025-03-02,012_ZW Polideportivo Los Naranjos,6,0,1,0,105.0,46.0,3566346.0
+2025-03-03,012_ZW Polideportivo Los Naranjos,0,1,0,0,4.0,30.0,104943.0
+2025-03-04,012_ZW Polideportivo Los Naranjos,1,1,0,0,5.0,21.0,105535.0
+2025-03-05,012_ZW Polideportivo Los Naranjos,2,1,0,0,12.0,25.0,346090.0
+2025-03-06,012_ZW Polideportivo Los Naranjos,3,1,0,0,34.0,27.0,1060375.0
+2025-03-07,012_ZW Polideportivo Los Naranjos,4,1,0,0,90.0,51.0,2506756.0
+2025-03-08,012_ZW Polideportivo Los Naranjos,5,0,1,0,9.0,25.0,308054.0
+2025-03-09,012_ZW Polideportivo Los Naranjos,6,0,1,0,36.0,32.0,1154697.0
+2025-03-10,012_ZW Polideportivo Los Naranjos,0,1,0,0,1.0,28.0,42846.0
+2025-03-11,012_ZW Polideportivo Los Naranjos,1,1,0,0,69.0,22.0,1545590.0
+2025-03-12,012_ZW Polideportivo Los Naranjos,2,1,0,0,45.0,35.0,1344792.0
+2025-03-13,012_ZW Polideportivo Los Naranjos,3,1,0,0,74.0,36.0,1782541.0
+2025-03-14,012_ZW Polideportivo Los Naranjos,4,1,0,0,116.0,54.0,3419579.0
+2025-03-15,012_ZW Polideportivo Los Naranjos,5,0,1,0,86.0,56.0,2681804.0
+2025-03-16,012_ZW Polideportivo Los Naranjos,6,0,1,0,223.0,46.0,6913570.0
+2025-03-17,012_ZW Polideportivo Los Naranjos,0,1,0,0,22.0,27.0,630715.0
+2025-03-18,012_ZW Polideportivo Los Naranjos,1,1,0,0,75.0,42.0,2486694.0
+2025-03-19,012_ZW Polideportivo Los Naranjos,2,1,0,0,30.0,25.0,839606.0
+2025-03-20,012_ZW Polideportivo Los Naranjos,3,1,0,0,225.0,54.0,6972071.0
+2025-03-21,012_ZW Polideportivo Los Naranjos,4,1,0,0,127.0,46.0,4662152.0
+2025-03-22,012_ZW Polideportivo Los Naranjos,5,0,1,0,56.0,42.0,1704506.0
+2025-03-23,012_ZW Polideportivo Los Naranjos,6,0,1,0,174.0,46.0,5601360.0
+2025-03-24,012_ZW Polideportivo Los Naranjos,0,0,0,1,53.0,31.0,2145840.0
+2025-03-25,012_ZW Polideportivo Los Naranjos,1,1,0,0,78.0,50.0,2674953.0
+2025-03-26,012_ZW Polideportivo Los Naranjos,2,1,0,0,55.0,37.0,1697504.0
+2025-03-27,012_ZW Polideportivo Los Naranjos,3,1,0,0,54.0,49.0,1941955.0
+2025-03-28,012_ZW Polideportivo Los Naranjos,4,1,0,0,88.0,39.0,2132816.0
+2025-03-29,012_ZW Polideportivo Los Naranjos,5,0,1,0,46.0,29.0,1481288.0
+2025-03-30,012_ZW Polideportivo Los Naranjos,6,0,1,0,39.0,34.0,1362559.0
+2025-03-31,012_ZW Polideportivo Los Naranjos,0,1,0,0,24.0,38.0,723061.0
+2025-04-01,012_ZW Polideportivo Los Naranjos,1,1,0,0,78.0,43.0,2185170.0
+2025-04-02,012_ZW Polideportivo Los Naranjos,2,1,0,0,219.0,33.0,5877055.0
+2025-04-03,012_ZW Polideportivo Los Naranjos,3,1,0,0,118.0,43.0,2573762.0
+2025-04-04,012_ZW Polideportivo Los Naranjos,4,1,0,0,161.0,53.0,4782440.0
+2025-04-05,012_ZW Polideportivo Los Naranjos,5,0,1,0,128.0,29.0,3487768.0
+2025-04-06,012_ZW Polideportivo Los Naranjos,6,0,1,0,113.0,31.0,3423566.0
+2025-04-07,012_ZW Polideportivo Los Naranjos,0,1,0,0,65.0,35.0,2089558.0
+2025-04-08,012_ZW Polideportivo Los Naranjos,1,1,0,0,89.0,37.0,2730150.0
+2025-04-09,012_ZW Polideportivo Los Naranjos,2,1,0,0,120.0,51.0,3832785.0
+2025-04-10,012_ZW Polideportivo Los Naranjos,3,1,0,0,63.0,40.0,1536611.0
+2025-04-11,012_ZW Polideportivo Los Naranjos,4,1,0,0,102.0,61.0,2975712.0
+2025-04-12,012_ZW Polideportivo Los Naranjos,5,0,1,0,60.0,39.0,1907979.0
+2025-04-13,012_ZW Polideportivo Los Naranjos,6,0,1,0,218.0,48.0,7642907.0
+2025-04-14,012_ZW Polideportivo Los Naranjos,0,1,0,0,32.0,33.0,1031384.0
+2025-04-15,012_ZW Polideportivo Los Naranjos,1,1,0,0,68.0,57.0,2594016.0
+2025-04-16,012_ZW Polideportivo Los Naranjos,2,1,0,0,117.0,48.0,3235464.0
+2025-04-17,012_ZW Polideportivo Los Naranjos,3,0,0,1,78.0,32.0,2592312.0
+2025-04-18,012_ZW Polideportivo Los Naranjos,4,0,0,1,19.0,26.0,642798.0
+2025-04-19,012_ZW Polideportivo Los Naranjos,5,0,1,0,11.0,17.0,357959.0
+2025-04-20,012_ZW Polideportivo Los Naranjos,6,0,1,0,32.0,32.0,1189391.0
+2025-04-21,012_ZW Polideportivo Los Naranjos,0,1,0,0,49.0,31.0,1435199.0
+2025-04-22,012_ZW Polideportivo Los Naranjos,1,1,0,0,110.0,49.0,3395514.0
+2025-04-23,012_ZW Polideportivo Los Naranjos,2,1,0,0,100.0,53.0,2952021.0
+2025-04-24,012_ZW Polideportivo Los Naranjos,3,1,0,0,102.0,51.0,3117525.0
+2025-04-25,012_ZW Polideportivo Los Naranjos,4,1,0,0,218.0,49.0,5320721.0
+2025-04-26,012_ZW Polideportivo Los Naranjos,5,0,1,0,61.0,23.0,1624577.0
+2025-04-27,012_ZW Polideportivo Los Naranjos,6,0,1,0,156.0,38.0,5736683.0
+2025-04-28,012_ZW Polideportivo Los Naranjos,0,1,0,0,7.0,25.0,231575.0
+2025-04-29,012_ZW Polideportivo Los Naranjos,1,1,0,0,112.0,50.0,3677378.0
+2025-04-30,012_ZW Polideportivo Los Naranjos,2,1,0,0,55.0,31.0,1614695.0
+2025-05-01,012_ZW Polideportivo Los Naranjos,3,0,0,1,3.0,16.0,72658.0
+2025-05-02,012_ZW Polideportivo Los Naranjos,4,1,0,0,89.0,34.0,2137928.0
+2025-05-03,012_ZW Polideportivo Los Naranjos,5,0,1,0,4.0,20.0,108181.0
+2025-05-04,012_ZW Polideportivo Los Naranjos,6,0,1,0,145.0,33.0,4738031.0
+2025-05-05,012_ZW Polideportivo Los Naranjos,0,1,0,0,13.0,21.0,323176.0
+2025-05-06,012_ZW Polideportivo Los Naranjos,1,1,0,0,140.0,42.0,4513053.0
+2025-05-07,012_ZW Polideportivo Los Naranjos,2,1,0,0,39.0,31.0,1057096.0
+2025-05-08,012_ZW Polideportivo Los Naranjos,3,1,0,0,89.0,43.0,2260331.0
+2025-05-09,012_ZW Polideportivo Los Naranjos,4,1,0,0,85.0,57.0,2806226.0
+2025-05-10,012_ZW Polideportivo Los Naranjos,5,0,1,0,46.0,24.0,1302354.0
+2025-05-11,012_ZW Polideportivo Los Naranjos,6,0,1,0,33.0,33.0,1124472.0
+2025-05-12,012_ZW Polideportivo Los Naranjos,0,1,0,0,79.0,27.0,2446683.0
+2025-05-13,012_ZW Polideportivo Los Naranjos,1,1,0,0,151.0,51.0,5230075.0
+2025-05-14,012_ZW Polideportivo Los Naranjos,2,1,0,0,63.0,28.0,1976425.0
+2025-05-15,012_ZW Polideportivo Los Naranjos,3,1,0,0,81.0,32.0,1894784.0
+2025-05-16,012_ZW Polideportivo Los Naranjos,4,1,0,0,78.0,41.0,2004140.0
+2025-05-17,012_ZW Polideportivo Los Naranjos,5,0,1,0,47.0,27.0,1127695.0
+2025-05-18,012_ZW Polideportivo Los Naranjos,6,0,1,0,36.0,27.0,1098578.0
+2025-05-19,012_ZW Polideportivo Los Naranjos,0,1,0,0,19.0,35.0,514221.0
+2025-05-20,012_ZW Polideportivo Los Naranjos,1,1,0,0,65.0,41.0,1940710.0
+2025-05-21,012_ZW Polideportivo Los Naranjos,2,1,0,0,65.0,32.0,1820047.0
+2025-05-22,012_ZW Polideportivo Los Naranjos,3,1,0,0,0.0,6.0,318.0
+2025-05-23,,4,1,0,0,,,
+2025-05-24,,5,0,1,0,,,
+2025-05-25,,6,0,1,0,,,
+2025-05-26,,0,1,0,0,,,
+2025-05-27,,1,1,0,0,,,
+2025-05-28,,2,1,0,0,,,
+2025-05-29,,3,1,0,0,,,
+2025-05-30,,4,1,0,0,,,
+2025-05-31,,5,0,1,0,,,
+2025-06-01,,6,0,1,0,,,
+2025-06-02,,0,0,0,1,,,
+2025-06-03,,1,1,0,0,,,
+2025-06-04,,2,1,0,0,,,
+2025-06-05,,3,1,0,0,,,
+2025-06-06,,4,1,0,0,,,
+2025-06-07,,5,0,1,0,,,
+2025-06-08,,6,0,1,0,,,
+2025-06-09,,0,1,0,0,,,
+2025-06-10,,1,1,0,0,,,
+2025-06-11,,2,1,0,0,,,
+2025-06-12,,3,1,0,0,,,
+2025-06-13,,4,1,0,0,,,
+2025-06-14,,5,0,1,0,,,
+2025-06-15,,6,0,1,0,,,
+2025-06-16,,0,1,0,0,,,
+2025-06-17,,1,1,0,0,,,
+2025-06-18,,2,1,0,0,,,
+2025-06-19,,3,1,0,0,,,
+2025-06-20,,4,1,0,0,,,
+2025-06-21,,5,0,1,0,,,
+2025-06-22,,6,0,1,0,,,
+2025-06-23,,0,0,0,1,,,
+2025-06-24,,1,1,0,0,,,
+2025-06-25,,2,1,0,0,,,
+2025-06-26,,3,1,0,0,,,
+2025-06-27,,4,1,0,0,,,
+2025-06-28,,5,0,1,0,,,
+2025-06-29,,6,0,1,0,,,
+2025-06-30,,0,0,0,1,,,
+2025-07-01,,1,1,0,0,,,
+2025-07-02,,2,1,0,0,,,
+2025-07-03,,3,1,0,0,,,
+2025-07-04,,4,1,0,0,,,
+2025-07-05,,5,0,1,0,,,
+2025-07-06,,6,0,1,0,,,
+2025-07-07,,0,1,0,0,,,
+2025-07-08,,1,1,0,0,,,
+2025-07-09,,2,1,0,0,,,
+2025-07-10,,3,1,0,0,,,
+2025-07-11,012_ZW Polideportivo Los Naranjos,4,1,0,0,0.11,15.0,3373.0
+2025-07-12,012_ZW Polideportivo Los Naranjos,5,0,1,0,43.43,28.0,1769512.0
+2025-07-13,012_ZW Polideportivo Los Naranjos,6,0,1,0,95.47,57.0,3679772.0
+2025-07-14,012_ZW Polideportivo Los Naranjos,0,1,0,0,34.87,20.0,1288015.0
+2025-07-15,012_ZW Polideportivo Los Naranjos,1,1,0,0,63.65,42.0,2471450.0
+2025-07-16,012_ZW Polideportivo Los Naranjos,2,1,0,0,38.01,33.0,1521084.0
+2025-07-17,012_ZW Polideportivo Los Naranjos,3,1,0,0,175.68,43.0,6511853.0
+2025-07-18,012_ZW Polideportivo Los Naranjos,4,1,0,0,133.03,46.0,4648703.0
+2025-07-19,012_ZW Polideportivo Los Naranjos,5,0,1,0,109.68,23.0,4316380.0
+2025-07-20,012_ZW Polideportivo Los Naranjos,6,0,0,1,268.01,40.0,11389380.0
+2025-07-21,012_ZW Polideportivo Los Naranjos,0,1,0,0,297.59,32.0,9753283.0
+2025-07-22,012_ZW Polideportivo Los Naranjos,1,1,0,0,175.68,48.0,6580888.0
+2025-07-23,012_ZW Polideportivo Los Naranjos,2,1,0,0,321.35,27.0,11512545.0
+2025-07-24,012_ZW Polideportivo Los Naranjos,3,1,0,0,95.47,57.0,3679772.0
+2025-07-25,012_ZW Polideportivo Los Naranjos,4,1,0,0,170.07,52.0,5316174.0
+2025-07-26,012_ZW Polideportivo Los Naranjos,5,0,1,0,108.62,23.0,4265515.0
+2025-07-27,012_ZW Polideportivo Los Naranjos,6,0,1,0,166.63,34.0,6055693.0
+2025-07-28,012_ZW Polideportivo Los Naranjos,0,1,0,0,184.08,27.0,6198095.0
+2025-07-29,012_ZW Polideportivo Los Naranjos,1,1,0,0,193.95,43.0,7985745.0
+2025-07-30,012_ZW Polideportivo Los Naranjos,2,1,0,0,206.92,29.0,7248345.0
+2025-07-31,012_ZW Polideportivo Los Naranjos,3,1,0,0,363.7,36.0,13112442.0
+2025-08-01,012_ZW Polideportivo Los Naranjos,4,1,0,0,118.29,39.0,4110093.0
+2025-08-02,012_ZW Polideportivo Los Naranjos,5,0,1,0,109.85,40.0,3873291.0
+2025-08-03,012_ZW Polideportivo Los Naranjos,6,0,1,0,198.75,42.0,7273001.0
+2025-08-04,012_ZW Polideportivo Los Naranjos,0,1,0,0,193.77,22.0,5809452.0
+2025-08-05,012_ZW Polideportivo Los Naranjos,1,1,0,0,171.69,50.0,5684154.0
+2025-08-06,012_ZW Polideportivo Los Naranjos,2,1,0,0,192.86,34.0,6295755.0
+2025-08-07,012_ZW Polideportivo Los Naranjos,3,0,0,1,335.72,26.0,9875264.0
+2025-08-08,012_ZW Polideportivo Los Naranjos,4,1,0,0,126.74,50.0,4921503.0
+2025-08-09,012_ZW Polideportivo Los Naranjos,5,0,1,0,340.19,62.0,12625213.0
+2025-08-10,012_ZW Polideportivo Los Naranjos,6,0,1,0,363.63,42.0,15113341.0
+2025-08-11,012_ZW Polideportivo Los Naranjos,0,1,0,0,196.66,28.0,7562311.0
+2025-08-12,012_ZW Polideportivo Los Naranjos,1,1,0,0,109.0,50.0,4469006.0
+2025-08-13,012_ZW Polideportivo Los Naranjos,2,1,0,0,53.47,24.0,1766791.0
+2025-08-14,012_ZW Polideportivo Los Naranjos,3,1,0,0,97.18,55.0,3668055.0
+2025-08-15,012_ZW Polideportivo Los Naranjos,4,1,0,0,202.65,44.0,6765276.0
+2025-08-16,012_ZW Polideportivo Los Naranjos,5,0,1,0,282.31,53.0,10657420.0
+2025-08-17,012_ZW Polideportivo Los Naranjos,6,0,1,0,218.66,59.0,8437771.0
+2025-08-18,012_ZW Polideportivo Los Naranjos,0,0,0,1,49.3,20.0,1903958.0
+2025-08-19,012_ZW Polideportivo Los Naranjos,1,1,0,0,65.56,55.0,2429867.0
+2025-08-20,012_ZW Polideportivo Los Naranjos,2,1,0,0,100.45,34.0,3932501.0
+2025-08-21,012_ZW Polideportivo Los Naranjos,3,1,0,0,67.67,49.0,2755456.0
+2025-08-22,012_ZW Polideportivo Los Naranjos,4,1,0,0,165.46,52.0,5939383.0
+2025-08-23,012_ZW Polideportivo Los Naranjos,5,0,1,0,129.54,30.0,4903944.0
+2025-08-24,012_ZW Polideportivo Los Naranjos,6,0,1,0,126.33,41.0,5303303.0
+2025-08-25,012_ZW Polideportivo Los Naranjos,0,1,0,0,85.83,40.0,3330961.0
+2025-08-26,012_ZW Polideportivo Los Naranjos,1,1,0,0,150.46,65.0,6233343.0
+2025-08-27,012_ZW Polideportivo Los Naranjos,2,1,0,0,92.62,41.0,3246991.0
+2025-08-28,012_ZW Polideportivo Los Naranjos,3,1,0,0,89.92,55.0,3996698.0
+2025-08-29,012_ZW Polideportivo Los Naranjos,4,1,0,0,82.88,59.0,3099938.0
+2025-08-30,012_ZW Polideportivo Los Naranjos,5,0,1,0,87.8,48.0,3686011.0
+2025-08-31,012_ZW Polideportivo Los Naranjos,6,0,1,0,44.8,46.0,1775669.0
+2025-09-01,012_ZW Polideportivo Los Naranjos,0,1,0,0,24.04,35.0,780546.0
+2025-09-02,012_ZW Polideportivo Los Naranjos,1,1,0,0,111.91,53.0,4090684.0
+2025-09-03,012_ZW Polideportivo Los Naranjos,2,1,0,0,41.26,27.0,1572620.0
+2025-09-04,012_ZW Polideportivo Los Naranjos,3,1,0,0,23.94,38.0,1053021.0
+2025-09-05,012_ZW Polideportivo Los Naranjos,4,1,0,0,126.18,43.0,4987378.0
+2025-09-06,012_ZW Polideportivo Los Naranjos,5,0,1,0,50.98,32.0,2103631.0
+2025-09-07,012_ZW Polideportivo Los Naranjos,6,0,1,0,41.81,40.0,1956304.0
+2025-09-08,012_ZW Polideportivo Los Naranjos,0,1,0,0,20.68,28.0,923446.0
+2025-09-09,012_ZW Polideportivo Los Naranjos,1,1,0,0,36.11,51.0,1597637.0
+2025-09-10,012_ZW Polideportivo Los Naranjos,2,1,0,0,43.75,40.0,1896022.0
+2025-09-11,012_ZW Polideportivo Los Naranjos,3,1,0,0,38.31,51.0,1653884.0
+2025-09-12,012_ZW Polideportivo Los Naranjos,4,1,0,0,43.74,61.0,2047374.0
+2025-09-13,012_ZW Polideportivo Los Naranjos,5,0,1,0,245.33,47.0,11324297.0
+2025-09-14,012_ZW Polideportivo Los Naranjos,6,0,1,0,77.09,42.0,3851965.0
+2025-09-15,012_ZW Polideportivo Los Naranjos,0,1,0,0,20.3,30.0,988055.0
+2025-09-16,012_ZW Polideportivo Los Naranjos,1,1,0,0,22.04,52.0,1077902.0
+2025-09-17,012_ZW Polideportivo Los Naranjos,2,1,0,0,34.38,44.0,1366852.0
+2025-09-18,012_ZW Polideportivo Los Naranjos,3,1,0,0,39.23,42.0,1524986.0
+2025-09-19,012_ZW Polideportivo Los Naranjos,4,1,0,0,47.59,55.0,2087323.0
+2025-09-20,012_ZW Polideportivo Los Naranjos,5,0,1,0,110.41,37.0,3880425.0
+2025-09-21,012_ZW Polideportivo Los Naranjos,6,0,1,0,133.54,43.0,5914651.0
+2025-09-22,012_ZW Polideportivo Los Naranjos,0,1,0,0,38.64,26.0,1665506.0
+2025-09-23,012_ZW Polideportivo Los Naranjos,1,1,0,0,137.62,54.0,7070375.0
+2025-09-24,012_ZW Polideportivo Los Naranjos,2,1,0,0,138.45,40.0,5800793.0
+2025-09-25,012_ZW Polideportivo Los Naranjos,3,1,0,0,82.81,48.0,3228808.0
+2025-09-26,012_ZW Polideportivo Los Naranjos,4,1,0,0,84.8,67.0,3687212.0
+2025-09-27,012_ZW Polideportivo Los Naranjos,5,0,1,0,29.43,32.0,1264461.0
+2025-09-28,012_ZW Polideportivo Los Naranjos,6,0,1,0,138.86,36.0,5516006.0
+2025-09-29,012_ZW Polideportivo Los Naranjos,0,1,0,0,21.72,33.0,918692.0
+2025-09-30,012_ZW Polideportivo Los Naranjos,1,1,0,0,141.24,61.0,5806433.0

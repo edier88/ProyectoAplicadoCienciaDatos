@@ -1,0 +1,640 @@
+FECHA_CONEXION,NOMBRE_ZONA,DIA_SEMANA,LABORAL,FIN_DE_SEMANA,FESTIVO,PORCENTAJE_USO,NUMERO_CONEXIONES,USAGE_KB
+2024-01-01,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,0.5,35.0,4621.0
+2024-01-02,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.4,32.0,3610.0
+2024-01-03,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,70.1,25.0,849791.0
+2024-01-04,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,79.0,29.0,834944.0
+2024-01-05,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,360.9,37.0,3912700.0
+2024-01-06,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,254.1,30.0,1949169.0
+2024-01-07,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,192.6,42.0,1932923.0
+2024-01-08,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,97.5,34.0,1537917.0
+2024-01-09,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,97.0,27.0,1256714.0
+2024-01-10,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,175.8,29.0,2121242.0
+2024-01-11,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,76.8,37.0,826568.0
+2024-01-12,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,143.6,33.0,1667730.0
+2024-01-13,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.2,6.0,1846.0
+2024-01-14,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,40.5,15.0,320299.0
+2024-01-15,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,1154.0,46.0,7983208.0
+2024-01-16,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,35.5,15.0,303417.0
+2024-01-17,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,36.7,8.0,367394.0
+2024-01-18,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,206.8,27.0,2480791.0
+2024-01-19,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,34.5,57.0,529090.0
+2024-01-20,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,24.9,6.0,322586.0
+2024-01-21,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,11.6,5.0,150520.0
+2024-01-22,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,149.3,33.0,1565871.0
+2024-01-23,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,336.1,41.0,3629421.0
+2024-01-24,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,392.4,38.0,4907796.0
+2024-01-25,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,764.4,55.0,11426110.0
+2024-01-26,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,334.3,44.0,4605549.0
+2024-01-27,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,302.7,36.0,3757638.0
+2024-01-28,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.7,34.0,7209.0
+2024-01-29,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.9,57.0,10516.0
+2024-01-30,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,1.5,65.0,13223.0
+2024-01-31,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.3,34.0,2841.0
+2024-02-01,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,1.8,52.0,24700.0
+2024-02-02,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.4,24.0,3649.0
+2024-02-03,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.3,42.0,5535.0
+2024-02-04,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,54.8,31.0,877081.0
+2024-02-05,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,333.8,21.0,5024331.0
+2024-02-06,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,265.7,50.0,3969893.0
+2024-02-07,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,276.7,41.0,4567617.0
+2024-02-08,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,93.0,52.0,1263574.0
+2024-02-09,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.5,50.0,6570.0
+2024-02-10,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,3.1,36.0,49156.0
+2024-02-11,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.5,28.0,6326.0
+2024-02-12,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.6,42.0,6514.0
+2024-02-13,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.4,30.0,3435.0
+2024-02-14,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,2.9,56.0,21889.0
+2024-02-15,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.2,30.0,2656.0
+2024-02-16,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,9.3,31.0,98398.0
+2024-02-17,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.3,54.0,3338.0
+2024-02-18,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.4,53.0,5722.0
+2024-02-19,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,11.7,37.0,171140.0
+2024-02-20,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.1,24.0,1482.0
+2024-02-21,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.6,39.0,6765.0
+2024-02-22,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.3,35.0,3957.0
+2024-02-23,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.1,30.0,945.0
+2024-02-24,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.3,27.0,3856.0
+2024-02-25,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,1.5,29.0,25512.0
+2024-02-26,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.4,33.0,4046.0
+2024-02-27,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.7,46.0,7931.0
+2024-02-28,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.6,47.0,9724.0
+2024-02-29,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.5,37.0,3593.0
+2024-03-01,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.3,28.0,3594.0
+2024-03-02,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.2,21.0,2237.0
+2024-03-03,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.2,43.0,2256.0
+2024-03-04,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.6,32.0,7978.0
+2024-03-05,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,89.9,30.0,1239656.0
+2024-03-06,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,41.6,24.0,503591.0
+2024-03-07,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,177.6,33.0,1897826.0
+2024-03-08,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,80.9,32.0,865858.0
+2024-03-09,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,36.7,22.0,363040.0
+2024-03-10,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,63.3,34.0,604085.0
+2024-03-11,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,187.2,41.0,1759227.0
+2024-03-12,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,83.8,26.0,738982.0
+2024-03-13,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,342.3,33.0,2533743.0
+2024-03-14,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,361.8,49.0,3510661.0
+2024-03-15,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,10.7,46.0,138878.0
+2024-03-16,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.2,28.0,2557.0
+2024-03-17,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.2,28.0,2222.0
+2024-03-18,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.6,38.0,7539.0
+2024-03-19,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.5,31.0,3588.0
+2024-03-20,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.7,29.0,4261.0
+2024-03-21,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,2.4,33.0,20806.0
+2024-03-22,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.4,29.0,4013.0
+2024-03-23,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.4,37.0,2922.0
+2024-03-24,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.9,40.0,8423.0
+2024-03-25,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,0.5,29.0,3667.0
+2024-03-26,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.5,30.0,4132.0
+2024-03-27,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.3,22.0,2571.0
+2024-03-28,027_ZW Parque Alfonso Bonilla Aragón,3,0,0,1,0.6,23.0,3520.0
+2024-03-29,027_ZW Parque Alfonso Bonilla Aragón,4,0,0,1,0.3,28.0,2744.0
+2024-03-30,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.6,28.0,3679.0
+2024-03-31,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.8,24.0,5722.0
+2024-04-01,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.3,31.0,3362.0
+2024-04-02,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.1,21.0,823.0
+2024-04-03,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.2,25.0,1538.0
+2024-04-04,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.1,30.0,1587.0
+2024-04-05,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.2,37.0,2311.0
+2024-04-06,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.2,33.0,2916.0
+2024-04-07,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.3,32.0,3868.0
+2024-04-08,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.9,26.0,6472.0
+2024-04-09,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.9,20.0,6844.0
+2024-04-10,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.6,39.0,2750.0
+2024-04-11,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.2,27.0,1089.0
+2024-04-12,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.7,39.0,5063.0
+2024-04-13,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.5,35.0,4049.0
+2024-04-14,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.8,33.0,5706.0
+2024-04-15,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,27.9,31.0,111845.0
+2024-04-16,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,2.7,28.0,11652.0
+2024-04-17,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,1.0,29.0,3894.0
+2024-04-18,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,1.3,24.0,3743.0
+2024-04-19,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.5,18.0,2156.0
+2024-04-20,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.2,30.0,1681.0
+2024-04-21,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.3,25.0,1783.0
+2024-04-22,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.3,20.0,1285.0
+2024-04-23,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,46.5,20.0,853472.0
+2024-04-24,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,4.9,20.0,89645.0
+2024-04-25,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,135.5,23.0,1607720.0
+2024-04-26,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,129.1,25.0,1293642.0
+2024-04-27,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,82.6,25.0,1007813.0
+2024-04-28,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,317.9,29.0,2348804.0
+2024-04-29,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,176.6,36.0,1413994.0
+2024-04-30,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,45.2,43.0,284540.0
+2024-05-01,027_ZW Parque Alfonso Bonilla Aragón,2,0,0,1,1.2,28.0,6337.0
+2024-05-02,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.3,31.0,1597.0
+2024-05-03,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,1.7,26.0,7973.0
+2024-05-04,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.3,20.0,2326.0
+2024-05-05,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.7,31.0,4163.0
+2024-05-06,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,2.7,26.0,13101.0
+2024-05-07,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,1.5,28.0,8848.0
+2024-05-08,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.6,26.0,4777.0
+2024-05-09,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.2,25.0,1524.0
+2024-05-10,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.6,26.0,4413.0
+2024-05-11,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.5,26.0,3980.0
+2024-05-12,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.6,39.0,2596.0
+2024-05-13,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,0.9,25.0,5161.0
+2024-05-14,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,1.8,26.0,3858.0
+2024-05-15,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.6,32.0,3790.0
+2024-05-16,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,2.7,31.0,22010.0
+2024-05-17,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.6,25.0,6552.0
+2024-05-18,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.4,25.0,4278.0
+2024-05-19,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.8,24.0,9858.0
+2024-05-20,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,27.1,31.0,190927.0
+2024-05-21,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,124.6,30.0,967674.0
+2024-05-22,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,26.7,30.0,68868.0
+2024-05-23,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,39.6,22.0,210363.0
+2024-05-24,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,42.3,19.0,199568.0
+2024-05-25,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,137.9,26.0,982466.0
+2024-05-26,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,107.5,26.0,742778.0
+2024-05-27,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,106.6,35.0,906338.0
+2024-05-28,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,98.7,36.0,735180.0
+2024-05-29,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,85.2,19.0,426302.0
+2024-05-30,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,16.2,28.0,193956.0
+2024-05-31,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.3,30.0,3082.0
+2024-06-01,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.1,30.0,961.0
+2024-06-02,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.6,20.0,5997.0
+2024-06-03,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,0.3,20.0,1968.0
+2024-06-04,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.3,22.0,1578.0
+2024-06-05,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,1.7,24.0,4721.0
+2024-06-06,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.2,25.0,1333.0
+2024-06-07,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.4,34.0,1974.0
+2024-06-08,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,3.7,18.0,11711.0
+2024-06-09,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.6,28.0,1725.0
+2024-06-10,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,0.1,22.0,709.0
+2024-06-11,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.2,26.0,1092.0
+2024-06-12,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.2,16.0,1245.0
+2024-06-13,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,201698.0,14.0,1036.0
+2024-06-14,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,368186.0,20.0,1225.0
+2024-06-15,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,209183.0,20.0,1166.0
+2024-06-16,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,531502.0,20.0,2964.0
+2024-06-17,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.5,24.0,3019.0
+2024-06-18,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.7,25.0,4434.0
+2024-06-19,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.3,24.0,1878.0
+2024-06-20,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.4,26.0,2000.0
+2024-06-21,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.4,34.0,2321.0
+2024-06-22,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.9,29.0,4784.0
+2024-06-23,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,1.0,35.0,2484.0
+2024-06-24,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.3,34.0,1657.0
+2024-06-25,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,1.5,33.0,6256.0
+2024-06-26,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.3,39.0,1159.0
+2024-06-27,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,1.4,26.0,4537.0
+2024-06-28,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.4,37.0,2505.0
+2024-06-29,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.6,32.0,3533.0
+2024-06-30,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.5,32.0,2358.0
+2024-07-01,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,0.23,26.0,1646.0
+2024-07-02,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.22,34.0,2063.0
+2024-07-03,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.19,28.0,1602.0
+2024-07-04,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.18,23.0,1406.0
+2024-07-05,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.27,24.0,2314.0
+2024-07-06,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.18,27.0,1546.0
+2024-07-07,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.34,35.0,3011.0
+2024-07-08,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.28,25.0,1568.0
+2024-07-09,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.23,26.0,1337.0
+2024-07-10,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.24,34.0,1626.0
+2024-07-11,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.18,31.0,1307.0
+2024-07-12,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.34,26.0,2145.0
+2024-07-13,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.58,41.0,4072.0
+2024-07-14,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.66,42.0,4199.0
+2024-07-15,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.48,37.0,2670.0
+2024-07-16,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.93,23.0,5814.0
+2024-07-17,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.35,27.0,1572.0
+2024-07-18,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.24,37.0,1409.0
+2024-07-19,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,1.01,28.0,7232.0
+2024-07-20,027_ZW Parque Alfonso Bonilla Aragón,5,0,0,1,0.24,24.0,1894.0
+2024-07-21,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,12.84,36.0,84080.0
+2024-07-22,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,216.89,24.0,1507388.0
+2024-07-23,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,142.9,40.0,989852.0
+2024-07-24,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,777.35,46.0,4913527.0
+2024-07-25,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,111.63,36.0,705731.0
+2024-07-26,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,122.12,28.0,927194.0
+2024-07-27,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,199.5,34.0,1166502.0
+2024-07-28,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,1.2,44.0,5657.0
+2024-07-29,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,0.75,38.0,4668.0
+2024-07-30,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.68,43.0,4667.0
+2024-07-31,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,0.28,39.0,1683.0
+2024-08-01,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,0.66,37.0,4435.0
+2024-08-02,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.54,28.0,3220.0
+2024-08-03,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.61,36.0,3012.0
+2024-08-04,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.19,25.0,1202.0
+2024-08-05,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,19.18,36.0,132752.0
+2024-08-06,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,60.68,35.0,630247.0
+2024-08-07,027_ZW Parque Alfonso Bonilla Aragón,2,0,0,1,132.8,37.0,1116411.0
+2024-08-08,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,96.7,35.0,770722.0
+2024-08-09,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,110.64,31.0,599525.0
+2024-08-10,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,91.85,30.0,485283.0
+2024-08-11,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,272.37,32.0,1569443.0
+2024-08-12,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,212.4,22.0,990852.0
+2024-08-13,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,431.24,38.0,3809927.0
+2024-08-14,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,99.31,32.0,748279.0
+2024-08-15,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,157.49,32.0,1049018.0
+2024-08-16,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.23,22.0,1659.0
+2024-08-17,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,0.34,27.0,2347.0
+2024-08-18,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,0.51,31.0,3351.0
+2024-08-19,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,0.64,27.0,4631.0
+2024-08-20,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,0.62,33.0,2497.0
+2024-08-21,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,1.2,39.0,4112.0
+2024-08-22,,3,1,0,0,,,
+2024-08-23,,4,1,0,0,,,
+2024-08-24,,5,0,1,0,,,
+2024-08-25,,6,0,1,0,,,
+2024-08-26,,0,1,0,0,,,
+2024-08-27,,1,1,0,0,,,
+2024-08-28,,2,1,0,0,,,
+2024-08-29,,3,1,0,0,,,
+2024-08-30,,4,1,0,0,,,
+2024-08-31,,5,0,1,0,,,
+2024-09-01,,6,0,1,0,,,
+2024-09-02,,0,1,0,0,,,
+2024-09-03,,1,1,0,0,,,
+2024-09-04,,2,1,0,0,,,
+2024-09-05,,3,1,0,0,,,
+2024-09-06,,4,1,0,0,,,
+2024-09-07,,5,0,1,0,,,
+2024-09-08,,6,0,1,0,,,
+2024-09-09,,0,1,0,0,,,
+2024-09-10,,1,1,0,0,,,
+2024-09-11,,2,1,0,0,,,
+2024-09-12,,3,1,0,0,,,
+2024-09-13,,4,1,0,0,,,
+2024-09-14,,5,0,1,0,,,
+2024-09-15,,6,0,1,0,,,
+2024-09-16,,0,1,0,0,,,
+2024-09-17,,1,1,0,0,,,
+2024-09-18,,2,1,0,0,,,
+2024-09-19,,3,1,0,0,,,
+2024-09-20,,4,1,0,0,,,
+2024-09-21,,5,0,1,0,,,
+2024-09-22,,6,0,1,0,,,
+2024-09-23,,0,1,0,0,,,
+2024-09-24,,1,1,0,0,,,
+2024-09-25,,2,1,0,0,,,
+2024-09-26,,3,1,0,0,,,
+2024-09-27,,4,1,0,0,,,
+2024-09-28,,5,0,1,0,,,
+2024-09-29,,6,0,1,0,,,
+2024-09-30,,0,1,0,0,,,
+2024-10-01,,1,1,0,0,,,
+2024-10-02,,2,1,0,0,,,
+2024-10-03,,3,1,0,0,,,
+2024-10-04,,4,1,0,0,,,
+2024-10-05,,5,0,1,0,,,
+2024-10-06,,6,0,1,0,,,
+2024-10-07,,0,1,0,0,,,
+2024-10-08,,1,1,0,0,,,
+2024-10-09,,2,1,0,0,,,
+2024-10-10,,3,1,0,0,,,
+2024-10-11,,4,1,0,0,,,
+2024-10-12,,5,0,1,0,,,
+2024-10-13,,6,0,1,0,,,
+2024-10-14,,0,0,0,1,,,
+2024-10-15,,1,1,0,0,,,
+2024-10-16,,2,1,0,0,,,
+2024-10-17,,3,1,0,0,,,
+2024-10-18,,4,1,0,0,,,
+2024-10-19,,5,0,1,0,,,
+2024-10-20,,6,0,1,0,,,
+2024-10-21,,0,1,0,0,,,
+2024-10-22,,1,1,0,0,,,
+2024-10-23,,2,1,0,0,,,
+2024-10-24,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,515.18,11.0,238777.0
+2024-10-25,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,47.03,38.0,210543.0
+2024-10-26,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,116.99,35.0,903404.0
+2024-10-27,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,118.41,30.0,1178733.0
+2024-10-28,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,187.97,28.0,1131920.0
+2024-10-29,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,64.53,24.0,409099.0
+2024-10-30,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,374.35,19.0,1834003.0
+2024-10-31,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,185.61,30.0,870807.0
+2024-11-01,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,247.2,28.0,1366998.0
+2024-11-02,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,167.39,18.0,1040121.0
+2024-11-03,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,259.59,27.0,1527035.0
+2024-11-04,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,146.76,26.0,973591.0
+2024-11-05,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,95.99,36.0,700896.0
+2024-11-06,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,38.13,12.0,238734.0
+2024-11-07,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,36.98,37.0,328916.0
+2024-11-08,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,17.25,40.0,213291.0
+2024-11-09,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,46.06,34.0,767007.0
+2024-11-10,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,26.86,37.0,520364.0
+2024-11-11,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,242.97,41.0,4267035.0
+2024-11-12,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,153.35,33.0,2931187.0
+2024-11-13,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,74.87,40.0,1212907.0
+2024-11-14,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,89.16,41.0,1711516.0
+2024-11-15,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,246.92,36.0,4498048.0
+2024-11-16,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,68.98,42.0,1270123.0
+2024-11-17,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,76.4,39.0,1312482.0
+2024-11-18,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,102.45,37.0,1646806.0
+2024-11-19,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,283.07,39.0,4522357.0
+2024-11-20,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,106.41,43.0,2030539.0
+2024-11-21,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,16.32,37.0,294719.0
+2024-11-22,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,42.35,43.0,854941.0
+2024-11-23,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,115.96,33.0,2222323.0
+2024-11-24,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,15.03,30.0,111264.0
+2024-11-25,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,39.02,13.0,160466.0
+2024-11-26,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,67.52,22.0,531730.0
+2024-11-27,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,80.66,35.0,1566384.0
+2024-11-28,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,132.48,31.0,2789492.0
+2024-11-29,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,59.57,38.0,1323835.0
+2024-11-30,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,144.09,39.0,3284360.0
+2024-12-01,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,127.9,43.0,3091003.0
+2024-12-02,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,358.16,34.0,7473351.0
+2024-12-03,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,97.02,39.0,1811349.0
+2024-12-04,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,76.85,39.0,1775037.0
+2024-12-05,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,74.62,35.0,1712029.0
+2024-12-06,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,31.68,40.0,712272.0
+2024-12-07,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,158.92,42.0,3260236.0
+2024-12-08,027_ZW Parque Alfonso Bonilla Aragón,6,0,0,1,41.17,36.0,1093197.0
+2024-12-09,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,93.3,42.0,2516234.0
+2024-12-10,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,34.43,34.0,1042684.0
+2024-12-11,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,30.84,49.0,929749.0
+2024-12-12,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,48.53,39.0,1665252.0
+2024-12-13,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,49.1,43.0,1665938.0
+2024-12-14,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,26.89,36.0,816862.0
+2024-12-15,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,37.21,41.0,1102244.0
+2024-12-16,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,73.67,29.0,2450071.0
+2024-12-17,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,75.2,29.0,2310364.0
+2024-12-18,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,56.6,31.0,1787403.0
+2024-12-19,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,67.3,42.0,1913118.0
+2024-12-20,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,156.0,48.0,4743447.0
+2024-12-21,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,112.0,42.0,2917549.0
+2024-12-22,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,78.1,40.0,2501075.0
+2024-12-23,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,66.0,33.0,1654180.0
+2024-12-24,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,60.2,22.0,1439022.0
+2024-12-25,027_ZW Parque Alfonso Bonilla Aragón,2,0,0,1,39.5,24.0,1115319.0
+2024-12-26,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,29.6,19.0,810293.0
+2024-12-27,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,90.5,20.0,2951326.0
+2024-12-28,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,109.0,27.0,2564818.0
+2024-12-29,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,90.0,36.0,2909345.0
+2024-12-30,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,54.1,16.0,1323878.0
+2024-12-31,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,125.0,36.0,2326837.0
+2025-01-01,027_ZW Parque Alfonso Bonilla Aragón,2,0,0,1,96.0,30.0,1415345.0
+2025-01-02,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,121.0,33.0,3364984.0
+2025-01-03,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,36.0,19.0,972608.0
+2025-01-04,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,8.0,27.0,209530.0
+2025-01-05,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,130.0,42.0,4254886.0
+2025-01-06,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,266.0,46.0,9946899.0
+2025-01-07,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,334.0,42.0,11051366.0
+2025-01-08,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,206.0,51.0,7105846.0
+2025-01-09,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,37.0,22.0,1303690.0
+2025-01-10,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,154.0,44.0,5559434.0
+2025-01-11,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,169.0,52.0,5758079.0
+2025-01-12,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,252.0,56.0,9441011.0
+2025-01-13,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,78.0,28.0,2354196.0
+2025-01-14,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,159.0,42.0,4816961.0
+2025-01-15,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,254.0,48.0,7347321.0
+2025-01-16,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,137.0,49.0,4309576.0
+2025-01-17,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,137.0,31.0,4168420.0
+2025-01-18,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,66.0,39.0,2015152.0
+2025-01-19,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,142.0,44.0,4603533.0
+2025-01-20,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,163.0,39.0,5274407.0
+2025-01-21,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,269.0,40.0,9683815.0
+2025-01-22,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,91.0,23.0,3063747.0
+2025-01-23,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,65.0,32.0,2601445.0
+2025-01-24,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,351.0,43.0,11701615.0
+2025-01-25,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,130.0,42.0,4820268.0
+2025-01-26,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,31.0,21.0,1202111.0
+2025-01-27,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,102.0,46.0,3882065.0
+2025-01-28,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,126.0,31.0,4148011.0
+2025-01-29,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,474.0,37.0,17173081.0
+2025-01-30,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,111.0,28.0,3008746.0
+2025-01-31,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,0.0,17.0,5221.0
+2025-02-01,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,67.0,42.0,1903760.0
+2025-02-02,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,46.0,40.0,1546622.0
+2025-02-03,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,134.0,33.0,3470203.0
+2025-02-04,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,68.0,35.0,1918520.0
+2025-02-05,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,17.0,32.0,408785.0
+2025-02-06,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,157.0,48.0,4264999.0
+2025-02-07,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,75.0,37.0,2206034.0
+2025-02-08,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,78.0,38.0,2074516.0
+2025-02-09,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,19.0,19.0,610354.0
+2025-02-10,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,352.0,54.0,9263042.0
+2025-02-11,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,90.0,41.0,2661249.0
+2025-02-12,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,118.0,37.0,3884063.0
+2025-02-13,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,260.0,37.0,5542390.0
+2025-02-14,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,209.0,54.0,6971738.0
+2025-02-15,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,117.0,46.0,3244261.0
+2025-02-16,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,194.0,51.0,5877531.0
+2025-02-17,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,59.0,26.0,1667070.0
+2025-02-18,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,185.0,47.0,5188056.0
+2025-02-19,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,314.0,39.0,9856429.0
+2025-02-20,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,121.0,44.0,4259381.0
+2025-02-21,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,34.0,24.0,995475.0
+2025-02-22,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,110.0,46.0,3125088.0
+2025-02-23,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,375.0,47.0,12870769.0
+2025-02-24,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,158.0,39.0,3828153.0
+2025-02-25,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,141.0,50.0,4386132.0
+2025-02-26,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,20.0,26.0,540076.0
+2025-02-27,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,28.0,28.0,807161.0
+2025-02-28,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,98.0,33.0,2750847.0
+2025-03-01,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,86.0,32.0,2284947.0
+2025-03-02,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,61.0,38.0,2082526.0
+2025-03-03,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,192.0,42.0,5116526.0
+2025-03-04,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,15.0,24.0,322706.0
+2025-03-05,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,216.0,41.0,6101703.0
+2025-03-06,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,149.0,28.0,4641174.0
+2025-03-07,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,145.0,41.0,4047363.0
+2025-03-08,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,70.0,29.0,2430050.0
+2025-03-09,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,69.0,43.0,2211338.0
+2025-03-10,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,108.0,43.0,3727550.0
+2025-03-11,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,10.0,22.0,232122.0
+2025-03-12,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,47.0,33.0,1387353.0
+2025-03-13,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,57.0,28.0,1387881.0
+2025-03-14,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,48.0,39.0,1406439.0
+2025-03-15,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,86.0,34.0,2664833.0
+2025-03-16,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,62.0,42.0,1934164.0
+2025-03-17,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,152.0,27.0,4422594.0
+2025-03-18,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,177.0,46.0,5846913.0
+2025-03-19,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,114.0,42.0,3174686.0
+2025-03-20,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,93.0,35.0,2887516.0
+2025-03-21,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,64.0,34.0,2372115.0
+2025-03-22,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,76.0,34.0,2316287.0
+2025-03-23,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,335.0,30.0,10808377.0
+2025-03-24,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,53.0,33.0,2134562.0
+2025-03-25,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,144.0,33.0,4970816.0
+2025-03-26,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,117.0,32.0,3623356.0
+2025-03-27,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,115.0,42.0,4171185.0
+2025-03-28,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,36.0,29.0,868567.0
+2025-03-29,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,56.0,39.0,1787234.0
+2025-03-30,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,71.0,37.0,2470384.0
+2025-03-31,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,24.0,38.0,736783.0
+2025-04-01,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,23.0,29.0,641973.0
+2025-04-02,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,99.0,35.0,2669741.0
+2025-04-03,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,13.0,20.0,276239.0
+2025-04-04,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,61.0,34.0,1802581.0
+2025-04-05,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,93.0,33.0,2538465.0
+2025-04-06,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,163.0,41.0,4911250.0
+2025-04-07,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,137.0,47.0,4390853.0
+2025-04-08,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,68.0,31.0,2077699.0
+2025-04-09,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,81.0,48.0,2580099.0
+2025-04-10,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,70.0,33.0,1710963.0
+2025-04-11,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,159.0,44.0,4671383.0
+2025-04-12,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,67.0,32.0,2107206.0
+2025-04-13,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,56.0,30.0,1971134.0
+2025-04-14,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,87.0,31.0,2771943.0
+2025-04-15,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,57.0,36.0,2195193.0
+2025-04-16,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,19.0,22.0,520701.0
+2025-04-17,027_ZW Parque Alfonso Bonilla Aragón,3,0,0,1,138.0,34.0,4603026.0
+2025-04-18,027_ZW Parque Alfonso Bonilla Aragón,4,0,0,1,115.0,42.0,3799965.0
+2025-04-19,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,139.0,39.0,4575048.0
+2025-04-20,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,9.0,20.0,336682.0
+2025-04-21,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,27.0,18.0,782681.0
+2025-04-22,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,177.0,35.0,5466944.0
+2025-04-23,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,126.0,44.0,3723233.0
+2025-04-24,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,32.0,57.0,972884.0
+2025-04-25,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,194.0,40.0,4726189.0
+2025-04-26,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,3.0,28.0,92917.0
+2025-04-27,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,59.0,47.0,2177360.0
+2025-04-28,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,35.0,28.0,1144267.0
+2025-04-29,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,97.0,40.0,3186494.0
+2025-04-30,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,17.0,22.0,492478.0
+2025-05-01,027_ZW Parque Alfonso Bonilla Aragón,3,0,0,1,92.0,33.0,2508339.0
+2025-05-02,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,78.0,26.0,1874110.0
+2025-05-03,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,25.0,26.0,628619.0
+2025-05-04,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,69.0,38.0,2256052.0
+2025-05-05,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,31.0,40.0,791652.0
+2025-05-06,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,68.0,36.0,2198076.0
+2025-05-07,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,110.0,43.0,2942486.0
+2025-05-08,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,43.0,39.0,1089878.0
+2025-05-09,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,112.0,40.0,3672478.0
+2025-05-10,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,176.0,39.0,5013310.0
+2025-05-11,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,151.0,44.0,5120906.0
+2025-05-12,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,95.0,44.0,2957632.0
+2025-05-13,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,13.0,30.0,438735.0
+2025-05-14,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,53.0,52.0,1664153.0
+2025-05-15,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,27.0,34.0,639755.0
+2025-05-16,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,34.0,34.0,868058.0
+2025-05-17,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,36.0,20.0,862594.0
+2025-05-18,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,46.0,26.0,1396014.0
+2025-05-19,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,130.0,43.0,3616277.0
+2025-05-20,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,58.0,43.0,1732107.0
+2025-05-21,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,219.0,57.0,6181228.0
+2025-05-22,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,101.0,49.0,2642293.0
+2025-05-23,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,27.0,31.0,823349.0
+2025-05-24,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,267.0,53.0,7712994.0
+2025-05-25,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,231.0,50.0,6944143.0
+2025-05-26,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,92.0,42.0,1957062.0
+2025-05-27,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,12.0,27.0,334266.0
+2025-05-28,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,123.0,42.0,4064109.0
+2025-05-29,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,133.0,52.0,4045513.0
+2025-05-30,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,151.0,52.0,3954199.0
+2025-05-31,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,134.0,48.0,4127957.0
+2025-06-01,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,51.0,34.0,1070166.0
+2025-06-02,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,117.0,34.0,2762323.0
+2025-06-03,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,57.0,32.0,1478741.0
+2025-06-04,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,64.0,39.0,1772461.0
+2025-06-05,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,38.0,23.0,1040807.0
+2025-06-06,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,61.0,43.0,1791975.0
+2025-06-07,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,90.0,44.0,3396708.0
+2025-06-08,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,52.0,39.0,1984126.0
+2025-06-09,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,25.0,25.0,538766.0
+2025-06-10,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,59.0,33.0,1111464.0
+2025-06-11,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,53.0,36.0,1323921.0
+2025-06-12,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,78.0,38.0,1515399.0
+2025-06-13,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,16.0,28.0,435891.0
+2025-06-14,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,116.0,28.0,3753549.0
+2025-06-15,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,107.0,52.0,3500034.0
+2025-06-16,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,61.0,48.0,1895207.0
+2025-06-17,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,101.0,47.0,3117839.0
+2025-06-18,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,53.0,36.0,1821880.0
+2025-06-19,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,17.0,23.0,559040.0
+2025-06-20,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,58.0,52.0,2126303.0
+2025-06-21,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,93.0,44.0,3044317.0
+2025-06-22,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,33.0,35.0,887798.0
+2025-06-23,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,40.0,32.0,1531611.0
+2025-06-24,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,111.0,55.0,4035803.0
+2025-06-25,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,86.0,55.0,2882540.0
+2025-06-26,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,330.0,50.0,10006768.0
+2025-06-27,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,122.0,56.0,4172879.0
+2025-06-28,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,104.0,52.0,3475934.0
+2025-06-29,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,248.0,38.0,8653516.0
+2025-06-30,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,109.0,39.0,3522860.0
+2025-07-01,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,73.88,44.0,2624170.0
+2025-07-02,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,4.02,13.0,142743.0
+2025-07-03,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,80.71,44.0,2649265.0
+2025-07-04,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,217.69,50.0,7853965.0
+2025-07-05,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,68.22,52.0,2500559.0
+2025-07-06,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,17.81,32.0,688705.0
+2025-07-07,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,66.31,53.0,2262100.0
+2025-07-08,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,141.5,56.0,5252761.0
+2025-07-09,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,241.22,47.0,8249657.0
+2025-07-10,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,156.31,60.0,5515756.0
+2025-07-11,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,3.67,18.0,116636.0
+2025-07-12,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,147.08,49.0,5992327.0
+2025-07-13,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,125.66,57.0,4843168.0
+2025-07-14,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,278.14,52.0,10274205.0
+2025-07-15,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,106.25,48.0,4125703.0
+2025-07-16,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,108.86,64.0,4356613.0
+2025-07-17,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,69.06,57.0,2559817.0
+2025-07-18,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,169.45,54.0,5921297.0
+2025-07-19,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,14.65,31.0,576487.0
+2025-07-20,027_ZW Parque Alfonso Bonilla Aragón,6,0,0,1,15.95,33.0,677698.0
+2025-07-21,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,62.77,55.0,2057168.0
+2025-07-22,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,148.81,59.0,5574177.0
+2025-07-23,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,190.1,54.0,6810359.0
+2025-07-24,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,125.66,57.0,4843168.0
+2025-07-25,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,8.37,27.0,261514.0
+2025-07-26,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,132.02,57.0,5184782.0
+2025-07-27,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,157.96,52.0,5740861.0
+2025-07-28,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,151.68,43.0,5107101.0
+2025-07-29,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,33.32,34.0,1372133.0
+2025-07-30,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,194.95,51.0,6828852.0
+2025-07-31,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,103.72,56.0,3739294.0
+2025-08-01,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,69.38,51.0,2410664.0
+2025-08-02,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,66.63,50.0,2349455.0
+2025-08-03,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,120.32,67.0,4402846.0
+2025-08-04,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,241.09,54.0,7228179.0
+2025-08-05,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,52.09,50.0,1724434.0
+2025-08-06,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,151.55,61.0,4947057.0
+2025-08-07,027_ZW Parque Alfonso Bonilla Aragón,3,0,0,1,11.49,18.0,337963.0
+2025-08-08,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,142.69,63.0,5540538.0
+2025-08-09,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,111.73,49.0,4146678.0
+2025-08-10,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,116.65,59.0,4848502.0
+2025-08-11,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,24.09,22.0,926318.0
+2025-08-12,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,150.04,51.0,6151475.0
+2025-08-13,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,120.81,36.0,3991740.0
+2025-08-14,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,78.34,47.0,2956915.0
+2025-08-15,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,169.65,48.0,5663456.0
+2025-08-16,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,6.94,17.0,261975.0
+2025-08-17,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,93.2,42.0,3596417.0
+2025-08-18,027_ZW Parque Alfonso Bonilla Aragón,0,0,0,1,115.08,37.0,4443947.0
+2025-08-19,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,150.08,51.0,5562787.0
+2025-08-20,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,51.77,54.0,2026638.0
+2025-08-21,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,30.7,43.0,1250143.0
+2025-08-22,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,99.54,55.0,3573238.0
+2025-08-23,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,103.08,51.0,3902403.0
+2025-08-24,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,2.68,15.0,112471.0
+2025-08-25,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,35.08,24.0,1361287.0
+2025-08-26,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,132.55,47.0,5491192.0
+2025-08-27,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,50.39,48.0,1766476.0
+2025-08-28,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,99.17,51.0,4408026.0
+2025-08-29,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,75.95,60.0,2840699.0
+2025-08-30,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,34.75,42.0,1458809.0
+2025-08-31,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,92.33,51.0,3659351.0
+2025-09-01,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,137.58,61.0,4467794.0
+2025-09-02,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,66.56,49.0,2433092.0
+2025-09-03,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,26.1,23.0,994888.0
+2025-09-04,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,187.73,41.0,8256745.0
+2025-09-05,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,196.71,63.0,7774905.0
+2025-09-06,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,278.57,53.0,11494741.0
+2025-09-07,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,5.47,20.0,256009.0
+2025-09-08,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,140.85,56.0,6290294.0
+2025-09-09,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,164.67,48.0,7284522.0
+2025-09-10,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,80.07,49.0,3470293.0
+2025-09-11,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,32.76,42.0,1414631.0
+2025-09-12,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,53.92,37.0,2524214.0
+2025-09-13,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,82.01,52.0,3785492.0
+2025-09-14,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,157.43,38.0,7866493.0
+2025-09-15,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,37.4,44.0,1820112.0
+2025-09-16,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,16.23,35.0,793682.0
+2025-09-17,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,14.02,28.0,557490.0
+2025-09-18,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,70.2,47.0,2728746.0
+2025-09-19,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,132.26,51.0,5800447.0
+2025-09-20,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,61.55,43.0,2163390.0
+2025-09-21,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,17.83,25.0,789658.0
+2025-09-22,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,136.69,50.0,5892415.0
+2025-09-23,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,48.79,59.0,2506422.0
+2025-09-24,027_ZW Parque Alfonso Bonilla Aragón,2,1,0,0,96.99,49.0,4063697.0
+2025-09-25,027_ZW Parque Alfonso Bonilla Aragón,3,1,0,0,38.51,46.0,1501616.0
+2025-09-26,027_ZW Parque Alfonso Bonilla Aragón,4,1,0,0,68.34,53.0,2971617.0
+2025-09-27,027_ZW Parque Alfonso Bonilla Aragón,5,0,1,0,80.78,46.0,3470070.0
+2025-09-28,027_ZW Parque Alfonso Bonilla Aragón,6,0,1,0,125.46,50.0,4983581.0
+2025-09-29,027_ZW Parque Alfonso Bonilla Aragón,0,1,0,0,129.75,61.0,5489307.0
+2025-09-30,027_ZW Parque Alfonso Bonilla Aragón,1,1,0,0,107.82,48.0,4432760.0
