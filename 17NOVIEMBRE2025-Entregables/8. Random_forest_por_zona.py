@@ -15,7 +15,7 @@ import sklearn
 from sklearn.linear_model import Ridge
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error, r2_score
 from sklearn.preprocessing import StandardScaler
 import skforecast
 from skforecast.recursive import ForecasterRecursive
@@ -48,7 +48,7 @@ os.makedirs(DESTINO_METRICAS, exist_ok=True)
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
 
 #df_errors = pd.DataFrame(columns=["Zona", "y_true", "y_pred", "MAPE", "error_abs", "error_relativo"])
-df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAE", "RMSE"])
+df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAE", "RMSE", "R2"])
 mape_percent = 0
 
 for archivo in archivos:
@@ -135,7 +135,10 @@ for archivo in archivos:
     rmse = np.sqrt(mse)
     print(f"RMSE: {rmse:.2f}")
 
-    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape_percent, "MAE": mae, "RMSE": rmse}])
+    r2 = r2_score(df_test['USAGE_KB'], predictions)
+    print(f"R-Cuadrado: {r2:.4f}")
+
+    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
     df_errors = pd.concat([df_errors, new_row], ignore_index=True)
 
     usage_kb_compared_scaled = pd.DataFrame({
@@ -147,20 +150,8 @@ for archivo in archivos:
     usage_kb_compared_scaled['error_relativo'] = usage_kb_compared_scaled['error_absoluto'] / usage_kb_compared_scaled['USAGE_KB_real']
 
     usage_kb_compared_scaled.to_csv(DESTINO_METRICAS / f"metricas_{nombre_zona}", index=False, encoding='utf-8')
-
-
-    # Gráfico de predicciones vs valores reales
-    # ==============================================================================
-    """
-    fig, ax = plt.subplots(figsize=(10, 4))
-    df_train['USAGE_KB'].plot(ax=ax, label='train')
-    df_test['USAGE_KB'].plot(ax=ax, label='test')
-    predictions.plot(ax=ax, label='predicciones')
-    plt.legend();
-    plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie.png"), dpi=300)
-    plt.close()
-    """
     
+
     # Graficar serie temporal
     #print(plt.style.available)
     plt.style.use('seaborn-v0_8-dark')
@@ -176,5 +167,48 @@ for archivo in archivos:
     plt.tight_layout()
     plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie.png"), dpi=300)
     plt.close()
+
+
+    # Busqueda de Hiper-parámetros por zona:
+    """
+    forecaster = ForecasterRecursive(
+        regressor = RandomForestRegressor(random_state=123),
+        lags      = 12 # Este valor será remplazado en el grid search
+    )
+    
+    # particiones train y validacion
+    cv = TimeSeriesFold(
+        steps              = steps,
+        initial_train_size = int(len(df_train) * 0.5),
+        refit              = False,
+        fixed_train_size   = False,
+    )
+    
+    # Valores de lags para evaluar
+    lags_grid = [10, 14, 18]
+    
+    # Valores a evaluar como hiperparámetros
+    param_grid = {
+        'n_estimators': [100, 250],
+        'max_depth': [10, 20, 30]
+    }
+    
+    resultados_grid = grid_search_forecaster(
+        forecaster  = forecaster,
+        y           = df_train['USAGE_KB'],
+        exog        = df_train[exog_variables],  # Variables exogenas
+        cv          = cv,
+        param_grid  = param_grid,
+        lags_grid   = lags_grid,
+        metric      = 'mean_absolute_percentage_error',
+        return_best = True,
+        n_jobs      = 'auto',
+        verbose     = False
+    )
+    """
+
+    resultados_grid.to_csv(DESTINO_METRICAS / f"grilla_{nombre_zona}", index=False, encoding='utf-8')
+
+
 
 df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')

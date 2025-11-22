@@ -15,7 +15,7 @@ import sklearn
 from sklearn.linear_model import Ridge
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error, r2_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.neural_network import MLPRegressor
 import skforecast
@@ -49,7 +49,7 @@ os.makedirs(DESTINO_METRICAS, exist_ok=True)
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
 
 #df_errors = pd.DataFrame(columns=["Zona", "y_true", "y_pred", "MAPE", "error_abs", "error_relativo"])
-df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAE", "RMSE"])
+df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAE", "RMSE", "R2"])
 mape_percent = 0
 
 for archivo in archivos:
@@ -92,8 +92,8 @@ for archivo in archivos:
     
     # Separación datos train-test
     # ==============================================================================
-    df_train = df[:-steps]
-    df_test  = df[-steps:]
+    df_train = df[:-steps].copy()
+    df_test  = df[-steps:].copy()
     print(f"Fechas train : {df_train.index.min()} --- {df_train.index.max()}  (n={len(df_train)})")
     print(f"Fechas test  : {df_test.index.min()} --- {df_test.index.max()}  (n={len(df_test)})")
     
@@ -165,7 +165,10 @@ for archivo in archivos:
     rmse = np.sqrt(mse)
     print(f"RMSE: {rmse:.2f}")
 
-    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape_percent, "MAE": mae, "RMSE": rmse}])
+    r2 = r2_score(df_test['USAGE_KB'], predictions_final)
+    print(f"R-Cuadrado: {r2:.2f}")
+
+    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
     df_errors = pd.concat([df_errors, new_row], ignore_index=True)
 
     #print(predictions,df_test['USAGE.KB'])
@@ -176,7 +179,7 @@ for archivo in archivos:
     difference = predictions_final - df_test['USAGE_KB']
     usage_kb_compared['error_absoluto'] = difference.abs()
     usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
-    print(usage_kb_compared)
+    #print(usage_kb_compared)
 
     usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_{nombre_zona}", index=False, encoding='utf-8')
     

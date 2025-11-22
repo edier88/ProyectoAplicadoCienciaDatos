@@ -1,0 +1,28 @@
+* MSE (Mean Squared Error): El MSE da alto porque la forma de calcular el MSE es la siguiente:
+
+MSE es el Error Cuadrático Medio y se calcula así:
+
+(valor_real1 - valor_predicho1)^2 + (valor_real2 - valor_predicho2)^2 + .... / numero_de_valores
+///Nota///Copiar formula real al documento de tesis////
+
+Es decir, es el promedio de los errores absolutos al cuadrado, por lo cual si tenemos valores muy altos (del orden de los GB) es normal que el MSE de alto.
+
+
+* MAPE (Mean Absolute Percentage Error): Nos da más bajo porque:
+
+(valor_real1 - valor_predicho1)/(valor_real1) + (valor_real2 - valor_predicho2)/(valor_real2) + ...... / (100/numero_de_valores)
+///Nota///Copiar formula real al documento de tesis////
+
+Es decir, es el promedo de los porcentajes de los errores relativos
+
+
+* RMSE (Root Mean Squared Error): Casi lo mismo que MSE pero sacando la raiz cuadrada (también nos da números altos)
+///Nota///Copiar formula real al documento de tesis////
+
+
+* MAE (Mean Absolute Error): Es el promedio de los errores absolutos (también nos da errores altos):
+
+(valor_real1 - valor_predicho1) + (valor_real2 - valor_predicho2) / numero_de_valores
+///Nota///Copiar formula real al documento de tesis////
+
+
