@@ -48,7 +48,7 @@ os.makedirs(DESTINO_METRICAS, exist_ok=True)
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
 
 #df_errors = pd.DataFrame(columns=["Zona", "y_true", "y_pred", "MAPE", "error_abs", "error_relativo"])
-df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAE", "RMSE", "R2"])
+df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
 mape_percent = 0
 
 for archivo in archivos:
@@ -84,7 +84,7 @@ for archivo in archivos:
     df['NUMERO_CONEXIONES'] = df['NUMERO_CONEXIONES'].astype('Float64')
     df['USAGE_KB'] = df['USAGE_KB'].astype('Float64')
     
-    # Separamos el dataset en 70% de train y 30% de test
+    # Separamos el dataset en 80% de train y 30% de test
     steps = rows*0.2 # 20% en test
     steps = math.floor(steps)
     print(f"Dataset separado con {steps} filas en test y {rows-steps} filas en la parte train")
@@ -138,8 +138,9 @@ for archivo in archivos:
     r2 = r2_score(df_test['USAGE_KB'], predictions)
     print(f"R-Cuadrado: {r2:.4f}")
 
-    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
+    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
     df_errors = pd.concat([df_errors, new_row], ignore_index=True)
+    df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
 
     usage_kb_compared_scaled = pd.DataFrame({
         'USAGE_KB_predicho': predictions,
@@ -170,7 +171,6 @@ for archivo in archivos:
 
 
     # Busqueda de Hiper-parámetros por zona:
-    """
     forecaster = ForecasterRecursive(
         regressor = RandomForestRegressor(random_state=123),
         lags      = 12 # Este valor será remplazado en el grid search
@@ -202,13 +202,13 @@ for archivo in archivos:
         lags_grid   = lags_grid,
         metric      = 'mean_absolute_percentage_error',
         return_best = True,
-        n_jobs      = 'auto',
+        n_jobs      = 1,  # ← Sin procesamiento paralelo para que no genere error
         verbose     = False
     )
-    """
+    
 
     resultados_grid.to_csv(DESTINO_METRICAS / f"grilla_{nombre_zona}", index=False, encoding='utf-8')
 
 
 
-df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
+#df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')

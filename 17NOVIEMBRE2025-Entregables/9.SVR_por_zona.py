@@ -48,7 +48,8 @@ os.makedirs(DESTINO_METRICAS, exist_ok=True)
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
 
 #df_errors = pd.DataFrame(columns=["Zona", "y_true", "y_pred", "MAPE", "error_abs", "error_relativo"])
-df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAE", "RMSE", "R2"])
+df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
+df_errors_ajustado = pd.DataFrame(columns=["Zona", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
 mape_percent = 0
 
 for archivo in archivos:
@@ -58,8 +59,10 @@ for archivo in archivos:
     #df = pd.read_csv(os.path.join(carpeta,"001_ZW Parque Ingenio-test2.csv"))
     df = pd.read_csv(archivo)
     
-    # Preparación del dato
     # ==============================================================================
+    # Preparación del dataset
+    # ==============================================================================
+
     df['FECHA_CONEXION'] = pd.to_datetime(df['FECHA_CONEXION'], format='%Y-%m-%d')
     df = df.set_index('FECHA_CONEXION')
     df = df.asfreq('D') # Fechas con frecuencia diario. En caso de que falte algún día se crea y todas las demás variables se ponen NaN
@@ -76,6 +79,7 @@ for archivo in archivos:
     rows, columns = df.shape
     print(rows)
     
+    # Conversion de los números a los tipos adecuados
     df['DIA_SEMANA'] = df['DIA_SEMANA'].astype('Int64')
     df['LABORAL'] = df['LABORAL'].astype('Int64')
     df['FIN_DE_SEMANA'] = df['FIN_DE_SEMANA'].astype('Int64')
@@ -84,7 +88,7 @@ for archivo in archivos:
     df['NUMERO_CONEXIONES'] = df['NUMERO_CONEXIONES'].astype('Float64')
     df['USAGE_KB'] = df['USAGE_KB'].astype('Float64')
     
-    # Separamos el dataset en 70% de train y 30% de test
+    # Separamos el dataset en 80% de train y 20% de test
     steps = rows*0.2 # 20% en test
     steps = math.floor(steps)
     print(f"Dataset separado con {steps} filas en test y {rows-steps} filas en la parte train")
@@ -116,25 +120,25 @@ for archivo in archivos:
     df_test['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(df_test[['NUMERO_CONEXIONES']])
     df_test['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(df_test[['PORCENTAJE_USO']])
 
-    # Create and train forecaster with SVR
+    # Se crea y se entrena forecaster con SVR
     forecaster = ForecasterRecursive(
         regressor=SVR(kernel='rbf', C=10.0, epsilon=0.01, gamma=0.05),  # Using SVR instead of RandomForest
         lags=8
     )
 
-    # Fit with SCALED target and SCALED exogenous variables
+    # Se usan los datos escalados
     forecaster.fit(
         y=df_train['USAGE_KB_scaled'],  # Scaled target
         exog=df_train[exog_variables_scaled]    # Includes scaled exogenous variables
     )
 
-    # Make predictions (returns scaled predictions)
+    # Se hace la predicción (Solo predicciones escaladas)
     predictions_scaled = forecaster.predict(
         steps=steps,
         exog=df_test[exog_variables_scaled]  # Future scaled exogenous variables
     )
 
-    # Descaling the predictions
+    # Desescalamiento de las predicciones
     predictions_final = pd.Series(
         scaler_usage.inverse_transform(predictions_scaled.values.reshape(-1, 1)).flatten(),
         index=predictions_scaled.index
@@ -160,10 +164,12 @@ for archivo in archivos:
     r2 = r2_score(df_test['USAGE_KB'], predictions_final)
     print(f"R-Cuadrado: {r2:.4f}")
 
-    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
+    # Construcción de CSV con métricas de errores de la predicción
+    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
     df_errors = pd.concat([df_errors, new_row], ignore_index=True)
+    df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
 
-
+    # Errores absolutos y relativos de las predicciones desescaladas
     usage_kb_compared = pd.DataFrame({
         'USAGE_KB_predicho': predictions_final,
         'USAGE_KB_real': df_test['USAGE_KB']
@@ -172,20 +178,10 @@ for archivo in archivos:
     usage_kb_compared['error_absoluto'] = difference.abs()
     usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
 
+    # Se guardan los errores absolutos y relativos en un CSV
     usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_{nombre_zona}", index=False, encoding='utf-8')
 
-    """
-    # Gráfico de predicciones vs valores reales (Prediciendo con SVR desescalado)
-    # ==============================================================================
-    fig, ax = plt.subplots(figsize=(10, 4))
-    df_train['USAGE_KB'].plot(ax=ax, label='train')
-    df_test['USAGE_KB'].plot(ax=ax, label='test')
-    predictions_final.plot(ax=ax, label='predicciones')
-    ax.legend();
-    """
-
-    # Graficar serie temporal
-    #print(plt.style.available)
+    # Graficación serie temporal
     plt.style.use('seaborn-v0_8-dark')
     plt.figure(figsize=(10, 5))
     plt.plot(df_train['USAGE_KB'], label="Train", linewidth=2)
@@ -200,4 +196,156 @@ for archivo in archivos:
     plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie.png"), dpi=300)
     plt.close()
 
-df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
+    # --------------------------------------------------------
+    # Busqueda de hiperparámetros por zona
+    # --------------------------------------------------------
+
+    forecaster_svr = ForecasterRecursive(
+        regressor=SVR(kernel='rbf'),
+        lags=12 # será reemplazado por el lag encontrado de la grilla
+    )
+    # Define cross-validation
+    cv = TimeSeriesFold(
+        steps=steps,
+        initial_train_size=int(len(df_train) * 0.6),  # Use 60% for initial training
+        refit=False,
+        fixed_train_size=False
+    )
+    
+    # SVR-specific hyperparameter grid
+    param_grid = {
+        'kernel': ['rbf'],
+        'C': [0.1, 1.0, 10.0],
+        'epsilon': [0.1, 0.01, 0.004],
+        'gamma': ['scale', 'auto', 0.5, 0.05]
+    }
+
+    # Busqueda de hiperparámetros por zona
+    resultados_grid_svr = grid_search_forecaster(
+        forecaster=forecaster_svr,
+        y=df_train['USAGE_KB_scaled'],
+        exog=df_train[exog_variables],
+        param_grid=param_grid,
+        cv=cv,
+        lags_grid=[6, 12, 18],
+        metric='mean_absolute_percentage_error',
+        return_best=True,
+        n_jobs=1,  # ← Sin procesamiento paralelo para que no genere error
+        verbose=False
+    )
+
+    resultados_grid_svr.to_csv(DESTINO_METRICAS / f"grilla_{nombre_zona}", index=False, encoding='utf-8')
+
+
+    # -----------------------------------------------------------------------------
+    # Aplicación en cada zona de los hiperparámetros encontrados
+    # -----------------------------------------------------------------------------
+    
+
+    print(resultados_grid_svr["lags"][0])
+    print(type(resultados_grid_svr["lags"][0]))
+    print(resultados_grid_svr["C"][0])
+    print(resultados_grid_svr["epsilon"][0])
+    print(resultados_grid_svr["gamma"][0])
+    lags_array = resultados_grid_svr["lags"][0]
+    print("ultimo lag:")
+    print(lags_array[-1])
+
+    ventana_ajustada = lags_array[-1]
+    print("tipo de dato ventana_ajustada:")
+    print(type(ventana_ajustada))
+    ventana_ajustada2 = int(ventana_ajustada)
+    print(type(ventana_ajustada2))
+    C_ajustado = resultados_grid_svr["C"][0]
+    epsilon_ajustado = resultados_grid_svr["epsilon"][0]
+    gamma_ajustado = resultados_grid_svr["gamma"][0]
+
+    
+    # Nueva prediccion basado en los hiperparámetros encontrados de la grilla de cada zona:
+    forecaster_ajustado = ForecasterRecursive(
+        regressor=SVR(
+            kernel='rbf', 
+            C=C_ajustado, 
+            epsilon=epsilon_ajustado, 
+            gamma=gamma_ajustado
+        ),
+        lags=ventana_ajustada2
+    )
+
+    forecaster_ajustado.fit(
+        y=df_train['USAGE_KB_scaled'],  # Scaled target
+        exog=df_train[exog_variables_scaled]    # Includes scaled exogenous variables
+    )
+
+    predictions_scaled_ajustado = forecaster_ajustado.predict(
+        steps=steps,
+        exog=df_test[exog_variables_scaled]  # Future scaled exogenous variables
+    )
+
+    # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
+    predictions_final_ajustado = pd.Series(
+        scaler_usage.inverse_transform(predictions_scaled_ajustado.values.reshape(-1, 1)).flatten(),
+        index=predictions_scaled_ajustado.index
+    )
+
+    # ------------------------------------------------------------------------------
+    # Calculo de errores de la predicción hecha con los hiperparámetros encontrados:
+    # ------------------------------------------------------------------------------
+    
+
+    # Mean Absolute Percentage Error
+    mape = mean_absolute_percentage_error(
+        y_true=df_test['USAGE_KB'],
+        y_pred=predictions_final_ajustado
+    )
+    mape_percent = mape*100
+    print(f"MAPE: {mape:.4f} ({mape*100:.2f}%)")
+
+    # Mean Absolute Error
+    mae = mean_absolute_error(df_test['USAGE_KB'], predictions_final_ajustado)
+    print(f"MAE: {mae:.2f}")
+
+    # Root Mean Squared Error
+    mse = mean_squared_error(df_test['USAGE_KB'], predictions_final_ajustado)
+    rmse = np.sqrt(mse)
+    print(f"RMSE: {rmse:.2f}")
+
+    r2 = r2_score(df_test['USAGE_KB'], predictions_final_ajustado)
+    print(f"R-Cuadrado: {r2:.4f}")
+
+    new_row_ajustado = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
+    df_errors_ajustado = pd.concat([df_errors_ajustado, new_row_ajustado], ignore_index=True)
+    df_errors_ajustado.to_csv(DESTINO_METRICAS / "metricas_globales_hiperparametros.csv", index=False, encoding='utf-8')
+
+    usage_kb_compared = pd.DataFrame({
+        'USAGE_KB_predicho': predictions_final_ajustado,
+        'USAGE_KB_real': df_test['USAGE_KB']
+    })
+    difference = predictions_final_ajustado - df_test['USAGE_KB']
+    usage_kb_compared['error_absoluto'] = difference.abs()
+    usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
+
+    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_hiperparametros_{nombre_zona}", index=False, encoding='utf-8')
+
+
+    
+
+
+    """
+    # Get predictions with best SVR model
+    predictions_scaled_svr = forecaster_svr.predict(
+        steps=steps,
+        exog=df_test[exog_variables]
+    )
+
+    # Desescalado de datos de la grilla
+    predictions_final = pd.Series(
+        scaler_usage.inverse_transform(predictions_scaled.values.reshape(-1, 1)).flatten(),
+        index=predictions_scaled.index
+    )
+    
+    # Descaling
+    predictions_final_svr = descale_predictions(predictions_scaled_svr, scaler_usage)
+    """
+
+#df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
