@@ -224,7 +224,7 @@ for archivo in archivos:
     resultados_grid_svr = grid_search_forecaster(
         forecaster=forecaster_svr,
         y=df_train['USAGE_KB_scaled'],
-        exog=df_train[exog_variables],
+        exog=df_train[exog_variables_scaled],
         param_grid=param_grid,
         cv=cv,
         lags_grid=[6, 12, 18],

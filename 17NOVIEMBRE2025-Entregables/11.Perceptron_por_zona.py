@@ -49,7 +49,8 @@ os.makedirs(DESTINO_METRICAS, exist_ok=True)
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
 
 #df_errors = pd.DataFrame(columns=["Zona", "y_true", "y_pred", "MAPE", "error_abs", "error_relativo"])
-df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAE", "RMSE", "R2"])
+df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
+df_errors_ajustado = pd.DataFrame(columns=["Zona", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
 mape_percent = 0
 
 for archivo in archivos:
@@ -147,7 +148,6 @@ for archivo in archivos:
         index=predictions_scaled.index
     )
 
-
     # Mean Absolute Percentage Error
     mape = mean_absolute_percentage_error(
         y_true=df_test['USAGE_KB'],
@@ -168,8 +168,10 @@ for archivo in archivos:
     r2 = r2_score(df_test['USAGE_KB'], predictions_final)
     print(f"R-Cuadrado: {r2:.2f}")
 
-    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
+    # Construcción de CSV con métricas de errores de la predicción
+    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
     df_errors = pd.concat([df_errors, new_row], ignore_index=True)
+    df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
 
     #print(predictions,df_test['USAGE.KB'])
     usage_kb_compared = pd.DataFrame({
@@ -199,4 +201,53 @@ for archivo in archivos:
     plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie.png"), dpi=300)
     plt.close()
 
-df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
+
+
+    # --------------------------------------------------------
+    # Busqueda de hiperparámetros por zona
+    # --------------------------------------------------------
+    
+    forecaster = ForecasterRecursive(
+        regressor=MLPRegressor(random_state=123, max_iter=1000),
+        lags=8
+    )
+    
+    # MLP hyperparameter grid
+    param_grid = {
+        'hidden_layer_sizes': [(50,), (100,), (50, 50), (100, 50), (100, 100), (50, 25, 10)],
+        'activation': ['relu', 'tanh'],
+        'solver': ['adam'],
+        'alpha': [0.0001, 0.001, 0.01],  # L2 regularization
+        'learning_rate': ['constant', 'adaptive'],
+        'learning_rate_init': [0.001, 0.01]
+    }
+    
+    # Cross-validation
+    cv = TimeSeriesFold(
+        steps=steps,
+        initial_train_size=int(len(df_train) * 0.6),
+        refit=False,
+        fixed_train_size=False
+    )
+    
+    # Grid search
+    resultados_grid = grid_search_forecaster(
+        forecaster=forecaster,
+        y=df_train['USAGE_KB_scaled'],
+        exog=df_train[exog_variables_scaled],
+        cv=cv,
+        param_grid=param_grid,
+        lags_grid=[6, 8, 12, 16],  # Also optimize lags
+        metric='mean_absolute_percentage_error',
+        return_best=False,  # Keep all results to see everything
+        n_jobs=1,  # MLP doesn't parallelize well, use 1
+        verbose=False
+    )
+
+    resultados_grid.to_csv(DESTINO_METRICAS / f"grilla_{nombre_zona}", index=False, encoding='utf-8')
+    
+    # Display results
+    #results_df = pd.DataFrame(resultados_grid)
+    #results_df = results_df.sort_values('mean_squared_error')
+
+#df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
