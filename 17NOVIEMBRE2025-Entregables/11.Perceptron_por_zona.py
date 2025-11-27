@@ -208,15 +208,15 @@ for archivo in archivos:
     # --------------------------------------------------------
     
     forecaster = ForecasterRecursive(
-        regressor=MLPRegressor(random_state=123, max_iter=1000),
+        regressor=MLPRegressor(random_state=123, max_iter=10000),
         lags=8
     )
     
     # MLP hyperparameter grid
     param_grid = {
         'hidden_layer_sizes': [(50,), (100,), (50, 50), (100, 50), (100, 100), (50, 25, 10)],
-        'activation': ['relu', 'tanh'],
-        'solver': ['adam'],
+        'activation': ['relu', 'tanh'], # relu (rectifier linear unit), tanh ()
+        'solver': ['adam'], # adam, robusto a los picos
         'alpha': [0.0001, 0.001, 0.01],  # L2 regularization
         'learning_rate': ['constant', 'adaptive'],
         'learning_rate_init': [0.001, 0.01]
@@ -245,7 +245,128 @@ for archivo in archivos:
     )
 
     resultados_grid.to_csv(DESTINO_METRICAS / f"grilla_{nombre_zona}", index=False, encoding='utf-8')
+
+
+
+    # -----------------------------------------------------------------------------
+    # Aplicación en cada zona de los hiperparámetros encontrados
+    # -----------------------------------------------------------------------------
     
+    print("lags:")
+    print(resultados_grid["lags"][0])
+    print("params:")
+    print(resultados_grid["params"][0])
+    print("mape:")
+    print(resultados_grid["mean_absolute_percentage_error"][0])
+    print("activation:")
+    print(resultados_grid["activation"][0])
+    print("alpha:")
+    print(resultados_grid["alpha"][0])
+    print("hidden_layer_sizes:")
+    print(resultados_grid["hidden_layer_sizes"][0])
+    print("learning_rate:")
+    print(resultados_grid["learning_rate"][0])
+    print("learning_rate_init:")
+    print(resultados_grid["learning_rate_init"][0])
+    print("solver:")
+    print(resultados_grid["solver"][0])
+
+
+    
+    print(resultados_grid["lags"][0])
+    print(type(resultados_grid["lags"][0]))
+    lags_array = resultados_grid["lags"][0]
+    print("ultimo lag:")
+    print(lags_array[-1])
+
+    ventana_ajustada = lags_array[-1]
+    print("tipo de dato ventana_ajustada:")
+    print(type(ventana_ajustada))
+    ventana_ajustada2 = int(ventana_ajustada)
+    print(type(ventana_ajustada2))
+
+    hidden_layer_ajustado = resultados_grid["hidden_layer_sizes"][0]
+    activation_ajustado = resultados_grid["activation"][0]
+    solver_ajustado = resultados_grid["solver"][0]
+    alpha_ajustado = resultados_grid["alpha"][0]
+    learning_rate_ajustado = resultados_grid["learning_rate"][0]
+    learning_rate_init_ajustado = resultados_grid["learning_rate_init"][0]
+
+
+    
+    # Nueva prediccion basado en los hiperparámetros encontrados de la grilla de cada zona:
+    forecaster_ajustado = ForecasterRecursive(
+        regressor=MLPRegressor(
+            hidden_layer_sizes=hidden_layer_ajustado,
+            activation=activation_ajustado,
+            solver=solver_ajustado,
+            max_iter=10000,
+            random_state=123,
+            alpha=alpha_ajustado,
+            learning_rate=learning_rate_ajustado,
+            learning_rate_init=learning_rate_init_ajustado
+        ),
+        lags=ventana_ajustada2
+    )
+
+    forecaster_ajustado.fit(
+        y=df_train['USAGE_KB_scaled'],  # Scaled target
+        exog=df_train[exog_variables_scaled]    # Includes scaled exogenous variables
+    )
+
+    predictions_scaled_ajustado = forecaster_ajustado.predict(
+        steps=steps,
+        exog=df_test[exog_variables_scaled]  # Future scaled exogenous variables
+    )
+
+    # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
+    predictions_final_ajustado = pd.Series(
+        scaler_usage.inverse_transform(predictions_scaled_ajustado.values.reshape(-1, 1)).flatten(),
+        index=predictions_scaled_ajustado.index
+    )
+
+    
+
+    # ------------------------------------------------------------------------------
+    # Calculo de errores de la predicción hecha con los hiperparámetros encontrados:
+    # ------------------------------------------------------------------------------
+    
+
+    # Mean Absolute Percentage Error
+    mape = mean_absolute_percentage_error(
+        y_true=df_test['USAGE_KB'],
+        y_pred=predictions_final_ajustado
+    )
+    mape_percent = mape*100
+    print(f"MAPE: {mape:.4f} ({mape*100:.2f}%)")
+
+    # Mean Absolute Error
+    mae = mean_absolute_error(df_test['USAGE_KB'], predictions_final_ajustado)
+    print(f"MAE: {mae:.2f}")
+
+    # Root Mean Squared Error
+    mse = mean_squared_error(df_test['USAGE_KB'], predictions_final_ajustado)
+    rmse = np.sqrt(mse)
+    print(f"RMSE: {rmse:.2f}")
+
+    r2 = r2_score(df_test['USAGE_KB'], predictions_final_ajustado)
+    print(f"R-Cuadrado: {r2:.4f}")
+
+    new_row_ajustado = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
+    df_errors_ajustado = pd.concat([df_errors_ajustado, new_row_ajustado], ignore_index=True)
+    df_errors_ajustado.to_csv(DESTINO_METRICAS / "metricas_globales_hiperparametros.csv", index=False, encoding='utf-8')
+
+    usage_kb_compared = pd.DataFrame({
+        'USAGE_KB_predicho': predictions_final_ajustado,
+        'USAGE_KB_real': df_test['USAGE_KB']
+    })
+    difference = predictions_final_ajustado - df_test['USAGE_KB']
+    usage_kb_compared['error_absoluto'] = difference.abs()
+    usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
+
+    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_hiperparametros_{nombre_zona}", index=False, encoding='utf-8')
+    
+
     # Display results
     #results_df = pd.DataFrame(resultados_grid)
     #results_df = results_df.sort_values('mean_squared_error')

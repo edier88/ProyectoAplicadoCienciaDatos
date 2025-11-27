@@ -49,6 +49,7 @@ archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
 
 #df_errors = pd.DataFrame(columns=["Zona", "y_true", "y_pred", "MAPE", "error_abs", "error_relativo"])
 df_errors = pd.DataFrame(columns=["Zona", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
+df_errors_ajustado = pd.DataFrame(columns=["Zona", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
 mape_percent = 0
 
 for archivo in archivos:
@@ -84,7 +85,7 @@ for archivo in archivos:
     df['NUMERO_CONEXIONES'] = df['NUMERO_CONEXIONES'].astype('Float64')
     df['USAGE_KB'] = df['USAGE_KB'].astype('Float64')
     
-    # Separamos el dataset en 80% de train y 30% de test
+    # Separamos el dataset en 80% de train y 20% de test
     steps = rows*0.2 # 20% en test
     steps = math.floor(steps)
     print(f"Dataset separado con {steps} filas en test y {rows-steps} filas en la parte train")
@@ -208,6 +209,87 @@ for archivo in archivos:
     
 
     resultados_grid.to_csv(DESTINO_METRICAS / f"grilla_{nombre_zona}", index=False, encoding='utf-8')
+
+
+
+    # -----------------------------------------------------------------------------
+    # Aplicación en cada zona de los hiperparámetros encontrados
+    # -----------------------------------------------------------------------------
+
+        
+    print(resultados_grid["n_estimators"][0])
+    n_estimators_ajustado = resultados_grid["n_estimators"][0]
+
+    print(resultados_grid["max_depth"][0])
+    max_depth_ajustado = resultados_grid["max_depth"][0]
+
+    print(resultados_grid["lags"][0])
+    lags_array = resultados_grid["lags"][0]
+    ventana_ajustada = lags_array[-1]
+    ventana_ajustada2 = int(ventana_ajustada)
+
+    
+    forecaster_ajustado = ForecasterRecursive(
+        regressor=RandomForestRegressor(
+            n_estimators=n_estimators_ajustado,
+            max_depth=max_depth_ajustado,
+            random_state=123
+        ),
+        lags=ventana_ajustada2
+    )
+
+    forecaster_ajustado.fit(
+        y=df_train['USAGE_KB'],  # Scaled target
+        exog=df_train[exog_variables]    # Includes exogenous variables
+    )
+
+    predictions_ajustado = forecaster_ajustado.predict(
+        steps=steps,
+        exog=df_test[exog_variables]  # Future scaled exogenous variables
+    )
+
+
+
+    # ------------------------------------------------------------------------------
+    # Calculo de errores de la predicción hecha con los hiperparámetros encontrados:
+    # ------------------------------------------------------------------------------
+
+
+    # Mean Absolute Percentage Error
+    mape = mean_absolute_percentage_error(
+        y_true=df_test['USAGE_KB'],
+        y_pred=predictions_ajustado
+    )
+    mape_percent = mape*100
+    print(f"MAPE: {mape:.4f} ({mape*100:.2f}%)")
+
+    # Mean Absolute Error
+    mae = mean_absolute_error(df_test['USAGE_KB'], predictions_ajustado)
+    print(f"MAE: {mae:.2f}")
+
+    # Root Mean Squared Error
+    mse = mean_squared_error(df_test['USAGE_KB'], predictions_ajustado)
+    rmse = np.sqrt(mse)
+    print(f"RMSE: {rmse:.2f}")
+
+    r2 = r2_score(df_test['USAGE_KB'], predictions_ajustado)
+    print(f"R-Cuadrado: {r2:.4f}")
+
+    new_row_ajustado = pd.DataFrame([{"Zona": nombre_zona, "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
+    df_errors_ajustado = pd.concat([df_errors_ajustado, new_row_ajustado], ignore_index=True)
+    df_errors_ajustado.to_csv(DESTINO_METRICAS / "metricas_globales_hiperparametros.csv", index=False, encoding='utf-8')
+
+    usage_kb_compared = pd.DataFrame({
+        'USAGE_KB_predicho': predictions_ajustado,
+        'USAGE_KB_real': df_test['USAGE_KB']
+    })
+    difference = predictions_ajustado - df_test['USAGE_KB']
+    usage_kb_compared['error_absoluto'] = difference.abs()
+    usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
+
+    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_hiperparametros_{nombre_zona}", index=False, encoding='utf-8')
+
+    
 
 
 
