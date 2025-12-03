@@ -37,7 +37,7 @@ from pathlib import Path
 GRAF_DIR = "RegresionLineal_Graficas"
 os.makedirs(GRAF_DIR, exist_ok=True)
 
-ORIGEN = "csv-zonas-wifi-de-pamartin/"
+ORIGEN = "csv-zonas-wifi-separados-man/"
 #DESTINO_METRICAS = "Random_Forest_Metricas"
 DESTINO_METRICAS = Path("RegresionLineal_Metricas")
 os.makedirs(DESTINO_METRICAS, exist_ok=True)
@@ -120,7 +120,7 @@ for archivo in archivos:
     # Basic Linear Regression
     forecaster = ForecasterRecursive(
         regressor=LinearRegression(),
-        lags=20
+        lags=10
     )
 
     forecaster.fit(
@@ -145,18 +145,23 @@ for archivo in archivos:
         y_pred=predictions_final
     )
     mape_percent = mape*100
+    mape = round(mape, 3)
+    mape_percent = round(mape_percent, 3)
     print(f"MAPE: {mape:.4f} ({mape*100:.2f}%)")
 
     # Mean Absolute Error
     mae = mean_absolute_error(df_test['USAGE_KB'], predictions_final)
+    mae = round(mae, 3)
     print(f"MAE: {mae:.2f}")
 
     # Root Mean Squared Error
     mse = mean_squared_error(df_test['USAGE_KB'], predictions_final)
     rmse = np.sqrt(mse)
+    rmse = round(rmse, 3)
     print(f"RMSE: {rmse:.2f}")
 
     r2 = r2_score(df_test['USAGE_KB'], predictions_final)
+    r2 = round(r2, 3)
     print(f"R-Cuadrado: {r2:.4f}")
 
     

@@ -90,7 +90,7 @@ for archivo in archivos:
     df['USAGE_KB'] = df['USAGE_KB'].astype('Float64')
     
     # Separamos el dataset en 80% de train y 20% de test
-    steps = rows*0.2 # 20% en test
+    steps = rows*0.3 # 20% en test
     steps = math.floor(steps)
     print(f"Dataset separado con {steps} filas en test y {rows-steps} filas en la parte train")
     
