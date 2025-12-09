@@ -1,0 +1,384 @@
+================================================================================
+INFORME DE RENTABILIDAD - ZONAS WIFI
+Análisis de Negocio para Toma de Decisiones
+Fecha de generación: 2025-12-08 20:38:48
+================================================================================
+
+📋 RESUMEN EJECUTIVO
+--------------------------------------------------------------------------------
+
+Total de zonas analizadas: 52
+Zonas excluidas del análisis: 11 (códigos: 006, 009, 014, 017, 018, 020, 033, 060, 061, 062, 063)
+Total de GB utilizados (todas las zonas): 94,298.71 GB
+Total de conexiones (todas las zonas): 1,503,847
+Promedio de GB por zona: 1,813.44 GB
+Promedio de conexiones por zona: 28,920
+Promedio de KB por conexión (todas las zonas): 74,698.90 KB
+
+================================================================================
+📐 METODOLOGÍA: CÁLCULO DEL SCORE DE RENTABILIDAD
+================================================================================
+
+CRITERIO DE RENTABILIDAD:
+El Score% es un indicador combinado que evalúa la rentabilidad de cada zona WiFi
+considerando DOS dimensiones clave:
+
+1. VOLUMEN DE DATOS (KB): Representa la intensidad de uso y el valor generado
+   - Zonas con alto volumen indican usuarios intensivos o uso prolongado
+   - Mayor volumen = mayor demanda de ancho de banda = mayor valor
+
+2. NÚMERO DE CONEXIONES: Representa el alcance y penetración del servicio
+   - Zonas con muchas conexiones indican alta adopción del servicio
+   - Mayor número de conexiones = mayor cobertura de usuarios
+
+JUSTIFICACIÓN DEL CRITERIO:
+Una zona puede ser rentable de diferentes formas:
+  • Alta intensidad: Mucho KB pero pocos usuarios (usuarios intensivos)
+  • Alta penetración: Muchos usuarios pero bajo KB por usuario (usuarios ocasionales)
+  • Balance óptimo: Alto KB Y muchas conexiones (máxima rentabilidad)
+
+El Score combina ambas dimensiones para identificar zonas que son rentables
+de forma INTEGRAL, no solo en una dimensión.
+
+FÓRMULA DE CÁLCULO:
+--------------------------------------------------------------------------------
+
+PASO 1: NORMALIZACIÓN (0-100%)
+Se normalizan ambas métricas para hacerlas comparables:
+
+  KB_relativo = (KB_zona / KB_máximo_entre_todas_las_zonas) × 100
+  Conexiones_relativo = (Conexiones_zona / Conexiones_máximo_entre_todas_las_zonas) × 100
+
+Ejemplo: Si una zona tiene 3,000 GB y el máximo es 6,000 GB:
+  KB_relativo = (3,000 / 6,000) × 100 = 50%
+
+PASO 2: COMBINACIÓN (Promedio Simple)
+Se promedian las dos métricas normalizadas:
+
+  Score% = (KB_relativo + Conexiones_relativo) / 2
+
+Ejemplo: Si KB_relativo = 50% y Conexiones_relativo = 75%:
+  Score% = (50 + 75) / 2 = 62.5%
+
+INTERPRETACIÓN DEL SCORE%:
+--------------------------------------------------------------------------------
+
+  • 100%: Zona líder en AMBAS métricas (ideal pero raro en la práctica)
+  • 75-100%: Alta rentabilidad combinada - Zonas prioritarias para inversión
+  • 50-75%: Rentabilidad media-alta - Zonas con buen desempeño
+  • 25-50%: Rentabilidad media-baja - Zonas que requieren atención
+  • 0-25%: Baja rentabilidad - Zonas que requieren análisis profundo
+
+VENTAJAS DE ESTE CRITERIO:
+--------------------------------------------------------------------------------
+
+1. BALANCE: No favorece solo volumen o solo alcance, sino ambos
+2. NORMALIZACIÓN: Permite comparar zonas de diferentes tamaños
+3. SIMPLICIDAD: Fácil de entender y explicar a tomadores de decisiones
+4. INTEGRALIDAD: Identifica zonas rentables de forma holística
+5. OBJETIVIDAD: No requiere ponderaciones subjetivas
+
+ALTERNATIVAS CONSIDERADAS Y DESCARTADAS:
+--------------------------------------------------------------------------------
+
+  ❌ Solo KB: Ignoraría zonas con muchos usuarios pero bajo uso individual
+  ❌ Solo Conexiones: Ignoraría zonas con usuarios intensivos pero pocos usuarios
+  ❌ Ponderación desigual (ej: 70% KB, 30% Conexiones): Requeriría justificación
+     subjetiva de los pesos sin evidencia empírica
+  ❌ Incluir eficiencia (KB/conexión): Sería redundante, ya está implícito en
+     la relación entre las dos métricas principales
+  ✅ Promedio simple (50%-50%): Equilibrado, objetivo y fácil de justificar
+
+================================================================================
+
+🏆 TOP 10 ZONAS MÁS RENTABLES POR VOLUMEN DE DATOS (KB)
+--------------------------------------------------------------------------------
+
+22. ZW Parque Yo Amo a Siloé
+    • Total:   6,656.47 GB  |  Conexiones:   18,843  |  KB/Conexión: 370,419.27 KB
+    • Promedio diario:      10.42 GB/día
+
+ 5. ZW Parque Barrio Obrero
+    • Total:   4,467.95 GB  |  Conexiones:  107,014  |  KB/Conexión:  43,779.21 KB
+    • Promedio diario:       6.99 GB/día
+
+26. ZW Parque La Orqueta
+    • Total:   4,429.83 GB  |  Conexiones:   49,055  |  KB/Conexión:  94,689.88 KB
+    • Promedio diario:       6.93 GB/día
+
+19. ZW Parque San Marino
+    • Total:   4,341.88 GB  |  Conexiones:   23,884  |  KB/Conexión: 190,621.06 KB
+    • Promedio diario:       6.79 GB/día
+
+14. ZW Parque Skate Board
+    • Total:   3,550.31 GB  |  Conexiones:   44,220  |  KB/Conexión:  84,187.46 KB
+    • Promedio diario:       5.56 GB/día
+
+25. ZW Cancha Los Azules
+    • Total:   3,469.52 GB  |  Conexiones:   19,335  |  KB/Conexión: 188,159.20 KB
+    • Promedio diario:       5.43 GB/día
+
+13. ZW Conjunto Habitacional Ramali
+    • Total:   2,989.71 GB  |  Conexiones:   25,925  |  KB/Conexión: 120,923.49 KB
+    • Promedio diario:       4.68 GB/día
+
+31. ZW Parque Sector Amarillo Skate Park
+    • Total:   2,929.88 GB  |  Conexiones:   24,200  |  KB/Conexión: 126,950.70 KB
+    • Promedio diario:       4.59 GB/día
+
+ 7. ZW Parque Alfonso Lopez
+    • Total:   2,669.92 GB  |  Conexiones:   33,539  |  KB/Conexión:  83,473.48 KB
+    • Promedio diario:       4.18 GB/día
+
+30. ZW Parque Tequendama
+    • Total:   2,607.96 GB  |  Conexiones:   42,220  |  KB/Conexión:  64,771.35 KB
+    • Promedio diario:       4.08 GB/día
+
+
+👥 TOP 10 ZONAS CON MÁS CONEXIONES
+--------------------------------------------------------------------------------
+
+ 5. ZW Parque Barrio Obrero
+    • Total conexiones:  107,014  |  Total GB:   4,467.95 GB
+    • Promedio diario:    167.5 conexiones/día  |  KB/Conexión:  43,779.21 KB
+
+15. ZW Parque Alfonso Barberena
+    • Total conexiones:   62,454  |  Total GB:   1,861.22 GB
+    • Promedio diario:     97.7 conexiones/día  |  KB/Conexión:  31,249.02 KB
+
+29. ZW Parque India Elena
+    • Total conexiones:   57,854  |  Total GB:   2,321.87 GB
+    • Promedio diario:     90.5 conexiones/día  |  KB/Conexión:  42,082.84 KB
+
+28. ZW Parque Colseguros
+    • Total conexiones:   51,923  |  Total GB:   2,244.09 GB
+    • Promedio diario:     81.3 conexiones/día  |  KB/Conexión:  45,319.06 KB
+
+26. ZW Parque La Orqueta
+    • Total conexiones:   49,055  |  Total GB:   4,429.83 GB
+    • Promedio diario:     76.8 conexiones/día  |  KB/Conexión:  94,689.88 KB
+
+52. El Saladito
+    • Total conexiones:   47,233  |  Total GB:   2,504.35 GB
+    • Promedio diario:     73.9 conexiones/día  |  KB/Conexión:  55,596.81 KB
+
+14. ZW Parque Skate Board
+    • Total conexiones:   44,220  |  Total GB:   3,550.31 GB
+    • Promedio diario:     69.2 conexiones/día  |  KB/Conexión:  84,187.46 KB
+
+30. ZW Parque Tequendama
+    • Total conexiones:   42,220  |  Total GB:   2,607.96 GB
+    • Promedio diario:     66.1 conexiones/día  |  KB/Conexión:  64,771.35 KB
+
+ 4. ZW Parque San Nicolas
+    • Total conexiones:   40,340  |  Total GB:   2,020.91 GB
+    • Promedio diario:     64.8 conexiones/día  |  KB/Conexión:  52,530.32 KB
+
+20. ZW Parque La Flora
+    • Total conexiones:   39,474  |  Total GB:   1,684.45 GB
+    • Promedio diario:     61.8 conexiones/día  |  KB/Conexión:  44,745.31 KB
+
+
+⚡ TOP 10 ZONAS MÁS EFICIENTES (Mayor KB por conexión)
+--------------------------------------------------------------------------------
+
+22. ZW Parque Yo Amo a Siloé
+    • KB por conexión: 370,419.27 KB  |  Total conexiones:   18,843  |  Total GB:   6,656.47 GB
+
+19. ZW Parque San Marino
+    • KB por conexión: 190,621.06 KB  |  Total conexiones:   23,884  |  Total GB:   4,341.88 GB
+
+25. ZW Cancha Los Azules
+    • KB por conexión: 188,159.20 KB  |  Total conexiones:   19,335  |  Total GB:   3,469.52 GB
+
+51. La Elvira
+    • KB por conexión: 137,919.97 KB  |  Total conexiones:    6,416  |  Total GB:     843.90 GB
+
+40. ZW Parque del Mico
+    • KB por conexión: 131,447.02 KB  |  Total conexiones:   12,361  |  Total GB:   1,549.55 GB
+
+31. ZW Parque Sector Amarillo Skate Park
+    • KB por conexión: 126,950.70 KB  |  Total conexiones:   24,200  |  Total GB:   2,929.88 GB
+
+13. ZW Conjunto Habitacional Ramali
+    • KB por conexión: 120,923.49 KB  |  Total conexiones:   25,925  |  Total GB:   2,989.71 GB
+
+33. ZW Polideportivo Torres Comfandi
+    • KB por conexión: 110,994.49 KB  |  Total conexiones:   17,492  |  Total GB:   1,851.57 GB
+
+27. ZW Parque Villa Colombia
+    • KB por conexión: 109,393.43 KB  |  Total conexiones:    8,707  |  Total GB:     908.36 GB
+
+37. ZW Polideportivo San Benito
+    • KB por conexión: 102,838.95 KB  |  Total conexiones:   22,723  |  Total GB:   2,228.56 GB
+
+
+💎 TOP 10 ZONAS MÁS RENTABLES (Score Combinado: KB + Conexiones)
+--------------------------------------------------------------------------------
+
+ 5. ZW Parque Barrio Obrero
+    • Score:  83.56%  |  GB:   4,467.95  |  Conexiones:  107,014  |  KB/Conexión:  43,779.21
+
+22. ZW Parque Yo Amo a Siloé
+    • Score:  58.80%  |  GB:   6,656.47  |  Conexiones:   18,843  |  KB/Conexión: 370,419.27
+
+26. ZW Parque La Orqueta
+    • Score:  56.19%  |  GB:   4,429.83  |  Conexiones:   49,055  |  KB/Conexión:  94,689.88
+
+14. ZW Parque Skate Board
+    • Score:  47.33%  |  GB:   3,550.31  |  Conexiones:   44,220  |  KB/Conexión:  84,187.46
+
+29. ZW Parque India Elena
+    • Score:  44.47%  |  GB:   2,321.87  |  Conexiones:   57,854  |  KB/Conexión:  42,082.84
+
+19. ZW Parque San Marino
+    • Score:  43.77%  |  GB:   4,341.88  |  Conexiones:   23,884  |  KB/Conexión: 190,621.06
+
+15. ZW Parque Alfonso Barberena
+    • Score:  43.16%  |  GB:   1,861.22  |  Conexiones:   62,454  |  KB/Conexión:  31,249.02
+
+28. ZW Parque Colseguros
+    • Score:  41.12%  |  GB:   2,244.09  |  Conexiones:   51,923  |  KB/Conexión:  45,319.06
+
+52. El Saladito
+    • Score:  40.88%  |  GB:   2,504.35  |  Conexiones:   47,233  |  KB/Conexión:  55,596.81
+
+30. ZW Parque Tequendama
+    • Score:  39.32%  |  GB:   2,607.96  |  Conexiones:   42,220  |  KB/Conexión:  64,771.35
+
+
+⚠️  TOP 10 ZONAS MENOS RENTABLES (Oportunidades de mejora)
+--------------------------------------------------------------------------------
+
+ 6. ZW Parque Pizamos
+    • Score:   5.05%  |  GB:     383.32  |  Conexiones:    4,655  |  KB/Conexión:  86,346.93
+
+49. ZW Comuna 16
+    • Score:   6.64%  |  GB:     138.04  |  Conexiones:   11,997  |  KB/Conexión:  12,065.36
+
+50. La Castilla
+    • Score:   9.26%  |  GB:     521.89  |  Conexiones:   11,418  |  KB/Conexión:  47,928.38
+
+51. La Elvira
+    • Score:   9.34%  |  GB:     843.90  |  Conexiones:    6,416  |  KB/Conexión: 137,919.97
+
+44. ZW Parque La Merced
+    • Score:   9.89%  |  GB:     655.89  |  Conexiones:   10,618  |  KB/Conexión:  64,771.82
+
+27. ZW Parque Villa Colombia
+    • Score:  10.89%  |  GB:     908.36  |  Conexiones:    8,707  |  KB/Conexión: 109,393.43
+
+39. ZW Sebastian Belalcazar
+    • Score:  11.31%  |  GB:     689.82  |  Conexiones:   13,117  |  KB/Conexión:  55,144.01
+
+16. ZW Polideportivo Los Farallones
+    • Score:  11.70%  |  GB:     952.24  |  Conexiones:    9,727  |  KB/Conexión: 102,652.41
+
+ 9. ZW Parque Santa Rosa Poblado
+    • Score:  14.46%  |  GB:     417.76  |  Conexiones:   24,234  |  KB/Conexión:  18,076.10
+
+47. ZW El Diamante
+    • Score:  14.76%  |  GB:     642.66  |  Conexiones:   21,259  |  KB/Conexión:  31,698.37
+
+
+================================================================================
+💼 ANÁLISIS DE NEGOCIO Y RECOMENDACIONES
+================================================================================
+
+🌟 ZONA ESTRELLA (Mayor rentabilidad combinada):
+   ZW Parque Barrio Obrero
+   • Esta zona genera 4,467.95 GB y 107,014 conexiones
+   • Representa un modelo a replicar en otras zonas
+   • Considerar inversión adicional para mantener/mejorar servicio
+
+📉 ZONA CON MENOR RENTABILIDAD:
+   ZW Parque Pizamos
+   • Genera solo 383.32 GB y 4,655 conexiones
+   • Requiere análisis de causas: ubicación, señal, promoción, etc.
+   • Considerar estrategias de mejora o reubicación
+
+📊 DISTRIBUCIÓN DE RENTABILIDAD:
+   • Zonas de alta rentabilidad (percentil 75+): 13 zonas
+   • Zonas de baja rentabilidad (percentil 25-): 13 zonas
+   • Concentración: 18,859.74 GB (20%) están en las top 10 zonas
+
+🎯 RECOMENDACIONES ESTRATÉGICAS:
+
+1. INVERSIÓN PRIORITARIA:
+   • Enfocar recursos en las top 10 zonas más rentables para maximizar ROI
+   • Mejorar infraestructura en zonas con alto potencial pero limitaciones técnicas
+
+2. OPTIMIZACIÓN DE RECURSOS:
+   • Revisar zonas de baja rentabilidad para identificar causas raíz
+   • Considerar reubicación de equipos de zonas poco rentables a zonas de alta demanda
+   • Implementar campañas de promoción en zonas con buen potencial pero bajo uso
+
+3. DECISIONES DE NEGOCIO:
+   • Las zonas con mayor KB por conexión indican usuarios intensivos (mayor valor)
+   • Las zonas con muchas conexiones pero bajo KB indican usuarios ocasionales
+   • Balancear estrategia entre volumen (conexiones) y valor (KB por conexión)
+
+4. MÉTRICAS DE SEGUIMIENTO:
+   • Monitorear tendencias mensuales de las top 10 zonas
+   • Establecer alertas para zonas que caigan en rentabilidad
+   • Comparar rendimiento entre días laborales y fines de semana
+
+
+================================================================================
+📋 TABLA COMPLETA DE RENTABILIDAD (Ordenada por Score)
+================================================================================
+
+Rank   Zona                                     Score%   GB Total     Conex.     KB/Conex.   
+--------------------------------------------------------------------------------
+1      ZW Parque Barrio Obrero                   83.56    4,467.95   107,014   43,779.21
+2      ZW Parque Yo Amo a Siloé                  58.80    6,656.47    18,843  370,419.27
+3      ZW Parque La Orqueta                      56.19    4,429.83    49,055   94,689.88
+4      ZW Parque Skate Board                     47.33    3,550.31    44,220   84,187.46
+5      ZW Parque India Elena                     44.47    2,321.87    57,854   42,082.84
+6      ZW Parque San Marino                      43.77    4,341.88    23,884  190,621.06
+7      ZW Parque Alfonso Barberena               43.16    1,861.22    62,454   31,249.02
+8      ZW Parque Colseguros                      41.12    2,244.09    51,923   45,319.06
+9      El Saladito                               40.88    2,504.35    47,233   55,596.81
+10     ZW Parque Tequendama                      39.32    2,607.96    42,220   64,771.35
+11     ZW Parque Alfonso Lopez                   35.73    2,669.92    33,539   83,473.48
+12     ZW Cancha Los Azules                      35.10    3,469.52    19,335  188,159.20
+13     ZW Conjunto Habitacional Ramali           34.57    2,989.71    25,925  120,923.49
+14     ZW Biblioteca Daniel Guillard             34.52    2,551.18    32,875   81,372.20
+15     ZW Parque San Nicolas                     34.03    2,020.91    40,340   52,530.32
+16     ZW Parque Sector Amarillo Skate Park      33.31    2,929.88    24,200  126,950.70
+17     ZW Parque Mutis                           31.35    2,245.40    31,000   75,950.70
+18     ZW Parque La Flora                        31.10    1,684.45    39,474   44,745.31
+19     ZW Polideportivo Ricardo Balcazar         30.47    2,090.09    31,609   69,335.23
+20     ZW Parque Junin                           29.20    1,440.43    39,333   38,400.39
+21     ZW Parque Cien Palos                      29.12    1,628.88    36,135   47,267.18
+22     ZW Polideportivo San Benito               27.36    2,228.56    22,723  102,838.95
+23     ZW Centro Cultural Vista Hermosa          26.32    1,620.43    30,276   56,121.86
+24     ZW Parque Mariano Ramos                   26.30    1,648.79    29,779   58,057.22
+25     ZW Centro Cultural Comuna 13              26.24    1,947.55    24,859   82,149.38
+26     ZW Parque del Perro                       24.71      935.29    37,857   25,905.88
+27     ZW Parque Los Guerreros                   24.11    1,177.60    32,666   37,800.79
+28     ZW Canchas Panamericanas                  22.79      844.91    35,202   25,167.62
+29     ZW Puente de Colores                      22.41    1,106.65    30,176   38,454.46
+30     ZW Polideportivo Torres Comfandi          22.08    1,851.57    17,492  110,994.49
+31     ZW Parque Ingenio                         21.22    1,273.62    24,950   53,526.41
+32     ZW Polideportivo Petecuy                  20.91    1,220.07    25,129   50,910.89
+33     ZW Polideportivo Los Naranjos             20.37    1,233.87    23,763   54,446.47
+34     ZW Polideportivo Laureano Gomez           20.27    1,189.97    24,259   51,435.60
+35     ZW Parque Calima                          20.06    1,304.86    21,949   62,337.25
+36     ZW Parque Alfonso Bonilla Aragón          19.69    1,201.32    22,837   55,159.45
+37     ZW Parque Antonio Nariño                  19.28    1,309.49    20,216   67,921.18
+38     ZW Museo La Tertulia                      18.06      516.81    30,339   17,861.81
+39     ZW Parque Llano Verde                     17.69    1,076.72    20,543   54,958.87
+40     ZW Parque del Mico                        17.41    1,549.55    12,361  131,447.02
+41     ZW Cerro 3 Cruces                         16.99    1,095.03    18,761   61,202.47
+42     ZW Parque Santa Anita                     16.29    1,105.87    17,097   67,823.86
+43     ZW El Diamante                            14.76      642.66    21,259   31,698.37
+44     ZW Parque Santa Rosa Poblado              14.46      417.76    24,234   18,076.10
+45     ZW Polideportivo Los Farallones           11.70      952.24     9,727  102,652.41
+46     ZW Sebastian Belalcazar                   11.31      689.82    13,117   55,144.01
+47     ZW Parque Villa Colombia                  10.89      908.36     8,707  109,393.43
+48     ZW Parque La Merced                        9.89      655.89    10,618   64,771.82
+49     La Elvira                                  9.34      843.90     6,416  137,919.97
+50     La Castilla                                9.26      521.89    11,418   47,928.38
+51     ZW Comuna 16                               6.64      138.04    11,997   12,065.36
+52     ZW Parque Pizamos                          5.05      383.32     4,655   86,346.93

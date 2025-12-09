@@ -49,7 +49,7 @@ os.makedirs(DESTINO_METRICAS, exist_ok=True)
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
 
 #df_errors = pd.DataFrame(columns=["Zona", "y_true", "y_pred", "MAPE", "error_abs", "error_relativo"])
-df_errors = pd.DataFrame(columns=["Zona", "MAPE_Base", "MAPE_Optimizado", "MAPE(%)_Base", "MAPE(%)_Optimizado", "MAE_Base", "MAE_Optimizado", "RMSE_Base", "RMSE_Optimizado", "R2_Base", "R2_Optimizado"])
+df_errors = pd.DataFrame(columns=["Zona", "Modelo", "MAPE_Base", "MAPE_Optimizado", "MAPE(%)_Base", "MAPE(%)_Optimizado", "MAE_Base", "MAE_Optimizado", "RMSE_Base", "RMSE_Optimizado", "R2_Base", "R2_Optimizado"])
 #df_errors_ajustado = pd.DataFrame(columns=["Zona", "Tecnica", "MAPE", "MAPE(%)", "MAE", "RMSE", "R2"])
 mape_percent = 0
 
@@ -87,7 +87,7 @@ for archivo in archivos:
     df['USAGE_KB'] = df['USAGE_KB'].astype('Float64')
     
     # Separamos el dataset en 70% de train y 30% de test
-    steps = rows*0.3 # 20% en test
+    steps = rows*0.3
     steps = math.floor(steps)
     print(f"Dataset separado con {steps} filas en test y {rows-steps} filas en la parte train")
     
@@ -356,7 +356,7 @@ for archivo in archivos:
     r2_ajustado = round(r2_ajustado, 3)
     print(f"R-Cuadrado: {r2_ajustado:.4f}")
 
-    new_row = pd.DataFrame([{"Zona": nombre_zona, "MAPE_Base": mape_base, "MAPE_Optimizado": mape_ajustado, "MAPE(%)_Base": mape_percent_base, "MAPE(%)_Optimizado": mape_percent_ajustado, "MAE_Base": mae_base, "MAE_Optimizado": mae_ajustado, "RMSE_Base": rmse_base, "RMSE_Optimizado": rmse_ajustado, "R2_Base": r2_base, "R2_Optimizado": r2_ajustado}])
+    new_row = pd.DataFrame([{"Zona": nombre_zona, "Modelo": "Perceptron", "MAPE_Base": mape_base, "MAPE_Optimizado": mape_ajustado, "MAPE(%)_Base": mape_percent_base, "MAPE(%)_Optimizado": mape_percent_ajustado, "MAE_Base": mae_base, "MAE_Optimizado": mae_ajustado, "RMSE_Base": rmse_base, "RMSE_Optimizado": rmse_ajustado, "R2_Base": r2_base, "R2_Optimizado": r2_ajustado}])
     df_errors = pd.concat([df_errors, new_row], ignore_index=True)
     df_errors.to_csv(DESTINO_METRICAS / "metricas_horizontales.csv", index=False, encoding='utf-8')
 
