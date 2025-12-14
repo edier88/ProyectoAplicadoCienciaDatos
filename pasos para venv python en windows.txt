@@ -7,7 +7,13 @@ pip install scikit-learn
 pip install holidays
 pip install skforecast
 pip install matplotlib
+pip install plotly
 
 pip install seaborn
 pip install skforecast[sarimax]
 pip install shap
+
+
+PARA STREAMLIT:
+pip install streamlit
+streamlit run app.py
