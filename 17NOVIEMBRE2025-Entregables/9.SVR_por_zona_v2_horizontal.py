@@ -34,8 +34,11 @@ import glob
 import os
 from pathlib import Path
 
-GRAF_DIR = "SVR_Graficas"
+GRAF_DIR = "SVR_Graficas_TrainTest"
 os.makedirs(GRAF_DIR, exist_ok=True)
+
+GRAF_FUTURAS_DIR = "SVR_Graficas_Futuras"
+os.makedirs(GRAF_FUTURAS_DIR, exist_ok=True)
 
 ORIGEN = "csv-zonas-wifi-separados-man/"
 #DESTINO_METRICAS = "Random_Forest_Metricas"
@@ -192,21 +195,6 @@ for archivo in archivos:
     # Se guardan los errores absolutos y relativos en un CSV
     usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_{nombre_zona}", index=False, encoding='utf-8')
 
-    # Graficación serie temporal
-    plt.style.use('seaborn-v0_8-dark')
-    plt.figure(figsize=(10, 5))
-    plt.plot(df_train['USAGE_KB'], label="Train", linewidth=2)
-    plt.plot(df_test['USAGE_KB'], label="Test", linewidth=2)
-    plt.plot(predictions_final, label="Predicho", linewidth=2)
-    plt.title(f"Random Forest - {nombre_zona}")
-    plt.xlabel("Índice temporal")
-    plt.ylabel("Tráfico (kB)")
-    plt.legend()
-    plt.grid(True)
-    plt.tight_layout()
-    plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie.png"), dpi=300)
-    plt.close()
-
     # --------------------------------------------------------
     # Busqueda de hiperparámetros por zona
     # --------------------------------------------------------
@@ -342,6 +330,197 @@ for archivo in archivos:
     usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
 
     usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_hiperparametros_{nombre_zona}", index=False, encoding='utf-8')
+
+    # Graficación serie temporal
+    plt.style.use('seaborn-v0_8-dark')
+    plt.figure(figsize=(25, 4))
+    plt.plot(df_train['USAGE_KB'], label="Train", linewidth=2)
+    plt.plot(df_test['USAGE_KB'], label="Test", linewidth=2)
+    plt.plot(predictions_final, label="Predicho", linewidth=2)
+    plt.title(f"SVR - {nombre_zona}")
+    plt.xlabel("Índice temporal")
+    plt.ylabel("Tráfico (kB)")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie.png"), dpi=300)
+    plt.close()
+
+
+    # --------------------------------------------------
+    # Creacion de variables de entrada (exógenas) para predicción real de una semana
+    # --------------------------------------------------
+
+    def crear_exog_futura(ultima_fecha, df_historico, steps=7):
+        """
+        Busca el mismo período del año anterior (7 días consecutivos).
+        Si no encuentra, busca en meses siguientes.
+        """
+        
+        # Crear rango de fechas futuras
+        fechas_futuras = pd.date_range(
+            start=ultima_fecha + pd.Timedelta(days=1),
+            periods=steps,
+            freq='D'
+        )
+        
+        # Crear DataFrame para exógenas futuras
+        exog_futura = pd.DataFrame(index=fechas_futuras)
+        exog_futura['DIA_SEMANA'] = fechas_futuras.dayofweek
+        exog_futura['LABORAL'] = (exog_futura['DIA_SEMANA'] < 5).astype(int)
+        exog_futura['FIN_DE_SEMANA'] = (exog_futura['DIA_SEMANA'] >= 5).astype(int)
+        exog_futura['FESTIVO'] = 0
+        
+        # BUSCAR PERIODO COMPLETO DEL AÑO ANTERIOR
+        print(f"\nBuscando período del año anterior para {steps} días")
+        
+        # Calcular el período del año anterior
+        inicio_periodo_anterior = fechas_futuras[0] - pd.DateOffset(years=1)
+        fin_periodo_anterior = fechas_futuras[-1] - pd.DateOffset(years=1)
+        
+        print(f"Período buscado del año anterior: {inicio_periodo_anterior.date()} a {fin_periodo_anterior.date()}")
+        
+        # Intentar encontrar el período completo
+        periodo_encontrado = False
+        valores_conexiones = []
+        valores_porcentaje = []
+        
+        # Estrategia 1: Buscar período exacto
+        fechas_buscar = pd.date_range(start=inicio_periodo_anterior, periods=steps, freq='D')
+        
+        todas_fechas_encontradas = all(fecha in df_historico.index for fecha in fechas_buscar)
+        
+        if todas_fechas_encontradas:
+            print("✓ Encontrado período exacto del año anterior")
+            valores_conexiones = [df_historico.loc[fecha, 'NUMERO_CONEXIONES'] for fecha in fechas_buscar]
+            valores_porcentaje = [df_historico.loc[fecha, 'PORCENTAJE_USO'] for fecha in fechas_buscar]
+            periodo_encontrado = True
+        
+        # Estrategia 2: Buscar en el mismo mes del año anterior
+        if not periodo_encontrado:
+            print("⚠ No se encontró período exacto. Buscando en el mismo mes del año anterior...")
+            
+            mismo_mes = df_historico[
+                (df_historico.index.month == inicio_periodo_anterior.month) & 
+                (df_historico.index.year == inicio_periodo_anterior.year)
+            ]
+            
+            if len(mismo_mes) >= steps:
+                # Tomar los primeros 'steps' días del mes
+                mismo_mes = mismo_mes.sort_index()
+                valores_conexiones = mismo_mes['NUMERO_CONEXIONES'].head(steps).values
+                valores_porcentaje = mismo_mes['PORCENTAJE_USO'].head(steps).values
+                periodo_encontrado = True
+                print(f"✓ Usando primeros {steps} días del mes {inicio_periodo_anterior.month}/{inicio_periodo_anterior.year}")
+        
+        # Estrategia 3: Buscar en meses siguientes
+        if not periodo_encontrado:
+            print("⚠ No hay suficientes datos en el mismo mes. Buscando en meses siguientes...")
+            
+            for offset_meses in range(1, 13):  # Buscar en los próximos 12 meses
+                mes_buscar = inicio_periodo_anterior.month + offset_meses
+                anio_buscar = inicio_periodo_anterior.year
+                
+                # Ajustar si se pasa de diciembre
+                if mes_buscar > 12:
+                    mes_buscar -= 12
+                    anio_buscar += 1
+                
+                mes_siguiente = df_historico[
+                    (df_historico.index.month == mes_buscar) & 
+                    (df_historico.index.year == anio_buscar)
+                ]
+                
+                if len(mes_siguiente) >= steps:
+                    mes_siguiente = mes_siguiente.sort_index()
+                    valores_conexiones = mes_siguiente['NUMERO_CONEXIONES'].head(steps).values
+                    valores_porcentaje = mes_siguiente['PORCENTAJE_USO'].head(steps).values
+                    periodo_encontrado = True
+                    print(f"✓ Encontrado en mes {mes_buscar}/{anio_buscar} ({offset_meses} meses después)")
+                    break
+        
+        # Estrategia 4: Usar promedio general como último recurso
+        if not periodo_encontrado:
+            print("⚠ No se encontró ningún período adecuado. Usando promedios generales...")
+            valores_conexiones = [df_historico['NUMERO_CONEXIONES'].mean()] * steps
+            valores_porcentaje = [df_historico['PORCENTAJE_USO'].mean()] * steps
+        
+        # Asignar valores
+        exog_futura['NUMERO_CONEXIONES'] = valores_conexiones
+        exog_futura['PORCENTAJE_USO'] = valores_porcentaje
+        
+        # Mostrar resumen
+        print(f"\nValores asignados para los próximos {steps} días:")
+        for i, fecha in enumerate(exog_futura.index):
+            print(f"  {fecha.date()}: {valores_conexiones[i]:.1f} conexiones, {valores_porcentaje[i]:.1f}% uso")
+        
+        return exog_futura
+
+
+    # Obtener última fecha de datos
+    ultima_fecha = df.index[-1]
+    print(f"\n Ultimo dia data frame original:")
+    print(ultima_fecha)
+
+    # Crear exógenas para 7 días futuros
+    exog_7_dias = crear_exog_futura(ultima_fecha, df)
+
+    print(f"\n Data frame futuro generado:")
+    print(exog_7_dias)
+
+    # Se escala toda la data original
+    df['USAGE_KB_scaled'] = scaler_usage.fit_transform(df[['USAGE_KB']])
+    df['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.fit_transform(df[['NUMERO_CONEXIONES']])
+    df['PORCENTAJE_USO_scaled'] = scaler_porcentaje.fit_transform(df[['PORCENTAJE_USO']])
+
+    # Se escalan las exogenas futuras aplicando los escaladores de train (Se usa "transform", no "fit_transform")
+    exog_7_dias['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(exog_7_dias[['NUMERO_CONEXIONES']])
+    exog_7_dias['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(exog_7_dias[['PORCENTAJE_USO']])
+
+
+
+    # Nueva prediccion basado en los hiperparámetros encontrados de la grilla de cada zona:
+    forecaster_futuro = ForecasterRecursive(
+        regressor=SVR(
+            kernel='rbf', 
+            C=C_ajustado, 
+            epsilon=epsilon_ajustado, 
+            gamma=gamma_ajustado
+        ),
+        lags=10
+    )
+
+    forecaster_futuro.fit(
+        y=df['USAGE_KB_scaled'],  # Scaled target
+        exog=df[exog_variables_scaled]    # Includes scaled exogenous variables
+    )
+
+    predictions_scaled_futuro = forecaster_futuro.predict(
+        steps=7,
+        exog=exog_7_dias[exog_variables_scaled]  # Future scaled exogenous variables
+    )
+
+    # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
+    predictions_final_futuro = pd.Series(
+        scaler_usage.inverse_transform(predictions_scaled_futuro.values.reshape(-1, 1)).flatten(),
+        index=predictions_scaled_futuro.index
+    )
+
+
+
+    #Guardado de las gráficas de predicciones futuras
+    plt.style.use('seaborn-v0_8-dark')
+    plt.figure(figsize=(25, 4))
+    plt.plot(df['USAGE_KB'], label="Tráfico Pasado", linewidth=2)
+    plt.plot(predictions_final_futuro, label="Tráfico Predicho", linewidth=2)
+    plt.title(f"SVR - {nombre_zona}")
+    plt.xlabel("Índice temporal")
+    plt.ylabel("Tráfico (kB)")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion_7dias.png"), dpi=300)
+    plt.close()
 
 
     
