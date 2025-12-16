@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Dashboard de Evaluación y Decisión (nivel DATIC / EMCALI)
-Este dashboard justifica inversión, no es solo técnico.
+Dashboard Proyecto Predicción Zonas WiFi de Cali
 
 Secciones:
 A. Comparación de modelos (SVR, RF, MLP, Regresión - Base vs Optimizado)
@@ -20,15 +19,14 @@ from PIL import Image
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Dashboard de Evaluación y Decisión - Zonas WiFi",
+    page_title="Dashboard Proyecto Predicción Zonas WiFi de Cali",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 # Título principal
-st.title("📊 Dashboard de Evaluación y Decisión")
-st.subheader("Nivel DATIC / EMCALI")
+st.title("📊 Dashboard Proyecto Predicción Zonas WiFi de Cali")
 st.markdown("---")
 
 # Función auxiliar para leer CSV con manejo de codificación
@@ -354,104 +352,51 @@ else:
 # ============================================================================
 # SECCIÓN A: COMPARACIÓN DE MODELOS
 # ============================================================================
-st.header("A. Comparación de Modelos")
-st.markdown("**¿SVR, RF, MLP o Regresión funciona mejor? ¿Base vs Optimizado?**")
+st.header("Comparación de Modelos Base con Optimizados")
 
-col1, col2 = st.columns(2)
+st.subheader("🔄 Mejora Base vs Optimizado")
+    
+# Calcular mejora (diferencia porcentual)
+df_filtrado['Mejora_MAPE(%)'] = ((df_filtrado['MAPE(%)_Base'] - df_filtrado['MAPE(%)_Optimizado']) / df_filtrado['MAPE(%)_Base']) * 100
+df_filtrado['Mejora_R2'] = df_filtrado['R2_Optimizado'] - df_filtrado['R2_Base']
 
-with col1:
-    st.subheader("📈 Comparación por Métrica (Optimizado)")
-    
-    # Seleccionar métrica
-    metrica = st.selectbox(
-        "Seleccionar métrica:",
-        options=['MAPE(%)', 'MAE', 'RMSE', 'R²'],
-        key='metrica_comparacion'
-    )
-    
-    # Mapear nombre de métrica a columna
-    columna_metrica = {
-        'MAPE(%)': 'MAPE(%)_Optimizado',
-        'MAE': 'MAE_Optimizado',
-        'RMSE': 'RMSE_Optimizado',
-        'R²': 'R2_Optimizado'
-    }[metrica]
-    
-    # Calcular promedio por modelo
-    df_agrupado = df_filtrado.groupby('Modelo')[columna_metrica].agg(['mean', 'std']).reset_index()
-    df_agrupado.columns = ['Modelo', 'Promedio', 'Desviación']
-    
-    # Para R², mayor es mejor; para el resto, menor es mejor
-    ordenar_asc = metrica != 'R²'
-    df_agrupado = df_agrupado.sort_values('Promedio', ascending=ordenar_asc)
-    
-    # Gráfico de barras
-    fig = px.bar(
-        df_agrupado,
-        x='Modelo',
-        y='Promedio',
-        error_y='Desviación',
-        title=f'Promedio de {metrica} por Modelo (Optimizado)',
-        labels={'Promedio': f'{metrica} Promedio', 'Modelo': 'Modelo'},
-        color='Promedio',
-        color_continuous_scale='RdYlGn' if metrica == 'R²' else 'RdYlGn_r'
-    )
-    fig.update_layout(height=400)
-    st.plotly_chart(fig, use_container_width=True)
-    
-    # Tabla resumen
-    st.dataframe(
-        df_agrupado.style.format({
-            'Promedio': '{:.3f}',
-            'Desviación': '{:.3f}'
-        }),
-        use_container_width=True
-    )
+# Agrupar por modelo
+mejora_por_modelo = df_filtrado.groupby('Modelo').agg({
+    'Mejora_MAPE(%)': 'mean',
+    'Mejora_R2': 'mean'
+}).reset_index()
 
-with col2:
-    st.subheader("🔄 Mejora Base vs Optimizado")
-    
-    # Calcular mejora (diferencia porcentual)
-    df_filtrado['Mejora_MAPE(%)'] = ((df_filtrado['MAPE(%)_Base'] - df_filtrado['MAPE(%)_Optimizado']) / df_filtrado['MAPE(%)_Base']) * 100
-    df_filtrado['Mejora_R2'] = df_filtrado['R2_Optimizado'] - df_filtrado['R2_Base']
-    
-    # Agrupar por modelo
-    mejora_por_modelo = df_filtrado.groupby('Modelo').agg({
-        'Mejora_MAPE(%)': 'mean',
-        'Mejora_R2': 'mean'
-    }).reset_index()
-    
-    # Gráfico de mejora MAPE
-    fig_mejora = go.Figure()
-    fig_mejora.add_trace(go.Bar(
-        x=mejora_por_modelo['Modelo'],
-        y=mejora_por_modelo['Mejora_MAPE(%)'],
-        name='Mejora MAPE (%)',
-        marker_color='lightblue'
-    ))
-    fig_mejora.update_layout(
-        title='Mejora Promedio MAPE (%) - Base vs Optimizado',
-        xaxis_title='Modelo',
-        yaxis_title='Mejora (%)',
-        height=400
-    )
-    st.plotly_chart(fig_mejora, use_container_width=True)
-    
-    # Gráfico de mejora R²
-    fig_r2 = go.Figure()
-    fig_r2.add_trace(go.Bar(
-        x=mejora_por_modelo['Modelo'],
-        y=mejora_por_modelo['Mejora_R2'],
-        name='Mejora R²',
-        marker_color='lightgreen'
-    ))
-    fig_r2.update_layout(
-        title='Mejora Promedio R² - Base vs Optimizado',
-        xaxis_title='Modelo',
-        yaxis_title='Mejora R²',
-        height=400
-    )
-    st.plotly_chart(fig_r2, use_container_width=True)
+# Gráfico de mejora MAPE
+fig_mejora = go.Figure()
+fig_mejora.add_trace(go.Bar(
+    x=mejora_por_modelo['Modelo'],
+    y=mejora_por_modelo['Mejora_MAPE(%)'],
+    name='Mejora MAPE (%)',
+    marker_color='lightblue'
+))
+fig_mejora.update_layout(
+    title='Mejora Promedio MAPE (%) - Base vs Optimizado',
+    xaxis_title='Modelo',
+    yaxis_title='Mejora (%)',
+    height=400
+)
+st.plotly_chart(fig_mejora, use_container_width=True)
+
+# Gráfico de mejora R²
+fig_r2 = go.Figure()
+fig_r2.add_trace(go.Bar(
+    x=mejora_por_modelo['Modelo'],
+    y=mejora_por_modelo['Mejora_R2'],
+    name='Mejora R²',
+    marker_color='lightgreen'
+))
+fig_r2.update_layout(
+    title='Mejora Promedio R² - Base vs Optimizado',
+    xaxis_title='Modelo',
+    yaxis_title='Mejora R²',
+    height=400
+)
+st.plotly_chart(fig_r2, use_container_width=True)
 
 # Tabla comparativa detallada
 st.subheader("📋 Tabla Comparativa Detallada")
@@ -477,7 +422,7 @@ st.markdown("---")
 # ============================================================================
 # SECCIÓN B: RANKING DE ZONAS
 # ============================================================================
-st.header("B. Ranking de Zonas")
+st.header("Ranking de Zonas")
 
 col1, col2, col3 = st.columns(3)
 
@@ -591,7 +536,7 @@ st.markdown("---")
 # ============================================================================
 # SECCIÓN C: CONFIANZA PARA TOMA DE DECISIONES
 # ============================================================================
-st.header("C. Confianza para Toma de Decisiones")
+st.header("Confianza para Toma de Decisiones")
 
 # Definir criterios de confianza
 umbral_mape_bueno = st.sidebar.slider("Umbral MAPE para zona confiable (%)", 0, 50, 20)
@@ -691,7 +636,7 @@ st.markdown("---")
 # ============================================================================
 # SECCIÓN D: ANÁLISIS DE MEJORES MODELOS
 # ============================================================================
-st.header("D. Análisis de Mejores Modelos")
+st.header("Análisis de Mejores Modelos")
 
 col1, col2 = st.columns(2)
 
@@ -771,14 +716,20 @@ with col2:
         Este gráfico de barras presenta las 10 zonas WiFi con menor MAPE, es decir, aquellas donde la predicción del tráfico fue más precisa. Cada barra representa una zona específica, y su tamaño corresponde directamente al valor del MAPE obtenido. Adicionalmente, se identifica el modelo estadístico utilizado en cada zona, permitiendo evaluar qué enfoques generan mejores resultados. La visualización facilita la comparación de precisión entre zonas y apoya la selección de modelos más confiables para la toma de decisiones.
         """)
     
+    # Tabla de datos (top 10) - crear columna formateada para mostrar
+    #df_top10_display = df_top10[['ZONA', 'MAPE_NUM', 'MEJOR_MODELO_ENCONTRADO']].copy()
+    #df_top10_display['MAPE (%)'] = df_top10_display['MAPE_NUM'].apply(lambda x: f"{x:.2f}%")
+    #df_top10_display = df_top10_display[['ZONA', 'MAPE (%)', 'MEJOR_MODELO_ENCONTRADO']]
+    #df_top10_display.columns = ['Zona', 'MAPE (%)', 'Modelo Utilizado']
+
     # Tabla de datos - crear columna formateada para mostrar
-    df_top10_display = df_top10[['ZONA', 'MAPE_NUM', 'MEJOR_MODELO_ENCONTRADO']].copy()
-    df_top10_display['MAPE (%)'] = df_top10_display['MAPE_NUM'].apply(lambda x: f"{x:.2f}%")
-    df_top10_display = df_top10_display[['ZONA', 'MAPE (%)', 'MEJOR_MODELO_ENCONTRADO']]
-    df_top10_display.columns = ['Zona', 'MAPE (%)', 'Modelo Utilizado']
+    df_mejores_zona_display = df_mejores_zona[['ZONA', 'MAPE_NUM', 'MEJOR_MODELO_ENCONTRADO']].copy()
+    df_mejores_zona_display['MAPE (%)'] = df_mejores_zona_display['MAPE_NUM'].apply(lambda x: f"{x:.2f}%")
+    df_mejores_zona_display = df_mejores_zona_display[['ZONA', 'MAPE (%)', 'MEJOR_MODELO_ENCONTRADO']]
+    df_mejores_zona_display.columns = ['Zona', 'MAPE (%)', 'Modelo Utilizado']
     
     st.dataframe(
-        df_top10_display,
+        df_mejores_zona_display,
         use_container_width=True
     )
 
@@ -827,7 +778,6 @@ with col4:
 
 # Footer
 st.markdown("---")
-st.markdown("**Este dashboard justifica inversión, no es solo técnico.**")
-st.caption("Dashboard de Evaluación y Decisión - Nivel DATIC / EMCALI")
+st.caption("Dashboard Proyecto Predicción Zonas WiFi de Cali")
 
 
