@@ -38,6 +38,7 @@ def leer_csv_con_codificacion(archivo):
     for encoding in codificaciones:
         try:
             return pd.read_csv(archivo, encoding=encoding)
+            #return pd.read_csv(archivo)
         except (UnicodeDecodeError, UnicodeError, pd.errors.ParserError) as e:
             continue
         except Exception as e:
@@ -46,14 +47,16 @@ def leer_csv_con_codificacion(archivo):
     # Si ninguna funciona, intentar con errors='ignore' o 'replace'
     try:
         return pd.read_csv(archivo, encoding='latin-1', errors='replace')
+        #return pd.read_csv(archivo)
     except:
         return pd.read_csv(archivo, encoding='utf-8', errors='replace')
+        #return pd.read_csv(archivo)
 
 # Cargar datos
 @st.cache_data
 def cargar_metricas():
     """Carga todas las métricas de los modelos."""
-    base_dir = Path("metricas_modelos-edi")
+    base_dir = Path("metricas_por_modelo")
     
     # Cargar archivos con Base/Optimizado
     svr = leer_csv_con_codificacion(base_dir / "metricas_SVR.csv")
@@ -93,7 +96,7 @@ def cargar_metricas():
 @st.cache_data
 def cargar_mejores_modelos_global():
     """Carga los datos de mejores modelos estadísticos globales."""
-    base_dir = Path("metricas_modelos-edi")
+    base_dir = Path("metricas_por_modelo")
     df = leer_csv_con_codificacion(base_dir / "mejores_modelos_estadistica_global.csv")
     return df
 
@@ -101,7 +104,7 @@ def cargar_mejores_modelos_global():
 @st.cache_data
 def cargar_mejores_modelos_por_zona():
     """Carga los datos de mejores modelos por zona."""
-    base_dir = Path("metricas_modelos-edi")
+    base_dir = Path("metricas_por_modelo")
     df = leer_csv_con_codificacion(base_dir / "mejores_modelos_por_zona.csv")
     
     # Convertir MAPE de formato con coma a float
@@ -146,11 +149,11 @@ def extraer_nombre_base(nombre_archivo):
 @st.cache_data
 def cargar_imagenes_emparejadas():
     """Carga y empareja imágenes de Futuras y TrainTest por nombre de zona."""
-    base_dir = Path("metricas_modelos-graficas-edi")
+    base_dir = Path("metricas_por_modelo")
     
     # Rutas de las carpetas
-    carpeta_futuras = base_dir / "Random_Forest_Graficas_Futuras"
-    carpeta_traintest = base_dir / "Random_Forest_Graficas_TrainTest"
+    carpeta_futuras = base_dir / "Graficas_futuras_por_mejor_modelo"
+    carpeta_traintest = base_dir / "Graficas_TrainTest_por_mejor_modelo"
     
     # Cargar imágenes de ambas carpetas
     imagenes_futuras = {}
@@ -184,8 +187,8 @@ def cargar_imagenes_emparejadas():
 
 # Opciones de visualización de gráficas
 opciones_graficas = {
-    "Ninguna": False,
-    "Random Forest - Gráficas Combinadas": True
+    "General": False,
+    "Predicciones Por Zona": True
 }
 
 carpeta_seleccionada = st.sidebar.selectbox(
@@ -214,8 +217,9 @@ if opciones_graficas[carpeta_seleccionada]:
             st.session_state.indice_par = 0
         
         # Título de la sección de gráficas
-        st.markdown("---")
-        st.header("📊 Visualizador de Gráficas Random Forest")
+        st.header("📊 Visualizador de Predicciones por Zona")
+
+        st.metric("Total Zonas", len(pares_imagenes))
         
         # Selector de zona tipo <select> HTML - DEBE IR ANTES DE MOSTRAR IMÁGENES
         st.subheader("📋 Seleccionar Zona")
@@ -228,7 +232,7 @@ if opciones_graficas[carpeta_seleccionada]:
         
         # Selectbox para elegir zona - usar índice directamente
         indice_seleccionado = st.selectbox(
-            "Selecciona una zona para ver sus gráficas:",
+            "Selecciona una zona para ver su predicción en Serie Temporal:",
             options=range(len(opciones_zonas)),
             format_func=lambda x: opciones_zonas[x],
             index=st.session_state.indice_par,
@@ -246,71 +250,86 @@ if opciones_graficas[carpeta_seleccionada]:
         # Limpiar nombre de zona (eliminar extensión .csv si existe)
         nombre_zona_limpio = par_actual['nombre_base'].replace('.csv', '')
         
-        st.subheader(f"Zona: {nombre_zona_limpio}")
-        
-        # Controles de navegación
-        col_nav1, col_nav2, col_nav3, col_nav4 = st.columns([1, 2, 1, 1])
-        
-        with col_nav1:
-            if st.button("⏮️ Primera", use_container_width=True):
-                st.session_state.indice_par = 0
-                st.rerun()
-        
-        with col_nav2:
-            # Slider para navegar entre pares de imágenes
-            nuevo_indice = st.slider(
-                "Navegar entre zonas:",
-                min_value=0,
-                max_value=len(pares_imagenes) - 1,
-                value=st.session_state.indice_par,
-                key="slider_pares"
-            )
-            if nuevo_indice != st.session_state.indice_par:
-                st.session_state.indice_par = nuevo_indice
-                st.rerun()
-        
-        with col_nav3:
-            if st.button("⏭️ Última", use_container_width=True):
-                st.session_state.indice_par = len(pares_imagenes) - 1
-                st.rerun()
-        
-        with col_nav4:
-            st.metric("Total Zonas", len(pares_imagenes))
-        
         # Botones de navegación anterior/siguiente
         col_prev, col_info, col_next = st.columns([1, 2, 1])
         
-        with col_prev:
-            if st.button("◀️ Anterior", use_container_width=True, disabled=(st.session_state.indice_par == 0)):
-                if st.session_state.indice_par > 0:
-                    st.session_state.indice_par -= 1
-                    st.rerun()
-        
-        with col_info:
-            st.markdown(f"**Zona {st.session_state.indice_par + 1} de {len(pares_imagenes)}**")
-            st.caption(f"📄 {nombre_zona_limpio}")
-        
-        with col_next:
-            if st.button("Siguiente ▶️", use_container_width=True, disabled=(st.session_state.indice_par == len(pares_imagenes) - 1)):
-                if st.session_state.indice_par < len(pares_imagenes) - 1:
-                    st.session_state.indice_par += 1
-                    st.rerun()
-        
         # Mostrar ambas imágenes (una arriba de la otra, como en el ejemplo)
-        st.markdown("---")
+
+        zonas_y_modelos = {
+            "001_ZW Parque Ingenio": "Random Forest",
+            "002_ZW Canchas Panamericanas": "SVR",
+            "003_ZW Parque del Perro": "SVR",
+            "004_ZW Parque San Nicolas": "SVR",
+            "005_ZW Parque Barrio Obrero": "MLP",
+            "007_ZW Parque Pizamos": "Regresion Lineal",
+            "008_ZW Parque Alfonso Lopez": "SVR",
+            "010_ZW Parque Antonio Nariño": "SVR",
+            "011_ZW Parque Santa Rosa Poblado": "Random Forest",
+            "012_ZW Polideportivo Los Naranjos": "Random Forest",
+            "013_ZW Parque Llano Verde": "SVR",
+            "015_ZW Centro Cultural Comuna 13": "Random Forest",
+            "016_ZW Conjunto Habitacional Ramali": "Regresion Lineal",
+            "019_ZW Parque Skate Board": "Random Forest",
+            "021_ZW Parque Alfonso Barberena": "SVR",
+            "022_ZW Polideportivo Los Farallones": "Random Forest",
+            "023_ZW Parque Los Guerreros": "Random Forest",
+            "024_ZW Museo La Tertulia": "Random Forest",
+            "025_ZW Parque San Marino": "Random Forest",
+            "026_ZW Parque La Flora": "SVR",
+            "027_ZW Parque Alfonso Bonilla Aragón": "SVR",
+            "028_ZW Parque Yo Amo a Siloé": "Regresion Lineal",
+            "029_ZW Centro Cultural Vista Hermosa": "Random Forest",
+            "030_ZW Parque Mutis": "SVR",
+            "031_ZW Cancha Los Azules": "MLP",
+            "032_ZW Parque La Orqueta": "Random Forest",
+            "034_ZW Parque Villa Colombia": "Random Forest",
+            "035_ZW Parque Colseguros": "SVR",
+            "036_ZW Parque India Elena": "SVR",
+            "037_ZW Parque Tequendama": "Random Forest",
+            "038_ZW Parque Sector Amarillo Skate Park": "Random Forest",
+            "039_ZW Biblioteca Daniel Guillard": "MLP",
+            "040_ZW Polideportivo Torres Comfandi": "Random Forest",
+            "041_ZW Parque Junin": "Random Forest",
+            "042_ZW Parque Mariano Ramos": "SVR",
+            "043_ZW Polideportivo Ricardo Balcazar": "MLP",
+            "044_ZW Polideportivo San Benito": "Random Forest",
+            "045_ZW Parque Santa Anita": "Random Forest",
+            "046_ZW Sebastian Belalcazar": "Random Forest",
+            "047_ZW Parque del Mico": "Regresion Lineal",
+            "048_ZW Parque Cien Palos": "Regresion Lineal",
+            "049_ZW Cerro 3 Cruces": "SVR",
+            "050_ZW Parque Calima": "Regresion Lineal",
+            "051_ZW Parque La Merced": "Random Forest",
+            "052_ZW Puente de Colores": "Random Forest",
+            "053_ZW Polideportivo Laureano Gomez": "Random Forest",
+            "054_ZW El Diamante": "Random Forest",
+            "055_ZW Polideportivo Petecuy": "Random Forest",
+            "056_ZW Comuna 16": "Random Forest",
+            "057_La Castilla": "Random Forest",
+            "058_La Elvira": "Random Forest",
+            "059_El Saladito": "Random Forest",
+        }
         
         try:
             # Primera imagen: Gráfica Futuras (Predicción 7 días)
             img_futuras = Image.open(par_actual['imagen_futuras'])
-            st.subheader("🔮 Predicción 7 Días")
-            st.image(img_futuras, caption=par_actual['imagen_futuras'].name, use_container_width=True)
-            
-            st.markdown("---")
+            st.subheader("🔮 Predicción Próxima Semana")
+            #fileName = par_actual['imagen_futuras'].name[4:]
+            # Corta la parte final del nombre del archivo ".csv_prediccion_7dias.png"
+            final_part_name = par_actual['imagen_futuras'].name.find(".csv_prediccion_7dias.png")
+            img_main_name = par_actual['imagen_futuras'].name[:final_part_name]
+            st.write(f"Mejor modelo encontrado para esta zona: ___{zonas_y_modelos[img_main_name]}___")
+            # Se crea la imagen y su descipcion debajo
+            st.image(img_futuras, caption=f"{img_main_name} - Prediccion Próxima Semana", use_container_width=True)
             
             # Segunda imagen: Gráfica Train/Test
             img_traintest = Image.open(par_actual['imagen_traintest'])
-            st.subheader("📊 Train/Test - Serie Temporal")
-            st.image(img_traintest, caption=par_actual['imagen_traintest'].name, use_container_width=True)
+            st.subheader("📊 Comparación Predicción Test")
+            # Corta la parte final del nombre del archivo ".csv_prediccion_7dias.png"
+            final_part_name = par_actual['imagen_traintest'].name.find(".csv_serie.png")
+            img_main_name = par_actual['imagen_traintest'].name[:final_part_name]
+            # Se crea la imagen y su descipcion debajo
+            st.image(img_traintest, caption=f"{img_main_name} - Prediccion vs Train/Test", use_container_width=True)
             
         except Exception as e:
             st.error(f"Error al cargar las imágenes: {e}")
