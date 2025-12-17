@@ -533,157 +533,121 @@ with col3:
 
 st.markdown("---")
 
-# ============================================================================
-# SECCIÓN C: CONFIANZA PARA TOMA DE DECISIONES
-# ============================================================================
-st.header("Confianza para Toma de Decisiones")
-
 # Definir criterios de confianza
 umbral_mape_bueno = st.sidebar.slider("Umbral MAPE para zona confiable (%)", 0, 50, 20)
 umbral_r2_bueno = st.sidebar.slider("Umbral R² para zona confiable", 0.0, 1.0, 0.7)
 
-col1, col2 = st.columns(2)
-
-with col1:
-    st.subheader("✅ Zonas Confiables para Planificación")
-    st.markdown(f"**Criterios:** MAPE ≤ {umbral_mape_bueno}% y R² ≥ {umbral_r2_bueno}")
-    
-    modelo_confianza = st.selectbox(
-        "Modelo para análisis de confianza:",
-        options=df_filtrado['Modelo'].unique(),
-        key='modelo_confianza'
-    )
-    
-    df_confianza = df_filtrado[df_filtrado['Modelo'] == modelo_confianza].copy()
-    df_confiables = df_confianza[
-        (df_confianza['MAPE(%)_Optimizado'] <= umbral_mape_bueno) &
-        (df_confianza['R2_Optimizado'] >= umbral_r2_bueno)
-    ].sort_values('MAPE(%)_Optimizado')
-    
-    st.metric("Total de zonas confiables", len(df_confiables), f"{len(df_confiables)/len(df_confianza)*100:.1f}%")
-    
-    if len(df_confiables) > 0:
-        fig_confiables = px.scatter(
-            df_confiables,
-            x='MAPE(%)_Optimizado',
-            y='R2_Optimizado',
-            hover_name='Zona_Limpia',
-            title=f'Zonas Confiables - {modelo_confianza}',
-            labels={'MAPE(%)_Optimizado': 'MAPE (%)', 'R2_Optimizado': 'R²'},
-            color='MAPE(%)_Optimizado',
-            color_continuous_scale='Greens_r'
-        )
-        fig_confiables.add_hline(y=umbral_r2_bueno, line_dash="dash", line_color="red", 
-                                annotation_text=f"R² mínimo: {umbral_r2_bueno}")
-        fig_confiables.add_vline(x=umbral_mape_bueno, line_dash="dash", line_color="red",
-                                annotation_text=f"MAPE máximo: {umbral_mape_bueno}%")
-        fig_confiables.update_layout(height=500)
-        st.plotly_chart(fig_confiables, use_container_width=True)
-        
-        st.dataframe(
-            df_confiables[['Zona_Limpia', 'MAPE(%)_Optimizado', 'R2_Optimizado', 'MAE_Optimizado']].style.format({
-                'MAPE(%)_Optimizado': '{:.2f}%',
-                'R2_Optimizado': '{:.3f}',
-                'MAE_Optimizado': '{:,.0f}'
-            }),
-            use_container_width=True
-        )
-    else:
-        st.warning("No se encontraron zonas que cumplan los criterios de confianza seleccionados.")
-
-with col2:
-    st.subheader("🔍 Zonas que Requieren Más Datos / Revisión")
-    st.markdown(f"**Criterios:** MAPE > {umbral_mape_bueno}% o R² < {umbral_r2_bueno}")
-    
-    df_revision = df_confianza[
-        (df_confianza['MAPE(%)_Optimizado'] > umbral_mape_bueno) |
-        (df_confianza['R2_Optimizado'] < umbral_r2_bueno)
-    ].sort_values('MAPE(%)_Optimizado', ascending=False)
-    
-    st.metric("Total de zonas que requieren revisión", len(df_revision), f"{len(df_revision)/len(df_confianza)*100:.1f}%")
-    
-    if len(df_revision) > 0:
-        fig_revision = px.scatter(
-            df_revision,
-            x='MAPE(%)_Optimizado',
-            y='R2_Optimizado',
-            hover_name='Zona_Limpia',
-            title=f'Zonas que Requieren Revisión - {modelo_confianza}',
-            labels={'MAPE(%)_Optimizado': 'MAPE (%)', 'R2_Optimizado': 'R²'},
-            color='MAPE(%)_Optimizado',
-            color_continuous_scale='Reds'
-        )
-        fig_revision.add_hline(y=umbral_r2_bueno, line_dash="dash", line_color="blue", 
-                              annotation_text=f"R² mínimo: {umbral_r2_bueno}")
-        fig_revision.add_vline(x=umbral_mape_bueno, line_dash="dash", line_color="blue",
-                              annotation_text=f"MAPE máximo: {umbral_mape_bueno}%")
-        fig_revision.update_layout(height=500)
-        st.plotly_chart(fig_revision, use_container_width=True)
-        
-        st.dataframe(
-            df_revision[['Zona_Limpia', 'MAPE(%)_Optimizado', 'R2_Optimizado', 'MAE_Optimizado']].style.format({
-                'MAPE(%)_Optimizado': '{:.2f}%',
-                'R2_Optimizado': '{:.3f}',
-                'MAE_Optimizado': '{:,.0f}'
-            }),
-            use_container_width=True
-        )
-    else:
-        st.success("✅ Todas las zonas cumplen los criterios de confianza.")
-
-st.markdown("---")
 
 # ============================================================================
 # SECCIÓN D: ANÁLISIS DE MEJORES MODELOS
 # ============================================================================
 st.header("Análisis de Mejores Modelos")
 
+st.subheader("🥧 Distribución Global de Mejores Modelos")
+    
+# Gráfico de torta
+fig_torta = px.pie(
+    df_mejores_global,
+    values='Total Zonas Con Mejor Comportamiento',
+    names='Tecnica',
+    title='Proporción de Mejores Modelos por Zona',
+    color_discrete_sequence=px.colors.qualitative.Set3
+)
+fig_torta.update_traces(
+    textposition='inside',
+    textinfo='percent+label',
+    hovertemplate='<b>%{label}</b><br>Zonas: %{value}<br>Porcentaje: %{percent}<extra></extra>'
+)
+fig_torta.update_layout(height=500)
+st.plotly_chart(fig_torta, use_container_width=True)
+
+# Descripción del gráfico
+with st.expander("ℹ️ Explicación del gráfico"):
+    st.markdown("""
+    Este gráfico de torta muestra la proporción de veces que cada modelo estadístico fue identificado como el de mejor desempeño en el análisis global realizado. Cada segmento representa el porcentaje de zonas o evaluaciones en las que un modelo resultó superior frente a los demás, según las métricas de desempeño establecidas.
+    
+    La visualización permite identificar rápidamente qué modelos dominan el análisis, cuáles tienen un desempeño competitivo y cuáles presentan una participación menor, facilitando la comparación global y la toma de decisiones sobre qué enfoques estadísticos son más robustos para el problema estudiado.
+    """)
+
+# Tabla de datos
+st.dataframe(
+    df_mejores_global.style.format({
+        'Total Zonas Con Mejor Comportamiento': '{:.0f}'
+    }),
+    use_container_width=True
+)
+
 col1, col2 = st.columns(2)
 
 with col1:
-    st.subheader("🥧 Distribución Global de Mejores Modelos")
+    st.subheader("📊 Top 10 Zonas con Mayor MAPE")
     
-    # Gráfico de torta
-    fig_torta = px.pie(
-        df_mejores_global,
-        values='Total Zonas Con Mejor Comportamiento',
-        names='Tecnica',
-        title='Proporción de Mejores Modelos por Zona',
-        color_discrete_sequence=px.colors.qualitative.Set3
+    # Obtener top 10 zonas con menor MAPE
+    df_peores10 = df_mejores_zona.nlargest(10, 'MAPE_NUM').copy()
+    df_peores10 = df_peores10.sort_values('MAPE_NUM', ascending=False)
+    
+    # Gráfico de barras
+    fig_barras1 = px.bar(
+        df_peores10,
+        x='MAPE_NUM',
+        y='ZONA',
+        orientation='h',
+        color='MEJOR_MODELO_ENCONTRADO',
+        title='Top 10 Zonas WiFi con Mayor MAPE',
+        labels={
+            'MAPE_NUM': 'MAPE (%)',
+            'ZONA': 'Zona',
+            'MEJOR_MODELO_ENCONTRADO': 'Modelo Utilizado'
+        },
+        color_discrete_map={
+            'Random Forest': '#1f77b4',
+            'SVR': '#ff7f0e',
+            'Regresion Lineal': '#2ca02c',
+            'Perceptron': '#d62728'
+        }
     )
-    fig_torta.update_traces(
-        textposition='inside',
-        textinfo='percent+label',
-        hovertemplate='<b>%{label}</b><br>Zonas: %{value}<br>Porcentaje: %{percent}<extra></extra>'
+    fig_barras1.update_layout(
+        height=500,
+        yaxis={'categoryorder': 'total ascending'},
+        xaxis_title='MAPE (%)',
+        yaxis_title='Zona'
     )
-    fig_torta.update_layout(height=500)
-    st.plotly_chart(fig_torta, use_container_width=True)
+    st.plotly_chart(fig_barras1, use_container_width=True)
     
     # Descripción del gráfico
     with st.expander("ℹ️ Explicación del gráfico"):
         st.markdown("""
-        Este gráfico de torta muestra la proporción de veces que cada modelo estadístico fue identificado como el de mejor desempeño en el análisis global realizado. Cada segmento representa el porcentaje de zonas o evaluaciones en las que un modelo resultó superior frente a los demás, según las métricas de desempeño establecidas.
-        
-        La visualización permite identificar rápidamente qué modelos dominan el análisis, cuáles tienen un desempeño competitivo y cuáles presentan una participación menor, facilitando la comparación global y la toma de decisiones sobre qué enfoques estadísticos son más robustos para el problema estudiado.
+        Este gráfico de barras presenta las 10 zonas WiFi con mayor MAPE, es decir, aquellas donde la predicción del tráfico fue menos precisa. Cada barra representa una zona específica, y su tamaño corresponde directamente al valor del MAPE obtenido. Adicionalmente, se identifica el modelo estadístico utilizado en cada zona, permitiendo evaluar qué enfoques generan mejores resultados. La visualización facilita la comparación de precisión entre zonas y apoya la selección de modelos más confiables para la toma de decisiones.
         """)
     
-    # Tabla de datos
+    # Tabla de datos (top 10) - crear columna formateada para mostrar
+    #df_top10_display = df_top10[['ZONA', 'MAPE_NUM', 'MEJOR_MODELO_ENCONTRADO']].copy()
+    #df_top10_display['MAPE (%)'] = df_top10_display['MAPE_NUM'].apply(lambda x: f"{x:.2f}%")
+    #df_top10_display = df_top10_display[['ZONA', 'MAPE (%)', 'MEJOR_MODELO_ENCONTRADO']]
+    #df_top10_display.columns = ['Zona', 'MAPE (%)', 'Modelo Utilizado']
+
+    # Tabla de datos - crear columna formateada para mostrar
+    df_mejores_zona_display = df_mejores_zona[['ZONA', 'MAPE_NUM', 'MEJOR_MODELO_ENCONTRADO']].copy()
+    df_peores_zona_display = df_mejores_zona_display.sort_values(by='MAPE_NUM', ascending=False)
+    df_peores_zona_display['MAPE (%)'] = df_peores_zona_display['MAPE_NUM'].apply(lambda x: f"{x:.2f}%")
+    df_peores_zona_display = df_peores_zona_display[['ZONA', 'MAPE (%)', 'MEJOR_MODELO_ENCONTRADO']]
+    df_peores_zona_display.columns = ['Zona', 'MAPE (%)', 'Modelo Utilizado']
+    
+
+    
     st.dataframe(
-        df_mejores_global.style.format({
-            'Total Zonas Con Mejor Comportamiento': '{:.0f}'
-        }),
+        df_peores_zona_display,
         use_container_width=True
     )
-
 with col2:
     st.subheader("📊 Top 10 Zonas con Menor MAPE")
     
     # Obtener top 10 zonas con menor MAPE
     df_top10 = df_mejores_zona.nsmallest(10, 'MAPE_NUM').copy()
-    df_top10 = df_top10.sort_values('MAPE_NUM', ascending=True)
+    df_top10 = df_top10.sort_values('MAPE_NUM', ascending=False)
     
     # Gráfico de barras
-    fig_barras = px.bar(
+    fig_barras2 = px.bar(
         df_top10,
         x='MAPE_NUM',
         y='ZONA',
@@ -702,13 +666,13 @@ with col2:
             'Perceptron': '#d62728'
         }
     )
-    fig_barras.update_layout(
+    fig_barras2.update_layout(
         height=500,
         yaxis={'categoryorder': 'total ascending'},
         xaxis_title='MAPE (%)',
-        yaxis_title='Zona'
+        yaxis_title='Zona '
     )
-    st.plotly_chart(fig_barras, use_container_width=True)
+    st.plotly_chart(fig_barras2, use_container_width=True)
     
     # Descripción del gráfico
     with st.expander("ℹ️ Explicación del gráfico"):
