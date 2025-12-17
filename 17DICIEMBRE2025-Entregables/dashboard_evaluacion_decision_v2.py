@@ -740,6 +740,10 @@ with col4:
         len(df_resumen)
     )
 
+st.write("Las zonas con mejores predicciones son las que tienen un MAPE bajo. Estas zonas son, desde el punto de vista del negocio, las más rentables para promocionar productos y servicios a más personas. Desde el punto de vista de lo público son zonas adecuadas para proyectar eventos con anticipación y prever si necesita más recursos de ancho de banda o Hardware para su operación, o si por el contrario necesita menos, esto podría indicar que la inversión en dicha zona no debe ser tanta y se debe enfocar en otras zonas.")
+st.write("Como se muestra en el dashboard solo 6 zonas tienen un MAPE mayor al 40%. Lo que indica que solo un 11.5% del total de las zonas no son buenas para la predicción")
+st.write("El mal desempeño de la predicción en el 11.5% de las zonas se debe a que el tráfico de ellas es más errático, tiene picos bruscos de poco tráfico hacia los Gigabytes en poco tiempo, teniendo así un consumo de datos poco sostenido en el tiempo. Esto se puede detallar de manera gráfica en la opción 'Predicciones por Zona' del presente Dashboard")
+
 # Footer
 st.markdown("---")
 st.caption("Dashboard Proyecto Predicción Zonas WiFi de Cali")
