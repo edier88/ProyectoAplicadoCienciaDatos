@@ -421,6 +421,7 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
         
         with st.spinner("Procesando predicción..."):
             try:
+                st.write(zona_seleccionada_pred)
                 # Obtener métricas de la zona seleccionada
                 zona_metricas = df_mejores_zona[df_mejores_zona['ZONA'].str.contains(
                     zona_seleccionada_pred.split('_')[-1] if '_' in zona_seleccionada_pred else zona_seleccionada_pred, 
