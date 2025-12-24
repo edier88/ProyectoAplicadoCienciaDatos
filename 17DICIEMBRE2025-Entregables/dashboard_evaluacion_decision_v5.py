@@ -17,8 +17,10 @@ from pathlib import Path
 import glob
 from PIL import Image
 import joblib
+import matplotlib.pyplot as plt
 
 MODELOS_DIR = Path("modelos_guardados")
+ZONAS_DIR = Path("csv-zonas-wifi-separados-man")
 
 # Configuración de la página
 st.set_page_config(
@@ -312,6 +314,7 @@ if pagina_seleccionada == "📈 Visualización de Gráficas":
         
         # Mostrar ambas imágenes (una arriba de la otra, como en el ejemplo)
 
+        # Se hace una lista con tal de que se muestre el modelo con el que se entrenó el modelo cada vez que se seleccione una zona de la lista desplegable
         zonas_y_modelos = {
             "001_ZW Parque Ingenio": "Random Forest",
             "002_ZW Canchas Panamericanas": "SVR",
@@ -425,13 +428,22 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
         with st.spinner("Procesando predicción..."):
             try:
 
-                modelo_completo = joblib.load(open(MODELOS_DIR / f"{zona_seleccionada_pred}.joblib", 'rb'))
+                if zona_seleccionada_pred[:3] == "010":
+                    zona_seleccionada_pred = "010_ZW Parque Antonio Nariño"
+                if zona_seleccionada_pred[:3] == "027":
+                    zona_seleccionada_pred = "027_ZW Parque Alfonso Bonilla Aragón"
+                if zona_seleccionada_pred[:3] == "028":
+                    zona_seleccionada_pred = "028_ZW Parque Yo Amo a Siloé"
 
+                modelo_completo = joblib.load(open(MODELOS_DIR / f"{zona_seleccionada_pred}.joblib", 'rb'))
+                df = pd.read_csv(ZONAS_DIR / f"{zona_seleccionada_pred}.csv")
+                
                 modelo_entrenado = modelo_completo["metadata"]["model_type"]
 
                 nombre_zona = zona_seleccionada_pred[6:]
 
                 st.write(f"Mejor modelo desempeñado para {nombre_zona}: {modelo_entrenado}")
+                st.write("Variables de entrada:")
 
                 last_window = modelo_completo["forecaster"].last_window_
                 ultima_fecha = last_window.index.tolist()[-1]
@@ -455,6 +467,9 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 st.table(exog_futura)
 
                 exog_variables = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO', 'NUMERO_CONEXIONES']
+                exog_variables_scaled = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO_scaled', 'NUMERO_CONEXIONES_scaled']
+
+                prediccion_final = 0
 
                 if modelo_entrenado == "Random Forest":
 
@@ -462,18 +477,62 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                         steps=1,
                         exog=exog_futura[exog_variables]
                     )
-                else:
+
+                    prediccion_final = prediccion_1_dia
+
+                else: #(para SVR, Regresion Lineal o Perceptron)
                     
                     # Primero escalamos
+                    scaler_usage = modelo_completo['scalers']['scaler_usage']
+                    scaler_conexiones = modelo_completo['scalers']['scaler_conexiones']
+                    scaler_porcentaje = modelo_completo['scalers']['scaler_porcentaje']
 
-                    prediccion_1_dia = modelo_completo["forecaster"].predict(
+                    # Se escalan las exogenas futuras aplicando los escaladores de train (Se usa "transform", no "fit_transform")
+                    exog_futura['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(exog_futura[['NUMERO_CONEXIONES']])
+                    exog_futura['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(exog_futura[['PORCENTAJE_USO']])
+
+                    prediccion_1_dia_scaled = modelo_completo["forecaster"].predict(
                         steps=1,
-                        exog=exog_futura[exog_variables]
+                        exog=exog_futura[exog_variables_scaled]
                     )
 
                     # Despues desescalamos
+                    # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
+                    prediccion_desescalada = pd.Series(
+                        scaler_usage.inverse_transform(prediccion_1_dia_scaled.values.reshape(-1, 1)).flatten(),
+                        index=prediccion_1_dia_scaled.index
+                    )
 
-                st.write(prediccion_1_dia)
+                    prediccion_final = prediccion_desescalada
+
+                fecha_predicha = prediccion_final.index[0]
+                month = fecha_predicha.strftime("%B")
+                dia = fecha_predicha.strftime("%d")
+                anio = fecha_predicha.strftime("%Y")
+                if month == "January":
+                    mes = "Enero"
+                elif month == "February":
+                    mes = "Febrero"
+                elif month == "March":
+                    mes = "Marzo"
+                elif month == "April":
+                    mes = "Abril"
+                elif month == "May":
+                    mes = "Mayo"
+                elif month == "June":
+                    mes = "Junio"
+                elif month == "July":
+                    mes = "Julio"
+                elif month == "August":
+                    mes = "Agosto"
+                elif month == "September":
+                    mes = "Septiembre"
+                elif month == "October":
+                    mes = "Octubre"
+                elif month == "November":
+                    mes = "Noviembre"
+                else:
+                    mes = "Diciembre"
                 
 
                 # Obtener métricas de la zona seleccionada
@@ -483,18 +542,24 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 )]
                 
                 # Calcular predicción simulada (aquí iría la predicción real)
-                trafico_predicho = numero_conexiones * porcentaje_uso / 100 * 10  # Simulación simple
+                #trafico_predicho = numero_conexiones * porcentaje_uso / 100 * 10  # Simulación simple
                 
                 # Crear tabla de resultados
                 resultados_prediccion = pd.DataFrame({
                     'Zona': [zona_seleccionada_pred],
                     'Número_Conexiones': [numero_conexiones],
                     'Porcentaje_Uso_%': [porcentaje_uso],
-                    'Tráfico_Predicho_KB': [trafico_predicho]
+                    'Tráfico_Predicho_KB': [prediccion_final[0]]
                 })
                 
                 # Mostrar tabla de resultados
                 st.subheader("📊 Resultados")
+
+                st.write(f"La predicción final para esta zona para {mes} {dia} de {anio} es:")
+                st.write(f"{int(prediccion_final[0])} KB")
+
+                st.table(prediccion_final)
+
                 st.dataframe(
                     resultados_prediccion,
                     use_container_width=True,
@@ -513,43 +578,57 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                         st.metric("Mejor Modelo", zona_metricas.iloc[0]['MEJOR_MODELO_ENCONTRADO'])
                     
                     with col_met3:
-                        st.metric("Tráfico Predicho (KB)", f"{trafico_predicho:.2f}")
+                        st.metric("Tráfico Predicho (KB)", f"{prediccion_final[0]:.2f}")
                     
                     with col_met4:
                         st.metric("Zona", zona_seleccionada_pred)
                 
                 # Gráfico de tendencia (simulado)
                 st.subheader("📉 Predicción de Tráfico")
-                
-                # Crear datos para el gráfico
-                fechas = pd.date_range(periods=30, end=pd.Timestamp.now(), freq='D')
-                trafico_simulado = np.random.normal(trafico_predicho, trafico_predicho * 0.2, 30)
-                trafico_simulado[-1] = trafico_predicho
-                
-                df_tendencia = pd.DataFrame({
-                    'Fecha': fechas,
-                    'Tráfico_KB': trafico_simulado
-                })
+                st.write("(Se muestran los dos últimos meses junto con el día predicho)")
+
+                plt.style.use('seaborn-v0_8-dark')
+                plt.figure(figsize=(25, 4))
+                plt.plot(df['USAGE_KB'], label="Train", linewidth=2)
+                plt.plot(prediccion_final[0], label="Predicho", linewidth=2)
+                plt.title(f"{modelo_entrenado} - {nombre_zona}")
+                plt.xlabel("Índice temporal")
+                plt.ylabel("Tráfico (kB)")
+                plt.legend()
+                plt.grid(True)
+                plt.tight_layout()
+                plt.close()
+
                 
                 fig_tendencia = px.line(
-                    df_tendencia,
-                    x='Fecha',
-                    y='Tráfico_KB',
+                    df.tail(60),
+                    x='FECHA_CONEXION',
+                    y='USAGE_KB',
                     title=f'Predicción de Tráfico - {zona_seleccionada_pred}',
                     labels={'Tráfico_KB': 'Tráfico (KB)', 'Fecha': 'Fecha'}
                 )
-                
+
                 # Marcar el punto de predicción
                 fig_tendencia.add_scatter(
-                    x=[fechas[-1]],
-                    y=[trafico_predicho],
+                    x=[prediccion_final.index[0]],
+                    y=[prediccion_final[0]],
                     mode='markers',
                     marker=dict(size=15, color='red', symbol='star'),
                     name='Predicción'
                 )
                 
-                fig_tendencia.update_layout(height=400)
                 st.plotly_chart(fig_tendencia, use_container_width=True)
+
+                mape_historico = int(zona_metricas.iloc[0]['MAPE_NUM'])
+
+                if mape_historico <= 20:
+                    descrpcion_mape = "Un valor MAPE menor o igual al 20% (80% de exactitud) nos indica que la predicción fue muy buena si se compara con el estándar de predicciones en Ciencia de Datos"
+                if 30 >= mape_historico > 20:
+                    descrpcion_mape = "Un valor MAPE mayor a 20% pero menor o igual al 30% (70% de exactitud) nos indica que la predicción fue buena si se compara con el estándar de predicciones en Ciencia de Datos"
+                if 50 >= mape_historico > 30:
+                    descrpcion_mape = "Un valor MAPE mayor a 30% pero menor o igual al 50% (50% de exactitud) nos indica que la predicción fue regular si se compara con el estándar de predicciones en Ciencia de Datos"
+                if mape_historico > 50:
+                    descrpcion_mape = "Un valor MAPE mayor a 50% (menos del 50% de exactitud) nos indica que la predicción fue mala. Esto no es una falla en la predicción sino una característica de la serie temporal de la zona que hace de sus picos bruscos (de 0 a tráficos altos) un comportamiento muy dificil para predecir"
                 
                 # Información adicional
                 with st.expander("ℹ️ Información sobre la Predicción"):
@@ -561,11 +640,17 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                     - Porcentaje de Uso: {porcentaje_uso}%
                     
                     **Predicción:**
-                    - Tráfico Estimado: {trafico_predicho:.2f} KB
+                    - Tráfico Estimado: {prediccion_final[0]:.2f} KB
                     
                     **Nota:** Esta es una predicción basada en los parámetros ingresados.
-                    Para predicciones más precisas, el sistema utiliza modelos de machine learning
+                    
+                    El sistema utiliza modelos de machine learning
                     entrenados con datos históricos.
+                    
+                    El valor del MAPE Histórico ({zona_metricas.iloc[0]['MAPE_NUM']:.2f}%) es el valor del error porcentual absoluto medio.
+                    Indica porcentualmente en promedio cuán lejos estuvieron las pruebas previas de predicción (proceso que se hace comparando datos de prueba con datos de entrenamiento del modelo de Machine Learning).
+                    
+                    {descrpcion_mape}
                     """)
                 
             except Exception as e:
