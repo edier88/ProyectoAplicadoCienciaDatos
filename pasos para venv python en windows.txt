@@ -6,6 +6,7 @@ pip install pandas
 pip install scikit-learn
 pip install holidays
 pip install skforecast
+pip install "statsmodels>=0.12, <0.15
 pip install matplotlib
 pip install plotly
 
