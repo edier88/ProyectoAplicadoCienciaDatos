@@ -427,7 +427,7 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
         
         with st.spinner("Procesando predicción..."):
             try:
-
+                # Se normalizan los nombres para que no dé error por las ñ's y tildes
                 if zona_seleccionada_pred[:3] == "010":
                     zona_seleccionada_pred = "010_ZW Parque Antonio Nariño"
                 if zona_seleccionada_pred[:3] == "027":
@@ -447,7 +447,7 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
 
                 last_window = modelo_completo["forecaster"].last_window_
                 ultima_fecha = last_window.index.tolist()[-1]
-
+                
                 # Crear rango de fechas futuras
                 fechas_futuras = pd.date_range(
                     start=ultima_fecha + pd.Timedelta(days=1),
