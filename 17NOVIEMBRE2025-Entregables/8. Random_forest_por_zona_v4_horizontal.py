@@ -427,8 +427,8 @@ for archivo in archivos:
     )
     
     forecaster_futuro.fit(
-        y=df['USAGE_KB'],
-        exog=df[todas_variables_entrada]
+        y=df_con_lags['USAGE_KB'],
+        exog=df_con_lags[todas_variables_entrada]
     )
 
     modelo_completo = {
