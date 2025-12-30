@@ -237,12 +237,26 @@ for archivo in archivos:
     )
 
     # 7. Evaluar
-    mae = mean_absolute_error(df_test[target_var], predictions)
-    mape = mean_absolute_percentage_error(df_test[target_var], predictions)
+    mae_base = mean_absolute_error(df_test[target_var], predictions)
+    mape_base = mean_absolute_percentage_error(df_test[target_var], predictions)
+    mape_base = round(mape_base, 6)
+    mape_percent_base = mape_base*100
+    mape_percent_base = round(mape_percent_base, 4)
+    print(f"MAPE: {mape_base:.4f} ({mape_base*100:.2f}%)")
+
+    # Root Mean Squared Error
+    mse_base = mean_squared_error(df_test[target_var], predictions)
+    rmse_base = np.sqrt(mse_base)
+    rmse_base = round(rmse_base)
+    print(f"RMSE: {rmse_base:.2f}")
+
+    r2_base = r2_score(df_test[target_var], predictions)
+    r2_base = round(r2_base, 3)
+    print(f"R-Cuadrado: {r2_base:.4f}")
 
     print(f"\n📊 RESULTADOS:")
-    print(f"  MAE: {mae:.2f}")
-    print(f"  MAPE: {mape:.4f} ({mape*100:.2f}%)")
+    print(f"  MAE: {mae_base:.2f}")
+    print(f"  MAPE: {mape_base:.4f} ({mape_base*100:.2f}%)")
 
     # 8. Comparar con modelo sin lags de exógenas
     print(f"\n🔍 Comparación:")
