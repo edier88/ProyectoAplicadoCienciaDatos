@@ -228,8 +228,11 @@ for archivo in archivos:
 
     # 6. Hacer predicciones
     print(f"\nHaciendo predicciones...")
+
+    steps = len(df_test)
+
     predictions = forecaster.predict(
-        steps=len(df_test),
+        steps=steps,
         exog=df_test[todas_variables_entrada]
     )
 
@@ -247,3 +250,190 @@ for archivo in archivos:
     #print(f"    - Features: {lags_target} + {len(exog_vars_categoricas + exog_vars_numericas)} = {lags_target + len(exog_vars_categoricas + exog_vars_numericas)}")
     print(f"  Modelo NUEVO (con lags exógenos):")
     print(f"    - Features: {forecaster.regressor.n_features_in_}")
+
+    # ---------------------------------------------------------
+    # Busqueda de Hiper-parámetros por zona:
+    # ---------------------------------------------------------
+
+
+    forecaster = ForecasterRecursive(
+        regressor = RandomForestRegressor(random_state=123),
+        lags      = 10 # Este valor será remplazado en el grid search
+    )
+    
+    # particiones train y validacion
+    cv = TimeSeriesFold(
+        steps              = steps,
+        initial_train_size = max(30, int(0.5 * len(df_train))),
+        refit              = False,
+        fixed_train_size   = False,
+    )
+    
+    # Valores de lags para evaluar
+    lags_grid = [10]
+    
+    # Valores a evaluar como hiperparámetros
+    param_grid = {
+        'n_estimators': [50, 100, 150, 250, 350],
+        'max_depth': [5, 10, 20, 30, 40]
+    }
+    
+    resultados_grid = grid_search_forecaster(
+        forecaster  = forecaster,
+        y           = df_train['USAGE_KB'],
+        exog        = df_train[todas_variables_entrada],  # Variables exogenas
+        cv          = cv,
+        param_grid  = param_grid,
+        lags_grid   = lags_grid,
+        metric      = 'mean_absolute_error',
+        return_best = True,
+        n_jobs      = 1,  # ← Sin procesamiento paralelo para que no genere error
+        verbose     = False
+    )
+    
+
+    resultados_grid.to_csv(DESTINO_METRICAS / f"grilla_v4_{nombre_zona}", index=False, encoding='utf-8')
+
+
+    # -----------------------------------------------------------------------------
+    # Aplicación en cada zona de los hiperparámetros encontrados
+    # -----------------------------------------------------------------------------
+
+        
+    print(resultados_grid["n_estimators"][0])
+    n_estimators_ajustado = resultados_grid["n_estimators"][0]
+
+    print(resultados_grid["max_depth"][0])
+    max_depth_ajustado = resultados_grid["max_depth"][0]
+
+    print(resultados_grid["lags"][0])
+    lags_array = resultados_grid["lags"][0]
+    ventana_ajustada = lags_array[-1]
+    ventana_ajustada2 = int(ventana_ajustada)
+
+    forecaster_ajustado = ForecasterRecursive(
+        regressor=RandomForestRegressor(
+            n_estimators=n_estimators_ajustado,
+            max_depth=max_depth_ajustado,
+            random_state=123
+        ),
+        lags=ventana_ajustada2
+    )
+    
+    forecaster_ajustado.fit(
+        y=df_train['USAGE_KB'],  # target
+        exog=df_train[todas_variables_entrada]    # Includes exogenous variables
+    )
+
+    predictions_ajustado = forecaster_ajustado.predict(
+        steps=steps,
+        exog=df_test[todas_variables_entrada]  # Future exogenous variables
+    )
+
+
+    # ------------------------------------------------------------------------------
+    # Calculo de errores de la predicción hecha con los hiperparámetros encontrados:
+    # ------------------------------------------------------------------------------
+
+
+    # Mean Absolute Percentage Error
+    mape_ajustado = mean_absolute_percentage_error(
+        y_true=df_test['USAGE_KB'],
+        y_pred=predictions_ajustado
+    )
+    mape_ajustado = round(mape_ajustado, 6)
+    mape_percent_ajustado = mape_ajustado*100
+    mape_percent_ajustado = round(mape_percent_ajustado, 4)
+    print(f"MAPE: {mape_ajustado:.4f} ({mape_ajustado*100:.2f}%)")
+
+    # Mean Absolute Error
+    mae_ajustado = mean_absolute_error(df_test['USAGE_KB'], predictions_ajustado)
+    mae_ajustado = round(mae_ajustado, 3)
+    print(f"MAE: {mae_ajustado:.2f}")
+
+    # Root Mean Squared Error
+    mse_ajustado = mean_squared_error(df_test['USAGE_KB'], predictions_ajustado)
+    rmse_ajustado = np.sqrt(mse_ajustado)
+    rmse_ajustado = round(rmse_ajustado)
+    print(f"RMSE: {rmse_ajustado:.2f}")
+
+    r2_ajustado = r2_score(df_test['USAGE_KB'], predictions_ajustado)
+    r2_ajustado = round(r2_ajustado, 3)
+    print(f"R-Cuadrado: {r2_ajustado:.4f}")
+
+    #new_row = pd.DataFrame([{"Zona": nombre_zona, "Tecnica": "Con Hiperparametros", "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
+    new_row = pd.DataFrame([{"Zona": nombre_zona, "Modelo": "Random Forest", "MAPE_Base": mape_base, "MAPE_Optimizado": mape_ajustado, "MAPE(%)_Base": mape_percent_base, "MAPE(%)_Optimizado": mape_percent_ajustado, "MAE_Base": mae_base, "MAE_Optimizado": mae_ajustado, "RMSE_Base": rmse_base, "RMSE_Optimizado": rmse_ajustado, "R2_Base": r2_base, "R2_Optimizado": r2_ajustado}])
+    df_errors = pd.concat([df_errors, new_row], ignore_index=True)
+    df_errors.to_csv(DESTINO_METRICAS / "metricas_horizontales_v4.csv", index=False, encoding='utf-8')
+    
+
+    usage_kb_compared = pd.DataFrame({
+        'USAGE_KB_predicho': predictions_ajustado,
+        'USAGE_KB_real': df_test['USAGE_KB']
+    })
+    difference = predictions_ajustado - df_test['USAGE_KB']
+    usage_kb_compared['error_absoluto'] = difference.abs()
+    usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
+
+    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_hiperparametros_v4_{nombre_zona}", index=False, encoding='utf-8')
+
+
+    # -----------------------------------------------------------------------------
+    # Graficacion serie temporal con la prediccion comparada con el test
+    # -----------------------------------------------------------------------------
+
+
+    #print(plt.style.available)
+    plt.style.use('seaborn-v0_8-dark')
+    plt.figure(figsize=(25, 4))
+    plt.plot(df_train['USAGE_KB'], label="Train", linewidth=2)
+    plt.plot(df_test['USAGE_KB'], label="Test", linewidth=2)
+    plt.plot(predictions_ajustado, label="Predicho", linewidth=2)
+    plt.title(f"Random Forest - {nombre_zona}")
+    plt.xlabel("Índice temporal")
+    plt.ylabel("Tráfico (kB)")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie_v4.png"), dpi=300)
+    plt.close()
+
+
+    # ------------------------------------------------------------------------
+    # Guardado del modelo para cada zona en archivos .pkl
+    # ------------------------------------------------------------------------
+
+    forecaster_futuro = ForecasterRecursive(
+        regressor=RandomForestRegressor(
+            n_estimators=n_estimators_ajustado,
+            max_depth=max_depth_ajustado,
+            random_state=123
+        ),
+        lags=10
+    )
+    
+    forecaster_futuro.fit(
+        y=df['USAGE_KB'],
+        exog=df[todas_variables_entrada]
+    )
+
+    modelo_completo = {
+        'forecaster': forecaster_futuro,
+        'variables_config': {
+            'exog_variables': todas_variables_entrada,          # ['DIA_SEMANA', ...]
+            'target_column': 'USAGE_KB'
+        },
+        'metadata': {
+            'zona': nombre_zona_recortado,
+            'fecha_entrenamiento': pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S'),
+            'model_type': 'Random Forest',
+            'kernel': 'rbf',
+            'n_estimators': n_estimators_ajustado, 
+            'max_depth': max_depth_ajustado, 
+            'random_state': 123,
+            'lags': 10
+        }
+    }
+
+    # Guardar con joblib (mejor que pickle para objetos scikit-learn)
+    joblib.dump(modelo_completo, MODELOS_DIR / f"RandomForest_{nombre_zona_recortado}_v4.joblib")
