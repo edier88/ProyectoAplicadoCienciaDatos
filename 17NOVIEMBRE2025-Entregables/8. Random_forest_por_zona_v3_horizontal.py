@@ -318,7 +318,7 @@ for archivo in archivos:
 
 
     # ------------------------------------------------------------------------
-    # Guardado del modelo para cada zona en archivos .pkl
+    # Guardado del modelo para cada zona en archivos .joblib
     # ------------------------------------------------------------------------
 
     forecaster_futuro = ForecasterRecursive(
