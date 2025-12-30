@@ -190,7 +190,6 @@ for archivo in archivos:
     print("Ejemplo de variables:", exog_variables[:8], "...")
 
     # 4. Crear y entrenar forecaster
-    # NOTA: Usa 'estimator' en lugar de 'regressor' (como sugiere el warning)
     forecaster = ForecasterRecursive(
         regressor=RandomForestRegressor(random_state=123),
         lags=lags_target  # Esto creará USAGE_KB_lag_1 a USAGE_KB_lag_10 automáticamente
@@ -414,7 +413,27 @@ for archivo in archivos:
 
 
     # ------------------------------------------------------------------------
-    # Guardado del modelo para cada zona en archivos .pkl
+    # Obtención de los últimos 10 días (ventana de diez días) del dataset original para guardarlo en el modelo
+    # ------------------------------------------------------------------------
+
+    # 1. Obtener los últimos días necesarios del histórico
+    ultima_fecha_ventana = df.index[-1]
+    
+    # Necesitamos los últimos 'lags_exogenos' días para los lags
+    # + 1 día extra para algunas variables
+    dias_necesarios_ventana_datos = lags_exogenos + 1
+    
+    fecha_inicio_ventana = ultima_fecha_ventana - pd.Timedelta(days=dias_necesarios_ventana_datos - 1)
+    
+    # Filtrar la ventana
+    ventana_datos = df.loc[fecha_inicio_ventana:ultima_fecha_ventana].copy()
+
+    print("PILAS ESTA ES LA VENTA DE DATOS:")
+    print(ventana_datos)
+
+
+    # ------------------------------------------------------------------------
+    # Guardado del modelo para cada zona en archivos .joblib
     # ------------------------------------------------------------------------
 
     forecaster_futuro = ForecasterRecursive(
@@ -433,6 +452,7 @@ for archivo in archivos:
 
     modelo_completo = {
         'forecaster': forecaster_futuro,
+        'ventana_datos': ventana_datos,
         'variables_config': {
             'exog_variables': todas_variables_entrada,          # ['DIA_SEMANA', ...]
             'target_column': 'USAGE_KB'
