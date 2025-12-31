@@ -214,8 +214,8 @@ for archivo in archivos:
         #step = steps -1
 
         print("exog_variables_lags----------------")
-        print(type(exog_variables_lags))
-        exog_variables_lags = pd.DataFrame(columns=exog_variables_lags)
+        print(exog_variables_lags)
+        exog_variables_lags_df = pd.DataFrame(columns=exog_variables_lags)
 
         df_pasado = df_pasado.drop('USAGE_KB', axis=1) # Elimino la columna USAGE_KB del dataset del pasado (ventana de 10 días)
         df_pasado_y_futuro = pd.concat([df_pasado, df_futuro], axis=0) # Junto los dataframe del pasado y del futuro para hacer uno solo
@@ -234,38 +234,42 @@ for archivo in archivos:
         exog_variables_list = list(df_futuro.columns)
 
         #error
+        print("df_pasado_y_futuro:")
+        print(df_pasado_y_futuro.dtypes)
 
         
         for step in range(0, steps):
-            print (print(f"STEP: {step}"))
+            #print (print(f"STEP: {step}"))
 
             for var in exog_variables_list:
-                print(f"  {var}: lags 1 a {lags}")
+                #print(f"  {var}: lags 1 a {lags}")
                 for lag in range(1, lags + 1):
                     position = 11-lag+step
                     col_name = f'{var}_lag_{lag}'
-                    print(f"STEP: {step}")
-                    print(f"COL_NAME: {col_name}")
-                    print(f"VAR: {var}")
-                    print(f"POSITION: {position}")
-                    exog_variables_lags.loc[step, col_name] = df_pasado_y_futuro.loc[position, var]
+                    #print(f"STEP: {step}")
+                    #print(f"COL_NAME: {col_name}")
+                    #print(f"VAR: {var}")
+                    #print(f"POSITION: {position}")
+                    exog_variables_lags_df.loc[step, col_name] = df_pasado_y_futuro.loc[position, var].copy()
                 
         print("DF_FUTURO:")
         print(df_futuro)
-        df_futuro = df_futuro.reset_index(drop=True)
-        exog_variables_lags["DIA_SEMANA"] = df_futuro["DIA_SEMANA"].copy()
-        exog_variables_lags["LABORAL"] = df_futuro["LABORAL"].copy()
-        exog_variables_lags["FIN_DE_SEMANA"] = df_futuro["FIN_DE_SEMANA"].copy()
-        exog_variables_lags["FESTIVO"] = df_futuro["FESTIVO"].copy()
-        exog_variables_lags["PORCENTAJE_USO"] = df_futuro["PORCENTAJE_USO"].copy()
-        exog_variables_lags["NUMERO_CONEXIONES"] = df_futuro["NUMERO_CONEXIONES"].copy()
+        #df_futuro = df_futuro.reset_index(drop=True)
+        exog_variables_lags_df.index = df_futuro.index.copy()
+        exog_variables_lags_df["DIA_SEMANA"] = df_futuro["DIA_SEMANA"].copy()
+        exog_variables_lags_df["LABORAL"] = df_futuro["LABORAL"].copy()
+        exog_variables_lags_df["FIN_DE_SEMANA"] = df_futuro["FIN_DE_SEMANA"].copy()
+        exog_variables_lags_df["FESTIVO"] = df_futuro["FESTIVO"].copy()
+        exog_variables_lags_df["PORCENTAJE_USO"] = df_futuro["PORCENTAJE_USO"].copy()
+        exog_variables_lags_df["NUMERO_CONEXIONES"] = df_futuro["NUMERO_CONEXIONES"].copy()
         
-
-    
         # Eliminar filas con NaN
         #df_con_lags = df_con_lags.iloc[lags:].copy()
+
+        exog_variables_lags_df = exog_variables_lags_df.apply(pd.to_numeric, errors='ignore')
         
-        return exog_variables_lags, df_pasado_y_futuro
+        
+        return exog_variables_lags_df, df_pasado_y_futuro, exog_variables_lags
     
     # Obtener última fecha de datos
     ultima_fecha = df.index[-1]
@@ -278,24 +282,18 @@ for archivo in archivos:
     # Crear exógenas con lags para la predicción
     dias_a_predecir = 7
     exog_futura = crear_exog_futura(ultima_fecha, df, dias_a_predecir)
-    df_con_lags, df_junto = crear_lags_exogenos(exog_futura, ventana_datos, 10, dias_a_predecir)
+    df_con_lags, df_junto, exog_variables_lags = crear_lags_exogenos(exog_futura, ventana_datos, 10, dias_a_predecir)
 
     exog_futura.to_csv(DESTINO_CSV_VENTANEADO / f"{nombre_zona_recortado}_exogfutura_v4.csv", index=False, encoding='utf-8')
     df_con_lags.to_csv(DESTINO_CSV_VENTANEADO / f"{nombre_zona_recortado}_ventaneado_v4.csv", index=False, encoding='utf-8')
     df_junto.to_csv(DESTINO_CSV_VENTANEADO / f"{nombre_zona_recortado}_junto_v4.csv", index=False, encoding='utf-8')
 
-    """
-    print(f"\n Data frame futuro generado:")
-    print(exog_futura)
-    
-    modelo_completo = joblib.load(open(MODELOS_DIR / f"RandomForest_{nombre_zona_recortado}_v4.joblib", 'rb'))
-
     forecaster = modelo_completo['forecaster']
     
     # Predecir días con variables exógenas
     prediccion = forecaster.predict(
-        steps=1,
-        exog=exog_futura[exog_variables]
+        steps=dias_a_predecir,
+        exog=df_con_lags[exog_variables_lags]
     )
 
     #Guardado de las gráficas de predicciones futuras
@@ -309,6 +307,6 @@ for archivo in archivos:
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
-    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion.png"), dpi=300)
+    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion_v4.png"), dpi=300)
     plt.close()
-    """
+    

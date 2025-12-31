@@ -1,0 +1,19 @@
+NOMBRE_ZONA,DIA_SEMANA,LABORAL,FIN_DE_SEMANA,FESTIVO,PORCENTAJE_USO,NUMERO_CONEXIONES
+003_ZW Parque del Perro,5,0,1,0,114.84,84.0
+003_ZW Parque del Perro,6,0,1,0,106.73,77.0
+003_ZW Parque del Perro,0,1,0,0,51.16,44.0
+003_ZW Parque del Perro,1,1,0,0,19.35,53.0
+003_ZW Parque del Perro,2,1,0,0,55.98,52.0
+003_ZW Parque del Perro,3,1,0,0,35.58,52.0
+003_ZW Parque del Perro,4,1,0,0,63.23,72.0
+003_ZW Parque del Perro,5,0,1,0,35.33,76.0
+003_ZW Parque del Perro,6,0,1,0,38.34,68.0
+003_ZW Parque del Perro,0,1,0,0,101.55,54.0
+003_ZW Parque del Perro,1,1,0,0,82.05,58.0
+,2,1,0,0,95.41,41.0
+,3,1,0,0,818.71,96.0
+,4,1,0,0,145.87,68.0
+,5,0,1,0,292.25,41.0
+,6,0,1,0,1201.0,60.0
+,0,1,0,0,211.39,39.0
+,1,1,0,0,295.55,62.0
