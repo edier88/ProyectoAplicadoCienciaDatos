@@ -35,14 +35,14 @@ import os
 import joblib
 from pathlib import Path
 
-MODELOS_DIR = Path("Random_Forest_Modelos_Guardados")
+MODELOS_DIR = Path("RegresionLineal_Modelos_Guardados")
 
 ORIGEN = "csv-zonas-wifi-separados-man/"
+#DESTINO_METRICAS = "Random_Forest_Metricas"
+DESTINO_METRICAS = Path("RegresionLineal_Metricas")
+os.makedirs(DESTINO_METRICAS, exist_ok=True)
 
-DESTINO_CSV_VENTANEADO = Path("Random_Forest_csv_ventaneados")
-os.makedirs(DESTINO_CSV_VENTANEADO, exist_ok=True)
-
-GRAF_FUTURAS_DIR = "Random_Forest_Graficas_Futuras"
+GRAF_FUTURAS_DIR = "RegresionLineal_Graficas_Futuras"
 os.makedirs(GRAF_FUTURAS_DIR, exist_ok=True)
 
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
@@ -90,6 +90,12 @@ for archivo in archivos:
     
     # Variables de entrada para el modelo
     exog_variables = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO', 'NUMERO_CONEXIONES']
+    # Define las variables exogenas (usa las versiones escaladas para variables continuas)
+    exog_variables_scaled = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO_scaled', 'NUMERO_CONEXIONES_scaled']
+
+    # --------------------------------------------------
+    # Creacion de variables de entrada (exógenas) para predicción real de una semana
+    # --------------------------------------------------
 
     # --------------------------------------------------
     # Creacion de variables de entrada (exógenas) para predicción real de una semana
@@ -276,7 +282,7 @@ for archivo in archivos:
     print(f"\n Ultimo dia data frame original:")
     print(ultima_fecha)
 
-    modelo_completo = joblib.load(open(MODELOS_DIR / f"RandomForest_{nombre_zona_recortado}_v4.joblib", 'rb'))
+    modelo_completo = joblib.load(open(MODELOS_DIR / f"RegresionLineal_{nombre_zona_recortado}_v3.joblib", 'rb'))
     ventana_datos = modelo_completo['ventana_datos']
 
     # Crear exógenas con lags para la predicción
@@ -289,24 +295,95 @@ for archivo in archivos:
     #df_junto.to_csv(DESTINO_CSV_VENTANEADO / f"{nombre_zona_recortado}_junto_v4.csv", index=False, encoding='utf-8')
 
     forecaster = modelo_completo['forecaster']
-    
+    scaler_usage = modelo_completo['scalers']['scaler_usage']
+    scaler_conexiones = modelo_completo['scalers']['scaler_conexiones']
+    scaler_porcentaje = modelo_completo['scalers']['scaler_porcentaje']
+
+    # Identificamos las columnas que empiezan con el prefijo
+    USAGE_KB_to_scale = df_con_lags.filter(like='USAGE_KB').columns
+    NUMERO_CONEXIONES_to_scale = df_con_lags.filter(like='NUMERO_CONEXIONES').columns
+    PORCENTAJE_USO_to_scale = df_con_lags.filter(like='PORCENTAJE_USO').columns
+
+    # Se escala df_con_lags aplicando los escaladores de train (Se usa "transform", no "fit_transform", este último se debe usar en la data a predecir)
+    df_con_lags[NUMERO_CONEXIONES_to_scale] = scaler_conexiones.transform(df_con_lags[NUMERO_CONEXIONES_to_scale])
+    df_con_lags[PORCENTAJE_USO_to_scale] = scaler_porcentaje.transform(df_con_lags[PORCENTAJE_USO_to_scale])
+
     # Predecir días con variables exógenas
-    prediccion = forecaster.predict(
+    prediccion_escalada = forecaster.predict(
         steps=dias_a_predecir,
         exog=df_con_lags[exog_variables_lags]
+    )
+
+    # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
+    prediccion_final = pd.Series(
+        scaler_usage.inverse_transform(prediccion_escalada.values.reshape(-1, 1)).flatten(),
+        index=prediccion_escalada.index
     )
 
     #Guardado de las gráficas de predicciones futuras
     plt.style.use('seaborn-v0_8-dark')
     plt.figure(figsize=(25, 4))
     plt.plot(df['USAGE_KB'], label="Tráfico Pasado", linewidth=2)
-    plt.plot(prediccion, label="Tráfico Predicho", linewidth=2)
-    plt.title(f"Random Forest - {nombre_zona}")
+    plt.plot(prediccion_final, label="Tráfico Predicho", linewidth=2)
+    plt.title(f"Regresion Lineal - {nombre_zona}")
     plt.xlabel("Índice temporal")
     plt.ylabel("Tráfico (kB)")
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
-    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion_v4.png"), dpi=300)
+    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion_v3.png"), dpi=300)
     plt.close()
+
+
+
+
+
+
+
+
+
+    """
+    # Crear exógenas para 7 días futuros
+    exog_7_dias = crear_exog_futura(ultima_fecha, df)
+
+    print(f"\n Data frame futuro generado:")
+    print(exog_7_dias)
+
+    modelo_completo = joblib.load(open(MODELOS_DIR / f"RegresionLineal_{nombre_zona_recortado}.joblib", 'rb'))
+
+    forecaster = modelo_completo['forecaster']
+    scaler_usage = modelo_completo['scalers']['scaler_usage']
+    scaler_conexiones = modelo_completo['scalers']['scaler_conexiones']
+    scaler_porcentaje = modelo_completo['scalers']['scaler_porcentaje']
+    config = modelo_completo['variables_config']
+
+
+    # Se escalan las exogenas futuras aplicando los escaladores de train (Se usa "transform", no "fit_transform")
+    exog_7_dias['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(exog_7_dias[['NUMERO_CONEXIONES']])
+    exog_7_dias['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(exog_7_dias[['PORCENTAJE_USO']])
     
+    predictions_scaled_futuro = forecaster.predict(
+        steps=7,
+        exog=exog_7_dias[exog_variables_scaled]  # Future scaled exogenous variables
+    )
+
+    # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
+    predictions_final_futuro = pd.Series(
+        scaler_usage.inverse_transform(predictions_scaled_futuro.values.reshape(-1, 1)).flatten(),
+        index=predictions_scaled_futuro.index
+    )
+
+    #Guardado de las gráficas de predicciones futuras
+    plt.style.use('seaborn-v0_8-dark')
+    plt.figure(figsize=(25, 4))
+    plt.plot(df['USAGE_KB'], label="Tráfico Pasado", linewidth=2)
+    plt.plot(predictions_final_futuro, label="Tráfico Predicho", linewidth=2)
+    plt.title(f"Regresion Lineal - {nombre_zona}")
+    plt.xlabel("Índice temporal")
+    plt.ylabel("Tráfico (kB)")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion_7dias.png"), dpi=300)
+    plt.close()
+    """

@@ -45,9 +45,13 @@ GRAF_FUTURAS_DIR = "RegresionLineal_Graficas_Futuras"
 os.makedirs(GRAF_FUTURAS_DIR, exist_ok=True)
 
 ORIGEN = "csv-zonas-wifi-separados-man/"
-#DESTINO_METRICAS = "Random_Forest_Metricas"
+
 DESTINO_METRICAS = Path("RegresionLineal_Metricas")
 os.makedirs(DESTINO_METRICAS, exist_ok=True)
+
+# Para guardar CSV's de Train y Test ventaneados
+#DESTINO_CSV_VENTANEADO = Path("RegresionLineal_csv_ventaneados")
+#os.makedirs(DESTINO_CSV_VENTANEADO, exist_ok=True)
 
 #carpeta = os.path.join(os.path.dirname(__file__), "csv-zonas-wifi-1AP-todas-las-columnas")
 #print(carpeta)
@@ -102,7 +106,6 @@ for archivo in archivos:
     target_var = 'USAGE_KB'
     exog_variables = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO', 'NUMERO_CONEXIONES']
     lags_exogenos = 10  # Lags para variables exógenas
-    lags_target = 10    # Lags para variable target (USAGE_KB)
 
     print(f"Procesando dataset con {len(df)} filas")
 
@@ -110,16 +113,6 @@ for archivo in archivos:
     def crear_lags_exogenos(df, exog_variables, lags):
         """Crea lags solo para variables exógenas numéricas"""
         df_con_lags = df.copy()
-        
-        """
-        for var in exog_vars:
-            for lag in range(1, lags + 1):
-                df_con_lags[f'{var}_lag_{lag}'] = df[var].shift(lag)
-        
-        # Eliminar filas con NaN
-        df_con_lags = df_con_lags.iloc[lags:].copy()
-        return df_con_lags
-        """
 
         for var in exog_variables:
             print(f"  {var}: lags 1 a {lags}")
@@ -204,6 +197,17 @@ for archivo in archivos:
     df_test[NUMERO_CONEXIONES_to_scale] = scaler_conexiones.transform(df_test[NUMERO_CONEXIONES_to_scale])
     df_test[PORCENTAJE_USO_to_scale] = scaler_porcentaje.transform(df_test[PORCENTAJE_USO_to_scale])
 
+    # Se escala df_con_lags aplicando los escaladores de train (Se usa "transform", no "fit_transform", este último se debe usar en la data a predecir)
+    df_con_lags[USAGE_KB_to_scale] = scaler_usage.fit_transform(df_con_lags[USAGE_KB_to_scale])
+    df_con_lags[NUMERO_CONEXIONES_to_scale] = scaler_conexiones.fit_transform(df_con_lags[NUMERO_CONEXIONES_to_scale])
+    df_con_lags[PORCENTAJE_USO_to_scale] = scaler_porcentaje.fit_transform(df_con_lags[PORCENTAJE_USO_to_scale])
+
+
+    # Guardado de CSV's de Train y Test ventaneados
+    #df_train.to_csv(DESTINO_CSV_VENTANEADO / f"{nombre_zona_recortado}_train_v4.csv", index=False, encoding='utf-8')
+    #df_test.to_csv(DESTINO_CSV_VENTANEADO / f"{nombre_zona_recortado}_test_v4.csv", index=False, encoding='utf-8')
+
+
     # Basic Linear Regression
     forecaster = ForecasterRecursive(
         regressor=LinearRegression(),
@@ -226,6 +230,16 @@ for archivo in archivos:
     predictions_final = pd.Series(
         scaler_usage.inverse_transform(predictions_scaled.values.reshape(-1, 1)).flatten(),
         index=predictions_scaled.index
+    )
+
+    df_test['USAGE_KB'] = pd.Series(
+        scaler_usage.inverse_transform(df_test['USAGE_KB'].values.reshape(-1, 1)).flatten(),
+        index=df_test['USAGE_KB'].index
+    )
+
+    df_train['USAGE_KB'] = pd.Series(
+        scaler_usage.inverse_transform(df_train['USAGE_KB'].values.reshape(-1, 1)).flatten(),
+        index=df_train['USAGE_KB'].index
     )
 
     # Mean Absolute Percentage Error
@@ -265,7 +279,7 @@ for archivo in archivos:
     usage_kb_compared['error_absoluto'] = difference.abs()
     usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
 
-    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_{nombre_zona}", index=False, encoding='utf-8')
+    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_v3_{nombre_zona}", index=False, encoding='utf-8')
     
     # Graficar serie temporal
     #print(plt.style.available)
@@ -284,10 +298,35 @@ for archivo in archivos:
     plt.close()
 
 
+    # ------------------------------------------------------------------------
+    # Obtención de los últimos 10 días (ventana de diez días) del dataset original para guardarlo en el modelo
+    # ------------------------------------------------------------------------
 
-    df['USAGE_KB_scaled'] = scaler_usage.fit_transform(df[['USAGE_KB']])
-    df['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.fit_transform(df[['NUMERO_CONEXIONES']])
-    df['PORCENTAJE_USO_scaled'] = scaler_porcentaje.fit_transform(df[['PORCENTAJE_USO']])
+    # 1. Obtener los últimos días necesarios del histórico
+    ultima_fecha_ventana = df.index[-1]
+    
+    # Necesitamos los últimos 'lags_exogenos' días para los lags
+    # + 1 día extra para algunas variables
+    dias_necesarios_ventana_datos = lags_exogenos + 1
+    
+    fecha_inicio_ventana = ultima_fecha_ventana - pd.Timedelta(days=dias_necesarios_ventana_datos - 1)
+    
+    # Filtrar la ventana
+    ventana_datos = df.loc[fecha_inicio_ventana:ultima_fecha_ventana].copy()
+
+    print("PILAS ESTA ES LA VENTA DE DATOS:")
+    print(ventana_datos)
+
+
+    #df['USAGE_KB_scaled'] = scaler_usage.fit_transform(df[['USAGE_KB']])
+    #df['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.fit_transform(df[['NUMERO_CONEXIONES']])
+    #df['PORCENTAJE_USO_scaled'] = scaler_porcentaje.fit_transform(df[['PORCENTAJE_USO']])
+
+    
+    # ------------------------------------------------------------------------
+    # Guardado del modelo para cada zona en archivos .joblib
+    # ------------------------------------------------------------------------
+
 
     # Basic Linear Regression
     forecaster = ForecasterRecursive(
@@ -303,6 +342,7 @@ for archivo in archivos:
     # 5. Guardar TODO en un solo archivo
     modelo_completo = {
         'forecaster': forecaster,
+        'ventana_datos': ventana_datos,
         'scalers': {
             'scaler_usage': scaler_usage,          # Para USAGE_KB
             'scaler_conexiones': scaler_conexiones,  # Para NUMERO_CONEXIONES
@@ -310,7 +350,7 @@ for archivo in archivos:
         },
         'variables_config': {
             'exog_variables_original': exog_variables,          # ['DIA_SEMANA', ...]
-            'exog_variables_scaled': todas_variables_entrada,     # ['DIA_SEMANA', ..., '_scaled']
+            'exog_variables_lags': todas_variables_entrada,     # ['DIA_SEMANA', ..., '_scaled']
             'target_column': 'USAGE_KB',
             'scaled_target_column': 'USAGE_KB_scaled'
         },
@@ -331,8 +371,8 @@ for archivo in archivos:
     }
 
     # Guardar con joblib (mejor que pickle para objetos scikit-learn)
-    joblib.dump(modelo_completo, MODELOS_DIR / f"RegresionLineal_{nombre_zona_recortado}.joblib")
+    joblib.dump(modelo_completo, MODELOS_DIR / f"RegresionLineal_{nombre_zona_recortado}_v3.joblib")
     
 
 
-df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
+df_errors.to_csv(DESTINO_METRICAS / "metricas_v3.csv", index=False, encoding='utf-8')
