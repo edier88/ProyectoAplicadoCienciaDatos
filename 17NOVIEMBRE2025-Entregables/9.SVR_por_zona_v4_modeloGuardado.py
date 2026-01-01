@@ -35,14 +35,14 @@ import os
 import joblib
 from pathlib import Path
 
-MODELOS_DIR = Path("RegresionLineal_Modelos_Guardados")
+MODELOS_DIR = Path("SVR_Modelos_Guardados")
 
 ORIGEN = "csv-zonas-wifi-separados-man/"
-#DESTINO_METRICAS = "Random_Forest_Metricas"
-DESTINO_METRICAS = Path("RegresionLineal_Metricas")
+
+DESTINO_METRICAS = Path("SVR_Metricas")
 os.makedirs(DESTINO_METRICAS, exist_ok=True)
 
-GRAF_FUTURAS_DIR = "RegresionLineal_Graficas_Futuras"
+GRAF_FUTURAS_DIR = "SVR_Graficas_Futuras"
 os.makedirs(GRAF_FUTURAS_DIR, exist_ok=True)
 
 archivos = glob.glob(os.path.join(ORIGEN, "*.csv"))
@@ -278,7 +278,7 @@ for archivo in archivos:
     print(f"\n Ultimo dia data frame original:")
     print(ultima_fecha)
 
-    modelo_completo = joblib.load(open(MODELOS_DIR / f"RegresionLineal_{nombre_zona_recortado}_v3.joblib", 'rb'))
+    modelo_completo = joblib.load(open(MODELOS_DIR / f"SVR_{nombre_zona_recortado}_v4.joblib", 'rb'))
     ventana_datos = modelo_completo['ventana_datos']
 
     # Crear exógenas con lags para la predicción
@@ -327,7 +327,7 @@ for archivo in archivos:
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
-    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion_v3.png"), dpi=300)
+    plt.savefig(os.path.join(GRAF_FUTURAS_DIR, f"{nombre_zona}_prediccion_v4.png"), dpi=300)
     plt.close()
 
 
@@ -345,7 +345,7 @@ for archivo in archivos:
     print(f"\n Data frame futuro generado:")
     print(exog_7_dias)
 
-    modelo_completo = joblib.load(open(MODELOS_DIR / f"RegresionLineal_{nombre_zona_recortado}.joblib", 'rb'))
+    modelo_completo = joblib.load(open(MODELOS_DIR / f"SVR_{nombre_zona_recortado}.joblib", 'rb'))
 
     forecaster = modelo_completo['forecaster']
     scaler_usage = modelo_completo['scalers']['scaler_usage']
@@ -357,7 +357,7 @@ for archivo in archivos:
     # Se escalan las exogenas futuras aplicando los escaladores de train (Se usa "transform", no "fit_transform")
     exog_7_dias['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(exog_7_dias[['NUMERO_CONEXIONES']])
     exog_7_dias['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(exog_7_dias[['PORCENTAJE_USO']])
-    
+
     predictions_scaled_futuro = forecaster.predict(
         steps=7,
         exog=exog_7_dias[exog_variables_scaled]  # Future scaled exogenous variables
@@ -374,7 +374,7 @@ for archivo in archivos:
     plt.figure(figsize=(25, 4))
     plt.plot(df['USAGE_KB'], label="Tráfico Pasado", linewidth=2)
     plt.plot(predictions_final_futuro, label="Tráfico Predicho", linewidth=2)
-    plt.title(f"Regresion Lineal - {nombre_zona}")
+    plt.title(f"SVR - {nombre_zona}")
     plt.xlabel("Índice temporal")
     plt.ylabel("Tráfico (kB)")
     plt.legend()
