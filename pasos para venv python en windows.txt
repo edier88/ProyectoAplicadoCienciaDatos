@@ -18,3 +18,7 @@ pip install shap
 PARA STREAMLIT:
 pip install streamlit
 streamlit run app.py
+
+PIP GUARDAR REQUIREMENTS PARA INSTALARLOS DESPUES:
+pip freeze > requirements.txt
+pip install -r requirements.txt

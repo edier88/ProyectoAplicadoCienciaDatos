@@ -34,6 +34,76 @@ st.set_page_config(
 st.title("📊 Dashboard Proyecto Predicción Zonas WiFi de Cali")
 st.markdown("---")
 
+def crear_lags_exogenos(df_futuro, df_pasado, lags, steps):
+    """Crea lags para las variables de entrada del modelo (variables exogenas ventaneadas 10 días atrás)"""
+
+    exog_variables_lags = list(df_futuro.columns)
+
+    # Se crean los titulos de las columnas del dataframe ventaneado (con lags)
+    for var in df_futuro:
+        for lag in range(1, lags + 1):
+            exog_variables_lags.append(f'{var}_lag_{lag}')
+
+    #step = steps -1
+
+    print("exog_variables_lags----------------")
+    print(exog_variables_lags)
+    exog_variables_lags_df = pd.DataFrame(columns=exog_variables_lags)
+
+    df_pasado = df_pasado.drop('USAGE_KB', axis=1) # Elimino la columna USAGE_KB del dataset del pasado (ventana de 10 días)
+    df_pasado_y_futuro = pd.concat([df_pasado, df_futuro], axis=0) # Junto los dataframe del pasado y del futuro para hacer uno solo
+    df_pasado_y_futuro = df_pasado_y_futuro.reset_index(drop=True)
+
+    #print("df_pasado_y_futuro:---------------")
+    #print(df_pasado_y_futuro)
+    #print(df_pasado_y_futuro.loc[13, "PORCENTAJE_USO"])
+
+    #print("exog_variables_lags:---------------")
+    #print(exog_variables_lags)
+    #exog_variables_lags.loc[0, "DIA_SEMANA_lag_9"] = 9
+    #print(exog_variables_lags["DIA_SEMANA_lag_9"])
+
+    #df_con_lags = df.copy()
+    exog_variables_list = list(df_futuro.columns)
+
+    #error
+    print("df_pasado_y_futuro:")
+    print(df_pasado_y_futuro.dtypes)
+
+    
+    for step in range(0, steps):
+        #print (print(f"STEP: {step}"))
+
+        for var in exog_variables_list:
+            #print(f"  {var}: lags 1 a {lags}")
+            for lag in range(1, lags + 1):
+                position = 11-lag+step
+                col_name = f'{var}_lag_{lag}'
+                #print(f"STEP: {step}")
+                #print(f"COL_NAME: {col_name}")
+                #print(f"VAR: {var}")
+                #print(f"POSITION: {position}")
+                exog_variables_lags_df.loc[step, col_name] = df_pasado_y_futuro.loc[position, var].copy()
+            
+    print("DF_FUTURO:")
+    print(df_futuro)
+    #df_futuro = df_futuro.reset_index(drop=True)
+    exog_variables_lags_df.index = df_futuro.index.copy()
+    exog_variables_lags_df["DIA_SEMANA"] = df_futuro["DIA_SEMANA"].copy()
+    exog_variables_lags_df["LABORAL"] = df_futuro["LABORAL"].copy()
+    exog_variables_lags_df["FIN_DE_SEMANA"] = df_futuro["FIN_DE_SEMANA"].copy()
+    exog_variables_lags_df["FESTIVO"] = df_futuro["FESTIVO"].copy()
+    exog_variables_lags_df["PORCENTAJE_USO"] = df_futuro["PORCENTAJE_USO"].copy()
+    exog_variables_lags_df["NUMERO_CONEXIONES"] = df_futuro["NUMERO_CONEXIONES"].copy()
+    
+    # Eliminar filas con NaN
+    #df_con_lags = df_con_lags.iloc[lags:].copy()
+
+    exog_variables_lags_df = exog_variables_lags_df.apply(pd.to_numeric, errors='ignore')
+    
+    
+    return exog_variables_lags_df, df_pasado_y_futuro, exog_variables_lags
+
 # Función auxiliar para leer CSV con manejo de codificación
 def leer_csv_con_codificacion(archivo):
     """Intenta leer CSV con diferentes codificaciones."""
@@ -436,10 +506,14 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 if zona_seleccionada_pred[:3] == "028":
                     zona_seleccionada_pred = "028_ZW Parque Yo Amo a Siloé"
 
+                # Se carga el modelo guardado de la zona seleccionada
                 modelo_completo = joblib.load(open(MODELOS_DIR / f"{zona_seleccionada_pred}.joblib", 'rb'))
+
+                # Se carga dataset de la zona seleccionada (esto se hace para incluír meses pasados dentro de la gráfica de predicción)
                 df = pd.read_csv(ZONAS_DIR / f"{zona_seleccionada_pred}.csv")
                 
                 modelo_entrenado = modelo_completo["metadata"]["model_type"]
+                ventana_datos = modelo_completo['ventana_datos']
 
                 nombre_zona = zona_seleccionada_pred[6:]
 
@@ -472,11 +546,15 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
 
                 prediccion_final = 0
 
+                dias_a_predecir = 1 # NOTA: "dias_a_predecir" debe ser una variable enviada desde el frontend
+                df_con_lags, df_junto, exog_variables_lags = crear_lags_exogenos(exog_futura, ventana_datos, 10, dias_a_predecir)
+
                 if modelo_entrenado == "Random Forest":
 
                     prediccion_1_dia = modelo_completo["forecaster"].predict(
                         steps=1,
-                        exog=exog_futura[exog_variables]
+                        #exog=exog_futura[exog_variables]
+                        exog=df_con_lags[exog_variables_lags]
                     )
 
                     prediccion_final = prediccion_1_dia
