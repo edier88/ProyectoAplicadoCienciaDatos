@@ -457,8 +457,17 @@ for archivo in archivos:
     plt.figure(figsize=(25, 4))
     plt.plot(df_train['USAGE_KB'], label="Train", linewidth=2)
     plt.plot(df_test['USAGE_KB'], label="Test", linewidth=2)
-    plt.plot(predictions_final_ajustado, label="Predicho", linewidth=2)
-    plt.title(f"MLP - {nombre_zona}")
+
+    # Si el MAPE del modelo con hiperparámetros es menor al MAPE del modelo base, graficamos la predicción del modelo con los mejores hiperparámetros encontrados
+    if mape_ajustado <= mape_base: 
+        plt.plot(predictions_final_ajustado, label="Predicho", linewidth=2)
+        plt.title(f"MLP Optimizado - {nombre_zona}")
+
+    # Si el MAPE del modelo base es menor al MAPE del modelo con hiperparámetros, graficacmos la predicción del modelo base
+    else:
+        plt.plot(predictions_final, label="Predicho", linewidth=2)
+        plt.title(f"MLP Base - {nombre_zona}")
+
     plt.xlabel("Índice temporal")
     plt.ylabel("Tráfico (kB)")
     plt.legend()
@@ -497,21 +506,36 @@ for archivo in archivos:
     # Guardado del modelo para cada zona en archivos .joblib
     # ------------------------------------------------------------------------
 
-    forecaster_ajustado = ForecasterRecursive(
-        regressor=MLPRegressor(
-            hidden_layer_sizes=hidden_layer_ajustado,
-            activation=activation_ajustado,
-            solver=solver_ajustado,
-            max_iter=10000,
-            random_state=123,
-            alpha=alpha_ajustado,
-            learning_rate=learning_rate_ajustado,
-            learning_rate_init=learning_rate_init_ajustado
-        ),
-        lags=ventana_ajustada2
-    )
+    # Si el MAPE del modelo con hiperparámetros es menor al MAPE del modelo base, guardamos el modelo con los mejores hiperparámetros encontrados
+    if mape_ajustado <= mape_base: 
 
-    forecaster_ajustado.fit(
+        forecaster_a_guardar = ForecasterRecursive(
+            regressor=MLPRegressor(
+                hidden_layer_sizes=hidden_layer_ajustado,
+                activation=activation_ajustado,
+                solver=solver_ajustado,
+                max_iter=10000,
+                random_state=123,
+                alpha=alpha_ajustado,
+                learning_rate=learning_rate_ajustado,
+                learning_rate_init=learning_rate_init_ajustado
+            ),
+            lags=ventana_ajustada2
+        )
+
+        tipo_modelo_guardado = "Optimizado"
+
+    # Si el MAPE del modelo base es menor al MAPE del modelo con hiperparámetros, guardamos el modelo base
+    else:
+
+        forecaster_a_guardar = ForecasterRecursive(
+            regressor=MLPRegressor(random_state=123),
+            lags=10
+        )
+
+        tipo_modelo_guardado = "Base"
+
+    forecaster_a_guardar.fit(
         y=df_con_lags['USAGE_KB'],  # Scaled target
         exog=df_con_lags[todas_variables_entrada]    # Includes scaled exogenous variables
     )
@@ -519,7 +543,7 @@ for archivo in archivos:
 
     # 5. Guardar TODO en un solo archivo
     modelo_completo = {
-        'forecaster': forecaster_ajustado,
+        'forecaster': forecaster_a_guardar,
         'ventana_datos': ventana_datos,
         'scalers': {
             'scaler_usage': scaler_usage,          # Para USAGE_KB
@@ -530,7 +554,7 @@ for archivo in archivos:
             'exog_variables_original': exog_variables,          # ['DIA_SEMANA', ...]
             'exog_variables_scaled': todas_variables_entrada,     # ['DIA_SEMANA', ..., '_scaled']
             'target_column': 'USAGE_KB',
-            'scaled_target_column': 'USAGE_KB_scaled'
+            'scaled_target_column': 'USAGE_KB'
         },
         'scaler_info': {
             'scaler_usage_center': scaler_usage.center_.tolist(),
@@ -541,390 +565,25 @@ for archivo in archivos:
             'scaler_porcentaje_scale': scaler_porcentaje.scale_.tolist()
         },
         'metadata': {
+            'tipo_modelo_guardado': tipo_modelo_guardado,
+            'MAPE_Optimizado': mape_ajustado,
+            'MAPE_Base': mape_base,
+            'R2_Optimizado': r2_ajustado,
+            'R2_Base': r2_base,
             'zona': nombre_zona_recortado,
             'fecha_entrenamiento': pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S'),
             'model_type': 'Perceptron',
-            'hidden_layer_sizes': hidden_layer_ajustado,
-            'activation': activation_ajustado,
-            'solver': solver_ajustado,
+            'hidden_layer_sizes_optimizado': hidden_layer_ajustado,
+            'activation_optimizado': activation_ajustado,
+            'solver_optimizado': solver_ajustado,
             'max_iter': 10000,
             'random_state': 123,
-            'alpha': alpha_ajustado,
-            'learning_rate': learning_rate_ajustado,
-            'learning_rate_init': learning_rate_init_ajustado,
+            'alpha_optimizado': alpha_ajustado,
+            'learning_rate_optimizado': learning_rate_ajustado,
+            'learning_rate_init_optimizado': learning_rate_init_ajustado,
             'lags': 10
         }
     }
 
     # Guardar con joblib (mejor que pickle para objetos scikit-learn)
     joblib.dump(modelo_completo, MODELOS_DIR / f"MLP_{nombre_zona_recortado}_v4.joblib")
-
-
-
-    
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    """
-    # Separamos el dataset en 70% de train y 30% de test
-    steps = rows*0.3
-    steps = math.floor(steps)
-    print(f"Dataset separado con {steps} filas en test y {rows-steps} filas en la parte train")
-    
-    # Separación datos train-test
-    # ==============================================================================
-    df_train = df[:-steps].copy()
-    df_test  = df[-steps:].copy()
-    print(f"Fechas train : {df_train.index.min()} --- {df_train.index.max()}  (n={len(df_train)})")
-    print(f"Fechas test  : {df_test.index.min()} --- {df_test.index.max()}  (n={len(df_test)})")
-    
-    # Variables de entrada para el modelo
-    exog_variables = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO', 'NUMERO_CONEXIONES']
-    # Define las variables exogenas (usa las versiones escaladas para variables continuas)
-    exog_variables_scaled = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO_scaled', 'NUMERO_CONEXIONES_scaled']
-
-    # Inicializar escaladores para cada variable
-    scaler_usage = RobustScaler()
-    scaler_conexiones = RobustScaler()
-    scaler_porcentaje = RobustScaler()
-
-    # Se escala la data de training
-    df_train['USAGE_KB_scaled'] = scaler_usage.fit_transform(df_train[['USAGE_KB']])
-    df_train['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.fit_transform(df_train[['NUMERO_CONEXIONES']])
-    df_train['PORCENTAJE_USO_scaled'] = scaler_porcentaje.fit_transform(df_train[['PORCENTAJE_USO']])
-
-    # Se escala test aplicando los escaladores de train (Se usa "transform", no "fit_transform")
-    df_test['USAGE_KB_scaled'] = scaler_usage.transform(df_test[['USAGE_KB']])
-    df_test['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(df_test[['NUMERO_CONEXIONES']])
-    df_test['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(df_test[['PORCENTAJE_USO']])
-
-    # Perceptron MLP
-    forecaster = ForecasterRecursive(
-        regressor=MLPRegressor(random_state=123),
-        lags=10
-    )
-
-    # Ajuste con variables exogenas
-    forecaster.fit(
-        y=df_train['USAGE_KB_scaled'],
-        exog=df_train[exog_variables_scaled]  # Add exogenous variables here
-    )
-
-    # Make predictions (returns scaled predictions)
-    predictions_scaled = forecaster.predict(
-        steps=steps,
-        exog=df_test[exog_variables_scaled]  # Future scaled exogenous variables
-    )
-
-    # Descaling the predictions
-    predictions_final = pd.Series(
-        scaler_usage.inverse_transform(predictions_scaled.values.reshape(-1, 1)).flatten(),
-        index=predictions_scaled.index
-    )
-
-    # Mean Absolute Percentage Error
-    mape_base = mean_absolute_percentage_error(
-        y_true=df_test['USAGE_KB'],
-        y_pred=predictions_final
-    )
-    mape_percent_base = mape_base*100
-    mape_base = round(mape_base, 3)
-    mape_percent_base = round(mape_percent_base, 3)
-    print(f"MAPE: {mape_base:.4f} ({mape_base*100:.2f}%)")
-
-    # Mean Absolute Error
-    mae_base = mean_absolute_error(df_test['USAGE_KB'], predictions_final)
-    mae_base = round(mae_base, 3)
-    print(f"MAE: {mae_base:.2f}")
-
-    # Root Mean Squared Error
-    mse_base = mean_squared_error(df_test['USAGE_KB'], predictions_final)
-    rmse_base = np.sqrt(mse_base)
-    rmse_base = round(rmse_base, 3)
-    print(f"RMSE: {rmse_base:.2f}")
-
-    r2_base = r2_score(df_test['USAGE_KB'], predictions_final)
-    r2_base = round(r2_base, 3)
-    print(f"R-Cuadrado: {r2_base:.2f}")
-
-    # Construcción de CSV con métricas de errores de la predicción
-    #new_row = pd.DataFrame([{"Zona": nombre_zona, "Tecnica": "Sin Hiperparametros", "MAPE": mape, "MAPE(%)": mape_percent, "MAE": mae, "RMSE": rmse, "R2": r2}])
-    #df_errors = pd.concat([df_errors, new_row], ignore_index=True)
-    #df_errors.to_csv(DESTINO_METRICAS / "metricas.csv", index=False, encoding='utf-8')
-
-    #print(predictions,df_test['USAGE.KB'])
-    usage_kb_compared = pd.DataFrame({
-        'USAGE_KB_predicho': predictions_final,
-        'USAGE_KB_real': df_test['USAGE_KB']
-    })
-    difference = predictions_final - df_test['USAGE_KB']
-    usage_kb_compared['error_absoluto'] = difference.abs()
-    usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
-    #print(usage_kb_compared)
-
-    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_{nombre_zona}", index=False, encoding='utf-8')
-    
-    # --------------------------------------------------------
-    # Busqueda de hiperparámetros por zona
-    # --------------------------------------------------------
-    
-    forecaster = ForecasterRecursive(
-        regressor=MLPRegressor(random_state=123, max_iter=10000),
-        lags=10
-    )
-    
-    # MLP hyperparameter grid
-    param_grid = {
-        'hidden_layer_sizes': [(50,), (100,), (50, 50), (100, 50), (100, 100), (50, 25, 10)],
-        'activation': ['relu', 'tanh'], # relu (rectifier linear unit), tanh ()
-        'solver': ['adam'], # adam, robusto a los picos
-        'alpha': [0.0001, 0.001, 0.01],  # L2 regularization
-        'learning_rate': ['constant', 'adaptive'],
-        'learning_rate_init': [0.001, 0.01]
-    }
-    
-    # Cross-validation
-    cv = TimeSeriesFold(
-        steps=steps,
-        initial_train_size=int(len(df_train) * 0.8),
-        refit=False,
-        fixed_train_size=False
-    )
-    
-    # Grid search
-    resultados_grid = grid_search_forecaster(
-        forecaster=forecaster,
-        y=df_train['USAGE_KB_scaled'],
-        exog=df_train[exog_variables_scaled],
-        cv=cv,
-        param_grid=param_grid,
-        lags_grid=[10],  # Also optimize lags
-        metric='mean_absolute_percentage_error',
-        return_best=False,  # Keep all results to see everything
-        n_jobs=1,  # MLP doesn't parallelize well, use 1
-        verbose=False
-    )
-
-    resultados_grid.to_csv(DESTINO_METRICAS / f"grilla_{nombre_zona}", index=False, encoding='utf-8')
-
-
-
-    # -----------------------------------------------------------------------------
-    # Aplicación en cada zona de los hiperparámetros encontrados
-    # -----------------------------------------------------------------------------
-    
-    print("lags:")
-    print(resultados_grid["lags"][0])
-    print("params:")
-    print(resultados_grid["params"][0])
-    print("mape:")
-    print(resultados_grid["mean_absolute_percentage_error"][0])
-    print("activation:")
-    print(resultados_grid["activation"][0])
-    print("alpha:")
-    print(resultados_grid["alpha"][0])
-    print("hidden_layer_sizes:")
-    print(resultados_grid["hidden_layer_sizes"][0])
-    print("learning_rate:")
-    print(resultados_grid["learning_rate"][0])
-    print("learning_rate_init:")
-    print(resultados_grid["learning_rate_init"][0])
-    print("solver:")
-    print(resultados_grid["solver"][0])
-
-
-    
-    print(resultados_grid["lags"][0])
-    print(type(resultados_grid["lags"][0]))
-    lags_array = resultados_grid["lags"][0]
-    print("ultimo lag:")
-    print(lags_array[-1])
-
-    ventana_ajustada = lags_array[-1]
-    print("tipo de dato ventana_ajustada:")
-    print(type(ventana_ajustada))
-    ventana_ajustada2 = int(ventana_ajustada)
-    print(type(ventana_ajustada2))
-
-    hidden_layer_ajustado = resultados_grid["hidden_layer_sizes"][0]
-    activation_ajustado = resultados_grid["activation"][0]
-    solver_ajustado = resultados_grid["solver"][0]
-    alpha_ajustado = resultados_grid["alpha"][0]
-    learning_rate_ajustado = resultados_grid["learning_rate"][0]
-    learning_rate_init_ajustado = resultados_grid["learning_rate_init"][0]
-
-
-    
-    # Nueva prediccion basado en los hiperparámetros encontrados de la grilla de cada zona:
-    forecaster_ajustado = ForecasterRecursive(
-        regressor=MLPRegressor(
-            hidden_layer_sizes=hidden_layer_ajustado,
-            activation=activation_ajustado,
-            solver=solver_ajustado,
-            max_iter=10000,
-            random_state=123,
-            alpha=alpha_ajustado,
-            learning_rate=learning_rate_ajustado,
-            learning_rate_init=learning_rate_init_ajustado
-        ),
-        lags=ventana_ajustada2
-    )
-
-    forecaster_ajustado.fit(
-        y=df_train['USAGE_KB_scaled'],  # Scaled target
-        exog=df_train[exog_variables_scaled]    # Includes scaled exogenous variables
-    )
-
-    predictions_scaled_ajustado = forecaster_ajustado.predict(
-        steps=steps,
-        exog=df_test[exog_variables_scaled]  # Future scaled exogenous variables
-    )
-
-    # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
-    predictions_final_ajustado = pd.Series(
-        scaler_usage.inverse_transform(predictions_scaled_ajustado.values.reshape(-1, 1)).flatten(),
-        index=predictions_scaled_ajustado.index
-    )
-
-    
-
-    # ------------------------------------------------------------------------------
-    # Calculo de errores de la predicción hecha con los hiperparámetros encontrados:
-    # ------------------------------------------------------------------------------
-    
-
-    # Mean Absolute Percentage Error
-    mape_ajustado = mean_absolute_percentage_error(
-        y_true=df_test['USAGE_KB'],
-        y_pred=predictions_final_ajustado
-    )
-    mape_percent_ajustado = mape_ajustado*100
-    mape_ajustado = round(mape_ajustado, 3)
-    mape_percent_ajustado = round(mape_percent_ajustado, 3)
-    print(f"MAPE: {mape_ajustado:.4f} ({mape_ajustado*100:.2f}%)")
-
-    # Mean Absolute Error
-    mae_ajustado = mean_absolute_error(df_test['USAGE_KB'], predictions_final_ajustado)
-    mae_ajustado = round(mae_ajustado, 3)
-    print(f"MAE: {mae_ajustado:.2f}")
-
-    # Root Mean Squared Error
-    mse_ajustado = mean_squared_error(df_test['USAGE_KB'], predictions_final_ajustado)
-    rmse_ajustado = np.sqrt(mse_ajustado)
-    rmse_ajustado = round(rmse_ajustado, 3)
-    print(f"RMSE: {rmse_ajustado:.2f}")
-
-    r2_ajustado = r2_score(df_test['USAGE_KB'], predictions_final_ajustado)
-    r2_ajustado = round(r2_ajustado, 3)
-    print(f"R-Cuadrado: {r2_ajustado:.4f}")
-
-    new_row = pd.DataFrame([{"Zona": nombre_zona, "Modelo": "Perceptron", "MAPE_Base": mape_base, "MAPE_Optimizado": mape_ajustado, "MAPE(%)_Base": mape_percent_base, "MAPE(%)_Optimizado": mape_percent_ajustado, "MAE_Base": mae_base, "MAE_Optimizado": mae_ajustado, "RMSE_Base": rmse_base, "RMSE_Optimizado": rmse_ajustado, "R2_Base": r2_base, "R2_Optimizado": r2_ajustado}])
-    df_errors = pd.concat([df_errors, new_row], ignore_index=True)
-    df_errors.to_csv(DESTINO_METRICAS / "metricas_horizontales.csv", index=False, encoding='utf-8')
-
-    usage_kb_compared = pd.DataFrame({
-        'USAGE_KB_predicho': predictions_final_ajustado,
-        'USAGE_KB_real': df_test['USAGE_KB']
-    })
-    difference = predictions_final_ajustado - df_test['USAGE_KB']
-    usage_kb_compared['error_absoluto'] = difference.abs()
-    usage_kb_compared['error_relativo'] = usage_kb_compared['error_absoluto'] / usage_kb_compared['USAGE_KB_real']
-
-    usage_kb_compared.to_csv(DESTINO_METRICAS / f"metricas_hiperparametros_{nombre_zona}", index=False, encoding='utf-8')
-
-
-    # Graficar serie temporal
-    plt.style.use('seaborn-v0_8-dark')
-    plt.figure(figsize=(25, 4))
-    plt.plot(df_train['USAGE_KB'], label="Train", linewidth=2)
-    plt.plot(df_test['USAGE_KB'], label="Test", linewidth=2)
-    plt.plot(predictions_final_ajustado, label="Predicho", linewidth=2)
-    plt.title(f"MLP - {nombre_zona}")
-    plt.xlabel("Índice temporal")
-    plt.ylabel("Tráfico (kB)")
-    plt.legend()
-    plt.grid(True)
-    plt.tight_layout()
-    plt.savefig(os.path.join(GRAF_DIR, f"{nombre_zona}_serie.png"), dpi=300)
-    plt.close()
-
-
-
-    df['USAGE_KB_scaled'] = scaler_usage.fit_transform(df[['USAGE_KB']])
-    df['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.fit_transform(df[['NUMERO_CONEXIONES']])
-    df['PORCENTAJE_USO_scaled'] = scaler_porcentaje.fit_transform(df[['PORCENTAJE_USO']])
-
-    forecaster_ajustado = ForecasterRecursive(
-        regressor=MLPRegressor(
-            hidden_layer_sizes=hidden_layer_ajustado,
-            activation=activation_ajustado,
-            solver=solver_ajustado,
-            max_iter=10000,
-            random_state=123,
-            alpha=alpha_ajustado,
-            learning_rate=learning_rate_ajustado,
-            learning_rate_init=learning_rate_init_ajustado
-        ),
-        lags=ventana_ajustada2
-    )
-
-    forecaster_ajustado.fit(
-        y=df['USAGE_KB_scaled'],  # Scaled target
-        exog=df[exog_variables_scaled]    # Includes scaled exogenous variables
-    )
-
-
-    # 5. Guardar TODO en un solo archivo
-    modelo_completo = {
-        'forecaster': forecaster_ajustado,
-        'scalers': {
-            'scaler_usage': scaler_usage,          # Para USAGE_KB
-            'scaler_conexiones': scaler_conexiones,  # Para NUMERO_CONEXIONES
-            'scaler_porcentaje': scaler_porcentaje   # Para PORCENTAJE_USO
-        },
-        'variables_config': {
-            'exog_variables_original': exog_variables,          # ['DIA_SEMANA', ...]
-            'exog_variables_scaled': exog_variables_scaled,     # ['DIA_SEMANA', ..., '_scaled']
-            'target_column': 'USAGE_KB',
-            'scaled_target_column': 'USAGE_KB_scaled'
-        },
-        'scaler_info': {
-            'scaler_usage_center': scaler_usage.center_.tolist(),
-            'scaler_usage_scale': scaler_usage.scale_.tolist(),
-            'scaler_conexiones_center': scaler_conexiones.center_.tolist(),
-            'scaler_conexiones_scale': scaler_conexiones.scale_.tolist(),
-            'scaler_porcentaje_center': scaler_porcentaje.center_.tolist(),
-            'scaler_porcentaje_scale': scaler_porcentaje.scale_.tolist()
-        },
-        'metadata': {
-            'zona': nombre_zona_recortado,
-            'fecha_entrenamiento': pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S'),
-            'model_type': 'Perceptron',
-            'hidden_layer_sizes': hidden_layer_ajustado,
-            'activation': activation_ajustado,
-            'solver': solver_ajustado,
-            'max_iter': 10000,
-            'random_state': 123,
-            'alpha': alpha_ajustado,
-            'learning_rate': learning_rate_ajustado,
-            'learning_rate_init': learning_rate_init_ajustado,
-            'lags': 10
-        }
-    }
-
-    # Guardar con joblib (mejor que pickle para objetos scikit-learn)
-    joblib.dump(modelo_completo, MODELOS_DIR / f"MLP_{nombre_zona_recortado}.joblib")
-    """

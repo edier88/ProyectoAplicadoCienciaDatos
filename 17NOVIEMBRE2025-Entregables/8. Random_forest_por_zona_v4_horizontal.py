@@ -401,8 +401,17 @@ for archivo in archivos:
     plt.figure(figsize=(25, 4))
     plt.plot(df_train['USAGE_KB'], label="Train", linewidth=2)
     plt.plot(df_test['USAGE_KB'], label="Test", linewidth=2)
-    plt.plot(predictions_ajustado, label="Predicho", linewidth=2)
-    plt.title(f"Random Forest - {nombre_zona}")
+
+    # Si el MAPE del modelo con hiperparámetros es menor al MAPE del modelo base, graficamos la predicción del modelo con los mejores hiperparámetros encontrados
+    if mape_ajustado <= mape_base: 
+        plt.plot(predictions_ajustado, label="Predicho", linewidth=2)
+        plt.title(f"Random Forest Optimizado - {nombre_zona}")
+
+    # Si el MAPE del modelo base es menor al MAPE del modelo con hiperparámetros, graficacmos la predicción del modelo base
+    else:
+        plt.plot(predictions, label="Predicho", linewidth=2)
+        plt.title(f"Random Forest Base - {nombre_zona}")
+
     plt.xlabel("Índice temporal")
     plt.ylabel("Tráfico (kB)")
     plt.legend()
@@ -436,34 +445,56 @@ for archivo in archivos:
     # Guardado del modelo para cada zona en archivos .joblib
     # ------------------------------------------------------------------------
 
-    forecaster_futuro = ForecasterRecursive(
-        regressor=RandomForestRegressor(
-            n_estimators=n_estimators_ajustado,
-            max_depth=max_depth_ajustado,
-            random_state=123
-        ),
-        lags=10
-    )
+    # Si el MAPE del modelo con hiperparámetros es menor al MAPE del modelo base, guardamos el modelo con los mejores hiperparámetros encontrados
+    if mape_ajustado <= mape_base:
+
+        forecaster_a_guardar = ForecasterRecursive(
+            regressor=RandomForestRegressor(
+                n_estimators=n_estimators_ajustado,
+                max_depth=max_depth_ajustado,
+                random_state=123
+            ),
+            lags=10
+        )
+
+        tipo_modelo_guardado = "Optimizado"
     
-    forecaster_futuro.fit(
+    # Si el MAPE del modelo base es menor al MAPE del modelo con hiperparámetros, guardamos el modelo base
+    else:
+
+        forecaster_a_guardar = ForecasterRecursive(
+            regressor=RandomForestRegressor(random_state=123),
+            lags=10
+        )
+
+        tipo_modelo_guardado = "Base"
+    
+    # Entrenamos el modelo con las variables de entrada (exógenas) y de salida (target: USAGE_KB)
+    forecaster_a_guardar.fit(
         y=df_con_lags['USAGE_KB'],
         exog=df_con_lags[todas_variables_entrada]
     )
 
+    # Se guarda toda la información del modelo en un solo archivo:
     modelo_completo = {
-        'forecaster': forecaster_futuro,
+        'forecaster': forecaster_a_guardar,
         'ventana_datos': ventana_datos,
         'variables_config': {
             'exog_variables': todas_variables_entrada,          # ['DIA_SEMANA', ...]
             'target_column': 'USAGE_KB'
         },
         'metadata': {
+            'tipo_modelo_guardado': tipo_modelo_guardado,
+            'MAPE_Optimizado': mape_ajustado,
+            'MAPE_Base': mape_base,
+            'R2_Optimizado': r2_ajustado,
+            'R2_Base': r2_base,
             'zona': nombre_zona_recortado,
             'fecha_entrenamiento': pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S'),
             'model_type': 'Random Forest',
             'kernel': 'rbf',
-            'n_estimators': n_estimators_ajustado, 
-            'max_depth': max_depth_ajustado, 
+            'n_estimators_optimizado': n_estimators_ajustado, 
+            'max_depth_optimizado': max_depth_ajustado, 
             'random_state': 123,
             'lags': 10
         }
