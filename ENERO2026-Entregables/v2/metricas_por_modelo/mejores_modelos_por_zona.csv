@@ -1,53 +1,53 @@
 ZONA,MAPE(%),MEJOR_MODELO_ENCONTRADO
-041_ZW Parque Junin,"11,7545",Random Forest
-007_ZW Parque Pizamos,"12,201",Regresion Lineal
-048_ZW Parque Cien Palos,"13,292",Regresion Lineal
-043_ZW Polideportivo Ricardo Balcazar,"13,75",Perceptron
-028_ZW Parque Yo Amo a Siloé,"14,126",Regresion Lineal
-010_ZW Parque Antonio Nariño,"14,289",SVR
-005_ZW Parque Barrio Obrero,"15,828",Perceptron
-039_ZW Biblioteca Daniel Guillard,"16,657",Perceptron
-021_ZW Parque Alfonso Barberena,"16,987",SVR
-053_ZW Polideportivo Laureano Gomez,"17,2885",Random Forest
-042_ZW Parque Mariano Ramos,"17,827",SVR
-004_ZW Parque San Nicolas,"18,824",SVR
-035_ZW Parque Colseguros,"18,893",SVR
-032_ZW Parque La Orqueta,"19,6578",Random Forest
-027_ZW Parque Alfonso Bonilla Aragón,"19,822",SVR
-002_ZW Canchas Panamericanas,"20,09",SVR
-030_ZW Parque Mutis,"20,183",SVR
-036_ZW Parque India Elena,"20,22",SVR
-055_ZW Polideportivo Petecuy,"20,2802",Random Forest
-026_ZW Parque La Flora,"20,639",SVR
-031_ZW Cancha Los Azules,"21,593",Perceptron
-013_ZW Parque Llano Verde,"22,187",SVR
-038_ZW Parque Sector Amarillo Skate Park,"22,2498",Random Forest
-050_ZW Parque Calima,"22,506",Regresion Lineal
-047_ZW Parque del Mico,"22,636",Regresion Lineal
-044_ZW Polideportivo San Benito,"23,064",Random Forest
-015_ZW Centro Cultural Comuna 13,"23,1529",Random Forest
-046_ZW Sebastian Belalcazar,"23,3389",Random Forest
-034_ZW Parque Villa Colombia,"23,4902",Random Forest
-023_ZW Parque Los Guerreros,"23,5751",Random Forest
-056_ZW Comuna 16,"23,9146",Random Forest
-049_ZW Cerro 3 Cruces,"24,157",SVR
-008_ZW Parque Alfonso Lopez,"24,215",SVR
-016_ZW Conjunto Habitacional Ramali,"24,398",Regresion Lineal
-003_ZW Parque del Perro,"24,971",SVR
-045_ZW Parque Santa Anita,"26,2869",Random Forest
-037_ZW Parque Tequendama,"26,3478",Random Forest
-001_ZW Parque Ingenio,"27,7711",Random Forest
-022_ZW Polideportivo Los Farallones,"29,6498",Random Forest
-012_ZW Polideportivo Los Naranjos,"30,465",Random Forest
-054_ZW El Diamante,"32,151",Random Forest
-019_ZW Parque Skate Board,"33,7029",Random Forest
-052_ZW Puente de Colores,"34,9719",Random Forest
-051_ZW Parque La Merced,"36,1423",Random Forest
-025_ZW Parque San Marino,"37,1592",Random Forest
-024_ZW Museo La Tertulia,"39,8648",Random Forest
-040_ZW Polideportivo Torres Comfandi,"40,309",Random Forest
-011_ZW Parque Santa Rosa Poblado,"53,5823",Random Forest
-059_El Saladito,"88,8824",Random Forest
-058_La Elvira,"219,2808",Random Forest
-057_La Castilla,"5255,2273",Random Forest
-029_ZW Centro Cultural Vista Hermosa,"47120,4889",Random Forest
+048_ZW Parque Cien Palos,"10,997",Regresion Lineal
+041_ZW Parque Junin,"11,1919",Random Forest
+036_ZW Parque India Elena,"11,854",Regresion Lineal
+028_ZW Parque Yo Amo a SiloÃ©,"13,079",Regresion Lineal
+043_ZW Polideportivo Ricardo Balcazar,"14,142",Regresion Lineal
+010_ZW Parque Antonio NariÃ±o,"14,921",Regresion Lineal
+030_ZW Parque Mutis,"14,93",Regresion Lineal
+021_ZW Parque Alfonso Barberena,"15,345",Regresion Lineal
+019_ZW Parque Skate Board,"15,566",SVR
+032_ZW Parque La Orqueta,"15,6446",Random Forest
+053_ZW Polideportivo Laureano Gomez,"16,1744",Random Forest
+035_ZW Parque Colseguros,"17,4739",Random Forest
+005_ZW Parque Barrio Obrero,"17,6974",Random Forest
+039_ZW Biblioteca Daniel Guillard,"18,7162",Random Forest
+042_ZW Parque Mariano Ramos,"19,435",SVR
+038_ZW Parque Sector Amarillo Skate Park,"19,5461",Random Forest
+004_ZW Parque San Nicolas,"20,008",Regresion Lineal
+055_ZW Polideportivo Petecuy,"20,1161",Random Forest
+047_ZW Parque del Mico,"20,302",SVR
+007_ZW Parque Pizamos,"20,387",Perceptron
+044_ZW Polideportivo San Benito,"20,644",Regresion Lineal
+002_ZW Canchas Panamericanas,"21,5426",Random Forest
+031_ZW Cancha Los Azules,"21,568",Regresion Lineal
+037_ZW Parque Tequendama,"21,641",Perceptron
+015_ZW Centro Cultural Comuna 13,"21,7988",Random Forest
+026_ZW Parque La Flora,"22,534",Regresion Lineal
+023_ZW Parque Los Guerreros,"22,565",SVR
+045_ZW Parque Santa Anita,"22,799",SVR
+027_ZW Parque Alfonso Bonilla AragÃ³n,"22,8423",Random Forest
+013_ZW Parque Llano Verde,"23,3376",Random Forest
+046_ZW Sebastian Belalcazar,"24,278",Random Forest
+050_ZW Parque Calima,"24,48",SVR
+003_ZW Parque del Perro,"24,4844",Random Forest
+056_ZW Comuna 16,"24,6542",Random Forest
+016_ZW Conjunto Habitacional Ramali,"25,2093",Random Forest
+001_ZW Parque Ingenio,"25,8049",Random Forest
+008_ZW Parque Alfonso Lopez,"25,973",SVR
+040_ZW Polideportivo Torres Comfandi,"26,4744",Random Forest
+022_ZW Polideportivo Los Farallones,"26,561",Random Forest
+024_ZW Museo La Tertulia,"26,7468",Random Forest
+034_ZW Parque Villa Colombia,"26,754",Random Forest
+025_ZW Parque San Marino,"27,8527",Random Forest
+052_ZW Puente de Colores,"28,6805",Random Forest
+049_ZW Cerro 3 Cruces,"30,172",SVR
+012_ZW Polideportivo Los Naranjos,"30,3568",Random Forest
+054_ZW El Diamante,"31,4625",Random Forest
+051_ZW Parque La Merced,"31,771",Random Forest
+011_ZW Parque Santa Rosa Poblado,"54,0659",Random Forest
+059_El Saladito,"60,237",SVR
+029_ZW Centro Cultural Vista Hermosa,"63,217",SVR
+058_La Elvira,"76,036",Perceptron
+057_La Castilla,"188,148",SVR
