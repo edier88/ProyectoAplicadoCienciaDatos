@@ -501,6 +501,7 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 # Se normalizan los nombres para que no dé error por las ñ's y tildes
                 if zona_seleccionada_pred[:3] == "010":
                     zona_seleccionada_pred = "010_ZW Parque Antonio Nariño"
+                    #zona_seleccionada_pred = "010_ZW Parque Antonio NariÃ±o"
                 if zona_seleccionada_pred[:3] == "027":
                     zona_seleccionada_pred = "027_ZW Parque Alfonso Bonilla Aragón"
                 if zona_seleccionada_pred[:3] == "028":
@@ -518,7 +519,7 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 nombre_zona = zona_seleccionada_pred[6:]
 
                 st.write(f"Mejor modelo desempeñado para {nombre_zona}: {modelo_entrenado}")
-                st.write("Variables de entrada:")
+                st.write("Variables de entrada para la predicción:")
 
                 last_window = modelo_completo["forecaster"].last_window_
                 ultima_fecha = last_window.index.tolist()[-1]
@@ -540,6 +541,10 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 exog_futura["PORCENTAJE_USO"] = porcentaje_uso
 
                 st.table(exog_futura)
+
+                st.write("Variables de entrada de 10 días atrás de la zona:")
+
+                st.table(modelo_completo["ventana_datos"].tail(10))
 
                 exog_variables = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO', 'NUMERO_CONEXIONES']
                 exog_variables_scaled = ['DIA_SEMANA', 'LABORAL', 'FIN_DE_SEMANA', 'FESTIVO', 'PORCENTAJE_USO_scaled', 'NUMERO_CONEXIONES_scaled']
@@ -567,12 +572,27 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                     scaler_porcentaje = modelo_completo['scalers']['scaler_porcentaje']
 
                     # Se escalan las exogenas futuras aplicando los escaladores de train (Se usa "transform", no "fit_transform")
-                    exog_futura['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(exog_futura[['NUMERO_CONEXIONES']])
-                    exog_futura['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(exog_futura[['PORCENTAJE_USO']])
+                    #exog_futura['NUMERO_CONEXIONES_scaled'] = scaler_conexiones.transform(exog_futura[['NUMERO_CONEXIONES']])
+                    #exog_futura['PORCENTAJE_USO_scaled'] = scaler_porcentaje.transform(exog_futura[['PORCENTAJE_USO']])
 
+                    #prediccion_1_dia_scaled = modelo_completo["forecaster"].predict(
+                    #    steps=1,
+                    #    exog=exog_futura[exog_variables_scaled]
+                    #)
+
+                    # Identificamos las columnas que empiezan con el prefijo
+                    USAGE_KB_to_scale = df_con_lags.filter(like='USAGE_KB').columns
+                    NUMERO_CONEXIONES_to_scale = df_con_lags.filter(like='NUMERO_CONEXIONES').columns
+                    PORCENTAJE_USO_to_scale = df_con_lags.filter(like='PORCENTAJE_USO').columns
+
+                    # Se escala df_con_lags aplicando los escaladores de train (Se usa "transform", no "fit_transform", este último se debe usar en la data a predecir)
+                    df_con_lags[NUMERO_CONEXIONES_to_scale] = scaler_conexiones.transform(df_con_lags[NUMERO_CONEXIONES_to_scale])
+                    df_con_lags[PORCENTAJE_USO_to_scale] = scaler_porcentaje.transform(df_con_lags[PORCENTAJE_USO_to_scale])
+
+                    # Predecir días con variables exógenas
                     prediccion_1_dia_scaled = modelo_completo["forecaster"].predict(
                         steps=1,
-                        exog=exog_futura[exog_variables_scaled]
+                        exog=df_con_lags[exog_variables_lags]
                     )
 
                     # Despues desescalamos
@@ -615,10 +635,15 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 
 
                 # Obtener métricas de la zona seleccionada
-                zona_metricas = df_mejores_zona[df_mejores_zona['ZONA'].str.contains(
-                    zona_seleccionada_pred.split('_')[-1] if '_' in zona_seleccionada_pred else zona_seleccionada_pred, 
-                    case=False, na=False
-                )]
+                #zona_metricas = df_mejores_zona[df_mejores_zona['ZONA'].str.contains(
+                #    zona_seleccionada_pred.split('_')[-1] if '_' in zona_seleccionada_pred else zona_seleccionada_pred, 
+                #    case=False, na=False
+                #)]
+                
+                zona_metricas = df_mejores_zona.query(f"ZONA.str.contains('{zona_seleccionada_pred[:3]}')")
+
+                #st.write(zona_metricas)
+                #st.write(result_query_like)
                 
                 # Calcular predicción simulada (aquí iría la predicción real)
                 #trafico_predicho = numero_conexiones * porcentaje_uso / 100 * 10  # Simulación simple
