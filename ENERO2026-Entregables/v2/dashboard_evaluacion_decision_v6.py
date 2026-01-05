@@ -970,7 +970,7 @@ fig_torta = px.pie(
 )
 fig_torta.update_traces(
     textposition='inside',
-    textinfo='percent+label',
+    textinfo='value+percent+label',
     hovertemplate='<b>%{label}</b><br>Zonas: %{value}<br>Porcentaje: %{percent}<extra></extra>'
 )
 fig_torta.update_layout(height=500)
