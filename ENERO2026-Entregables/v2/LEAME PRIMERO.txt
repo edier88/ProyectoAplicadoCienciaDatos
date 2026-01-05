@@ -1,0 +1,5 @@
+Se debe instalar los paquetes pip en la versión especificada en el archivo:
+requirements_pip_packages.txt
+
+Para esto se ejecutan los siguientes comandos:
+pip install -r requirements.txt
