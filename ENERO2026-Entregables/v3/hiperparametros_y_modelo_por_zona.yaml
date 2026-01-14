@@ -1,0 +1,379 @@
+001_ZW Parque Ingenio.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+002_ZW Canchas Panamericanas.joblib:
+Random Forest:
+n_estimators: 350
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+003_ZW Parque del Perro.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+004_ZW Parque San Nicolas.joblib:
+Regresion Lineal:
+
+
+005_ZW Parque Barrio Obrero.joblib:
+Random Forest:
+n_estimators: 50
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+006_ZW Parque Pizamos.joblib:
+Perceptron:
+hidden_layer_sizes: (100,)
+activation: relu
+solver: adam
+max_iter: 200
+alpha: 0.0001
+learning_rate: constant
+learning_rate_init: 0.001
+
+
+007_ZW Parque Alfonso Lopez.joblib:
+SVR:
+kernel: rbf
+C: 10.0
+epsilon: 0.1
+gamma: 0.005
+
+
+008_ZW Parque Antonio Nariño.joblib:
+Regresion Lineal:
+
+
+009_ZW Parque Santa Rosa Poblado.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+010_ZW Polideportivo Los Naranjos.joblib:
+Random Forest:
+n_estimators: 250
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+011_ZW Parque Llano Verde.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+012_ZW Centro Cultural Comuna 13.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: 5
+random_state: 123
+kernel: rbf
+
+
+013_ZW Conjunto Habitacional Ramali.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+014_ZW Parque Skate Board.joblib:
+SVR:
+kernel: rbf
+C: 10.0
+epsilon: 0.01
+gamma: 0.005
+
+
+015_ZW Parque Alfonso Barberena.joblib:
+Regresion Lineal:
+
+
+016_ZW Polideportivo Los Farallones.joblib:
+Random Forest:
+n_estimators: 350
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+017_ZW Parque Los Guerreros.joblib:
+SVR:
+kernel: rbf
+C: 50.0
+epsilon: 0.1
+gamma: 0.005
+
+
+018_ZW Museo La Tertulia.joblib:
+Random Forest:
+n_estimators: 50
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+019_ZW Parque San Marino.joblib:
+Random Forest:
+n_estimators: 250
+max_depth: 20
+random_state: 123
+kernel: rbf
+
+
+020_ZW Parque La Flora.joblib:
+Regresion Lineal:
+
+
+021_ZW Parque Alfonso Bonilla Aragón.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: 20
+random_state: 123
+kernel: rbf
+
+
+022_ZW Parque Yo Amo a Siloé.joblib:
+Regresion Lineal:
+
+
+023_ZW Centro Cultural Vista Hermosa.joblib:
+SVR:
+kernel: rbf
+C: 50.0
+epsilon: 0.01
+gamma: 0.005
+
+
+024_ZW Parque Mutis.joblib:
+Regresion Lineal:
+
+
+025_ZW Cancha Los Azules.joblib:
+Regresion Lineal:
+
+
+026_ZW Parque La Orqueta.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+027_ZW Parque Villa Colombia.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+028_ZW Parque Colseguros.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+029_ZW Parque India Elena.joblib:
+Regresion Lineal:
+
+
+030_ZW Parque Tequendama.joblib:
+Perceptron:
+hidden_layer_sizes: (100,)
+activation: relu
+solver: adam
+max_iter: 200
+alpha: 0.0001
+learning_rate: constant
+learning_rate_init: 0.001
+
+
+031_ZW Parque Sector Amarillo Skate Park.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+032_ZW Biblioteca Daniel Guillard.joblib:
+Random Forest:
+n_estimators: 350
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+033_ZW Polideportivo Torres Comfandi.joblib:
+Random Forest:
+n_estimators: 150
+max_depth: 20
+random_state: 123
+kernel: rbf
+
+
+034_ZW Parque Junin.joblib:
+Random Forest:
+n_estimators: 350
+max_depth: 5
+random_state: 123
+kernel: rbf
+
+
+035_ZW Parque Mariano Ramos.joblib:
+SVR:
+kernel: rbf
+C: 50.0
+epsilon: 0.1
+gamma: scale
+
+
+036_ZW Polideportivo Ricardo Balcazar.joblib:
+Regresion Lineal:
+
+
+037_ZW Polideportivo San Benito.joblib:
+Regresion Lineal:
+
+
+038_ZW Parque Santa Anita.joblib:
+SVR:
+kernel: rbf
+C: 100.0
+epsilon: 0.1
+gamma: 0.005
+
+
+039_ZW Sebastian Belalcazar.joblib:
+Random Forest:
+n_estimators: 50
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+040_ZW Parque del Mico.joblib:
+SVR:
+kernel: rbf
+C: 10.0
+epsilon: 0.004
+gamma: 0.005
+
+
+041_ZW Parque Cien Palos.joblib:
+Regresion Lineal:
+
+
+042_ZW Cerro 3 Cruces.joblib:
+SVR:
+kernel: rbf
+C: 10.0
+epsilon: 0.01
+gamma: 0.005
+
+
+043_ZW Parque Calima.joblib:
+SVR:
+kernel: rbf
+C: 10.0
+epsilon: 0.004
+gamma: 0.005
+
+
+044_ZW Parque La Merced.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+045_ZW Puente de Colores.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+046_ZW Polideportivo Laureano Gomez.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+047_ZW El Diamante.joblib:
+Random Forest:
+n_estimators: 150
+max_depth: 10
+random_state: 123
+kernel: rbf
+
+
+048_ZW Polideportivo Petecuy.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+049_ZW Comuna 16.joblib:
+Random Forest:
+n_estimators: 100
+max_depth: None
+random_state: 123
+kernel: rbf
+
+
+050_La Castilla.joblib:
+SVR:
+kernel: rbf
+C: 1.0
+epsilon: 0.1
+gamma: scale
+
+
+051_La Elvira.joblib:
+Perceptron:
+hidden_layer_sizes: (50, 25, 10)
+activation: relu
+solver: adam
+max_iter: 10000
+alpha: 0.0001
+learning_rate: constant
+learning_rate_init: 0.01
+
+
+052_El Saladito.joblib:
+SVR:
+kernel: rbf
+C: 1.0
+epsilon: 0.1
+gamma: scale
