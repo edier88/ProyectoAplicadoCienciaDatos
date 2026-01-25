@@ -636,8 +636,8 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 
                 # Crear rango de fechas futuras
                 fechas_futuras = pd.date_range(
-                    start=ultima_fecha + pd.Timedelta(days=7),
-                    periods=1,
+                    start=ultima_fecha + pd.Timedelta(days=1),
+                    periods=7,
                     freq='D'
                 )
 
@@ -647,8 +647,8 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 exog_futura['LABORAL'] = (exog_futura['DIA_SEMANA'] < 5).astype(int)
                 exog_futura['FIN_DE_SEMANA'] = (exog_futura['DIA_SEMANA'] >= 5).astype(int)
                 exog_futura['FESTIVO'] = 0
-                exog_futura["NUMERO_CONEXIONES"] = numero_conexiones_1
-                exog_futura["PORCENTAJE_USO"] = porcentaje_uso_1
+                exog_futura["NUMERO_CONEXIONES"] = [numero_conexiones_1,numero_conexiones_2,numero_conexiones_3,numero_conexiones_4,numero_conexiones_5,numero_conexiones_6,numero_conexiones_7]
+                exog_futura["PORCENTAJE_USO"] = [porcentaje_uso_1,porcentaje_uso_2,porcentaje_uso_3,porcentaje_uso_4,porcentaje_uso_5,porcentaje_uso_6,porcentaje_uso_7]
 
                 # Seguir con los siguientes dias....
 
@@ -663,18 +663,18 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
 
                 prediccion_final = 0
 
-                dias_a_predecir = 1 # NOTA: "dias_a_predecir" debe ser una variable enviada desde el frontend
+                dias_a_predecir = 7 # NOTA: "dias_a_predecir" debe ser una variable enviada desde el frontend
                 df_con_lags, df_junto, exog_variables_lags = crear_lags_exogenos(exog_futura, ventana_datos, 10, dias_a_predecir)
 
                 if modelo_entrenado == "Random Forest":
 
-                    prediccion_1_dia = modelo_completo["forecaster"].predict(
-                        steps=1,
+                    prediccion_7_dias = modelo_completo["forecaster"].predict(
+                        steps=7,
                         #exog=exog_futura[exog_variables]
                         exog=df_con_lags[exog_variables_lags]
                     )
 
-                    prediccion_final = prediccion_1_dia
+                    prediccion_final = prediccion_7_dias
 
                 else: #(para SVR, Regresion Lineal o Perceptron)
                     
@@ -702,16 +702,16 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                     df_con_lags[PORCENTAJE_USO_to_scale] = scaler_porcentaje.transform(df_con_lags[PORCENTAJE_USO_to_scale])
 
                     # Predecir días con variables exógenas
-                    prediccion_1_dia_scaled = modelo_completo["forecaster"].predict(
-                        steps=1,
+                    prediccion_7_dias_scaled = modelo_completo["forecaster"].predict(
+                        steps=7,
                         exog=df_con_lags[exog_variables_lags]
                     )
 
                     # Despues desescalamos
                     # Desescalado de la prediccion con los hiperparámetros encontrados en la grilla:
                     prediccion_desescalada = pd.Series(
-                        scaler_usage.inverse_transform(prediccion_1_dia_scaled.values.reshape(-1, 1)).flatten(),
-                        index=prediccion_1_dia_scaled.index
+                        scaler_usage.inverse_transform(prediccion_7_dias_scaled.values.reshape(-1, 1)).flatten(),
+                        index=prediccion_7_dias_scaled.index
                     )
 
                     prediccion_final = prediccion_desescalada
@@ -762,19 +762,16 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 
                 # Crear tabla de resultados
                 resultados_prediccion = pd.DataFrame({
-                    'Zona': [zona_seleccionada_pred],
-                    'Número_Conexiones': [numero_conexiones],
-                    'Porcentaje_Uso_%': [porcentaje_uso],
-                    'Tráfico_Predicho_KB': [prediccion_final[0]]
+                    'Fecha': [prediccion_final.index[0],prediccion_final.index[1],prediccion_final.index[2],prediccion_final.index[3],prediccion_final.index[4],prediccion_final.index[5],prediccion_final.index[6]],
+                    'Número_Conexiones': [numero_conexiones_1,numero_conexiones_2,numero_conexiones_3,numero_conexiones_4,numero_conexiones_5,numero_conexiones_6,numero_conexiones_7],
+                    'Porcentaje_Uso_%': [porcentaje_uso_1,porcentaje_uso_2,porcentaje_uso_3,porcentaje_uso_4,porcentaje_uso_5,porcentaje_uso_6,porcentaje_uso_7],
+                    'Tráfico_Predicho_KB': [prediccion_final[0],prediccion_final[1],prediccion_final[2],prediccion_final[3],prediccion_final[4],prediccion_final[5],prediccion_final[6]]
                 })
                 
                 # Mostrar tabla de resultados
                 st.subheader("📊 Resultados")
 
-                st.write(f"La predicción final para esta zona para {mes} {dia} de {anio} es:")
-                st.write(f"{int(prediccion_final[0])} KB")
-
-                st.table(prediccion_final)
+                st.write(f"El detalle de la predicción final para esta zona para los próximos 7 días es:")
 
                 st.dataframe(
                     resultados_prediccion,
@@ -801,7 +798,7 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 
                 # Gráfico de tendencia (simulado)
                 st.subheader("📉 Predicción de Tráfico")
-                st.write("(Se muestran los dos últimos meses junto con el día predicho)")
+                st.write("(Se muestran los dos últimos meses junto con los 7 días siguientes predichos)")
 
                 plt.style.use('seaborn-v0_8-dark')
                 plt.figure(figsize=(25, 4))
@@ -825,12 +822,14 @@ if pagina_seleccionada == "🔮 Predicción Interactiva":
                 )
 
                 # Marcar el punto de predicción
-                fig_tendencia.add_scatter(
-                    x=[prediccion_final.index[0]],
-                    y=[prediccion_final[0]],
-                    mode='markers',
-                    marker=dict(size=15, color='red', symbol='star'),
-                    name='Predicción'
+                fig_tendencia.add_trace(
+                    go.Scatter(
+                        x=prediccion_final.index,
+                        y=prediccion_final, 
+                        mode='lines', 
+                        name="Predicción", 
+                        line=dict(color='orange', width=2)
+                    )
                 )
                 
                 st.plotly_chart(fig_tendencia, use_container_width=True)
