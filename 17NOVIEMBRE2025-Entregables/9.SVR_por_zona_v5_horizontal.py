@@ -35,15 +35,15 @@ import os
 import joblib
 from pathlib import Path
 
-GRAF_DIR = "SVR_Graficas_TrainTest_Renumerados"
+GRAF_DIR = "SVR_Graficas_TrainTest_Renumerados_paldocumento"
 os.makedirs(GRAF_DIR, exist_ok=True)
 
-MODELOS_DIR = Path("SVR_Modelos_Guardados_Renumerados")
+MODELOS_DIR = Path("SVR_Modelos_Guardados_Renumerados_paldocumento")
 os.makedirs(MODELOS_DIR, exist_ok=True)
 
 ORIGEN = "csv-zonas-wifi-separados-man-renumerados/"
 #DESTINO_METRICAS = "Random_Forest_Metricas"
-DESTINO_METRICAS = Path("SVR_Metricas_Renumerados")
+DESTINO_METRICAS = Path("SVR_Metricas_Renumerados_paldocumento")
 os.makedirs(DESTINO_METRICAS, exist_ok=True)
 
 #carpeta = os.path.join(os.path.dirname(__file__), "csv-zonas-wifi-1AP-todas-las-columnas")
@@ -230,6 +230,11 @@ for archivo in archivos:
         y=df_train['USAGE_KB'],  # Scaled target
         exog=df_train[todas_variables_entrada]    # Includes scaled exogenous variables
     )
+
+    df_train.to_csv(DESTINO_METRICAS / f"df_train_v4_{nombre_zona}", index=False, encoding='utf-8')
+    df_con_lags.to_csv(DESTINO_METRICAS / f"df_con_lags_v4_{nombre_zona}", index=False, encoding='utf-8')
+
+
 
     steps = len(df_test)
 
